@@ -1,0 +1,101 @@
+         name         |          matched           | lev 
+----------------------+----------------------------+-----
+ ADALA MOTO,ARNAUD    | Adala Moto, Arnaud William |   7
+ ALBRECHT,SPIKE       | Albrecht, Michael          |   6
+ AMILO,NNAMDI         | Brimah, Amida              |   7
+ APPLEWHITE,DRE       | Applewhite, Andre          |   8
+ BARLOW,ALEX          | Barlow, Alexander          |   5
+ BERGANTINO,T         | Bergantino, Tyler          |   4
+ BOURGAULT,MARCO      | Bourgault, Marc-Antoine    |   8
+ BOYD,M               | Boyd, Marcel               |   5
+ BROWN,JOE            | Cooke, Austin              |   8
+ CAMPBELL,PARIS       | Roberts-Campbell, Paris    |   7
+ CARTER,S             | Carter, Sampson            |   6
+ CARTWRIGHT,MILES     | Jackson-Cartwright, Miles  |   7
+ CHATKEVICIUS,L       | Chatkevicius, Laimonas     |   7
+ CHIBUOGWU,MANNY      | Chibuogwu, Emmanuel        |   5
+ CLEMONS,JOSH         | Heard, John                |   8
+ COLLINS,D            | Collins, Damon             |   4
+ COOK,JOHNATHAN       | Johnson, Theo              |   8
+ DANIEL,J             | Daniel, James              |   4
+ DEN                  | Samac, Dom                 |   7
+ DORSEY-WALKER,S      | Dorsey-Walker, Sherron     |   6
+ DREES,CHRIS          | Drees, Kris                |   7
+ EDOGI,TK             | Edogi, Tarekeyi            |   6
+ EDO,K                | Edo, Karachi               |   6
+ ELLISON,O            | Hill, Keon                 |   5
+ ESHO,M               | Esho, Maxie                |   4
+ FERRELL,KEVIN (YOGI) | Ferrell, Kevin Yogi        |  10
+ GADSDEN-GILLIARD,K   | Gadsden-Gilliard, Kinard   |   5
+ GANIS,ALBERTO        | Rowley, Andy               |   9
+ GHANI,KHALIQ         | Bedart Ghani, Khaliq       |   6
+ GIDDINGS,T           | Giddings, Tanner           |   5
+ GILDER-TILBURY,K     | Gilder-Tilbury, Kavin      |   4
+ GORDON,D             | Gordon, Derrick            |   6
+ GRAHAM,JON           | Graham, Jonathan           |   5
+ GRIGGS-WILLIAMS,C    | Griggs-Williams, Christian |   8
+ GRIGGS-WILLIAMS, C   | Griggs-Williams, Christian |   8
+ GUERRERO,C           | Guerrero, Cezar            |   4
+ HANLAN,O             | Rahon, Joe                 |   6
+ HARRIS,M             | Harris, Marvelle           |   7
+ HARRISON-DOCKS,C     | Harrison-Docks, Chris      |   4
+ HECKMANN,P           | Heckmann, Patrick          |   6
+ HILDEBRANDT,CHRIS    | Hildebrandt, Christian     |   4
+ HILDEBRANDT, CHRIS   | Hildebrandt, Christian     |   4
+ HINTON,WES           | Hinton, Westley            |   4
+ HOLLIS-JEFFERSON,R   | Hollis-Jefferson, Rondae   |   5
+ HORNSTEIN,RICHARD    | Morrow, Richard            |   7
+ JACKSON,L            | Jackson, Lonnie            |   5
+ JOHNSON-DANNER,L     | Johnson-Danner, Lawrence   |   7
+ JOHNSON-DANNER,LAW   | Johnson-Danner, Lawrence   |   5
+ JOHNSON,T            | Johnson, Tyler             |   4
+ JORDAN,JOHN          | Jordan, Johnathan          |   5
+ JORDAN, JOHN         | Jordan, Johnathan          |   5
+ KNIGHT,TWEETY        | Knight, Trantell           |   6
+ LAUER,HANSCHRISTIAN  | Lauer, Hans Christian      |   8
+ LEATHERWOOD,D        | Leatherwood, Deandre       |   6
+ LILA-ST. ROSE,K      | Lila-St. Rose, Kievyn      |   5
+ LIL-ST.ROSE,KIEVYN   | Lila-St. Rose, Kievyn      |   4
+ LOUDER,MICHAEL       | Louder, Mike               |   4
+ MADISON,A            | Madison, Ausar             |   4
+ MAJOR JR.,DOM        | Major, Dominque            |   5
+ MANGHAM,S            | Mangham, Solomon           |   6
+ MARCONI,MJ           | Marconi, Michael           |   6
+ MCADOO,JAMES M       | Manor, James               |   4
+ MCCOMBER,LUKE        | McComber, Chris            |   5
+ MCPHEARSON,TRADARRI  | McPhearson, Traddarius     |   4
+ MILLER,J             | Miller, James              |   4
+ MILOSAVLJEVIC,A      | Milosavljevic, Alexsander  |   9
+ MILOSAVLJEVIC,ALEK   | Milosavljevic, Alexsander  |   7
+ MINNIS,BIGGIE        | Minnis, Deshon             |   6
+ MINNIS, BIGGIE       | Minnis, Deshon             |   6
+ MOSQUERA-PEREA,H     | Mosquera-Perea, Hanner     |   5
+ MOSQUERA-PEREA,H.    | Mosquera-Perea, Hanner     |   5
+ MOTO,ARNAUD ADALA    | Adala Moto, Arnaud William |   7
+ OCTEUS,JON           | Octeus, Jonathan           |   5
+ ODIO,E               | Odio, Eddie                |   4
+ OKOROH,P             | Okoroh, Prince             |   5
+ OKUNRINBOYE,A        | Okunrinboye, Akintonye     |   8
+ OWENS,G              | Owens, Garland             |   6
+ OWOOTAH,E            | Edo, Karachi               |   7
+ PENN,RAY             | Penn, Raymond              |   4
+ PINDAR,ZACHARY       | Prather, Casey             |  10
+ PINO,CHRISTIAN       | Carson, Jahii              |   9
+ PORCHER JIMENEZ,M    | Porcher Jimenez, Marco     |   4
+ PUTNEY,R             | Putney, Raphiael           |   7
+ RASSMAN,FRANZ        | Rassman, Will              |   9
+ RAVENSCRAFT,J        | Ravenscraft, Jared         |   4
+ RICKETTS,XAN         | Ogbe, Kenneth              |   9
+ ROWLEY,MIKE          | Rowley, Michael            |   4
+ SANDERSON,ZEVE       | Spieth, Steven             |   9
+ SHERMAN-NEWSOME,D    | Sherman-Newsome, Damon     |   4
+ SMITH-RIVERA,D'VAU   | Smith-Rivera, D'Vauntes    |   4
+ STANDHARDINGER,C     | Standhardinger, Christian  |   8
+ STONE,T              | Stone, Tyler               |   4
+ TREADWELL,DEMETRIUS  | Treadwell, Demetrius Tree  |   4
+ VERHINES,TYLER       | Verhines, Dawson           |   6
+ WHITE-MILLER,SHAQ    | White-Miller, Shaquille    |   5
+ WILLIAMS,B           | Williams, Blake            |   4
+ WILLIAMS,RIYAN       | Starks, Markel             |  10
+(97 rows)
+
