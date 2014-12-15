@@ -24,7 +24,8 @@ create table ncaa_pbp.box_scores (
        turnovers		     		integer,
        steals					integer,
        blocks					integer,
-       fouls					integer
+       fouls					integer,
+       primary key (game_id, section_id, player_name)
 --       primary key (game_id,team_id,player_id) --,player_name)
 );
 

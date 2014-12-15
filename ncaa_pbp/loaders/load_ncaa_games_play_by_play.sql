@@ -13,7 +13,7 @@ create table ncaa_pbp.play_by_play (
 	team_text	      text,
 	team_score	      integer,
 	opponent_score	      integer,
-	socre		      text,
+	score		      text,
         opponent_player	      text,
 	opponent_event	      text,
 	opponent_text	      text
