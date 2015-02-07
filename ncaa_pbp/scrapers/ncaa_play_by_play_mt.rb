@@ -137,7 +137,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
 #        ap [period_id,event_id,time,team_player,team_event,team_text,team_score,opponent_score,score,opponent_player,opponent_event,opponent_text]
 
-        if (time.include?('End'))
+        if not(time==nil) and (time.include?('End'))
           team_player = 'TEAM'
           team_event = time
           opponent_player = 'TEAM'
