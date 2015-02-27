@@ -7,7 +7,7 @@ create table ncaa_pbp.play_by_play (
 	period_id	      integer,
 	event_id	      integer,
 	time		      interval,
---	time		      text,
+	raw_time	      text,
         team_player	      text,
 	team_event	      text,
 	team_text	      text,

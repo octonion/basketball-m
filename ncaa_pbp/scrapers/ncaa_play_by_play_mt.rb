@@ -33,9 +33,13 @@ ncaa_periods = CSV.open("csv/ncaa_games_periods_mt.csv","w",{:col_sep => "\t"})
 
 # Headers
 
-ncaa_play_by_play << ["game_id","period_id","event_id","time","team_player","team_event","team_text","team_score","opponent_score","score","opponent_player","opponent_event","opponent_text"]
+ncaa_play_by_play << ["game_id", "period_id", "event_id", "time", "raw_time",
+                      "team_player", "team_event", "team_text", "team_score",
+                      "opponent_score", "score",
+                      "opponent_player", "opponent_event", "opponent_text"]
 
-ncaa_periods << ["game_id", "section_id", "team_id", "team_name", "team_url", "period_scores"]
+ncaa_periods << ["game_id", "section_id", "team_id", "team_name", "team_url",
+                 "period_scores"]
 
 # Get game IDs
 
@@ -102,7 +106,22 @@ game_ids.each_slice(gpt).with_index do |ids,i|
         table = row.parent
         period_id = table.parent.xpath('table[position()>1 and @class="mytable"]').index(table)
 
-        time = row.at_xpath('td[1]').text.strip.to_nil rescue nil
+        raw_time = row.at_xpath('td[1]').text.strip.to_nil rescue nil
+
+        if not(raw_time==nil) and (raw_time.include?(":"))
+          minutes = raw_time.split(":")[0]
+          seconds = raw_time.split(":")[1]
+          if (seconds.size==3)
+            minutes = "1"+minutes
+            seconds = seconds[0..1]
+            time = minutes+":"+seconds
+          else
+            time = raw_time
+          end
+        else
+          time = nil
+        end
+
         team_text = row.at_xpath('td[2]').text.strip.to_nil rescue nil
         score = row.at_xpath('td[3]').text.strip.to_nil rescue nil
         opponent_text = row.at_xpath('td[4]').text.strip.to_nil rescue nil
@@ -145,7 +164,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
           time = '00:00'
         end
 
-        ncaa_play_by_play << [game_id,period_id,event_id,time,team_player,team_event,team_text,team_score,opponent_score,score,opponent_player,opponent_event,opponent_text]
+        ncaa_play_by_play << [game_id,period_id,event_id,time,raw_time,team_player,team_event,team_text,team_score,opponent_score,score,opponent_player,opponent_event,opponent_text]
 
       end
 

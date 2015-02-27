@@ -39,6 +39,7 @@ create table ncaa_pbp.player_summaries (
        fouls					integer,
        double_doubles				integer,
        triple_doubles				integer,
+       dq					integer,
        primary key (year, team_id, player_name),
        unique (year_id, team_id, player_id)
 );
