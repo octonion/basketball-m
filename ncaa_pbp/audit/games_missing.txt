@@ -1,0 +1,35 @@
+     team_name     |   opponent_name   | game_date  |                       game_url                        
+-------------------+-------------------+------------+-------------------------------------------------------
+ Louisiana Tech    | Southern U.       | 2014-11-14 | http://stats.ncaa.org/game/index/3515717?org_id=665
+ UCF               | Eckerd            | 2014-11-20 | http://stats.ncaa.org/game/index/3515064?org_id=128
+ Stetson           | Palm Beach Atl.   | 2014-11-20 | http://stats.ncaa.org/game/index/3515335?org_id=678
+ Liberty           | Miami (OH)        | 2014-11-22 | http://stats.ncaa.org/game/index/3518151?org_id=414
+ Denver            | A&M-Corpus Chris  | 2014-12-06 | http://stats.ncaa.org/game/index/3566473?org_id=26172
+ Austin Peay       | Southern Ill.     | 2014-12-06 | http://stats.ncaa.org/game/index/3569205?org_id=659
+ Morehead St.      | Ohio St.          | 2014-12-13 | http://stats.ncaa.org/game/index/3592945?org_id=518
+ Chicago St.       | Southern Ill.     | 2014-12-14 | http://stats.ncaa.org/game/index/3598004?org_id=659
+ UTSA              | A&M-Corpus Chris  | 2014-12-15 | http://stats.ncaa.org/game/index/3602484?org_id=26172
+ Southern Ill.     | Tennessee St.     | 2014-12-16 | http://stats.ncaa.org/game/index/3604357?org_id=659
+ Cleveland St.     | Virginia          | 2014-12-18 | http://stats.ncaa.org/game/index/3609864?org_id=746
+ New Orleans       | Southern Ill.     | 2014-12-19 | http://stats.ncaa.org/game/index/3613124?org_id=659
+ Murray St.        | Southern Ill.     | 2014-12-22 | http://stats.ncaa.org/game/index/3621764?org_id=659
+ Florida St.       | Florida           | 2014-12-30 | http://stats.ncaa.org/game/index/3632166?org_id=234
+ Southern Ill.     | Missouri St.      | 2014-12-31 | http://stats.ncaa.org/game/index/3634192?org_id=659
+ Prairie View      | Southern U.       | 2015-01-03 | http://stats.ncaa.org/game/index/3647524?org_id=665
+ North Dakota St.  | South Dakota St.  | 2015-01-04 | http://stats.ncaa.org/game/index/3644888?org_id=493
+ Indiana St.       | Southern Ill.     | 2015-01-10 | http://stats.ncaa.org/game/index/3664525?org_id=659
+ Lamar             | A&M-Corpus Chris  | 2015-01-12 | http://stats.ncaa.org/game/index/3672104?org_id=26172
+ Stetson           | North Florida     | 2015-01-17 | http://stats.ncaa.org/game/index/3685404?org_id=678
+ Loyola Chicago    | Southern Ill.     | 2015-01-18 | http://stats.ncaa.org/game/index/3691064?org_id=659
+ Northwestern St.  | A&M-Corpus Chris  | 2015-01-20 | http://stats.ncaa.org/game/index/3697264?org_id=26172
+ Bradley           | Southern Ill.     | 2015-01-21 | http://stats.ncaa.org/game/index/3698809?org_id=659
+ Incarnate Word    | A&M-Corpus Chris  | 2015-02-03 | http://stats.ncaa.org/game/index/3741244?org_id=26172
+ Marist            | Niagara           | 2015-02-06 | http://stats.ncaa.org/game/index/3752484?org_id=386
+ Illinois St.      | Southern Ill.     | 2015-02-07 | http://stats.ncaa.org/game/index/3754816?org_id=659
+ Evansville        | Southern Ill.     | 2015-02-14 | http://stats.ncaa.org/game/index/3790050?org_id=659
+ Ball St.          | Bowling Green     | 2015-02-14 | http://stats.ncaa.org/game/index/3788189?org_id=71
+ Stephen F. Austin | A&M-Corpus Chris  | 2015-02-14 | http://stats.ncaa.org/game/index/3788789?org_id=26172
+ Southern Ill.     | Wichita St.       | 2015-02-17 | http://stats.ncaa.org/game/index/3791566?org_id=659
+ Nicholls St.      | Stephen F. Austin | 2015-02-21 | http://stats.ncaa.org/game/index/3795643?org_id=676
+(31 rows)
+

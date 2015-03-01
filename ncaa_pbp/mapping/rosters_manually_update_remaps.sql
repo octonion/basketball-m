@@ -6,7 +6,7 @@ create temporary table remaps (
        hashed_name     text
 );
 
-copy remaps from '/tmp/team_rosters_remaps.csv' csv;
+copy remaps from '/tmp/team_rosters_remaps.csv' with delimiter as E'\t' csv header;
 
 update ncaa_pbp.name_mappings
 set hashed_name=r.hashed_name

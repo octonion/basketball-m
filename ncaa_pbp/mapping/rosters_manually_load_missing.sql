@@ -5,7 +5,7 @@ create temporary table missing (
        player_name     text
 );
 
-copy missing from '/tmp/team_rosters_missing.csv' csv;
+copy missing from '/tmp/team_rosters_missing.csv' with delimiter as E'\t' csv header;
 
 insert into ncaa_pbp.team_rosters
 (team_id,player_name)

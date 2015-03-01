@@ -1,0 +1,8 @@
+American	23	AMERICAN	Rhea, Jalen	6
+Hartford	272	HARTFORD	Fay, Jake	7
+Northwestern	509	TEAM1	Law, Vic	6
+Omaha	464	OMAHA	White, Jake	8
+Quinnipiac	562	QUI	Conti, Evan	8
+Sacred Heart	590	SHU	Buser, Brett	9
+Saint Francis (PA)	600	SFU	Gresko, Aric	9
+Yale	813	YALE	Kelley, Greg	8
