@@ -40,10 +40,10 @@ opr.id
 from ncaa_pbp.team_schedules g
 
 join ncaa.schools_divisions sdt
- on (sdt.school_id,sdt.year)=(g.team_id,2014)
+ on (sdt.school_id,sdt.year)=(g.team_id,2015)
 
 join ncaa.schools_divisions sdo
- on (sdo.school_id,sdo.year)=(g.opponent_id,2014)
+ on (sdo.school_id,sdo.year)=(g.opponent_id,2015)
 
 join ncaa_pbp.periods per
  on (per.game_id,per.team_id,per.section_id)=(g.game_id,g.team_id,0)
@@ -80,10 +80,10 @@ opr.id
 from ncaa_pbp.team_schedules g
 
 join ncaa.schools_divisions sdt
- on (sdt.school_id,sdt.year)=(g.team_id,2014)
+ on (sdt.school_id,sdt.year)=(g.team_id,2015)
 
 join ncaa.schools_divisions sdo
- on (sdo.school_id,sdo.year)=(g.opponent_id,2014)
+ on (sdo.school_id,sdo.year)=(g.opponent_id,2015)
 
 join ncaa_pbp.periods per
  on (per.game_id,per.team_id,per.section_id)=(g.game_id,g.opponent_id,0)
@@ -120,10 +120,10 @@ opr.id
 from ncaa_pbp.team_schedules g
 
 join ncaa.schools_divisions sdt
- on (sdt.school_id,sdt.year)=(g.team_id,2014)
+ on (sdt.school_id,sdt.year)=(g.team_id,2015)
 
 join ncaa.schools_divisions sdo
- on (sdo.school_id,sdo.year)=(g.opponent_id,2014)
+ on (sdo.school_id,sdo.year)=(g.opponent_id,2015)
 
 join ncaa_pbp.periods per
  on (per.game_id,per.team_id,per.section_id)=(g.game_id,g.team_id,1)
@@ -160,10 +160,10 @@ opr.id
 from ncaa_pbp.team_schedules g
 
 join ncaa.schools_divisions sdt
- on (sdt.school_id,sdt.year)=(g.team_id,2014)
+ on (sdt.school_id,sdt.year)=(g.team_id,2015)
 
 join ncaa.schools_divisions sdo
- on (sdo.school_id,sdo.year)=(g.opponent_id,2014)
+ on (sdo.school_id,sdo.year)=(g.opponent_id,2015)
 
 join ncaa_pbp.periods per
  on (per.game_id,per.team_id,per.section_id)=(g.game_id,g.opponent_id,1)
