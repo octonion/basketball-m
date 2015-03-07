@@ -8,7 +8,7 @@ library("RPostgreSQL")
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv,host="localhost",port="5432",dbname="basketball-m")
+con <- dbConnect(drv, dbname="basketball-m")
 
 query <- dbSendQuery(con, "
 select
