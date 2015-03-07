@@ -2,15 +2,23 @@
 
 psql basketball-m -f sos/standardized_results.sql
 
-psql basketball-m -c "drop table ncaa._basic_factors;"
 psql basketball-m -c "drop table ncaa._parameter_levels;"
+psql basketball-m -c "drop table ncaa._basic_factors;"
 
 psql basketball-m -c "vacuum analyze ncaa.results;"
 
 R --vanilla < sos/lmer.R
 
+psql basketball-m -c "vacuum analyze ncaa._parameter_levels;"
+psql basketball-m -c "vacuum analyze ncaa._basic_factors;"
+
 psql basketball-m -f sos/normalize_factors.sql
+
+psql basketball-m -c "vacuum analyze ncaa._factors;"
+
 psql basketball-m -f sos/schedule_factors.sql
+
+psql basketball-m -c "vacuum analyze ncaa._schedule_factors;"
 
 psql basketball-m -f sos/connectivity.sql > sos/connectivity.txt
 psql basketball-m -f sos/current_ranking.sql > sos/current_ranking.txt
