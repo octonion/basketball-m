@@ -1,0 +1,2 @@
+
+possessions ~ FGA + 0.475 * FTA - ORB + TO
