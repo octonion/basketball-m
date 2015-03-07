@@ -5,7 +5,8 @@ cmd="psql template1 --tuples-only --command \"select count(*) from pg_database w
 db_exists=`eval $cmd`
  
 if [ $db_exists -eq 0 ] ; then
-   cmd="psql template1 -t -c \"create database basketball-m\" > /dev/null 2>&1"
+   #cmd="psql template1 -t -c \"create database basketball-m\" > /dev/null 2>&1"
+   cmd="createdb basketball-m;"
    eval $cmd
 fi
 
