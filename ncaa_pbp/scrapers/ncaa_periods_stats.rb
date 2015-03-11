@@ -40,9 +40,9 @@ retries = 4
 team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv", "r",
                           {:col_sep => "\t", :headers => TRUE})
 
-period_stats = CSV.open("csv/ncaa_period_stats.csv", "w", {:col_sep => "\t"})
+periods_stats = CSV.open("csv/ncaa_games_periods_stats.csv", "w", {:col_sep => "\t"})
 
-period_cats = CSV.open("csv/ncaa_period_cats.csv", "w", {:col_sep => "\t"})
+periods_cats = CSV.open("csv/ncaa_games_periods_cats.csv", "w", {:col_sep => "\t"})
 
 # Headers
 
@@ -54,8 +54,8 @@ stats_header = ["game_id", "period_id", "section_id", "team_name",
 cats_header = ["game_id", "period_id", "category",
                "team_value", "opponent_value"]
 
-period_stats << stats_header
-period_cats << cats_header
+periods_stats << stats_header
+periods_cats << cats_header
 
 # Get game IDs
 
@@ -126,19 +126,19 @@ game_ids.each_slice(gpt).with_index do |ids,i|
             tr.xpath("td").each do |td|
               stat_header << td.text.strip
             end
-            #period_stats << stat_header
+            #periods_stats << stat_header
           when 2
             team_line = [game_id, period_id, 0]
             tr.xpath("td").each do |td|
               team_line << td.text.strip
             end
-            period_stats << team_line
+            periods_stats << team_line
           when 3
             opponent_line = [game_id, period_id, 1]
             tr.xpath("td").each do |td|
               opponent_line << td.text.strip
             end
-            period_stats << opponent_line
+            periods_stats << opponent_line
           when 4
             tr.xpath("td/table/tr").each_with_index do |tr2,j|
               case j
@@ -148,13 +148,22 @@ game_ids.each_slice(gpt).with_index do |ids,i|
                   cat_header << td2.text.strip
                 end
                 cat_header[2] = "Category"
-                #period_cats << cat_header
+                #periods_cats << cat_header
               else
                 cat_line = [game_id, period_id]
                 tr2.xpath("td").each do |td2|
                   cat_line << td2.text.strip
                 end
-                period_cats << cat_line
+
+                if (cat_line.size==3)
+                  cat_line += [nil, nil]
+                end
+
+                if (cat_line.size==4)
+                  cat_line += [nil]
+                end
+
+                periods_cats << cat_line
               end
             end
           end
@@ -171,6 +180,6 @@ end
 
 threads.each(&:join)
 
-period_cats.close
+periods_cats.close
 
-period_stats.close
+periods_stats.close
