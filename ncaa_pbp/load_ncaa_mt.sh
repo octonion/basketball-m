@@ -53,6 +53,25 @@ rpl "]" "}" /tmp/ncaa_games_periods.csv
 psql basketball-m -f loaders/load_ncaa_games_periods.sql
 rm /tmp/ncaa_games_periods.csv
 
+cp csv/ncaa_games_periods_stats.csv /tmp/ncaa_games_periods_stats.csv
+rpl -e '\t-\t' '\t\t' /tmp/ncaa_games_periods_stats.csv
+rpl -e '\t-\t' '\t\t' /tmp/ncaa_games_periods_stats.csv
+rpl -q '""' '' /tmp/ncaa_games_periods_stats.csv
+rpl -q ' ' '' /tmp/ncaa_games_periods_stats.csv
+rpl -q '/' '' /tmp/ncaa_games_periods_stats.csv
+psql basketball-m -f loaders/load_games_periods_stats.sql
+rm /tmp/ncaa_games_periods_stats.csv
+
+cp csv/ncaa_games_periods_cats.csv /tmp/ncaa_games_periods_cats.csv
+rpl -e '\t-\t' '\t\t' /tmp/ncaa_games_periods_cats.csv
+rpl -e '\t-\t' '\t\t' /tmp/ncaa_games_periods_cats.csv
+rpl -e '\t-' '\t' /tmp/ncaa_games_periods_cats.csv
+rpl -q '""' '' /tmp/ncaa_games_periods_cats.csv
+rpl -q ' ' '' /tmp/ncaa_games_periods_cats.csv
+rpl -q ',' '' /tmp/ncaa_games_periods_cats.csv
+psql basketball-m -f loaders/load_games_periods_cats.sql
+rm /tmp/ncaa_games_periods_cats.csv
+
 #
 gzip -d csv/ncaa_games_play_by_play_mt.csv.gz
 cp csv/ncaa_games_play_by_play_mt.csv /tmp/ncaa_games_play_by_play.csv

@@ -25,6 +25,14 @@ cp csv/ncaa_periods.csv /tmp/ncaa_periods.csv
 psql basketball-m -f loaders/load_ncaa_periods.sql
 rm /tmp/ncaa_games_periods.csv
 
+cp csv/ncaa_periods_stats.csv /tmp/ncaa_periods_stats.csv
+psql basketball-m -f loaders/load_ncaa_periods_stats.sql
+rm /tmp/ncaa_periods_stats.csv
+
+cp csv/ncaa_periods_cats.csv /tmp/ncaa_periods_cats.csv
+psql basketball-m -f loaders/load_ncaa_periods_cats.sql
+rm /tmp/ncaa_periods_cats.csv
+
 cp csv/ncaa_games_play_by_play.csv /tmp/ncaa_games_play_by_play.csv
 psql basketball-m -f loaders/load_ncaa_games_play_by_play.sql
 rm /tmp/ncaa_games_play_by_play.csv
