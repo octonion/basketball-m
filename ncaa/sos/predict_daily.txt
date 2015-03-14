@@ -1,221 +1,205 @@
 BEGIN
 SET
-         team         | h_div |  site   |                  opp                   | v_div | t_score | o_score 
-----------------------+-------+---------+----------------------------------------+-------+---------+---------
- Akron                |     1 | neutral | %                                     +|     1 |    67.7 |    72.1
-                      |       |         |                   Buffalo              |       |         | 
- Alabama St.          |     1 | neutral | %                                     +|     1 |    66.5 |    64.8
-                      |       |         |                   Southern U.          |       |         | 
- A&M-Corpus Christi   |     1 | neutral | %                                     +|     1 |    56.5 |    65.3
-                      |       |         |                   Sam Houston St.      |       |         | 
- Arizona              |     1 | neutral | %                                     +|     1 |    77.9 |    63.6
-                      |       |         |                   UCLA                 |       |         | 
- Arkansas             |     1 | neutral | %                                     +|     1 |    74.6 |    67.4
-                      |       |         |                   Tennessee            |       |         | 
- Auburn               |     1 | neutral | %                                     +|     1 |    70.0 |    79.5
-                      |       |         |                   LSU                  |       |         | 
- Augustana (IL)       |     3 | home    | %                                     +|     3 |    82.5 |    73.0
-                      |       |         |                   Mount Union          |       |         | 
- Babson               |     3 | home    | %                                     +|     3 |    65.6 |    61.1
-                      |       |         |                   Johns Hopkins        |       |         | 
- Bakersfield          |     1 | neutral | %                                     +|     1 |    56.5 |    64.6
-                      |       |         |                   New Mexico St.       |       |         | 
- Bates                |     3 | neutral | %                                     +|     3 |    62.8 |    65.7
-                      |       |         |                   Trinity (CT)         |       |         | 
- Baylor               |     1 | neutral | %                                     +|     1 |    67.1 |    66.8
-                      |       |         |                   Kansas               |       |         | 
- Boise St.            |     1 | neutral | %                                     +|     1 |    61.8 |    55.2
-                      |       |         |                   Wyoming              |       |         | 
- Buffalo              |     1 | neutral | %                                     +|     1 |    72.1 |    67.7
-                      |       |         |                   Akron                |       |         | 
- BYU-Hawaii           |     2 | neutral | %                                     +|     2 |    76.5 |    75.6
-                      |       |         |                   Seattle Pacific      |       |         | 
- California Baptist   |     2 | neutral | %                                     +|     2 |    69.4 |    64.1
-                      |       |         |                   Chico St.            |       |         | 
- Cal Poly Pomona      |     2 | neutral | %                                     +|     2 |    65.3 |    62.6
-                      |       |         |                   Dixie St.            |       |         | 
- Central Mich.        |     1 | neutral | %                                     +|     1 |    76.4 |    75.8
-                      |       |         |                   Toledo               |       |         | 
- Chico St.            |     2 | neutral | %                                     +|     2 |    64.1 |    69.4
-                      |       |         |                   California Baptist   |       |         | 
- Colo. Christian      |     2 | neutral | %                                     +|     2 |    79.0 |    77.1
-                      |       |         |                   Dallas Baptist       |       |         | 
- Colorado St.         |     1 | neutral | %                                     +|     1 |    59.7 |    63.4
-                      |       |         |                   San Diego St.        |       |         | 
- Dallas Baptist       |     2 | neutral | %                                     +|     2 |    77.1 |    79.0
-                      |       |         |                   Colo. Christian      |       |         | 
- Davidson             |     1 | neutral | %                                     +|     1 |    74.5 |    66.3
-                      |       |         |                   La Salle             |       |         | 
- Dayton               |     1 | neutral | %                                     +|     1 |    67.2 |    61.1
-                      |       |         |                   St. Bonaventure      |       |         | 
- Delaware St.         |     1 | neutral | %                                     +|     1 |    58.5 |    69.0
-                      |       |         |                   N.C. Central         |       |         | 
- Dickinson            |     3 | home    | %                                     +|     3 |    70.1 |    71.1
-                      |       |         |                   Va. Wesleyan         |       |         | 
- Dickinson            |     3 | neutral | %                                     +|     3 |    68.4 |    72.8
-                      |       |         |                   Va. Wesleyan         |       |         | 
- Dixie St.            |     2 | neutral | %                                     +|     2 |    62.6 |    65.3
-                      |       |         |                   Cal Poly Pomona      |       |         | 
- Duke                 |     1 | neutral | %                                     +|     1 |    81.4 |    74.4
-                      |       |         |                   Notre Dame           |       |         | 
- East Carolina        |     1 | neutral | %                                     +|     1 |    57.5 |    71.9
-                      |       |         |                   SMU                  |       |         | 
- Eastern Wash.        |     1 | neutral | %                                     +|     1 |    79.5 |    74.2
-                      |       |         |                   Sacramento St.       |       |         | 
- East Tex. Baptist    |     3 | neutral | %                                     +|     3 |    71.3 |    63.7
-                      |       |         |                   Northwestern-St.Paul |       |         | 
- Florida              |     1 | neutral | %                                     +|     1 |    51.5 |    65.8
-                      |       |         |                   Kentucky             |       |         | 
- Georgetown           |     1 | neutral | %                                     +|     1 |    70.0 |    69.9
-                      |       |         |                   Xavier               |       |         | 
- George Washington    |     1 | neutral | %                                     +|     1 |    60.5 |    61.2
-                      |       |         |                   Rhode Island         |       |         | 
- Georgia              |     1 | neutral | %                                     +|     1 |    64.0 |    61.9
-                      |       |         |                   South Carolina       |       |         | 
- Hampton              |     1 | neutral | %                                     +|     1 |    67.2 |    72.7
-                      |       |         |                   Norfolk St.          |       |         | 
- Hawaii               |     1 | neutral | %                                     +|     1 |    71.9 |    72.9
-                      |       |         |                   UC Davis             |       |         | 
- Houston              |     1 | neutral | %                                     +|     1 |    58.5 |    67.5
-                      |       |         |                   Tulsa                |       |         | 
- Indiana              |     1 | neutral | %                                     +|     1 |    73.6 |    75.2
-                      |       |         |                   Maryland             |       |         | 
- Iowa St.             |     1 | neutral | %                                     +|     1 |    74.1 |    75.7
-                      |       |         |                   Oklahoma             |       |         | 
- Kansas               |     1 | neutral | %                                     +|     1 |    66.8 |    67.1
-                      |       |         |                   Baylor               |       |         | 
- Kentucky             |     1 | neutral | %                                     +|     1 |    65.8 |    51.5
-                      |       |         |                   Florida              |       |         | 
- La.-Lafayette        |     1 | neutral | %                                     +|     1 |    65.3 |    59.6
-                      |       |         |                   Texas St.            |       |         | 
- La.-Monroe           |     1 | neutral | %                                     +|     1 |    68.8 |    62.1
-                      |       |         |                   South Ala.           |       |         | 
- La Salle             |     1 | neutral | %                                     +|     1 |    66.3 |    74.5
-                      |       |         |                   Davidson             |       |         | 
- Louisiana Tech       |     1 | neutral | %                                     +|     1 |    71.5 |    66.1
-                      |       |         |                   UAB                  |       |         | 
- LSU                  |     1 | neutral | %                                     +|     1 |    79.5 |    70.0
-                      |       |         |                   Auburn               |       |         | 
- Marietta             |     3 | neutral | %                                     +|     3 |    77.9 |    78.2
-                      |       |         |                   St. Olaf             |       |         | 
- Maryland             |     1 | neutral | %                                     +|     1 |    75.2 |    73.6
-                      |       |         |                   Indiana              |       |         | 
- Memphis              |     1 | neutral | %                                     +|     1 |    63.2 |    63.9
-                      |       |         |                   Temple               |       |         | 
- Michigan             |     1 | neutral | %                                     +|     1 |    53.3 |    68.0
-                      |       |         |                   Wisconsin            |       |         | 
- Michigan St.         |     1 | neutral | %                                     +|     1 |    67.4 |    69.7
-                      |       |         |                   Ohio St.             |       |         | 
- Middle Tenn.         |     1 | neutral | %                                     +|     1 |    59.3 |    63.4
-                      |       |         |                   UTEP                 |       |         | 
- Montana              |     1 | home    | %                                     +|     1 |    68.2 |    62.5
-                      |       |         |                   Northern Ariz.       |       |         | 
- N.C. Central         |     1 | neutral | %                                     +|     1 |    69.0 |    58.5
-                      |       |         |                   Delaware St.         |       |         | 
- New Mexico St.       |     1 | neutral | %                                     +|     1 |    64.6 |    56.5
-                      |       |         |                   Bakersfield          |       |         | 
- Norfolk St.          |     1 | neutral | %                                     +|     1 |    72.7 |    67.2
-                      |       |         |                   Hampton              |       |         | 
- North Carolina       |     1 | neutral | %                                     +|     1 |    60.3 |    65.4
-                      |       |         |                   Virginia             |       |         | 
- Northwestern St.     |     1 | neutral | %                                     +|     1 |    78.0 |    92.3
-                      |       |         |                   Stephen F. Austin    |       |         | 
- Northwestern-St.Paul |     3 | neutral | %                                     +|     3 |    63.7 |    71.3
-                      |       |         |                   East Tex. Baptist    |       |         | 
- Notre Dame           |     1 | neutral | %                                     +|     1 |    74.4 |    81.4
-                      |       |         |                   Duke                 |       |         | 
- Ohio St.             |     1 | neutral | %                                     +|     1 |    69.7 |    67.4
-                      |       |         |                   Michigan St.         |       |         | 
- Oklahoma             |     1 | neutral | %                                     +|     1 |    75.7 |    74.1
-                      |       |         |                   Iowa St.             |       |         | 
- Oregon               |     1 | neutral | %                                     +|     1 |    61.8 |    73.7
-                      |       |         |                   Utah                 |       |         | 
- Penn St.             |     1 | neutral | %                                     +|     1 |    63.1 |    68.8
-                      |       |         |                   Purdue               |       |         | 
- Prairie View         |     1 | neutral | %                                     +|     1 |    66.4 |    70.4
-                      |       |         |                   Texas Southern       |       |         | 
- Providence           |     1 | neutral | %                                     +|     1 |    65.0 |    73.6
-                      |       |         |                   Villanova            |       |         | 
- Purdue               |     1 | neutral | %                                     +|     1 |    68.8 |    63.1
-                      |       |         |                   Penn St.             |       |         | 
- Randolph-Macon       |     3 | home    | %                                     +|     3 |    68.3 |    63.3
-                      |       |         |                   St. John Fisher      |       |         | 
- Rhode Island         |     1 | neutral | %                                     +|     1 |    61.2 |    60.5
-                      |       |         |                   George Washington    |       |         | 
- Richmond             |     1 | neutral | %                                     +|     1 |    62.9 |    65.2
-                      |       |         |                   VCU                  |       |         | 
- Sacramento St.       |     1 | neutral | %                                     +|     1 |    74.2 |    79.5
-                      |       |         |                   Eastern Wash.        |       |         | 
- Sam Houston St.      |     1 | neutral | %                                     +|     1 |    65.3 |    56.5
-                      |       |         |                   A&M-Corpus Christi   |       |         | 
- San Diego St.        |     1 | neutral | %                                     +|     1 |    63.4 |    59.7
-                      |       |         |                   Colorado St.         |       |         | 
- Seattle              |     1 | neutral | %                                     +|     1 |    60.9 |    59.9
-                      |       |         |                   UMKC                 |       |         | 
- Seattle Pacific      |     2 | neutral | %                                     +|     2 |    75.6 |    76.5
-                      |       |         |                   BYU-Hawaii           |       |         | 
- SMU                  |     1 | neutral | %                                     +|     1 |    71.9 |    57.5
-                      |       |         |                   East Carolina        |       |         | 
- South Ala.           |     1 | neutral | %                                     +|     1 |    62.1 |    68.8
-                      |       |         |                   La.-Monroe           |       |         | 
- South Carolina       |     1 | neutral | %                                     +|     1 |    61.9 |    64.0
-                      |       |         |                   Georgia              |       |         | 
- Southern U.          |     1 | neutral | %                                     +|     1 |    64.8 |    66.5
-                      |       |         |                   Alabama St.          |       |         | 
- St. Bonaventure      |     1 | neutral | %                                     +|     1 |    61.1 |    67.2
-                      |       |         |                   Dayton               |       |         | 
- Stephen F. Austin    |     1 | neutral | %                                     +|     1 |    92.3 |    78.0
-                      |       |         |                   Northwestern St.     |       |         | 
- St. Olaf             |     3 | neutral | %                                     +|     3 |    78.2 |    77.9
-                      |       |         |                   Marietta             |       |         | 
- Temple               |     1 | neutral | %                                     +|     1 |    63.9 |    63.2
-                      |       |         |                   Memphis              |       |         | 
- Tennessee            |     1 | neutral | %                                     +|     1 |    67.4 |    74.6
-                      |       |         |                   Arkansas             |       |         | 
- Texas Southern       |     1 | neutral | %                                     +|     1 |    70.4 |    66.4
-                      |       |         |                   Prairie View         |       |         | 
- Texas St.            |     1 | neutral | %                                     +|     1 |    59.6 |    65.3
-                      |       |         |                   La.-Lafayette        |       |         | 
- Toledo               |     1 | neutral | %                                     +|     1 |    75.8 |    76.4
-                      |       |         |                   Central Mich.        |       |         | 
- Trinity (CT)         |     3 | neutral | %                                     +|     3 |    65.7 |    62.8
-                      |       |         |                   Bates                |       |         | 
- Tulsa                |     1 | neutral | %                                     +|     1 |    67.5 |    58.5
-                      |       |         |                   Houston              |       |         | 
- UAB                  |     1 | neutral | %                                     +|     1 |    66.1 |    71.5
-                      |       |         |                   Louisiana Tech       |       |         | 
- UC Davis             |     1 | neutral | %                                     +|     1 |    72.9 |    71.9
-                      |       |         |                   Hawaii               |       |         | 
- UC Irvine            |     1 | neutral | %                                     +|     1 |    64.1 |    65.0
-                      |       |         |                   UC Santa Barbara     |       |         | 
- UCLA                 |     1 | neutral | %                                     +|     1 |    63.6 |    77.9
-                      |       |         |                   Arizona              |       |         | 
- UConn                |     1 | home    | %                                     +|     1 |    58.2 |    57.6
-                      |       |         |                   Cincinnati           |       |         | 
- UC Santa Barbara     |     1 | neutral | %                                     +|     1 |    65.0 |    64.1
-                      |       |         |                   UC Irvine            |       |         | 
- UMKC                 |     1 | neutral | %                                     +|     1 |    59.9 |    60.9
-                      |       |         |                   Seattle              |       |         | 
- Utah                 |     1 | neutral | %                                     +|     1 |    73.7 |    61.8
-                      |       |         |                   Oregon               |       |         | 
- UTEP                 |     1 | neutral | %                                     +|     1 |    63.4 |    59.3
-                      |       |         |                   Middle Tenn.         |       |         | 
- Va. Wesleyan         |     3 | neutral | %                                     +|     3 |    72.8 |    68.4
-                      |       |         |                   Dickinson            |       |         | 
- VCU                  |     1 | neutral | %                                     +|     1 |    65.2 |    62.9
-                      |       |         |                   Richmond             |       |         | 
- Villanova            |     1 | neutral | %                                     +|     1 |    73.6 |    65.0
-                      |       |         |                   Providence           |       |         | 
- Virginia             |     1 | neutral | %                                     +|     1 |    65.4 |    60.3
-                      |       |         |                   North Carolina       |       |         | 
- Wisconsin            |     1 | neutral | %                                     +|     1 |    68.0 |    53.3
-                      |       |         |                   Michigan             |       |         | 
- Wis.-Stevens Point   |     3 | home    | %                                     +|     3 |    70.6 |    62.1
-                      |       |         |                   Emory                |       |         | 
- Wyoming              |     1 | neutral | %                                     +|     1 |    55.2 |    61.8
-                      |       |         |                   Boise St.            |       |         | 
- Xavier               |     1 | neutral | %                                     +|     1 |    69.9 |    70.0
-                      |       |         |                   Georgetown           |       |         | 
-(107 rows)
+        team        | h_div |  site   |                 opp                  | v_div | t_score | o_score 
+--------------------+-------+---------+--------------------------------------+-------+---------+---------
+ Ala.-Huntsville    |     2 | neutral | %                                   +|     2 |    70.8 |    70.9
+                    |       |         |                   Lynn               |       |         | 
+ Albany (NY)        |     1 | home    | %                                   +|     1 |    63.8 |    61.7
+                    |       |         |                   Stony Brook        |       |         | 
+ American Int'l     |     2 | home    | %                                   +|     2 |    76.0 |    67.4
+                    |       |         |                   Philadelphia U.    |       |         | 
+ Angelo St.         |     2 | neutral | %                                   +|     2 |    77.4 |    69.7
+                    |       |         |                   Tex. A&M-Commerce  |       |         | 
+ Arizona            |     1 | neutral | %                                   +|     1 |    79.6 |    65.7
+                    |       |         |                   Oregon             |       |         | 
+ Arkansas           |     1 | neutral | %                                   +|     1 |    73.5 |    72.9
+                    |       |         |                   Georgia            |       |         | 
+ Auburn             |     1 | neutral | %                                   +|     1 |    53.4 |    80.1
+                    |       |         |                   Kentucky           |       |         | 
+ Augustana (SD)     |     2 | home    | %                                   +|     2 |    89.7 |    67.5
+                    |       |         |                   Arkansas Tech      |       |         | 
+ Azusa Pacific      |     2 | home    | %                                   +|     2 |    83.5 |    71.8
+                    |       |         |                   Western Ore.       |       |         | 
+ Barry              |     2 | neutral | %                                   +|     2 |    86.4 |    77.1
+                    |       |         |                   Union (TN)         |       |         | 
+ Bellarmine         |     2 | home    | %                                   +|     2 |    73.8 |    63.1
+                    |       |         |                   Drury              |       |         | 
+ Bridgeport         |     2 | neutral | %                                   +|     2 |    81.9 |    92.7
+                    |       |         |                   Southern Conn. St. |       |         | 
+ Buffalo            |     1 | neutral | %                                   +|     1 |    76.5 |    74.0
+                    |       |         |                   Central Mich.      |       |         | 
+ California Baptist |     2 | neutral | %                                   +|     2 |    69.5 |    70.1
+                    |       |         |                   Seattle Pacific    |       |         | 
+ Carson-Newman      |     2 | neutral | %                                   +|     2 |    66.2 |    71.7
+                    |       |         |                   Montevallo         |       |         | 
+ Central Mich.      |     1 | neutral | %                                   +|     1 |    74.0 |    76.5
+                    |       |         |                   Buffalo            |       |         | 
+ Central Mo.        |     2 | neutral | %                                   +|     2 |    67.9 |    68.5
+                    |       |         |                   Northern St.       |       |         | 
+ Colorado Mines     |     2 | neutral | %                                   +|     2 |    80.8 |    78.0
+                    |       |         |                   UC-Colo. Springs   |       |         | 
+ Columbus St.       |     2 | neutral | %                                   +|     2 |    77.0 |    78.0
+                    |       |         |                   UNC Pembroke       |       |         | 
+ Davidson           |     1 | neutral | %                                   +|     1 |    76.7 |    75.3
+                    |       |         |                   VCU                |       |         | 
+ Dayton             |     1 | neutral | %                                   +|     1 |    62.9 |    62.2
+                    |       |         |                   Rhode Island       |       |         | 
+ Delaware St.       |     1 | neutral | %                                   +|     1 |    73.2 |    72.7
+                    |       |         |                   Hampton            |       |         | 
+ Fairmont St.       |     2 | neutral | %                                   +|     2 |    68.5 |    68.9
+                    |       |         |                   Mercyhurst         |       |         | 
+ Ferris St.         |     2 | neutral | %                                   +|     2 |    70.1 |    69.0
+                    |       |         |                   Lake Superior St.  |       |         | 
+ Fla. Southern      |     2 | home    | %                                   +|     2 |    88.2 |    66.8
+                    |       |         |                   Benedict           |       |         | 
+ Gannon             |     2 | neutral | %                                   +|     2 |    60.4 |    55.9
+                    |       |         |                   Slippery Rock      |       |         | 
+ Ga. Southern       |     1 | neutral | %                                   +|     1 |    60.3 |    58.0
+                    |       |         |                   La.-Monroe         |       |         | 
+ Georgia            |     1 | neutral | %                                   +|     1 |    72.9 |    73.5
+                    |       |         |                   Arkansas           |       |         | 
+ Georgia St.        |     1 | neutral | %                                   +|     1 |    73.7 |    68.5
+                    |       |         |                   La.-Lafayette      |       |         | 
+ Glenville St.      |     2 | neutral | %                                   +|     2 |    66.2 |    76.1
+                    |       |         |                   Indiana (PA)       |       |         | 
+ GRU Augusta        |     2 | neutral | %                                   +|     2 |    72.8 |    72.1
+                    |       |         |                   Mount Olive        |       |         | 
+ Hampton            |     1 | neutral | %                                   +|     1 |    72.7 |    73.2
+                    |       |         |                   Delaware St.       |       |         | 
+ Harvard            |     1 | neutral | %                                   +|     1 |    59.2 |    58.4
+                    |       |         |                   Yale               |       |         | 
+ Hawaii             |     1 | neutral | %                                   +|     1 |    68.5 |    70.5
+                    |       |         |                   UC Irvine          |       |         | 
+ Indiana (PA)       |     2 | neutral | %                                   +|     2 |    76.1 |    66.2
+                    |       |         |                   Glenville St.      |       |         | 
+ Indianapolis       |     2 | neutral | %                                   +|     2 |    74.6 |    64.3
+                    |       |         |                   Michigan Tech      |       |         | 
+ Iowa St.           |     1 | neutral | %                                   +|     1 |    77.1 |    77.1
+                    |       |         |                   Kansas             |       |         | 
+ Kansas             |     1 | neutral | %                                   +|     1 |    77.1 |    77.1
+                    |       |         |                   Iowa St.           |       |         | 
+ Kentucky           |     1 | neutral | %                                   +|     1 |    80.1 |    53.4
+                    |       |         |                   Auburn             |       |         | 
+ Lake Superior St.  |     2 | neutral | %                                   +|     2 |    69.0 |    70.1
+                    |       |         |                   Ferris St.         |       |         | 
+ La.-Lafayette      |     1 | neutral | %                                   +|     1 |    68.5 |    73.7
+                    |       |         |                   Georgia St.        |       |         | 
+ La.-Monroe         |     1 | neutral | %                                   +|     1 |    58.0 |    60.3
+                    |       |         |                   Ga. Southern       |       |         | 
+ Lewis              |     2 | neutral | %                                   +|     2 |    67.7 |    70.0
+                    |       |         |                   Wis.-Parkside      |       |         | 
+ Lincoln Memorial   |     2 | home    | %                                   +|     2 |    76.7 |    62.9
+                    |       |         |                   North Greenville   |       |         | 
+ Lynn               |     2 | neutral | %                                   +|     2 |    70.9 |    70.8
+                    |       |         |                   Ala.-Huntsville    |       |         | 
+ Maryland           |     1 | neutral | %                                   +|     1 |    64.5 |    68.0
+                    |       |         |                   Michigan St.       |       |         | 
+ Mercyhurst         |     2 | neutral | %                                   +|     2 |    68.9 |    68.5
+                    |       |         |                   Fairmont St.       |       |         | 
+ Metro St.          |     2 | neutral | %                                   +|     2 |    62.1 |    60.0
+                    |       |         |                   Midwestern St.     |       |         | 
+ Michigan St.       |     1 | neutral | %                                   +|     1 |    68.0 |    64.5
+                    |       |         |                   Maryland           |       |         | 
+ Michigan Tech      |     2 | neutral | %                                   +|     2 |    64.3 |    74.6
+                    |       |         |                   Indianapolis       |       |         | 
+ Middle Tenn.       |     1 | neutral | %                                   +|     1 |    61.8 |    62.0
+                    |       |         |                   UAB                |       |         | 
+ Midwestern St.     |     2 | neutral | %                                   +|     2 |    60.0 |    62.1
+                    |       |         |                   Metro St.          |       |         | 
+ Minn. St. Mankato  |     2 | neutral | %                                   +|     2 |    74.7 |    72.3
+                    |       |         |                   Northwest Mo. St.  |       |         | 
+ Minn. St. Moorhead |     2 | neutral | %                                   +|     2 |    76.9 |    67.8
+                    |       |         |                   Pittsburg St.      |       |         | 
+ Montana            |     1 | home    | %                                   +|     1 |    75.1 |    73.0
+                    |       |         |                   Eastern Wash.      |       |         | 
+ Montevallo         |     2 | neutral | %                                   +|     2 |    71.7 |    66.2
+                    |       |         |                   Carson-Newman      |       |         | 
+ Mount Olive        |     2 | neutral | %                                   +|     2 |    72.1 |    72.8
+                    |       |         |                   GRU Augusta        |       |         | 
+ New Mexico St.     |     1 | neutral | %                                   +|     1 |    64.5 |    56.7
+                    |       |         |                   Seattle            |       |         | 
+ North Carolina     |     1 | neutral | %                                   +|     1 |    79.9 |    76.7
+                    |       |         |                   Notre Dame         |       |         | 
+ Northern St.       |     2 | neutral | %                                   +|     2 |    68.5 |    67.9
+                    |       |         |                   Central Mo.        |       |         | 
+ Northwest Mo. St.  |     2 | neutral | %                                   +|     2 |    72.3 |    74.7
+                    |       |         |                   Minn. St. Mankato  |       |         | 
+ Notre Dame         |     1 | neutral | %                                   +|     1 |    76.7 |    79.9
+                    |       |         |                   North Carolina     |       |         | 
+ Oregon             |     1 | neutral | %                                   +|     1 |    65.7 |    79.6
+                    |       |         |                   Arizona            |       |         | 
+ Pittsburg St.      |     2 | neutral | %                                   +|     2 |    67.8 |    76.9
+                    |       |         |                   Minn. St. Moorhead |       |         | 
+ Purdue             |     1 | neutral | %                                   +|     1 |    58.2 |    68.9
+                    |       |         |                   Wisconsin          |       |         | 
+ Rhode Island       |     1 | neutral | %                                   +|     1 |    62.2 |    62.9
+                    |       |         |                   Dayton             |       |         | 
+ Sam Houston St.    |     1 | neutral | %                                   +|     1 |    64.5 |    67.2
+                    |       |         |                   Stephen F. Austin  |       |         | 
+ San Diego St.      |     1 | neutral | %                                   +|     1 |    55.7 |    48.7
+                    |       |         |                   Wyoming            |       |         | 
+ Seattle            |     1 | neutral | %                                   +|     1 |    56.7 |    64.5
+                    |       |         |                   New Mexico St.     |       |         | 
+ Seattle Pacific    |     2 | neutral | %                                   +|     2 |    70.1 |    69.5
+                    |       |         |                   California Baptist |       |         | 
+ Slippery Rock      |     2 | neutral | %                                   +|     2 |    55.9 |    60.4
+                    |       |         |                   Gannon             |       |         | 
+ SMU                |     1 | neutral | %                                   +|     1 |    65.1 |    60.8
+                    |       |         |                   Temple             |       |         | 
+ Southern Conn. St. |     2 | neutral | %                                   +|     2 |    92.7 |    81.9
+                    |       |         |                   Bridgeport         |       |         | 
+ Southern N.H.      |     2 | neutral | %                                   +|     2 |    69.9 |    63.3
+                    |       |         |                   Stonehill          |       |         | 
+ Southern U.        |     1 | neutral | %                                   +|     1 |    61.7 |    65.4
+                    |       |         |                   Texas Southern     |       |         | 
+ St. Anselm         |     2 | neutral | %                                   +|     2 |    75.1 |    73.1
+                    |       |         |                   USciences          |       |         | 
+ Stephen F. Austin  |     1 | neutral | %                                   +|     1 |    67.2 |    64.5
+                    |       |         |                   Sam Houston St.    |       |         | 
+ Stonehill          |     2 | neutral | %                                   +|     2 |    63.3 |    69.9
+                    |       |         |                   Southern N.H.      |       |         | 
+ Tarleton St.       |     2 | home    | %                                   +|     2 |    67.5 |    58.2
+                    |       |         |                   St. Mary's (TX)    |       |         | 
+ Temple             |     1 | neutral | %                                   +|     1 |    60.8 |    65.1
+                    |       |         |                   SMU                |       |         | 
+ Tex. A&M-Commerce  |     2 | neutral | %                                   +|     2 |    69.7 |    77.4
+                    |       |         |                   Angelo St.         |       |         | 
+ Texas Southern     |     1 | neutral | %                                   +|     1 |    65.4 |    61.7
+                    |       |         |                   Southern U.        |       |         | 
+ UAB                |     1 | neutral | %                                   +|     1 |    62.0 |    61.8
+                    |       |         |                   Middle Tenn.       |       |         | 
+ UC-Colo. Springs   |     2 | neutral | %                                   +|     2 |    78.0 |    80.8
+                    |       |         |                   Colorado Mines     |       |         | 
+ UC Irvine          |     1 | neutral | %                                   +|     1 |    70.5 |    68.5
+                    |       |         |                   Hawaii             |       |         | 
+ UConn              |     1 | home    | %                                   +|     1 |    62.6 |    58.6
+                    |       |         |                   Tulsa              |       |         | 
+ UNC Pembroke       |     2 | neutral | %                                   +|     2 |    78.0 |    77.0
+                    |       |         |                   Columbus St.       |       |         | 
+ Union (TN)         |     2 | neutral | %                                   +|     2 |    77.1 |    86.4
+                    |       |         |                   Barry              |       |         | 
+ USciences          |     2 | neutral | %                                   +|     2 |    73.1 |    75.1
+                    |       |         |                   St. Anselm         |       |         | 
+ VCU                |     1 | neutral | %                                   +|     1 |    75.3 |    76.7
+                    |       |         |                   Davidson           |       |         | 
+ Villanova          |     1 | neutral | %                                   +|     1 |    75.4 |    68.0
+                    |       |         |                   Xavier             |       |         | 
+ West Ala.          |     2 | neutral | %                                   +|     2 |    82.7 |    79.4
+                    |       |         |                   West Ga.           |       |         | 
+ West Ga.           |     2 | neutral | %                                   +|     2 |    79.4 |    82.7
+                    |       |         |                   West Ala.          |       |         | 
+ West Liberty       |     2 | home    | %                                   +|     2 |   102.8 |    88.0
+                    |       |         |                   Livingstone        |       |         | 
+ Wisconsin          |     1 | neutral | %                                   +|     1 |    68.9 |    58.2
+                    |       |         |                   Purdue             |       |         | 
+ Wis.-Parkside      |     2 | neutral | %                                   +|     2 |    70.0 |    67.7
+                    |       |         |                   Lewis              |       |         | 
+ Wyoming            |     1 | neutral | %                                   +|     1 |    48.7 |    55.7
+                    |       |         |                   San Diego St.      |       |         | 
+ Xavier             |     1 | neutral | %                                   +|     1 |    68.0 |    75.4
+                    |       |         |                   Villanova          |       |         | 
+ Yale               |     1 | neutral | %                                   +|     1 |    58.4 |    59.2
+                    |       |         |                   Harvard            |       |         | 
+(99 rows)
 
 COMMIT
