@@ -2,10 +2,9 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
 
-nthreads = 10
+nthreads = 12
 
 base_sleep = 0
 sleep_increment = 3
@@ -17,8 +16,10 @@ base_url = 'http://stats.ncaa.org'
 
 roster_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
-ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters_mt.csv","w",{:col_sep => "\t"})
+ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",
+                      {:col_sep => "\t", :headers => TRUE})
+ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters_mt.csv","w",
+                             {:col_sep => "\t"})
 
 #http://stats.ncaa.org/team/roster/11540?org_id=2
 
@@ -38,6 +39,11 @@ n = teams.size
 tpt = (n.to_f/nthreads.to_f).ceil
 
 threads = []
+
+# One agent for each thread?
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 teams.each_slice(tpt).with_index do |teams_slice,i|
 
@@ -62,7 +68,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       tries = 0
       begin
-        doc = Nokogiri::HTML(open(team_roster_url))
+        doc = Nokogiri::HTML(agent.get(team_roster_url).body)
       rescue
         sleep_time += sleep_increment
         #print "sleep #{sleep_time} ... "

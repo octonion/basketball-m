@@ -2,8 +2,13 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+nthreads = 4
+
+base_sleep = 0
+sleep_increment = 3
+retries = 4
 
 #require 'awesome_print'
 
@@ -14,22 +19,13 @@ class String
 end
 
 base_url = 'http://stats.ncaa.org'
-#base_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/stats.ncaa.org'
 
 box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
 
-#'//*[@id="contentArea"]/table[5]/tbody/tr[1]/td'
-
-#periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
-
-nthreads = 10
-
-base_sleep = 0
-sleep_increment = 3
-retries = 4
-
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_box_scores = CSV.open("csv/ncaa_games_box_scores_mt.csv","w",{:col_sep => "\t"})
+ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",
+                               {:col_sep => "\t", :headers => TRUE})
+ncaa_box_scores = CSV.open("csv/ncaa_games_box_scores_mt.csv","w",
+                           {:col_sep => "\t"})
 
 # Headers
 
@@ -57,6 +53,11 @@ gpt = (n.to_f/nthreads.to_f).ceil
 
 threads = []
 
+# One agent for each thread?
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
+
 game_ids.each_slice(gpt).with_index do |ids,i|
 
   threads << Thread.new(ids) do |t_ids|
@@ -68,15 +69,14 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
       sleep_time = base_sleep
 
-#      game_url = 'http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
-      game_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/game/box_score/%d' % [game_id]
+      game_url = 'http://stats.ncaa.org/game/box_score/%d' % [game_id]
 
 #      print "Thread #{thread_id}, sleep #{sleep_time} ... "
 #      sleep sleep_time
 
       tries = 0
       begin
-        page = Nokogiri::HTML(open(game_url))
+        page = Nokogiri::HTML(agent.get(game_url).body)
       rescue
         sleep_time += sleep_increment
 #        print "sleep #{sleep_time} ... "
@@ -113,7 +113,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
             if not(link.nil?)
               link_url = link.attributes["href"].text
-              player_url = link_url.split("cgi/")[1]
+              player_url = base_url+link_url
               parameters = link_url.split("/")[-1]
               player_id = parameters.split("=")[2]
             end
@@ -133,7 +133,5 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 end
 
 threads.each(&:join)
-
-#parts.flatten(1).each { |row| ncaa_play_by_play << row }
 
 ncaa_box_scores.close

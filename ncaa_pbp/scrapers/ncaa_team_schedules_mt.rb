@@ -2,10 +2,9 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
 
-nthreads = 10
+nthreads = 12
 
 base_sleep = 0
 sleep_increment = 3
@@ -37,6 +36,11 @@ tpt = (n.to_f/nthreads.to_f).ceil
 
 threads = []
 
+# One agent for each thread?
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
+
 teams.each_slice(tpt).with_index do |teams_slice,i|
 
   threads << Thread.new(teams_slice) do |t_teams|
@@ -50,7 +54,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       team_id = team[2]
       team_name = team[3]
       
-      team_schedule_url = "http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
+      team_schedule_url = "http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
 
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time
@@ -62,7 +66,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       tries = 0
       begin
-        doc = Nokogiri::HTML(open(team_schedule_url))
+        doc = Nokogiri::HTML(agent.get(team_schedule_url).body)
       rescue
         sleep_time += sleep_increment
         #print "sleep #{sleep_time} ... "
@@ -122,8 +126,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
               # opponent URL
 
-              #opponent_url = base_url+link_url
-              opponent_url = link_url.split("cgi/")[1]
+              opponent_url = base_url+link_url
+              #opponent_url = link_url.split("cgi/")[1]
             end
 
             row += [game_string, opponent_id, opponent_name, opponent_url, neutral_site, neutral_location, home_game]
@@ -177,8 +181,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
               # Game URL
 
-              game_url = link_url.split("cgi/")[1]
-              #game_url = base_url+link_url
+              #game_url = link_url.split("cgi/")[1]
+              game_url = base_url+link_url
             end
 
             found_games += 1

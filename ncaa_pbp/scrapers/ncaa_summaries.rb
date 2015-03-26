@@ -2,8 +2,10 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 base_sleep = 0
 sleep_increment = 3
@@ -52,7 +54,7 @@ ncaa_teams.each do |team|
 
   tries = 0
   begin
-    doc = Nokogiri::HTML(open(stat_url))
+    doc = Nokogiri::HTML(agent.get(stat_url).body)
   rescue
     sleep_time += sleep_increment
     print "sleep #{sleep_time} ... "

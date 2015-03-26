@@ -2,8 +2,10 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 ncaa_teams = CSV.open("csv/ncaa_teams.csv","w",{:col_sep => "\t"})
 
@@ -26,7 +28,7 @@ print "\nRetrieving division #{division} teams for #{year} ... "
 
 found_teams = 0
 
-doc = Nokogiri::HTML(open(year_division_url))
+doc = Nokogiri::HTML(agent.get(year_division_url).body)
 
 doc.search("a").each do |link|
 

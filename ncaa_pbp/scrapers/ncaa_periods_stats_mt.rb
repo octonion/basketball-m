@@ -2,8 +2,13 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+nthreads = 4
+
+base_sleep = 0
+sleep_increment = 3
+retries = 4
 
 #require 'awesome_print'
 
@@ -31,18 +36,14 @@ base_url = 'http://stats.ncaa.org'
 
 period_xpath = '//*[@id="contentArea"]/table[position()>4]'
 
-nthreads = 8
-
-base_sleep = 0
-sleep_increment = 3
-retries = 4
-
 team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv", "r",
                           {:col_sep => "\t", :headers => TRUE})
 
-periods_stats = CSV.open("csv/ncaa_games_periods_stats.csv", "w", {:col_sep => "\t"})
+periods_stats = CSV.open("csv/ncaa_games_periods_stats.csv", "w",
+                         {:col_sep => "\t"})
 
-periods_cats = CSV.open("csv/ncaa_games_periods_cats.csv", "w", {:col_sep => "\t"})
+periods_cats = CSV.open("csv/ncaa_games_periods_cats.csv", "w",
+                        {:col_sep => "\t"})
 
 # Headers
 
@@ -79,6 +80,11 @@ gpt = (n.to_f/nthreads.to_f).ceil
 
 threads = []
 
+# One agent for each thread?
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
+
 game_ids.each_slice(gpt).with_index do |ids,i|
 
   threads << Thread.new(ids) do |t_ids|
@@ -94,7 +100,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
       tries = 0
       begin
-        page = Nokogiri::HTML(open(game_url))
+        page = Nokogiri::HTML(agent.get(game_url).body)
       rescue
         sleep_time += sleep_increment
         sleep sleep_time
