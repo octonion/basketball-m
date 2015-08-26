@@ -1,10 +1,9 @@
 #!/usr/bin/env ruby
 
 require 'csv'
-
 require 'mechanize'
 
-nthreads = 4
+nthreads = 10
 
 base_sleep = 0
 sleep_increment = 3
@@ -36,13 +35,19 @@ base_url = 'http://stats.ncaa.org'
 
 period_xpath = '//*[@id="contentArea"]/table[position()>4]'
 
-team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv", "r",
+year = ARGV[0].to_i
+division = ARGV[1].to_i
+
+team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
+                          "r",
                           {:col_sep => "\t", :headers => TRUE})
 
-periods_stats = CSV.open("csv/ncaa_games_periods_stats.csv", "w",
+periods_stats = CSV.open("tsv/ncaa_games_periods_stats_#{year}_#{division}.tsv",
+                         "w",
                          {:col_sep => "\t"})
 
-periods_cats = CSV.open("csv/ncaa_games_periods_cats.csv", "w",
+periods_cats = CSV.open("tsv/ncaa_games_periods_cats_#{year}_#{division}.tsv",
+                        "w",
                         {:col_sep => "\t"})
 
 # Headers

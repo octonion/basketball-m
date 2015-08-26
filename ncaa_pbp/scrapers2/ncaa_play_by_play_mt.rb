@@ -4,7 +4,7 @@ require 'csv'
 
 require 'mechanize'
 
-nthreads = 4
+nthreads = 10
 
 base_sleep = 0
 sleep_increment = 3
@@ -27,11 +27,19 @@ events = ["Leaves Game","Enters Game","Defensive Rebound","Commits Foul","made F
 play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
 periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",
+year = ARGV[0].to_i
+division = ARGV[1].to_i
+
+ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
+                               "r",
                                {:col_sep => "\t", :headers => TRUE})
-ncaa_play_by_play = CSV.open("csv/ncaa_games_play_by_play_mt.csv","w",
+
+ncaa_play_by_play = CSV.open("tsv/ncaa_games_play_by_play_mt_#{year}_#{division}.tsv",
+                             "w",
                              {:col_sep => "\t"})
-ncaa_periods = CSV.open("csv/ncaa_games_periods_mt.csv","w",
+
+ncaa_periods = CSV.open("tsv/ncaa_games_periods_mt_#{year}_#{division}.tsv",
+                        "w",
                         {:col_sep => "\t"})
 
 # Headers

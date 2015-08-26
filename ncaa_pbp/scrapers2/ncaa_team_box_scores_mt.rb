@@ -22,9 +22,14 @@ base_url = 'http://stats.ncaa.org'
 
 box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
 
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",
+year = ARGV[0].to_i
+division = ARGV[1].to_i
+
+ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
+                               "r",
                                {:col_sep => "\t", :headers => TRUE})
-ncaa_box_scores = CSV.open("csv/ncaa_games_box_scores_mt.csv","w",
+ncaa_box_scores = CSV.open("tsv/ncaa_games_box_scores_mt_#{year}_#{division}.tsv",
+                           "w",
                            {:col_sep => "\t"})
 
 # Headers

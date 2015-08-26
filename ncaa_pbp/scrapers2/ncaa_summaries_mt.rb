@@ -1,20 +1,25 @@
 #!/usr/bin/env ruby
 
 require 'csv'
-
 require 'mechanize'
 
-nthreads = 12
+nthreads = 8
 
 base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",
+year = ARGV[0].to_i
+division = ARGV[1].to_i
+
+ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
+                      "r",
                       {:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries_mt.csv","w",
+ncaa_player_summaries = CSV.open("tsv/ncaa_player_summaries_mt_#{year}_#{division}.tsv",
+                                 "w",
                                  {:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries_mt.csv","w",
+ncaa_team_summaries = CSV.open("tsv/ncaa_team_summaries_mt_#{year}_#{division}.tsv",
+                               "w",
                                {:col_sep => "\t"})
 
 #http://stats.ncaa.org/team/roster/11540?org_id=2
