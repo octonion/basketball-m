@@ -14,7 +14,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	30105	Ark.-Fort Smith	http://stats.ncaa.org/team/index/12260?org_id=30105
 2016	12260	8411	Ark.-Monticello	http://stats.ncaa.org/team/index/12260?org_id=8411
 2016	12260	947	Arkansas Tech	http://stats.ncaa.org/team/index/12260?org_id=947
-2016	12260	33	Armstrong	http://stats.ncaa.org/team/index/12260?org_id=33
+2016	12260	33	Armstrong St.	http://stats.ncaa.org/team/index/12260?org_id=33
 2016	12260	35	Ashland	http://stats.ncaa.org/team/index/12260?org_id=35
 2016	12260	36	Assumption	http://stats.ncaa.org/team/index/12260?org_id=36
 2016	12260	39	Augusta	http://stats.ncaa.org/team/index/12260?org_id=39
@@ -41,7 +41,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	100	Cal St. L.A.	http://stats.ncaa.org/team/index/12260?org_id=100
 2016	12260	30055	Cal St. Monterey Bay	http://stats.ncaa.org/team/index/12260?org_id=30055
 2016	12260	93	Cal St. San B'dino	http://stats.ncaa.org/team/index/12260?org_id=93
-2016	12260	103	Cal St. Stanislaus	http://stats.ncaa.org/team/index/12260?org_id=103
+2016	12260	30198	Cal St. San Marcos	http://stats.ncaa.org/team/index/12260?org_id=30198
 2016	12260	995	Caldwell	http://stats.ncaa.org/team/index/12260?org_id=995
 2016	12260	106	California (PA)	http://stats.ncaa.org/team/index/12260?org_id=106
 2016	12260	30135	California Baptist	http://stats.ncaa.org/team/index/12260?org_id=30135
@@ -72,7 +72,9 @@ year	year_id	team_id	team_name	team_url
 2016	12260	2720	Colorado St.-Pueblo	http://stats.ncaa.org/team/index/12260?org_id=2720
 2016	12260	159	Columbus St.	http://stats.ncaa.org/team/index/12260?org_id=159
 2016	12260	1028	Concord	http://stats.ncaa.org/team/index/12260?org_id=1028
+2016	12260	30199	Concordia (CA)	http://stats.ncaa.org/team/index/12260?org_id=30199
 2016	12260	162	Concordia (NY)	http://stats.ncaa.org/team/index/12260?org_id=162
+2016	12260	30200	Concordia Portland	http://stats.ncaa.org/team/index/12260?org_id=30200
 2016	12260	9081	Concordia-St. Paul	http://stats.ncaa.org/team/index/12260?org_id=9081
 2016	12260	30174	Daemen	http://stats.ncaa.org/team/index/12260?org_id=30174
 2016	12260	1045	Dallas Baptist	http://stats.ncaa.org/team/index/12260?org_id=1045
@@ -90,6 +92,8 @@ year	year_id	team_id	team_name	team_url
 2016	12260	208	Eckerd	http://stats.ncaa.org/team/index/12260?org_id=208
 2016	12260	209	Edinboro	http://stats.ncaa.org/team/index/12260?org_id=209
 2016	12260	210	Elizabeth City St.	http://stats.ncaa.org/team/index/12260?org_id=210
+2016	12260	9680	Embry-Riddle (FL)	http://stats.ncaa.org/team/index/12260?org_id=9680
+2016	12260	30193	Emmanuel (GA)	http://stats.ncaa.org/team/index/12260?org_id=30193
 2016	12260	1071	Emporia St.	http://stats.ncaa.org/team/index/12260?org_id=1071
 2016	12260	1072	Erskine	http://stats.ncaa.org/team/index/12260?org_id=1072
 2016	12260	1076	Fairmont St.	http://stats.ncaa.org/team/index/12260?org_id=1076
@@ -148,6 +152,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	360	Lock Haven	http://stats.ncaa.org/team/index/12260?org_id=360
 2016	12260	30177	Lubbock Christian	http://stats.ncaa.org/team/index/12260?org_id=30177
 2016	12260	20794	Lynn	http://stats.ncaa.org/team/index/12260?org_id=20794
+2016	12260	413	MSU Denver	http://stats.ncaa.org/team/index/12260?org_id=413
 2016	12260	30137	Malone	http://stats.ncaa.org/team/index/12260?org_id=30137
 2016	12260	384	Mansfield	http://stats.ncaa.org/team/index/12260?org_id=384
 2016	12260	1199	Mars Hill	http://stats.ncaa.org/team/index/12260?org_id=1199
@@ -157,7 +162,6 @@ year	year_id	team_id	team_name	team_url
 2016	12260	407	Mercy	http://stats.ncaa.org/team/index/12260?org_id=407
 2016	12260	408	Mercyhurst	http://stats.ncaa.org/team/index/12260?org_id=408
 2016	12260	410	Merrimack	http://stats.ncaa.org/team/index/12260?org_id=410
-2016	12260	413	Metro St.	http://stats.ncaa.org/team/index/12260?org_id=413
 2016	12260	417	Michigan Tech	http://stats.ncaa.org/team/index/12260?org_id=417
 2016	12260	1222	Midwestern St.	http://stats.ncaa.org/team/index/12260?org_id=1222
 2016	12260	422	Miles	http://stats.ncaa.org/team/index/12260?org_id=422
@@ -200,6 +204,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	1278	Oakland City	http://stats.ncaa.org/team/index/12260?org_id=1278
 2016	12260	30119	Ohio Dominican	http://stats.ncaa.org/team/index/12260?org_id=30119
 2016	12260	15207	Ohio Valley	http://stats.ncaa.org/team/index/12260?org_id=15207
+2016	12260	30202	Okla. Baptist	http://stats.ncaa.org/team/index/12260?org_id=30202
 2016	12260	30179	Okla. Christian	http://stats.ncaa.org/team/index/12260?org_id=30179
 2016	12260	24342	Okla. Panhandle	http://stats.ncaa.org/team/index/12260?org_id=24342
 2016	12260	1289	Ouachita Baptist	http://stats.ncaa.org/team/index/12260?org_id=1289
@@ -260,6 +265,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	604	St. Joseph's (IN)	http://stats.ncaa.org/team/index/12260?org_id=604
 2016	12260	1346	St. Mary's (TX)	http://stats.ncaa.org/team/index/12260?org_id=1346
 2016	12260	1348	St. Thomas Aquinas	http://stats.ncaa.org/team/index/12260?org_id=1348
+2016	12260	103	Stanislaus St.	http://stats.ncaa.org/team/index/12260?org_id=103
 2016	12260	680	Stillman	http://stats.ncaa.org/team/index/12260?org_id=680
 2016	12260	682	Stonehill	http://stats.ncaa.org/team/index/12260?org_id=682
 2016	12260	689	Tampa	http://stats.ncaa.org/team/index/12260?org_id=689

@@ -21,7 +21,6 @@ year	year_id	team_id	team_name	team_url
 2016	12260	962	Bard	http://stats.ncaa.org/team/index/12260?org_id=962
 2016	12260	58	Baruch	http://stats.ncaa.org/team/index/12260?org_id=58
 2016	12260	50	Bates	http://stats.ncaa.org/team/index/12260?org_id=50
-2016	12260	26520	Bay Path	http://stats.ncaa.org/team/index/12260?org_id=26520
 2016	12260	26107	Becker	http://stats.ncaa.org/team/index/12260?org_id=26107
 2016	12260	53	Beloit	http://stats.ncaa.org/team/index/12260?org_id=53
 2016	12260	296	Benedictine (IL)	http://stats.ncaa.org/team/index/12260?org_id=296
@@ -147,7 +146,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	1124	Hendrix	http://stats.ncaa.org/team/index/12260?org_id=1124
 2016	12260	8398	Hilbert	http://stats.ncaa.org/team/index/12260?org_id=8398
 2016	12260	281	Hiram	http://stats.ncaa.org/team/index/12260?org_id=281
-2016	12260	282	Hobart	http://stats.ncaa.org/team/index/12260?org_id=282
+2016	12260	282	Hobart and William Colleges	http://stats.ncaa.org/team/index/12260?org_id=282
 2016	12260	8404	Hood	http://stats.ncaa.org/team/index/12260?org_id=8404
 2016	12260	286	Hope	http://stats.ncaa.org/team/index/12260?org_id=286
 2016	12260	30160	Houghton	http://stats.ncaa.org/team/index/12260?org_id=30160

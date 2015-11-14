@@ -1,0 +1,121 @@
+game_id	period_id	section_id	team_name	fgm	fga	tpfg	tpfga	ft	fta	pts	orebs	drebs	tot	reb	ast	to	stl	blk	fouls	dq
+3948336	1st Half	0	La Verne	13	28	6	14	5	5	37	4	9	13	4	7	1	1	10	""
+3948336	1st Half	1	Whitworth	15	28	4	11	8	11	42	3	10	13	7	4	5	2	7	""
+3948336	2nd Half	0	La Verne	16	31	7	15	4	7	43	5	11	16	7	8	2	3	16	""
+3948336	2nd Half	1	Whitworth	14	34	1	3	16	21	45	9	10	19	5	3	6	3	7	""
+3948336	Game Stats	0	Whitworth	29/	62/	5/	14/	24/	32/	87/	15	21	36/	12/	7/	11/	5/	14/	 
+3948336	Game Stats	1	La Verne	29/	59/	13/	29/	9/	12/	80/	11	21	32/	11/	15/	3/	4/	26/	1/
+3948488	1st Half	0	Kean	10	29	6	13	3	5	29	8	11	19	8	8	1	1	16	""
+3948488	1st Half	1	Columbia	17	36	4	17	10	20	48	14	13	27	10	5	3	5	9	""
+3948488	2nd Half	0	Kean	10	28	3	13	10	13	33	3	10	13	4	12	3	0	11	""
+3948488	2nd Half	1	Columbia	22	44	12	29	3	8	59	16	17	33	13	9	7	5	12	""
+3948488	Game Stats	0	Kean	20	57	9	26	13	18	62	11	21	32	12	20	4	1	27	3
+3948488	Game Stats	1	Columbia	39	80	16	46	13	28	107	30	30	60	23	14	10	10	21	 
+3948515	1st Half	0	Minn.-Morris	10	28	2	8	2	7	24	3	10	13	6	12	5	0	8	""
+3948515	1st Half	1	North Dakota	20	37	1	9	4	5	45	8	19	27	8	8	5	2	8	""
+3948515	2nd Half	0	Minn.-Morris	19	46	6	16	1	5	45	10	14	24	8	3	2	1	14	""
+3948515	2nd Half	1	North Dakota	19	34	3	8	13	21	54	5	20	25	11	3	2	4	9	""
+3948515	Game Stats	0	Minn.-Morris	29	74	8	24	3	12	69	13	24	37	14	15	7	1	22	 
+3948515	Game Stats	1	North Dakota	39/	71/	4	17	17	26	99/	13	39	52/	19/	11	7	6/	17	 
+3948588	1st Half	0	Penn St.-Schuylkill	13	34	6	14	7	14	39	7	14	21	7	10	2	1	15	""
+3948588	1st Half	1	Lycoming	20	37	5	8	10	16	55	6	19	25	13	7	5	1	14	""
+3948588	2nd Half	0	Penn St.-Schuylkill	11	29	3	11	11	19	36	3	15	18	5	9	8	1	11	""
+3948588	2nd Half	1	Lycoming	15	38	2	6	10	15	42	10	19	29	8	10	5	1	12	""
+3948588	Game Stats	0	Penn St.-Schuylkill	24	63	9	25	18	33	75	10	29	39	12	19	10	2	26	3
+3948588	Game Stats	1	Lycoming	35/	75/	7/	14	20/	31/	97/	16	38	54/	21	17	10	2	26	 
+3948601	1st Half	0	Haverford	11	29	2	9	3	6	27	3	16	19	3	9	2	1	10	""
+3948601	1st Half	1	Arcadia	15	37	5	11	5	9	40	7	17	24	10	4	3	0	11	""
+3948601	2nd Half	0	Haverford	12	31	2	10	8	14	34	5	18	23	2	7	2	5	13	""
+3948601	2nd Half	1	Arcadia	13	30	2	8	11	18	39	3	18	21	5	5	4	2	13	""
+3948601	Game Stats	0	Haverford	23	60	4	19	11	20	61	8	34	42	5	16	4	6/	23	3/
+3948601	Game Stats	1	Arcadia	28	67	7/	19/	16	27	79	10	35	45	15	9	7	2	24	 
+3948622	1st Half	0	Rowan	9	27	3	10	5	8	26	8	16	24	5	10	5	0	14	""
+3948622	1st Half	1	Salisbury	6	25	3	10	11	15	26	5	11	16	4	8	6	3	8	""
+3948622	2nd Half	0	Rowan	13	32	3	10	6	8	35	5	16	21	7	10	2	0	10	""
+3948622	2nd Half	1	Salisbury	12	36	4	18	8	12	36	10	15	25	6	8	5	2	7	""
+3948622	Game Stats	0	Rowan	22	59	6	20	11	16	61	13	32	45	12	20	7	 	24	 
+3948622	Game Stats	1	Salisbury	18/	61/	7/	28/	19/	27/	62/	15	26	41/	10/	16/	11/	5/	15/	1/
+3948674	1st Half	0	Clarkson	9	23	3	6	10	13	31	5	9	14	6	8	2	0	6	""
+3948674	1st Half	1	Morrisville St.	17	28	4	8	1	1	39	2	11	13	10	7	3	2	12	""
+3948674	2nd Half	0	Clarkson	11	26	1	10	7	11	30	7	15	22	3	9	2	0	7	""
+3948674	2nd Half	1	Morrisville St.	8	21	2	5	7	10	25	1	8	9	3	6	4	2	10	""
+3948674	Game Stats	0	Clarkson	20	49	4	16	17	24	61	12	24	36	9	17	4	 	13	1
+3948674	Game Stats	1	Morrisville St.	25/	49/	6/	13/	8/	11/	64/	3	19	22/	13/	13/	7/	4/	22/	 
+3948705	1st Half	0	Messiah	14	37	2	12	3	9	33	9	16	25	4	7	7	1	7	""
+3948705	1st Half	1	Summit	9	27	3	9	12	14	33	2	13	15	4	8	4	1	6	""
+3948705	2nd Half	0	Messiah	16	30	1	6	13	16	46	5	9	14	5	1	4	0	10	""
+3948705	2nd Half	1	Summit	12	28	3	10	3	7	30	5	10	15	4	6	0	0	10	""
+3948705	Game Stats	0	Messiah	30	67	3	18	16	25	79	14	25	39	9	8	11/	1	17	 
+3948705	Game Stats	1	Summit	21/	55/	6/	19/	15/	21/	63/	7	23	30/	8/	14/	4/	1/	16/	1/
+3948717	1st Half	0	Vassar	16	27	6	16	5	6	43	3	10	13	10	8	2	5	7	""
+3948717	1st Half	1	SUNY New Paltz	15	36	3	10	4	5	37	11	8	19	6	8	4	1	8	""
+3948717	2nd Half	0	Vassar	9	29	1	10	6	10	25	9	12	21	3	8	3	0	9	""
+3948717	2nd Half	1	SUNY New Paltz	11	24	4	12	7	13	33	2	12	14	6	4	4	3	9	""
+3948717	Game Stats	0	Vassar	25	56	7	26	11	16	68	12	22	34	13	16	5	5	16	 
+3948717	Game Stats	1	SUNY New Paltz	26/	60/	7/	22/	11/	18/	70/	13	20	33/	12/	12/	8/	4/	17/	 
+3948814	1st Half	0	Covenant	9	22	4	13	5	8	27	1	17	18	5	6	2	2	7	""
+3948814	1st Half	1	Liberty	10	34	3	10	3	7	26	11	14	25	3	6	3	1	12	""
+3948814	2nd Half	0	Covenant	13	28	5	13	4	5	35	3	11	14	7	9	5	0	10	""
+3948814	2nd Half	1	Liberty	14	25	3	8	7	10	38	3	13	16	8	10	4	2	10	""
+3948814	Game Stats	0	Covenant	22	50	9	26	9	13	62	4	28	32	12	15	7	2	17	 
+3948814	Game Stats	1	Liberty	24	59	6	18	10	17	64	14	27	41	11	16	7	3	22	1
+3948841	1st Half	0	Thiel	15	28	2	8	7	10	39	1	19	20	8	10	10	3	11	""
+3948841	1st Half	1	Allegheny	8	27	0	6	9	17	25	5	14	19	6	11	5	0	10	""
+3948841	2nd Half	0	Thiel	12	37	4	8	3	8	31	11	11	22	6	3	4	2	11	""
+3948841	2nd Half	1	Allegheny	13	26	0	8	11	16	37	4	17	21	5	4	2	4	8	""
+3948841	Game Stats	0	Thiel	27	65	6	16	10	18	70	12	30	42	14	13	14	5	22	 
+3948841	Game Stats	1	Allegheny	21	53	 	14	20	33	62	9	31	40	11	15	7	4	18	 
+3948850	1st Half	0	Eastern Conn. St.	9	31	1	8	4	8	23	9	11	20	1	5	1	1	13	""
+3948850	1st Half	1	WPI	11	29	3	6	9	14	34	7	15	22	6	3	0	2	10	""
+3948850	2nd Half	0	Eastern Conn. St.	9	30	1	6	8	13	27	8	10	18	3	5	4	5	7	""
+3948850	2nd Half	1	WPI	11	27	3	3	1	2	26	5	15	20	5	7	1	0	13	""
+3948850	Game Stats	0	Eastern Conn. St.	18	61	2	14	12	21	50	18	23	41	4	10	5	6	20	 
+3948850	Game Stats	1	WPI	22	56	6	9	10	16	60	12	33	45	11	10	1	2	23	 
+3948865	1st Half	0	Wis.-La Crosse	10	20	4	8	6	10	30	2	5	7	3	9	3	0	11	""
+3948865	1st Half	1	Augustana (IL)	17	28	5	12	9	13	48	8	10	18	8	5	5	0	9	""
+3948865	2nd Half	0	Wis.-La Crosse	9	23	2	8	10	13	30	5	5	10	4	8	2	0	16	""
+3948865	2nd Half	1	Augustana (IL)	10	18	3	7	17	23	40	6	11	17	5	9	5	1	12	""
+3948865	Game Stats	0	Wis.-La Crosse	19	43	6	16	16	23	60	7	10	17	7	17	5	 	27	3
+3948865	Game Stats	1	Augustana (IL)	27	46	8	19	26	36	88	14	21	35	13	14	10	1	21	 
+3948867	1st Half	0	Crossroads	12	34	4	13	3	4	31	6	9	15	7	5	6	0	11	""
+3948867	1st Half	1	Saint Mary's (MN)	12	24	4	11	11	16	39	5	17	22	6	8	2	1	5	""
+3948867	2nd Half	0	Crossroads	12	30	4	11	7	12	35	4	9	13	6	6	3	1	16	""
+3948867	2nd Half	1	Saint Mary's (MN)	17	29	2	8	8	16	44	9	17	26	9	9	0	2	9	""
+3948867	Game Stats	0	Crossroads	24	64	8	24	10	16	66	10	18	28	13	11	9	1	27	2
+3948867	Game Stats	1	Saint Mary's (MN)	29/	53/	6/	19/	19/	32/	83/	14	34	48/	15/	17/	2/	3/	14/	 
+3948888	1st Half	0	Muhlenberg	14	27	2	5	6	10	36	5	18	23	6	8	5	1	14	""
+3948888	1st Half	1	Albright	7	26	3	10	7	13	24	4	11	15	4	6	0	5	12	""
+3948888	2nd Half	0	Muhlenberg	11	25	1	1	15	18	38	4	16	20	2	11	0	2	15	""
+3948888	2nd Half	1	Albright	14	38	2	5	12	18	42	12	10	22	5	5	6	2	17	""
+3948888	Game Stats	0	Muhlenberg	25	52	3	6	21/	28	74	9	34	43/	8	19/	5	3	29/	1
+3948888	Game Stats	1	Albright	21	64	5	15	19	31/	66	16	21	37	9	11	6	7/	29/	2/
+3948897	1st Half	0	Hunter	13	38	3	17	6	8	35	5	10	15	6	6	4	0	10	""
+3948897	1st Half	1	St. Joseph's (ME)	17	31	11	17	6	7	51	4	16	20	15	10	1	0	9	""
+3948897	2nd Half	0	Hunter	19	40	5	18	3	4	46	7	15	22	9	5	1	3	7	""
+3948897	2nd Half	1	St. Joseph's (ME)	15	31	2	9	5	9	37	1	13	14	7	5	1	0	9	""
+3948897	Game Stats	0	Hunter	32/	78/	8/	35/	9/	12/	81/	14	26	40/	15/	11	5	3/	17	 
+3948897	Game Stats	1	St. Joseph's (ME)	32/	62/	13/	26/	11/	16/	88/	8	32	40/	22/	16/	2/	 	18/	 
+3948923	1st Half	0	Ursinus	15	33	3	13	7	10	40	2	20	22	12	4	3	3	6	""
+3948923	1st Half	1	Stevens	13	40	4	23	1	1	31	1	19	20	9	8	2	0	11	""
+3948923	2nd Half	0	Ursinus	15	35	1	8	12	20	43	6	13	19	9	5	4	3	7	""
+3948923	2nd Half	1	Stevens	19	38	8	16	3	5	49	7	18	25	11	11	3	2	14	""
+3948923	Game Stats	0	Stevens	32/	78/	12/	39/	4/	6/	80/	8	37	45/	20/	19/	5/	2/	25/	 
+3948923	Game Stats	1	Ursinus	30/	68/	4	21	19	30/	83/	8	33	41	21/	9	7/	6/	13	 
+3949037	1st Half	0	Howard Payne	10	19	5	8	12	19	37	2	20	22	9	14	4	1	13	""
+3949037	1st Half	1	Southwestern (TX)	11	32	2	12	8	15	32	6	7	13	8	5	7	0	11	""
+3949037	2nd Half	0	Howard Payne	11	26	4	7	10	15	36	4	12	16	7	10	0	6	21	""
+3949037	2nd Half	1	Southwestern (TX)	15	31	2	8	18	28	50	8	13	21	7	4	6	4	13	""
+3949037	Game Stats	0	Howard Payne	21	45	9	15	22	34	73	6	32	38	16	24	4	7	34	5
+3949037	Game Stats	1	Southwestern (TX)	26	63	4	20	26	43	82	14	20	34	15	9	13	4	24	1
+3949050	1st Half	0	Texas Lutheran	8	25	2	9	6	10	24	4	17	21	5	17	3	0	17	""
+3949050	1st Half	1	Incarnate Word	10	28	2	12	15	22	37	5	16	21	5	10	8	4	13	""
+3949050	2nd Half	0	Texas Lutheran	16	35	5	10	4	10	41	4	18	22	7	8	2	1	18	""
+3949050	2nd Half	1	Incarnate Word	15	33	3	10	16	20	49	3	19	22	10	6	4	2	13	""
+3949050	Game Stats	0	Texas Lutheran	24	60	7	19	10	20	65	8	35	43	12	25	5	1	35	2
+3949050	Game Stats	1	Incarnate Word	25	61	5	22	31/	42/	86	8	35	43	15	16	12	6/	26	2
+3949144	1st Half	0	Northland	7	26	0	7	2	5	16	4	12	16	3	9	2	1	9	""
+3949144	1st Half	1	Bemidji St.	13	34	3	14	9	10	38	9	18	27	9	7	5	2	8	""
+3949144	2nd Half	0	Northland	14	32	6	18	5	9	39	5	13	18	5	10	2	0	11	""
+3949144	2nd Half	1	Bemidji St.	19	36	3	12	5	10	46	6	15	21	11	5	7	2	12	""
+3949144	Game Stats	0	Northland	21	58	6	25/	7/	14/	55	9	25	34	8	19/	4	1/	20	 
+3949144	Game Stats	1	Bemidji St.	32	70	6	26	14	20	84	15	33	48	20	12	12	4	20	 

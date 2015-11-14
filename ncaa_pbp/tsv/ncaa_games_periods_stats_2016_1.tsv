@@ -1,0 +1,385 @@
+game_id	period_id	section_id	team_name	fgm	fga	tpfg	tpfga	ft	fta	pts	orebs	drebs	tot	reb	ast	to	stl	blk	fouls	dq
+3948488	1st Half	0	Kean	10	29	6	13	3	5	29	8	11	19	8	8	1	1	16	""
+3948488	1st Half	1	Columbia	17	36	4	17	10	20	48	14	13	27	10	5	3	5	9	""
+3948488	2nd Half	0	Kean	10	28	3	13	10	13	33	3	10	13	4	12	3	0	11	""
+3948488	2nd Half	1	Columbia	22	44	12	29	3	8	59	16	17	33	13	9	7	5	12	""
+3948488	Game Stats	0	Kean	20	57	9	26	13	18	62	11	21	32	12	20	4	1	27	3
+3948488	Game Stats	1	Columbia	39	80	16	46	13	28	107	30	30	60	23	14	10	10	21	 
+3948515	1st Half	0	Minn.-Morris	10	28	2	8	2	7	24	3	10	13	6	12	5	0	8	""
+3948515	1st Half	1	North Dakota	20	37	1	9	4	5	45	8	19	27	8	8	5	2	8	""
+3948515	2nd Half	0	Minn.-Morris	19	46	6	16	1	5	45	10	14	24	8	3	2	1	14	""
+3948515	2nd Half	1	North Dakota	19	34	3	8	13	21	54	5	20	25	11	3	2	4	9	""
+3948515	Game Stats	0	Minn.-Morris	29	74	8	24	3	12	69	13	24	37	14	15	7	1	22	 
+3948515	Game Stats	1	North Dakota	39	71	4	17	17	26	99	13	39	52	19	11	7	6	17	 
+3948557	1st Half	0	Jacksonville St.	14	33	2	9	2	2	32	7	6	13	5	6	4	1	12	""
+3948557	1st Half	1	Central Mich.	12	24	5	12	14	16	43	7	12	19	5	8	2	1	5	""
+3948557	2nd Half	0	Jacksonville St.	18	38	4	10	11	14	51	9	12	21	5	2	3	0	14	""
+3948557	2nd Half	1	Central Mich.	13	24	3	7	17	25	46	3	12	15	3	5	2	2	10	""
+3948557	Game Stats	0	Jacksonville St.	32	71	6	19	13	16	83	16	18	34	10	8	7	1	26	1
+3948557	Game Stats	1	Central Mich.	25/	48/	8/	19/	31/	41/	89/	10	24	34/	8/	13/	4/	3/	15/	 
+3948595	1st Half	0	South Dakota	12	29	5	13	3	5	32	3	15	18	9	6	2	3	8	""
+3948595	1st Half	1	Wright St.	11	28	5	11	3	5	30	1	16	17	7	6	3	2	8	""
+3948595	2nd Half	0	South Dakota	11	27	3	11	12	18	37	5	16	21	5	9	0	1	15	""
+3948595	2nd Half	1	Wright St.	13	29	5	13	16	20	47	3	11	14	8	3	4	1	12	""
+3948595	Game Stats	0	South Dakota	23	56	8/	24/	15/	23/	69	8	32	40	14	15/	2	4	23	1/
+3948595	Game Stats	1	Wright St.	24	57	10/	24	19	25	77	5	29	34	15	10	7	3/	20	 
+3948672	1st Half	0	Princeton	10	29	5	13	5	8	30	4	18	22	6	3	2	1	8	""
+3948672	1st Half	1	Rider	7	29	1	7	7	7	22	4	17	21	5	4	2	0	7	""
+3948672	2nd Half	0	Princeton	12	26	4	11	6	9	34	5	11	16	8	7	3	3	7	""
+3948672	2nd Half	1	Rider	14	28	4	10	2	2	34	3	12	15	10	7	3	2	10	""
+3948672	Game Stats	0	Princeton	22	55	9	24	11	17	64	9	29	38	14	10	5	4	15	 
+3948672	Game Stats	1	Rider	21	57	5	17	9	9	56	7	29	36	15	11	5	2	17	 
+3948704	1st Half	0	Fla. Atlantic	8	31	1	8	4	4	21	5	7	12	3	7	1	2	14	""
+3948704	1st Half	1	Michigan St.	15	30	2	6	11	16	43	11	18	29	12	8	1	9	8	""
+3948704	2nd Half	0	Fla. Atlantic	12	28	4	12	6	10	34	0	14	14	6	3	4	1	11	""
+3948704	2nd Half	1	Michigan St.	15	32	3	7	6	12	39	7	17	24	13	5	0	3	6	""
+3948704	Game Stats	0	Fla. Atlantic	20	59	5	20	10	14	55	5	21	26	9	10	5	3	25/	2/
+3948704	Game Stats	1	Michigan St.	30/	62/	5	13	17	28/	82/	18	35	53/	25/	13	1	12/	14	 
+3948721	1st Half	0	N.C. Central	7	27	1	8	1	2	16	4	12	16	4	7	1	0	10	""
+3948721	1st Half	1	Clemson	12	26	4	13	10	11	38	3	17	20	8	3	1	5	4	""
+3948721	2nd Half	0	N.C. Central	10	29	1	8	3	10	24	9	10	19	3	3	1	0	10	""
+3948721	2nd Half	1	Clemson	11	26	4	10	10	12	36	6	16	22	8	3	2	4	13	""
+3948721	Game Stats	0	N.C. Central	17	56	2	16	4	12	40	13	22	35	7	10	2	 	20	1
+3948721	Game Stats	1	Clemson	23	52	8	23	20	23	74	9	33	42	16	6	3	9	17	 
+3948723	1st Half	0	Lehigh	2	23	1	10	7	10	12	5	13	18	2	12	5	0	8	""
+3948723	1st Half	1	Syracuse	10	29	6	20	6	6	32	6	18	24	7	9	8	4	7	""
+3948723	2nd Half	0	Lehigh	13	29	1	7	8	12	35	6	14	20	6	3	6	1	9	""
+3948723	2nd Half	1	Syracuse	8	23	5	14	4	6	25	3	13	16	6	8	2	3	9	""
+3948723	Game Stats	0	Syracuse	18	52	11	34	10	12	57	9	31	40	13	17	10	7	16	1
+3948723	Game Stats	1	Lehigh	15	52	2	17	15	22	47	11	27	38	8	15	11	1	17	 
+3948728	1st Half	0	Fairleigh Dickinson	7	29	2	11	6	9	22	5	11	16	4	7	4	0	14	""
+3948728	1st Half	1	Villanova	16	34	4	14	14	17	50	8	18	26	10	4	2	2	9	""
+3948728	2nd Half	0	Fairleigh Dickinson	10	34	5	15	7	9	32	4	17	21	8	6	6	0	11	""
+3948728	2nd Half	1	Villanova	16	35	6	22	3	8	41	6	21	27	10	8	4	2	10	""
+3948728	Game Stats	0	Fairleigh Dickinson	17	63/	7	26/	13/	18	54	9	28	37	12	13/	10/	 	25	1/
+3948728	Game Stats	1	Villanova	32	69	10	36	17	25	91	14	39	53	20	12	6	4	19	 
+3948729	1st Half	0	Southwest (NM)	13	28	4	9	8	10	38	2	11	13	4	11	1	0	8	""
+3948729	1st Half	1	Abilene Christian	17	41	2	7	6	8	42	13	14	27	11	9	6	0	13	""
+3948729	2nd Half	0	Southwest (NM)	10	29	1	9	4	7	25	7	10	17	2	14	0	1	11	""
+3948729	2nd Half	1	Abilene Christian	20	32	3	8	9	13	52	4	15	19	12	3	8	2	10	""
+3948729	Game Stats	0	Southwest (NM)	23	57	5	18	12	17	63	9	21	30	6	25	1	1	19	 
+3948729	Game Stats	1	Abilene Christian	37	73	5	15	15	21	94	17	29	46	23	12	14	2	23	 
+3948736	1st Half	0	UNC Asheville	13	32	3	8	4	5	33	9	14	23	8	8	2	0	10	""
+3948736	1st Half	1	Tennessee	15	30	2	10	2	4	34	2	11	13	8	3	5	1	6	""
+3948736	2nd Half	0	UNC Asheville	16	33	3	9	10	13	45	5	8	13	4	5	6	1	15	""
+3948736	2nd Half	1	Tennessee	15	27	2	6	16	22	48	7	13	20	8	8	3	5	10	""
+3948736	Game Stats	0	UNC Asheville	29	65	6	17	14	18	78	14	22	36	12	13	8	1	25	1
+3948736	Game Stats	1	Tennessee	30	57	4	16	18	26	82	9	24	33	16	11	8	6	16	 
+3948738	1st Half	0	Seton Hill	11	35	4	16	2	2	28	8	14	22	9	9	1	2	13	""
+3948738	1st Half	1	Duquesne	17	32	4	10	7	14	45	4	16	20	9	3	2	1	2	""
+3948738	2nd Half	0	Seton Hill	16	36	9	18	2	2	43	2	8	10	10	5	6	0	11	""
+3948738	2nd Half	1	Duquesne	18	32	2	10	13	15	51	8	17	25	8	9	2	0	4	""
+3948738	Game Stats	0	Seton Hill	27	71	13	34	4	4	71	10	22	32	19	14	7	2	24	 
+3948738	Game Stats	1	Duquesne	35	64	6	20	20	29	96	12	33	45	17	12	4	1	6	 
+3948743	1st Half	0	Siena	9	29	2	8	7	11	27	4	14	18	4	9	3	0	14	""
+3948743	1st Half	1	Duke	14	33	3	14	13	16	44	7	18	25	4	4	4	1	8	""
+3948743	2nd Half	0	Siena	18	35	5	8	6	10	47	8	14	22	7	8	4	2	15	""
+3948743	2nd Half	1	Duke	16	33	3	11	13	20	48	8	11	19	5	6	4	4	9	""
+3948743	Game Stats	0	Siena	27	64	7	16	13	21	74	12	28	40	11	17	7	2	29	3
+3948743	Game Stats	1	Duke	30	66	6	25	26	36	92	15	29	44	9	10	8	5	17	 
+3948748	1st Half	0	Dartmouth	12	31	4	9	5	7	33	4	12	16	7	8	5	0	15	""
+3948748	1st Half	1	Seton Hall	13	22	3	5	10	22	39	5	16	21	9	11	4	4	11	""
+3948748	2nd Half	0	Dartmouth	12	32	2	9	8	9	34	5	6	11	9	5	3	3	17	""
+3948748	2nd Half	1	Seton Hall	16	25	1	3	12	21	45	8	16	24	11	9	3	2	10	""
+3948748	Game Stats	0	Dartmouth	24	63	6	18	13	16	67	9	18	27	16	13	8	3	32	 
+3948748	Game Stats	1	Seton Hall	29	47	4	8	22	43	84	13	32	45	20	20	7	6	21	 
+3948749	1st Half	0	Southeast Mo. St.	7	27	1	10	1	7	16	5	10	15	4	13	5	1	15	""
+3948749	1st Half	1	Dayton	14	29	4	13	14	20	46	8	18	26	12	9	6	4	9	""
+3948749	2nd Half	0	Southeast Mo. St.	13	37	4	15	7	16	37	11	10	21	7	2	1	1	13	""
+3948749	2nd Half	1	Dayton	13	23	4	9	8	17	38	5	21	26	11	8	1	4	17	""
+3948749	Game Stats	0	Southeast Mo. St.	20	64	5	25	8	23	53	16	20	36	11	15	6	2	28	2
+3948749	Game Stats	1	Dayton	27	52	8	22	22	37	84	13	39	52	23	17	7	8	26	 
+3948762	1st Half	0	Milligan	12	33	4	13	7	11	35	11	13	24	4	12	1	1	11	""
+3948762	1st Half	1	UNCW	17	34	6	16	12	17	52	6	12	18	8	4	6	3	10	""
+3948762	2nd Half	0	Milligan	8	26	1	8	10	14	27	8	13	21	1	17	0	0	22	""
+3948762	2nd Half	1	UNCW	13	30	0	7	22	34	48	9	12	21	6	4	10	6	13	""
+3948762	Game Stats	0	Milligan	20	59	5	21	17	25	62	19	26	45	5	29	1	1	33	4
+3948762	Game Stats	1	UNCW	30	64	6	23	34/	51/	100/	15	24	39	14	8	16/	9/	23	 
+3948814	1st Half	0	Covenant	9	22	4	13	5	8	27	1	17	18	5	6	2	2	7	""
+3948814	1st Half	1	Liberty	10	34	3	10	3	7	26	11	14	25	3	6	3	1	12	""
+3948814	2nd Half	0	Covenant	13	28	5	13	4	5	35	3	11	14	7	9	5	0	10	""
+3948814	2nd Half	1	Liberty	14	25	3	8	7	10	38	3	13	16	8	10	4	2	10	""
+3948814	Game Stats	0	Covenant	22	50	9	26	9	13	62	4	28	32	12	15	7	2	17	 
+3948814	Game Stats	1	Liberty	24	59	6	18	10	17	64	14	27	41	11	16	7	3	22	1
+3948833	1st Half	0	Holy Cross	13	28	3	8	2	2	31	2	13	15	7	5	4	1	8	""
+3948833	1st Half	1	Marist	10	23	1	8	3	5	24	2	13	15	4	9	1	3	7	""
+3948833	2nd Half	0	Holy Cross	10	27	5	15	11	13	36	3	14	17	7	4	0	1	10	""
+3948833	2nd Half	1	Marist	13	33	3	16	11	14	40	8	14	22	7	2	2	1	12	""
+3948833	Game Stats	0	Holy Cross	23	55	8	23	13	15	67	5	27	32	14	9	4	2	18	 
+3948833	Game Stats	1	Marist	23	56	4	24	14	19	64	10	27	37	11	11	3	4	19	 
+3948845	1st Half	0	Cincinnati Christian	8	22	2	4	9	10	27	3	8	11	2	9	1	0	11	""
+3948845	1st Half	1	Morehead St.	15	27	3	8	10	15	43	6	12	18	10	5	6	1	10	""
+3948845	2nd Half	0	Cincinnati Christian	8	26	2	7	6	9	24	7	9	16	1	14	3	0	14	""
+3948845	2nd Half	1	Morehead St.	16	30	3	10	9	14	44	8	13	21	10	7	9	4	8	""
+3948845	Game Stats	0	Cincinnati Christian	16	48	4	11	15	19	51	10	17	27	3	23	4	 	25	1
+3948845	Game Stats	1	Morehead St.	31	57	6	18	19	29	87	14	25	39	20	12	15	5	18	 
+3948848	1st Half	0	Sacramento St.	13	31	2	8	1	3	29	9	16	25	6	6	0	0	9	""
+3948848	1st Half	1	Arizona St.	10	28	0	8	3	8	23	6	11	17	3	4	3	4	8	""
+3948848	2nd Half	0	Sacramento St.	13	25	4	9	7	11	37	2	14	16	8	11	3	5	16	""
+3948848	2nd Half	1	Arizona St.	13	27	2	9	12	19	40	5	12	17	9	7	3	1	11	""
+3948848	Game Stats	0	Sacramento St.	26	56	6	17	8	14	66	11	30	41	14	17	3	5	25	1
+3948848	Game Stats	1	Arizona St.	23	55	2	17	15	27	63	11	23	34	12	11	6	5	19	 
+3948872	1st Half	0	Tennessee St.	13	28	2	7	8	10	36	4	11	15	5	9	2	1	12	""
+3948872	1st Half	1	Loyola Maryland	10	26	4	13	12	15	36	4	12	16	7	7	4	3	13	""
+3948872	2nd Half	0	Tennessee St.	16	27	3	8	15	18	50	3	18	21	9	7	3	3	16	""
+3948872	2nd Half	1	Loyola Maryland	9	29	2	6	15	28	35	8	9	17	2	6	4	1	14	""
+3948872	Game Stats	0	Tennessee St.	29	55	5	15	23	28	86	7	29	36	14	16	5	4	28	1
+3948872	Game Stats	1	Loyola Maryland	19	55	6	19	27	43	71	12	21	33	9	13	8	4	27	2
+3948876	1st Half	0	Samford	7	33	1	9	12	12	27	9	11	20	3	10	3	3	19	""
+3948876	1st Half	1	Louisville	14	27	4	7	16	24	48	6	17	23	10	8	4	6	11	""
+3948876	2nd Half	0	Samford	6	29	2	10	4	10	18	6	11	17	2	8	4	2	8	""
+3948876	2nd Half	1	Louisville	16	29	3	8	3	5	38	3	20	23	9	6	5	3	11	""
+3948876	Game Stats	0	Samford	13	62	3	19	16	22	45	15	22	37	5	18	7	5	27	 
+3948876	Game Stats	1	Louisville	30	56	7	15	19	29	86	9	37	46	19	14	9	9	22	 
+3948886	1st Half	0	Albany (NY)	9	25	0	8	9	15	27	5	8	13	1	7	6	0	11	""
+3948886	1st Half	1	Kentucky	13	28	4	11	8	11	38	9	13	22	7	11	1	3	12	""
+3948886	2nd Half	0	Albany (NY)	16	33	1	6	5	7	38	8	7	15	3	8	3	0	15	""
+3948886	2nd Half	1	Kentucky	15	22	2	6	8	13	40	3	9	12	9	9	5	5	9	""
+3948886	Game Stats	0	Albany (NY)	25/	58/	1/	14/	14/	22/	65/	13	15	28/	4/	15/	9/	 	26/	1/
+3948886	Game Stats	1	Kentucky	28	50	6	17	16	24	78	12	22	34	16	20	6	8	21	 
+3948904	1st Half	0	Northern Ky.	11	23	3	11	7	11	32	4	10	14	4	19	5	0	15	""
+3948904	1st Half	1	West Virginia	21	40	4	16	16	22	62	13	11	24	12	9	13	0	12	""
+3948904	2nd Half	0	Northern Ky.	10	24	2	5	7	12	29	4	8	12	5	11	2	0	17	""
+3948904	2nd Half	1	West Virginia	12	28	2	9	19	24	45	10	13	23	8	6	7	4	14	""
+3948904	Game Stats	0	Northern Ky.	21	47	5	16	14	23	61	8	18	26	9	30/	7	 	32	2
+3948904	Game Stats	1	West Virginia	33/	68/	6	25/	35	46	107/	23	24	47/	20/	15	20/	4	26/	1/
+3948945	1st Half	0	Harris-Stowe	8	30	1	6	7	10	24	9	12	21	3	18	5	2	12	""
+3948945	1st Half	1	Murray St.	20	33	4	10	10	13	54	4	14	18	13	9	8	4	9	""
+3948945	2nd Half	0	Harris-Stowe	7	22	2	8	15	18	31	2	10	12	4	9	0	1	14	""
+3948945	2nd Half	1	Murray St.	18	33	2	7	13	18	51	8	15	23	14	6	5	2	13	""
+3948945	Game Stats	0	Harris-Stowe	15	52	3	14	22	28	55	11	22	33	7	27	5	3	26	1
+3948945	Game Stats	1	Murray St.	38	66	6	17	23	31	105	12	29	41	27	15	13	6	22	 
+3948958	1st Half	0	Charleston So.	8	25	4	14	10	18	30	4	12	16	4	8	0	1	21	""
+3948958	1st Half	1	Wichita St.	10	29	2	12	20	22	42	8	20	28	4	7	3	2	16	""
+3948958	2nd Half	0	Charleston So.	10	23	4	11	9	12	33	2	11	13	4	5	0	0	18	""
+3948958	2nd Half	1	Wichita St.	15	28	5	13	11	19	46	8	12	20	10	1	1	2	11	""
+3948958	Game Stats	0	Charleston So.	18	48	8	25	19	30	63	6	23	29	8	13	 	1	39	4
+3948958	Game Stats	1	Wichita St.	25/	57/	7/	25/	31/	41/	88/	16	32	48/	14/	8/	4/	4/	27/	 
+3948975	1st Half	0	Texas Southern	9	26	4	13	5	9	27	5	3	8	5	8	3	0	10	""
+3948975	1st Half	1	New Mexico	21	29	3	8	9	11	54	4	13	17	14	4	4	4	11	""
+3948975	2nd Half	0	Texas Southern	8	23	2	8	12	17	30	4	12	16	5	11	6	0	13	""
+3948975	2nd Half	1	New Mexico	11	25	2	9	8	14	32	4	14	18	6	9	5	1	14	""
+3948975	Game Stats	0	New Mexico	32	54	5	17	17	25	86	8	27	35	20	13	9	5	25	 
+3948975	Game Stats	1	Texas Southern	17	49	6	21	17	26	57	9	15	24	10	19	9	 	23	1
+3948982	1st Half	0	William & Mary	16	30	7	13	12	16	51	3	16	19	10	3	5	1	5	""
+3948982	1st Half	1	North Carolina St.	14	40	4	14	3	6	35	11	14	25	7	5	2	1	10	""
+3948982	2nd Half	0	William & Mary	15	30	2	9	2	3	34	8	15	23	6	11	5	1	12	""
+3948982	2nd Half	1	North Carolina St.	13	31	2	8	5	8	33	5	8	13	8	5	6	4	7	""
+3948982	Game Stats	0	William & Mary	31	60	9	22	14	19	85	11	31	42/	16/	14	10	2	17	1
+3948982	Game Stats	1	North Carolina St.	27	71	6	22	8	14	68	16	22	38	15	10	8	5	17	 
+3948983	1st Half	0	Elon	19	33	7	12	8	11	53	3	18	21	8	7	2	0	11	""
+3948983	1st Half	1	Charlotte	9	33	2	7	6	13	26	7	12	19	3	6	2	2	10	""
+3948983	2nd Half	0	Elon	14	36	1	12	3	5	32	7	13	20	6	10	2	0	15	""
+3948983	2nd Half	1	Charlotte	15	32	4	9	14	21	48	6	16	22	4	5	5	2	8	""
+3948983	Game Stats	0	Elon	33/	69/	8	24/	11	16	85	10	31	41	14	17/	4	 	26	1
+3948983	Game Stats	1	Charlotte	24	65	6	16	20	34	74	13	28	41	7	11	7	4/	18	 
+3948990	1st Half	0	UT Martin	12	27	2	8	5	8	31	1	11	12	2	2	3	0	11	""
+3948990	1st Half	1	Oklahoma St.	14	27	4	11	8	10	40	4	16	20	6	5	1	0	8	""
+3948990	2nd Half	0	UT Martin	9	29	2	12	6	8	26	5	13	18	3	8	0	0	13	""
+3948990	2nd Half	1	Oklahoma St.	19	32	3	10	10	14	51	3	16	19	6	0	6	5	7	""
+3948990	Game Stats	0	UT Martin	21	56	4	20	11	16	57	6	24	30	5	10	3	 	24	1
+3948990	Game Stats	1	Oklahoma St.	33/	59	7/	21	18	24	91	7	32	39	12	5	7	5	15	 
+3949007	1st Half	0	Western Ill.	14	23	4	4	5	9	37	4	6	10	6	6	0	2	12	""
+3949007	1st Half	1	Wisconsin	14	30	5	10	11	15	44	10	9	19	5	2	3	3	8	""
+3949007	2nd Half	0	Western Ill.	13	27	3	5	3	3	32	4	17	21	5	4	0	2	12	""
+3949007	2nd Half	1	Wisconsin	8	32	2	11	5	10	23	11	9	20	3	2	3	3	7	""
+3949007	Game Stats	0	Western Ill.	27	50	7	9	8	12	69	8	23	31	11	10	 	4	24/	1/
+3949007	Game Stats	1	Wisconsin	22	62/	7/	21	16	25	67	21	18	39	8	4	6	6	15	 
+3949011	1st Half	0	San Diego	6	29	2	14	5	13	19	10	11	21	3	8	1	3	10	""
+3949011	1st Half	1	Southern California	18	37	3	10	3	7	42	9	18	27	8	5	2	7	12	""
+3949011	2nd Half	0	San Diego	9	32	4	17	4	13	26	5	10	15	4	4	2	2	9	""
+3949011	2nd Half	1	Southern California	14	30	3	11	10	11	41	6	22	28	7	9	2	4	11	""
+3949011	Game Stats	0	San Diego	15	61	6	31/	9	26	45	15	21	36	7	12	3	5/	19	 
+3949011	Game Stats	1	Southern California	32	67	6	21	13	18	83	15	40	55	15	14	4	11	23	 
+3949030	1st Half	0	Kennesaw St.	10	30	2	8	10	14	32	5	16	21	3	8	6	0	11	""
+3949030	1st Half	1	Alabama	18	32	3	9	4	13	43	5	17	22	8	7	6	4	10	""
+3949030	2nd Half	0	Kennesaw St.	9	25	5	11	9	12	32	7	11	18	3	8	1	4	14	""
+3949030	2nd Half	1	Alabama	11	25	1	8	11	14	34	5	11	16	5	5	5	2	11	""
+3949030	Game Stats	0	Kennesaw St.	19	55	7	19	19	26	64	12	27	39	6	16	7	4	25	 
+3949030	Game Stats	1	Alabama	29	57	4	17	15	27	77	10	28	38	13	12	11	6	21	1
+3949032	1st Half	0	Allen	7	28	4	17	4	5	22	4	12	16	6	10	3	0	12	""
+3949032	1st Half	1	Mercer	17	35	1	11	7	12	42	10	17	27	12	7	7	2	6	""
+3949032	2nd Half	0	Allen	13	36	3	12	19	24	48	6	10	16	6	3	3	1	22	""
+3949032	2nd Half	1	Mercer	16	26	0	2	22	32	54	4	20	24	11	6	1	3	16	""
+3949032	Game Stats	0	Allen	20	64	7	29	23	29	70	10	22	32	12	13	6	1	34	1
+3949032	Game Stats	1	Mercer	33	61	1	13	29	44	96	14	37	51	23	13	8	5	22	1
+3949038	1st Half	0	Drexel	9	22	0	3	16	21	34	4	12	16	2	8	1	2	15	""
+3949038	1st Half	1	Saint Joseph's	11	27	3	13	19	22	44	5	13	18	7	8	5	2	16	""
+3949038	2nd Half	0	Drexel	20	42	5	13	2	7	47	11	10	21	9	2	3	1	14	""
+3949038	2nd Half	1	Saint Joseph's	14	26	1	5	9	17	38	7	11	18	5	8	0	4	7	""
+3949038	Game Stats	0	Drexel	29	64	5	16	18	28	81	15	22	37	11	10	4	3	29/	3/
+3949038	Game Stats	1	Saint Joseph's	25	53	4	18	28	39	82	12	24	36	12	16	5	6	23	1
+3949039	1st Half	0	Northern Mich.	10	23	3	9	3	6	26	3	11	14	4	10	2	0	12	""
+3949039	1st Half	1	Michigan	14	27	2	8	6	8	36	4	12	16	8	7	5	1	7	""
+3949039	2nd Half	0	Northern Mich.	7	28	2	8	2	3	18	8	10	18	2	9	0	0	8	""
+3949039	2nd Half	1	Michigan	13	25	4	8	4	7	34	3	13	16	7	5	4	4	6	""
+3949039	Game Stats	0	Northern Mich.	17	51	5	17	5	9	44	11	21	32	6	19/	2	 	20	1
+3949039	Game Stats	1	Michigan	27	52	6	16	10	15	70	7	25	32	15	12	9/	5	13	 
+3949042	1st Half	0	Denver	11	19	3	5	5	7	30	2	6	8	9	7	2	1	14	""
+3949042	1st Half	1	Milwaukee	11	28	4	16	9	9	35	11	8	19	10	8	1	0	9	""
+3949042	2nd Half	0	Denver	11	23	4	12	2	3	28	1	9	10	7	8	4	0	9	""
+3949042	2nd Half	1	Milwaukee	10	21	5	11	11	12	36	1	11	12	8	6	5	0	6	""
+3949042	Game Stats	0	Denver	22	42	7	17	7	10	58	3	16	19	16	15/	6	1	23	1/
+3949042	Game Stats	1	Milwaukee	21	49	9	27/	20/	21	71	12	19	31	18/	14	6	 	15	 
+3949050	1st Half	0	Texas Lutheran	8	25	2	9	6	10	24	4	17	21	5	17	3	0	17	""
+3949050	1st Half	1	Incarnate Word	10	28	2	12	15	22	37	5	16	21	5	10	8	4	13	""
+3949050	2nd Half	0	Texas Lutheran	16	35	5	10	4	10	41	4	18	22	7	8	2	1	18	""
+3949050	2nd Half	1	Incarnate Word	15	33	3	10	16	20	49	3	19	22	10	6	4	2	13	""
+3949050	Game Stats	0	Texas Lutheran	24	60	7	19	10	20	65	8	35	43	12	25	5	1	35	2
+3949050	Game Stats	1	Incarnate Word	25	61	5	22	31	42	86	8	35	43	15	16	12	6	26	2
+3949053	1st Half	0	Jarvis Christian	11	32	4	11	6	10	32	2	19	21	4	7	4	1	15	""
+3949053	1st Half	1	North Texas	18	39	7	15	13	25	56	10	22	32	10	6	3	0	11	""
+3949053	2nd Half	0	Jarvis Christian	16	46	7	23	11	19	50	11	12	23	9	9	12	2	18	""
+3949053	2nd Half	1	North Texas	19	32	2	6	16	29	56	8	23	31	8	14	5	2	14	""
+3949053	Game Stats	0	Jarvis Christian	27	78	11	34	17	29	82	13	31	44	13	16	16	3	33	1
+3949053	Game Stats	1	North Texas	37/	71/	9/	21/	29/	54/	112/	18	45	63/	18/	20/	8/	2	25/	1
+3949056	1st Half	0	Middle Ga. St.	9	27	1	9	9	16	28	8	15	23	7	10	1	3	10	""
+3949056	1st Half	1	Georgia St.	14	32	4	13	8	13	40	6	13	19	7	3	4	3	12	""
+3949056	2nd Half	0	Middle Ga. St.	7	21	0	7	12	16	26	5	14	19	1	10	1	1	4	""
+3949056	2nd Half	1	Georgia St.	14	34	3	14	2	4	33	7	11	18	7	4	5	1	12	""
+3949056	Game Stats	0	Middle Ga. St.	16	48	1	16	21	32	54	13	29	42	8	20	2	4	14	 
+3949056	Game Stats	1	Georgia St.	28	66	7	27	10	17	73	13	24	37	14	7	9	4	24	1
+3949062	1st Half	0	Wagner	10	29	4	10	7	13	31	8	15	23	4	6	4	1	12	""
+3949062	1st Half	1	St. John's (NY)	11	25	5	9	5	10	32	3	15	18	5	8	1	4	13	""
+3949062	2nd Half	0	Wagner	9	31	4	12	4	7	26	7	12	19	4	6	3	1	14	""
+3949062	2nd Half	1	St. John's (NY)	10	22	4	11	10	15	34	3	17	20	7	6	2	1	9	""
+3949062	Game Stats	0	Wagner	19	60	8	22	11	20/	57	15	27	42/	8	12	7	2	26/	1/
+3949062	Game Stats	1	St. John's (NY)	21	47	9	20	15	25	66	6	32	38	12	14	3	5	22	 
+3949066	1st Half	0	Belmont	18	37	8	21	3	6	47	6	12	18	13	7	1	1	8	""
+3949066	1st Half	1	Marquette	15	35	2	12	8	12	40	9	12	21	11	4	4	3	8	""
+3949066	2nd Half	0	Belmont	12	29	4	13	8	11	36	2	10	12	10	5	1	0	14	""
+3949066	2nd Half	1	Marquette	13	30	4	14	10	15	40	6	16	22	8	7	3	1	12	""
+3949066	Game Stats	0	Belmont	30	66	12	34	11	17	83	11	24	35	23	12	2	1	22	 
+3949066	Game Stats	1	Marquette	28	65	6	26	18	27	80	15	29	44	19	11	7	4	20	 
+3949072	1st Half	0	Southeastern La.	10	27	5	14	6	6	31	5	13	18	7	9	4	0	17	""
+3949072	1st Half	1	TCU	13	25	6	9	10	18	42	5	12	17	6	7	3	4	10	""
+3949072	2nd Half	0	Southeastern La.	17	38	5	14	7	14	46	8	8	16	9	8	7	3	20	""
+3949072	2nd Half	1	TCU	11	24	0	3	26	29	48	5	18	23	5	12	3	6	11	""
+3949072	Game Stats	0	Southeastern La.	27	65	10	28	13	20	77	13	21	34	16	17	11	3	37	4
+3949072	Game Stats	1	TCU	24	49	6	12	36/	47/	90	10	30	40	11	19/	6	10/	21	 
+3949081	1st Half	0	Florida	13	24	1	7	2	3	29	4	17	21	3	11	3	2	10	""
+3949081	1st Half	1	Navy	9	27	1	6	0	5	19	4	8	12	5	6	2	1	7	""
+3949081	2nd Half	0	Florida	10	25	2	12	8	16	30	9	17	26	5	8	5	4	9	""
+3949081	2nd Half	1	Navy	8	32	3	13	3	7	22	10	11	21	4	7	5	1	12	""
+3949081	Game Stats	0	Florida	23	49	3	19	10	19	59	13	34	47	8	19	8	6	19	 
+3949081	Game Stats	1	Navy	17	59	4	19	3	12	41	14	19	33	9	13	7	2	19	 
+3949082	1st Half	0	Gardner-Webb	14	33	4	12	5	7	37	7	11	18	8	8	1	0	16	""
+3949082	1st Half	1	Iowa	12	27	2	9	15	18	41	5	10	15	8	5	3	4	8	""
+3949082	2nd Half	0	Gardner-Webb	5	27	2	11	10	14	22	4	13	17	2	9	6	0	12	""
+3949082	2nd Half	1	Iowa	12	32	5	15	6	10	35	9	19	28	7	9	5	2	11	""
+3949082	Game Stats	0	Gardner-Webb	19	60	6	23	15	21	59	14	25	39	10	17	7	 	28	2
+3949082	Game Stats	1	Iowa	24	59	7/	24/	21/	28/	76	16	30	46	15	14/	8	6	19/	 
+3949083	1st Half	0	North Dakota St.	14	34	4	11	1	1	33	4	10	14	5	6	4	1	7	""
+3949083	1st Half	1	UC Davis	15	29	4	6	5	10	39	4	15	19	9	7	4	1	5	""
+3949083	2nd Half	0	North Dakota St.	16	34	3	10	1	5	36	5	13	18	6	3	2	0	12	""
+3949083	2nd Half	1	UC Davis	11	25	0	5	8	17	30	5	15	20	4	4	1	2	7	""
+3949083	1st OT	0	North Dakota St.	4	9	0	2	2	3	10	3	6	9	2	0	1	0	2	""
+3949083	1st OT	1	UC Davis	0	7	0	2	2	4	2	2	2	4	0	1	0	0	2	""
+3949083	Game Stats	0	North Dakota St.	34/	77/	7	23	4	9	79	13	29	42	13	9	7	1	21	1/
+3949083	Game Stats	1	UC Davis	26	61	4	13	15	31	71	12	34	46	13	12	5	3	14	 
+3949086	1st Half	0	Arkansas St.	13	33	5	9	6	7	37	7	16	23	9	6	2	1	11	""
+3949086	1st Half	1	SIUE	12	34	4	15	9	14	37	8	14	22	6	4	2	2	9	""
+3949086	2nd Half	0	Arkansas St.	13	39	2	11	5	8	33	12	12	24	5	5	0	0	16	""
+3949086	2nd Half	1	SIUE	9	21	3	7	21	26	42	3	17	20	7	3	2	3	11	""
+3949086	Game Stats	0	Arkansas St.	26	72	7	20	11	15	70	19	28	47	14	11	2	1	27	 
+3949086	Game Stats	1	SIUE	21	55	7	22	30	40	79	11	31	42	13	7	4	5	20	 
+3949091	1st Half	0	Oregon Tech	14	38	4	16	1	5	33	8	11	19	8	9	2	3	13	""
+3949091	1st Half	1	Portland	16	29	5	13	11	15	48	5	17	22	10	7	7	2	9	""
+3949091	2nd Half	0	Oregon Tech	16	40	5	14	11	14	48	8	16	24	6	6	2	1	8	""
+3949091	2nd Half	1	Portland	19	38	9	17	3	8	50	5	16	21	14	4	5	3	12	""
+3949091	Game Stats	0	Oregon Tech	30	78	9	30	12	19	81	16	27	43	14	15	4	4	21	 
+3949091	Game Stats	1	Portland	35/	67/	14/	30	14	23	98/	10	33	43	24/	11	12/	5/	21	 
+3949092	1st Half	0	Southern U.	8	30	2	8	7	11	25	4	14	18	4	7	3	2	9	""
+3949092	1st Half	1	Arkansas	14	32	4	10	8	12	40	6	19	25	12	6	2	4	13	""
+3949092	2nd Half	0	Southern U.	14	23	2	4	13	17	43	3	7	10	5	10	5	3	13	""
+3949092	2nd Half	1	Arkansas	18	34	4	5	6	14	46	11	7	18	9	8	7	2	11	""
+3949092	Game Stats	0	Southern U.	22	53	4	12	20	28	68	7	21	28	9	17	8	5	22	1
+3949092	Game Stats	1	Arkansas	32	66	8	15	14	26	86	17	26	43	21	14	9	6	24	1
+3949093	1st Half	0	Utah St.	14	28	4	9	3	5	35	3	15	18	8	7	2	0	9	""
+3949093	1st Half	1	Weber St.	10	24	4	11	8	11	32	1	11	12	7	4	1	2	8	""
+3949093	2nd Half	0	Utah St.	14	33	4	11	6	10	38	8	9	17	5	4	2	0	11	""
+3949093	2nd Half	1	Weber St.	12	24	4	8	10	12	38	3	15	18	4	7	2	0	10	""
+3949093	Game Stats	0	Utah St.	28	61	8	20	9	15	73	11	24	35	13	11	4	 	20	1
+3949093	Game Stats	1	Weber St.	22	48	8	19	18	23	70	4	26	30	11	11	3	2	18	 
+3949094	1st Half	0	Chadron St.	9	35	3	9	0	1	21	12	11	23	3	10	3	2	13	""
+3949094	1st Half	1	South Dakota St.	16	27	6	11	5	12	43	5	15	20	11	7	5	4	6	""
+3949094	2nd Half	0	Chadron St.	10	26	4	10	7	16	31	5	9	14	5	8	5	0	11	""
+3949094	2nd Half	1	South Dakota St.	18	37	1	10	7	10	44	11	16	27	7	7	4	3	12	""
+3949094	Game Stats	0	South Dakota St.	34/	64	7	21	12	22	87/	16	31	47/	18/	14	9/	7/	18	 
+3949094	Game Stats	1	Chadron St.	19	61	7	19	7	17	52	17	20	37	8	18	8/	2	24	1
+3949109	1st Half	0	Robert Morris	12	28	3	8	1	5	28	4	14	18	6	9	3	3	8	""
+3949109	1st Half	1	Penn	16	31	6	15	6	8	44	3	14	17	13	5	3	0	5	""
+3949109	2nd Half	0	Robert Morris	16	32	6	12	9	13	47	5	13	18	9	2	5	1	5	""
+3949109	2nd Half	1	Penn	13	26	4	11	2	3	32	1	11	12	12	9	1	1	10	""
+3949109	Game Stats	0	Robert Morris	28/	60	9/	20	10	18	75/	9	27	36	15/	11	8	4/	13	 
+3949109	Game Stats	1	Penn	29	57	10	26	8	11	76	4	25	29	25	14	4	1	15	 
+3949117	1st Half	0	Northern Ariz.	10	25	1	7	13	16	34	6	12	18	4	12	3	1	10	""
+3949117	1st Half	1	Washington St.	18	35	6	13	5	10	47	8	10	18	13	8	7	5	12	""
+3949117	2nd Half	0	Northern Ariz.	12	34	3	9	9	14	36	7	14	21	5	6	7	0	6	""
+3949117	2nd Half	1	Washington St.	13	33	4	11	5	6	35	7	17	24	7	10	4	2	9	""
+3949117	Game Stats	0	Washington St.	31	68	10	24	10	16	82	15	27	42	20	18	11	7	21	 
+3949117	Game Stats	1	Northern Ariz.	22	59	4	16	22	30	70	13	26	39	9	18	10	1	16	 
+3949123	1st Half	0	Great Falls	16	38	4	14	6	8	42	10	17	27	6	7	4	1	9	""
+3949123	1st Half	1	Idaho St.	7	27	3	13	11	17	28	7	13	20	5	11	4	4	10	""
+3949123	2nd Half	0	Great Falls	12	33	4	13	2	2	30	8	8	16	7	11	6	0	13	""
+3949123	2nd Half	1	Idaho St.	14	26	9	16	13	18	50	7	13	20	10	9	5	1	8	""
+3949123	Game Stats	0	Idaho St.	21	53	12	29	24	35	78	14	26	40	15	20	9	5	18	 
+3949123	Game Stats	1	Great Falls	28	71	8	27	8	10	72	18	25	43	13	18	10	1	22	 
+3949125	1st Half	0	Eastern Wash.	20	34	4	12	7	10	51	2	11	13	5	3	4	0	8	""
+3949125	1st Half	1	Mississippi St.	18	31	3	12	9	10	48	3	15	18	7	7	0	2	10	""
+3949125	2nd Half	0	Eastern Wash.	13	31	2	10	9	12	37	7	5	12	4	8	4	0	12	""
+3949125	2nd Half	1	Mississippi St.	23	35	2	5	10	14	58	9	13	22	7	6	4	5	11	""
+3949125	Game Stats	0	Eastern Wash.	33	65	6	22	16	22	88	9	16	25	9	11	8	 	20	 
+3949125	Game Stats	1	Mississippi St.	41	66	5	17	19	24	106	12	28	40	14	13	4	7	21	 
+3949133	1st Half	0	UC San Diego	9	28	5	17	3	3	26	4	11	15	7	3	1	0	11	""
+3949133	1st Half	1	UC Irvine	14	24	4	6	14	18	46	2	15	17	6	3	2	4	6	""
+3949133	2nd Half	0	UC San Diego	15	34	6	10	11	12	47	8	7	15	6	2	3	1	10	""
+3949133	2nd Half	1	UC Irvine	17	26	3	8	6	10	43	3	11	14	12	5	0	4	10	""
+3949133	Game Stats	0	UC San Diego	24	62/	11/	27/	14	15	73	12	18	30	13	5	4	1	21	1/
+3949133	Game Stats	1	UC Irvine	31	50	7	14	20	28	89	5	26	31	18	8	2	8	16	 
+3949135	1st Half	0	Pepperdine	12	34	2	12	12	14	38	8	20	28	6	6	2	0	10	""
+3949135	1st Half	1	Fresno St.	11	34	1	8	7	12	30	6	14	20	4	6	4	6	12	""
+3949135	2nd Half	0	Pepperdine	8	18	2	5	10	20	28	1	15	16	4	12	3	0	15	""
+3949135	2nd Half	1	Fresno St.	14	29	1	9	10	18	39	5	15	20	9	6	11	2	14	""
+3949135	Game Stats	0	Pepperdine	20	52	4	17	22/	34/	66	9	35	44/	10	18/	5	 	25/	2/
+3949135	Game Stats	1	Fresno St.	25	63	2	17	17	30	69	11	29	40	13	12	15	8	26	 
+3949142	1st Half	0	Cal Poly	14	30	4	12	8	11	40	4	14	18	7	7	6	1	15	""
+3949142	1st Half	1	UNLV	11	26	1	10	14	21	37	5	14	19	9	10	3	0	13	""
+3949142	2nd Half	0	Cal Poly	12	35	3	13	5	5	32	9	7	16	6	7	3	0	15	""
+3949142	2nd Half	1	UNLV	12	25	2	4	11	19	37	9	14	23	7	9	1	5	11	""
+3949142	Game Stats	0	Cal Poly	26	65	7	25	13	16	72	13	21	34	13	14	9	1	30	 
+3949142	Game Stats	1	UNLV	23	51	3	14	25	40	74	14	28	42	16	19	4	5	24	 
+3949149	1st Half	0	American	9	20	2	6	3	6	23	2	10	12	3	10	2	1	12	""
+3949149	1st Half	1	Rhode Island	15	26	0	6	6	12	36	5	11	16	3	6	7	2	8	""
+3949149	2nd Half	0	American	7	26	0	8	5	7	19	8	9	17	1	7	6	2	15	""
+3949149	2nd Half	1	Rhode Island	9	20	4	7	7	19	29	6	12	18	5	7	1	3	9	""
+3949149	Game Stats	0	American	16	46	2	14	8	13	42	10	19	29	4	17	8	3	27	1
+3949149	Game Stats	1	Rhode Island	24	46	4	13	13	31	65	11	23	34	8	13	8	5	17	 
+3949154	1st Half	0	Green Bay	14	37	4	12	6	7	38	9	15	24	7	9	6	2	10	""
+3949154	1st Half	1	Stanford	11	27	0	7	6	11	28	4	15	19	5	11	3	5	7	""
+3949154	2nd Half	0	Green Bay	11	32	3	6	11	19	36	6	8	14	3	5	6	0	16	""
+3949154	2nd Half	1	Stanford	16	27	5	9	9	16	46	6	15	21	5	9	1	7	13	""
+3949154	1st OT	0	Green Bay	 	 	 	 	 	 	15	 	 	 	 	 	 	 	 	 
+3949154	1st OT	1	Stanford	 	 	 	 	 	 	19	 	 	 	 	 	 	 	 	 
+3949154	Game Stats	0	Green Bay	30/	77/	10/	21	19	28/	89/	15	25	40/	11	17	12/	2	35/	3/
+3949154	Game Stats	1	Stanford	31	60	6	18	25	42	93	12	33	45	10	21	4	12	21	 
+3949165	1st Half	0	Northeastern	12	26	5	11	11	16	40	4	15	19	6	6	2	1	8	""
+3949165	1st Half	1	Boston U.	16	31	4	9	1	4	37	2	12	14	11	5	3	1	10	""
+3949165	2nd Half	0	Northeastern	10	26	4	11	13	17	37	3	10	13	5	1	3	3	10	""
+3949165	2nd Half	1	Boston U.	12	26	6	16	10	15	40	5	17	22	9	4	0	2	12	""
+3949165	1st OT	0	Northeastern	 	 	 	 	 	 	10	 	 	 	 	 	 	 	 	 
+3949165	1st OT	1	Boston U.	 	 	 	 	 	 	7	 	 	 	 	 	 	 	 	 
+3949165	Game Stats	0	Northeastern	26	57	11/	24/	24	33	87	8	29	37	13	9	5	4	19	 
+3949165	Game Stats	1	Boston U.	30	65	11	29	13	21	84	9	29	38	21	9	3	3	22	2
+3949168	1st Half	0	Ark.-Pine Bluff	10	29	4	17	4	6	28	3	13	16	6	7	6	5	11	""
+3949168	1st Half	1	Seattle	11	25	3	9	8	13	33	5	17	22	7	11	5	0	7	""
+3949168	2nd Half	0	Ark.-Pine Bluff	10	26	3	13	7	10	30	5	16	21	6	5	2	1	12	""
+3949168	2nd Half	1	Seattle	6	24	3	7	8	15	23	5	14	19	5	4	0	0	10	""
+3949168	Game Stats	0	Ark.-Pine Bluff	20	55	7	30	11	16	58	8	29	37	12	12	8	6	23	 
+3949168	Game Stats	1	Seattle	17	49	6	16	16	28	56	10	31	41	12	15	5	 	17	 
+3949169	1st Half	0	Rice	13	34	1	8	4	7	31	4	13	17	3	4	2	0	8	""
+3949169	1st Half	1	California	18	36	3	8	8	9	47	6	18	24	8	3	2	3	9	""
+3949169	2nd Half	0	Rice	9	26	5	9	11	15	34	3	10	13	5	5	1	1	9	""
+3949169	2nd Half	1	California	18	35	7	15	7	9	50	8	16	24	8	4	2	4	12	""
+3949169	Game Stats	0	Rice	22	60	6	17	15	22	65	7	23	30	8	9	3	1	17	 
+3949169	Game Stats	1	California	36	71	10	23	15	18	97	14	34	48	16	7	4	7	21	 

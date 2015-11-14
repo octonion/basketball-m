@@ -72,7 +72,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	15	Albion	02/13/2016	Olivet		Olivet		false		true	-								
 2016	12260	15	Albion	02/17/2016	Alma		Alma		false		true	-								
 2016	12260	15	Albion	02/20/2016	@ Trine		Trine		false		false	-								
-2016	12260	16	Albright	11/13/2015	Muhlenberg		Muhlenberg		false		true	-								
+2016	12260	16	Albright	11/13/2015	Muhlenberg	453	Muhlenberg	http://stats.ncaa.org/team/index/12260?org_id=453	false		true	L 66 - 74	false	66 - 74	66	74	false		3948888	http://stats.ncaa.org/game/index/3948888?org_id=16
 2016	12260	16	Albright	11/14/2015	Haverford@Allentown, PA		HaverfordAllentown, PA		false		false	-								
 2016	12260	16	Albright	11/18/2015	@ Penn St.-Berks		Penn St.-Berks		false		false	-								
 2016	12260	16	Albright	11/21/2015	@ Penn St. Harrisburg		Penn St. Harrisburg		false		false	-								
@@ -97,7 +97,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	16	Albright	02/10/2016	@ Lycoming		Lycoming		false		false	-								
 2016	12260	16	Albright	02/13/2016	Stevenson		Stevenson		false		true	-								
 2016	12260	16	Albright	02/16/2016	@ Alvernia		Alvernia		false		false	-								
-2016	12260	18	Alfred	11/13/2015	Wells		Wells		false		true	-								
+2016	12260	18	Alfred	11/13/2015	@ Wells		Wells		false		false	-								
 2016	12260	18	Alfred	11/20/2015	SUNY Geneseo@Dallas, PA		SUNY GeneseoDallas, PA		false		false	-								
 2016	12260	18	Alfred	11/21/2015	TBA@Dallas, PA		TBADallas, PA		false		false	-								
 2016	12260	18	Alfred	11/24/2015	@ Keuka		Keuka		false		false	-								
@@ -122,7 +122,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	18	Alfred	02/13/2016	@ Ithaca		Ithaca		false		false	-								
 2016	12260	18	Alfred	02/18/2016	@ Houghton		Houghton		false		false	-								
 2016	12260	18	Alfred	02/20/2016	Elmira		Elmira		false		true	-								
-2016	12260	19	Allegheny	11/13/2015	Thiel		Thiel		false		true	-								
+2016	12260	19	Allegheny	11/13/2015	Thiel	707	Thiel	http://stats.ncaa.org/team/index/12260?org_id=707	false		true	L 62 - 70	false	62 - 70	62	70	false		3948841	http://stats.ncaa.org/game/index/3948841?org_id=19
 2016	12260	19	Allegheny	11/17/2015	Juniata		Juniata		false		true	-								
 2016	12260	19	Allegheny	11/20/2015	Adrian		Adrian		false		true	-								
 2016	12260	19	Allegheny	11/21/2015	CWRU		CWRU		false		true	-								
@@ -272,7 +272,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	26	Anna Maria	02/13/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-								
 2016	12260	26	Anna Maria	02/16/2016	Rivier		Rivier		false		true	-								
 2016	12260	26	Anna Maria	02/20/2016	St. Joseph's (ME)		St. Joseph's (ME)		false		true	-								
-2016	12260	966	Arcadia	11/13/2015	Haverford@Reading, PA		HaverfordReading, PA		false		false	-								
+2016	12260	966	Arcadia	11/13/2015	Haverford @ Reading, Pa. (Bollman Center)	276	Haverford	http://stats.ncaa.org/team/index/12260?org_id=276	true	Reading, Pa. (Bollman Center)	true	W 79 - 61	true	79 - 61	79	61	false		3948601	http://stats.ncaa.org/game/index/3948601?org_id=966
 2016	12260	966	Arcadia	11/14/2015	@ Muhlenberg		Muhlenberg		false		false	-								
 2016	12260	966	Arcadia	11/17/2015	@ Gwynedd Mercy		Gwynedd Mercy		false		false	-								
 2016	12260	966	Arcadia	11/21/2015	Old Westbury@New York, NY		Old WestburyNew York, NY		false		false	-								
@@ -322,7 +322,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	38	Augsburg	02/13/2016	@ Carleton		Carleton		false		false	-								
 2016	12260	38	Augsburg	02/17/2016	@ Macalester		Macalester		false		false	-								
 2016	12260	38	Augsburg	02/20/2016	Saint John's (MN)		Saint John's (MN)		false		true	-								
-2016	12260	40	Augustana (IL)	11/13/2015	Wis.-La Crosse		Wis.-La Crosse		false		true	-								
+2016	12260	40	Augustana (IL)	11/13/2015	Wis.-La Crosse	795	Wis.-La Crosse	http://stats.ncaa.org/team/index/12260?org_id=795	false		true	W 88 - 60	true	88 - 60	88	60	false		3948865	http://stats.ncaa.org/game/index/3948865?org_id=40
 2016	12260	40	Augustana (IL)	11/24/2015	@ Fontbonne		Fontbonne		false		false	-								
 2016	12260	40	Augustana (IL)	12/02/2015	@ Wis.-Whitewater		Wis.-Whitewater		false		false	-								
 2016	12260	40	Augustana (IL)	12/05/2015	Wis.-Stevens Point		Wis.-Stevens Point		false		true	-								
@@ -372,6 +372,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	42	Aurora	02/13/2016	Concordia Wisconsin		Concordia Wisconsin		false		true	-								
 2016	12260	42	Aurora	02/17/2016	Rockford		Rockford		false		true	-								
 2016	12260	42	Aurora	02/20/2016	@ Edgewood		Edgewood		false		false	-								
+2016	12260	953	Austin	11/13/2015	@ Lamar		Lamar		false		false	-								
 2016	12260	953	Austin	11/14/2015	@ LeTourneau		LeTourneau		false		false	-								
 2016	12260	953	Austin	11/19/2015	Howard Payne		Howard Payne		false		true	-								
 2016	12260	953	Austin	11/21/2015	Hendrix@Shreveport, LA		HendrixShreveport, LA		false		false	-								
@@ -422,7 +423,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	44	Averett	02/13/2016	@ Greensboro		Greensboro		false		false	-								
 2016	12260	44	Averett	02/17/2016	N.C. Wesleyan		N.C. Wesleyan		false		true	-								
 2016	12260	44	Averett	02/20/2016	@ Ferrum		Ferrum		false		false	-								
-2016	12260	45	Babson	11/13/2015	Framingham St.		Framingham St.		false		true	-								
+2016	12260	45	Babson	11/13/2015	@ Framingham St.		Framingham St.		false		false	-								
+2016	12260	45	Babson	11/13/2015	@ Framingham St.		Framingham St.		false		false	-								
 2016	12260	45	Babson	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	45	Babson	11/17/2015	@ Lasell		Lasell		false		false	-								
 2016	12260	45	Babson	11/21/2015	Elms		Elms		false		true	-								
@@ -484,17 +486,18 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	962	Bard	01/09/2016	@ St. Lawrence		St. Lawrence		false		false	-								
 2016	12260	962	Bard	01/15/2016	Union (NY)		Union (NY)		false		true	-								
 2016	12260	962	Bard	01/16/2016	Skidmore		Skidmore		false		true	-								
-2016	12260	962	Bard	01/22/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	962	Bard	01/22/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	962	Bard	01/23/2016	@ RIT		RIT		false		false	-								
 2016	12260	962	Bard	01/26/2016	Vassar		Vassar		false		true	-								
 2016	12260	962	Bard	01/29/2016	St. Lawrence		St. Lawrence		false		true	-								
 2016	12260	962	Bard	01/30/2016	Clarkson		Clarkson		false		true	-								
 2016	12260	962	Bard	02/05/2016	RIT		RIT		false		true	-								
-2016	12260	962	Bard	02/06/2016	Hobart		Hobart		false		true	-								
+2016	12260	962	Bard	02/06/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	962	Bard	02/09/2016	@ Rensselaer		Rensselaer		false		false	-								
 2016	12260	962	Bard	02/17/2016	@ Vassar		Vassar		false		false	-								
 2016	12260	962	Bard	02/19/2016	Rensselaer		Rensselaer		false		true	-								
-2016	12260	58	Baruch	11/13/2015	Montclair St.		Montclair St.		false		true	-								
+2016	12260	58	Baruch	11/13/2015	Montclair St.	442	Montclair St.	http://stats.ncaa.org/team/index/12260?org_id=442	false		true	-								
+2016	12260	58	Baruch	11/13/2015	@ Montclair St.		Montclair St.		false		false	-								
 2016	12260	58	Baruch	11/16/2015	@ Kean		Kean		false		false	-								
 2016	12260	58	Baruch	11/18/2015	Yeshiva		Yeshiva		false		true	-								
 2016	12260	58	Baruch	11/20/2015	Averett@Norfolk, VA		AverettNorfolk, VA		false		false	-								
@@ -543,6 +546,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	50	Bates	02/06/2016	Trinity (CT)		Trinity (CT)		false		true	-								
 2016	12260	50	Bates	02/09/2016	@ Bowdoin		Bowdoin		false		false	-								
 2016	12260	50	Bates	02/14/2016	@ Williams		Williams		false		false	-								
+2016	12260	26107	Becker	11/13/2015	@ Nichols		Nichols		false		false	-								
 2016	12260	26107	Becker	11/13/2015	@ Nichols		Nichols		false		false	-								
 2016	12260	26107	Becker	11/18/2015	@ Anna Maria		Anna Maria		false		false	-								
 2016	12260	26107	Becker	11/21/2015	Fitchburg St.		Fitchburg St.		false		true	-								
@@ -666,6 +670,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	59	Bethany (WV)	02/13/2016	@ Waynesburg		Waynesburg		false		false	-								
 2016	12260	59	Bethany (WV)	02/17/2016	@ Grove City		Grove City		false		false	-								
 2016	12260	59	Bethany (WV)	02/20/2016	Wash. & Jeff.		Wash. & Jeff.		false		true	-								
+2016	12260	30038	Bethany Lutheran	11/13/2015	@ St. Olaf		St. Olaf		false		false	-								
 2016	12260	30038	Bethany Lutheran	11/13/2015	@ St. Olaf		St. Olaf		false		false	-								
 2016	12260	30038	Bethany Lutheran	11/18/2015	Carleton		Carleton		false		true	-								
 2016	12260	30038	Bethany Lutheran	11/21/2015	Central (IA)		Central (IA)		false		true	-								
@@ -814,7 +819,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	69	Bowdoin	02/09/2016	Bates		Bates		false		true	-								
 2016	12260	69	Bowdoin	02/12/2016	Wesleyan (CT)		Wesleyan (CT)		false		true	-								
 2016	12260	69	Bowdoin	02/13/2016	Connecticut Col.		Connecticut Col.		false		true	-								
-2016	12260	73	Brandeis	11/13/2015	Curry		Curry		false		true	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
+2016	12260	73	Brandeis	11/13/2015	@ Curry		Curry		false		false	-								
 2016	12260	73	Brandeis	11/18/2015	@ UMass Dartmouth		UMass Dartmouth		false		false	-								
 2016	12260	73	Brandeis	11/21/2015	Rhode Island Col.		Rhode Island Col.		false		true	-								
 2016	12260	73	Brandeis	11/24/2015	Lasell		Lasell		false		true	-								
@@ -912,7 +924,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	78	Brockport	02/16/2016	@ SUNY Cortland		SUNY Cortland		false		false	-								
 2016	12260	78	Brockport	02/19/2016	Plattsburgh St.		Plattsburgh St.		false		true	-								
 2016	12260	78	Brockport	02/20/2016	SUNY Potsdam		SUNY Potsdam		false		true	-								
-2016	12260	79	Brooklyn	11/13/2015	RIT@Cleveland, OH		RITCleveland, OH		false		false	-								
+2016	12260	79	Brooklyn	11/13/2015	@ RIT		RIT		false		false	-								
 2016	12260	79	Brooklyn	11/14/2015	TBA@Cleveland, OH		TBACleveland, OH		false		false	-								
 2016	12260	79	Brooklyn	11/18/2015	New Jersey City		New Jersey City		false		true	-								
 2016	12260	79	Brooklyn	11/21/2015	Wm. Paterson		Wm. Paterson		false		true	-								
@@ -965,7 +977,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	85	Buffalo St.	11/14/2015	Point Park		Point Park		false		true	-								
 2016	12260	85	Buffalo St.	11/20/2015	Villa Maria		Villa Maria		false		true	-								
 2016	12260	85	Buffalo St.	11/21/2015	TBA		TBA		false		true	-								
-2016	12260	85	Buffalo St.	11/24/2015	Hobart		Hobart		false		true	-								
+2016	12260	85	Buffalo St.	11/24/2015	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	85	Buffalo St.	12/04/2015	SUNY Cortland		SUNY Cortland		false		true	-								
 2016	12260	85	Buffalo St.	12/05/2015	Oswego St.		Oswego St.		false		true	-								
 2016	12260	85	Buffalo St.	12/12/2015	Alfred		Alfred		false		true	-								
@@ -1010,7 +1022,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	480	CCNY	02/09/2016	@ Baruch		Baruch		false		false	-								
 2016	12260	480	CCNY	02/13/2016	@ John Jay		John Jay		false		false	-								
 2016	12260	480	CCNY	02/16/2016	@ Medgar Evers		Medgar Evers		false		false	-								
-2016	12260	122	CWRU	11/13/2015	Goucher		Goucher		false		true	-								
+2016	12260	122	CWRU	11/13/2015	@ Goucher		Goucher		false		false	-								
+2016	12260	122	CWRU	11/13/2015	@ Goucher		Goucher		false		false	-								
 2016	12260	122	CWRU	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	122	CWRU	11/17/2015	@ Baldwin Wallace		Baldwin Wallace		false		false	-								
 2016	12260	122	CWRU	11/20/2015	Fredonia@Meadville, PA		FredoniaMeadville, PA		false		false	-								
@@ -1603,7 +1616,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	145	Clark (MA)	02/13/2016	@ Babson		Babson		false		false	-								
 2016	12260	145	Clark (MA)	02/17/2016	Springfield		Springfield		false		true	-								
 2016	12260	145	Clark (MA)	02/20/2016	WPI		WPI		false		true	-								
-2016	12260	146	Clarkson	11/13/2015	@ Morrisville St.		Morrisville St.		false		false	-								
+2016	12260	146	Clarkson	11/13/2015	@ Morrisville St.	30067	Morrisville St.	http://stats.ncaa.org/team/index/12260?org_id=30067	false		false	L 61 - 64	false	61 - 64	61	64	false		3948674	http://stats.ncaa.org/game/index/3948674?org_id=30067
 2016	12260	146	Clarkson	11/17/2015	@ Plattsburgh St.		Plattsburgh St.		false		false	-								
 2016	12260	146	Clarkson	11/20/2015	SUNY Canton@Potsdam, NY		SUNY CantonPotsdam, NY		false		false	-								
 2016	12260	146	Clarkson	11/21/2015	TBA@Potsdam, NY		TBAPotsdam, NY		false		false	-								
@@ -1618,13 +1631,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	146	Clarkson	01/09/2016	Vassar		Vassar		false		true	-								
 2016	12260	146	Clarkson	01/12/2016	St. Lawrence		St. Lawrence		false		true	-								
 2016	12260	146	Clarkson	01/15/2016	RIT		RIT		false		true	-								
-2016	12260	146	Clarkson	01/16/2016	Hobart		Hobart		false		true	-								
+2016	12260	146	Clarkson	01/16/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	146	Clarkson	01/19/2016	@ Skidmore		Skidmore		false		false	-								
 2016	12260	146	Clarkson	01/29/2016	@ Vassar		Vassar		false		false	-								
 2016	12260	146	Clarkson	01/30/2016	@ Bard		Bard		false		false	-								
 2016	12260	146	Clarkson	02/05/2016	Rensselaer		Rensselaer		false		true	-								
 2016	12260	146	Clarkson	02/06/2016	Union (NY)		Union (NY)		false		true	-								
-2016	12260	146	Clarkson	02/12/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	146	Clarkson	02/12/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	146	Clarkson	02/13/2016	@ RIT		RIT		false		false	-								
 2016	12260	146	Clarkson	02/17/2016	@ St. Lawrence		St. Lawrence		false		false	-								
 2016	12260	146	Clarkson	02/19/2016	Skidmore		Skidmore		false		true	-								
@@ -1726,6 +1739,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	151	Colby	02/06/2016	@ Hamilton		Hamilton		false		false	-								
 2016	12260	151	Colby	02/12/2016	Connecticut Col.		Connecticut Col.		false		true	-								
 2016	12260	151	Colby	02/13/2016	Wesleyan (CT)		Wesleyan (CT)		false		true	-								
+2016	12260	152	Colby-Sawyer	11/13/2015	@ U New England		U New England		false		false	-								
 2016	12260	152	Colby-Sawyer	11/13/2015	@ U New England		U New England		false		false	-								
 2016	12260	152	Colby-Sawyer	11/14/2015	TBA@Biddeford, ME		TBABiddeford, ME		false		false	-								
 2016	12260	152	Colby-Sawyer	11/17/2015	Regis (MA)		Regis (MA)		false		true	-								
@@ -1922,6 +1936,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	166	Cornell College	02/09/2016	Monmouth (IL)		Monmouth (IL)		false		true	-								
 2016	12260	166	Cornell College	02/13/2016	@ Carroll (WI)		Carroll (WI)		false		false	-								
 2016	12260	166	Cornell College	02/20/2016	St. Norbert		St. Norbert		false		true	-								
+2016	12260	30111	Covenant	11/13/2015	@ Liberty	355	Liberty	http://stats.ncaa.org/team/index/12260?org_id=355	false		false	L 62 - 64	false	62 - 64	62	64	false		3948814	http://stats.ncaa.org/game/index/3948814?org_id=355
 2016	12260	30111	Covenant	11/14/2015	@ Emory & Henry		Emory & Henry		false		false	-								
 2016	12260	30111	Covenant	11/17/2015	Sewanee		Sewanee		false		true	-								
 2016	12260	30111	Covenant	11/21/2015	@ Oglethorpe		Oglethorpe		false		false	-								
@@ -1974,6 +1989,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30035	Crown (MN)	02/16/2016	@ Crossroads		Crossroads		false		false	-								
 2016	12260	30035	Crown (MN)	02/19/2016	Bethany Lutheran		Bethany Lutheran		false		true	-								
 2016	12260	30035	Crown (MN)	02/20/2016	Martin Luther		Martin Luther		false		true	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
+2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
 2016	12260	170	Curry	11/13/2015	@ Brandeis		Brandeis		false		false	-								
 2016	12260	170	Curry	11/15/2015	Elmhurst		Elmhurst		false		true	-								
 2016	12260	170	Curry	11/20/2015	@ WPI		WPI		false		false	-								
@@ -2037,6 +2059,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1044	Dallas	01/16/2016	Centenary (LA)		Centenary (LA)		false		true	-								
 2016	12260	1044	Dallas	01/22/2016	Trinity (TX)		Trinity (TX)		false		true	-								
 2016	12260	1044	Dallas	01/23/2016	Schreiner		Schreiner		false		true	-								
+2016	12260	1044	Dallas	01/25/2016	S'western Adventist		S'western Adventist		false		true	-								
 2016	12260	1044	Dallas	01/29/2016	@ Trinity (TX)		Trinity (TX)		false		false	-								
 2016	12260	1044	Dallas	01/30/2016	@ Schreiner		Schreiner		false		false	-								
 2016	12260	1044	Dallas	02/05/2016	@ Colorado Col.		Colorado Col.		false		false	-								
@@ -2393,7 +2416,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	8968	Eastern	02/13/2016	Manhattanville		Manhattanville		false		true	-								
 2016	12260	8968	Eastern	02/16/2016	@ Misericordia		Misericordia		false		false	-								
 2016	12260	8968	Eastern	02/20/2016	DeSales		DeSales		false		true	-								
-2016	12260	200	Eastern Conn. St.	11/13/2015	WPI@Westfield, MA		WPIWestfield, MA		false		false	-								
+2016	12260	200	Eastern Conn. St.	11/13/2015	WPI @ Westfield, MA	808	WPI	http://stats.ncaa.org/team/index/12260?org_id=808	true	Westfield, MA	true	L 50 - 60	false	50 - 60	50	60	false		3948850	http://stats.ncaa.org/game/index/3948850?org_id=808
 2016	12260	200	Eastern Conn. St.	11/14/2015	TBA@Westfield, MA		TBAWestfield, MA		false		false	-								
 2016	12260	200	Eastern Conn. St.	11/21/2015	Johnson & Wales (RI)@Mahwah, NJ		Johnson & Wales (RI)Mahwah, NJ		false		false	-								
 2016	12260	200	Eastern Conn. St.	11/22/2015	TBA@Mahwah, NJ		TBAMahwah, NJ		false		false	-								
@@ -2567,7 +2590,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	532	Elms	02/16/2016	Newbury		Newbury		false		true	-								
 2016	12260	532	Elms	02/18/2016	@ Southern Vt.		Southern Vt.		false		false	-								
 2016	12260	532	Elms	02/20/2016	@ Lesley		Lesley		false		false	-								
-2016	12260	214	Emerson	11/13/2015	Emmanuel (MA)@Weston, MA		Emmanuel (MA)Weston, MA		false		false	-								
+2016	12260	214	Emerson	11/13/2015	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-								
+2016	12260	214	Emerson	11/13/2015	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-								
+2016	12260	214	Emerson	11/13/2015	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-								
+2016	12260	214	Emerson	11/13/2015	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-								
 2016	12260	214	Emerson	11/14/2015	@ TBA		TBA		false		false	-								
 2016	12260	214	Emerson	11/18/2015	@ Bryant		Bryant		false		false	-								
 2016	12260	214	Emerson	11/20/2015	Tufts		Tufts		false		true	-								
@@ -2592,7 +2618,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	214	Emerson	02/13/2016	@ Springfield		Springfield		false		false	-								
 2016	12260	214	Emerson	02/17/2016	MIT		MIT		false		true	-								
 2016	12260	214	Emerson	02/20/2016	@ Wheaton (MA)		Wheaton (MA)		false		false	-								
-2016	12260	215	Emmanuel (MA)	11/13/2015	Emerson@Weston, MA		EmersonWeston, MA		false		false	-								
+2016	12260	215	Emmanuel (MA)	11/13/2015	@ Emerson		Emerson		false		false	-								
+2016	12260	215	Emmanuel (MA)	11/13/2015	@ Emerson		Emerson		false		false	-								
+2016	12260	215	Emmanuel (MA)	11/13/2015	@ Emerson		Emerson		false		false	-								
+2016	12260	215	Emmanuel (MA)	11/13/2015	@ Emerson		Emerson		false		false	-								
 2016	12260	215	Emmanuel (MA)	11/14/2015	TBA@Weston, MA		TBAWeston, MA		false		false	-								
 2016	12260	215	Emmanuel (MA)	11/21/2015	@ Westfield St.		Westfield St.		false		false	-								
 2016	12260	215	Emmanuel (MA)	12/01/2015	@ St. Joseph's (ME)		St. Joseph's (ME)		false		false	-								
@@ -2617,7 +2646,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	215	Emmanuel (MA)	02/13/2016	Anna Maria		Anna Maria		false		true	-								
 2016	12260	215	Emmanuel (MA)	02/16/2016	@ Lasell		Lasell		false		false	-								
 2016	12260	215	Emmanuel (MA)	02/20/2016	@ Albertus Magnus		Albertus Magnus		false		false	-								
-2016	12260	217	Emory	11/13/2015	Piedmont		Piedmont		false		true	-								
+2016	12260	217	Emory	11/13/2015	@ Piedmont		Piedmont		false		false	-								
+2016	12260	217	Emory	11/13/2015	@ Piedmont		Piedmont		false		false	-								
+2016	12260	217	Emory	11/13/2015	@ Piedmont		Piedmont		false		false	-								
 2016	12260	217	Emory	11/15/2015	Birmingham-So.		Birmingham-So.		false		true	-								
 2016	12260	217	Emory	11/17/2015	Belhaven		Belhaven		false		true	-								
 2016	12260	217	Emory	11/20/2015	St. Thomas (MN)@Stevenson, MD		St. Thomas (MN)Stevenson, MD		false		false	-								
@@ -2767,6 +2798,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	27892	Farmingdale St.	02/13/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-								
 2016	12260	27892	Farmingdale St.	02/17/2016	@ Old Westbury		Old Westbury		false		false	-								
 2016	12260	27892	Farmingdale St.	02/20/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-								
+2016	12260	225	Ferrum	11/13/2015	@ Army West Point		Army West Point		false		false	-								
+2016	12260	225	Ferrum	11/13/2015	@ Army West Point		Army West Point		false		false	-								
+2016	12260	225	Ferrum	11/13/2015	@ Army West Point		Army West Point		false		false	-								
 2016	12260	225	Ferrum	11/17/2015	East. Mennonite		East. Mennonite		false		true	-								
 2016	12260	225	Ferrum	11/20/2015	St. Joseph's (Brkln)@Salem, VA		St. Joseph's (Brkln)Salem, VA		false		false	-								
 2016	12260	225	Ferrum	11/21/2015	TBA@Salem, VA		TBASalem, VA		false		false	-								
@@ -2815,7 +2849,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30032	Finlandia	02/12/2016	Crown (MN)		Crown (MN)		false		true	-								
 2016	12260	30032	Finlandia	02/13/2016	Minn.-Morris		Minn.-Morris		false		true	-								
 2016	12260	30032	Finlandia	02/20/2016	Northland		Northland		false		true	-								
-2016	12260	227	Fitchburg St.	11/13/2015	Springfield@Dartmouth, MA		SpringfieldDartmouth, MA		false		false	-								
+2016	12260	227	Fitchburg St.	11/13/2015	@ Springfield		Springfield		false		false	-								
+2016	12260	227	Fitchburg St.	11/13/2015	@ Springfield		Springfield		false		false	-								
+2016	12260	227	Fitchburg St.	11/13/2015	@ Springfield		Springfield		false		false	-								
+2016	12260	227	Fitchburg St.	11/13/2015	@ Springfield		Springfield		false		false	-								
+2016	12260	227	Fitchburg St.	11/13/2015	@ Springfield		Springfield		false		false	-								
 2016	12260	227	Fitchburg St.	11/14/2015	TBA@Dartmouth, MA		TBADartmouth, MA		false		false	-								
 2016	12260	227	Fitchburg St.	11/17/2015	Clark (MA)		Clark (MA)		false		true	-								
 2016	12260	227	Fitchburg St.	11/19/2015	Rhode Island Col.		Rhode Island Col.		false		true	-								
@@ -2864,6 +2902,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	11538	Fontbonne	02/13/2016	@ Eureka		Eureka		false		false	-								
 2016	12260	11538	Fontbonne	02/16/2016	@ Principia		Principia		false		false	-								
 2016	12260	11538	Fontbonne	02/20/2016	MacMurray		MacMurray		false		true	-								
+2016	12260	238	Framingham St.	11/13/2015	@ Babson		Babson		false		false	-								
 2016	12260	238	Framingham St.	11/13/2015	@ Babson		Babson		false		false	-								
 2016	12260	238	Framingham St.	11/14/2015	TBA@Babson Park, MA		TBABabson Park, MA		false		false	-								
 2016	12260	238	Framingham St.	11/17/2015	Newbury		Newbury		false		true	-								
@@ -3111,7 +3150,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	258	Gettysburg	02/13/2016	Ursinus		Ursinus		false		true	-								
 2016	12260	258	Gettysburg	02/17/2016	@ Frank. & Marsh.		Frank. & Marsh.		false		false	-								
 2016	12260	258	Gettysburg	02/20/2016	@ McDaniel		McDaniel		false		false	-								
-2016	12260	1099	Gordon	11/13/2015	Lesley		Lesley		false		true	-								
+2016	12260	1099	Gordon	11/13/2015	@ Lesley		Lesley		false		false	-								
+2016	12260	1099	Gordon	11/13/2015	@ Lesley		Lesley		false		false	-								
 2016	12260	1099	Gordon	11/17/2015	Fisher		Fisher		false		true	-								
 2016	12260	1099	Gordon	11/19/2015	@ MIT		MIT		false		false	-								
 2016	12260	1099	Gordon	11/24/2015	@ Salem St.		Salem St.		false		false	-								
@@ -3136,6 +3176,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1099	Gordon	02/13/2016	@ Endicott		Endicott		false		false	-								
 2016	12260	1099	Gordon	02/16/2016	Nichols		Nichols		false		true	-								
 2016	12260	1099	Gordon	02/20/2016	@ Curry		Curry		false		false	-								
+2016	12260	1467	Goucher	11/13/2015	@ CWRU		CWRU		false		false	-								
 2016	12260	1467	Goucher	11/13/2015	@ CWRU		CWRU		false		false	-								
 2016	12260	1467	Goucher	11/14/2015	TBA@Cleveland, OH		TBACleveland, OH		false		false	-								
 2016	12260	1467	Goucher	11/17/2015	@ Stevenson		Stevenson		false		false	-								
@@ -3365,7 +3406,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	267	Hamilton	11/29/2015	TBA		TBA		false		true	-								
 2016	12260	267	Hamilton	12/02/2015	@ SUNY Poly		SUNY Poly		false		false	-								
 2016	12260	267	Hamilton	12/05/2015	@ Vassar		Vassar		false		false	-								
-2016	12260	267	Hamilton	12/10/2015	Hobart		Hobart		false		true	-								
+2016	12260	267	Hamilton	12/10/2015	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	267	Hamilton	12/12/2015	Bard		Bard		false		true	-								
 2016	12260	267	Hamilton	12/29/2015	Southern Me.@Phoenix, AZ		Southern Me.Phoenix, AZ		false		false	-								
 2016	12260	267	Hamilton	12/30/2015	Wis.-Stevens Point@Phoenix, AZ		Wis.-Stevens PointPhoenix, AZ		false		false	-								
@@ -3507,7 +3548,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	273	Hartwick	02/16/2016	@ Stevens		Stevens		false		false	-								
 2016	12260	273	Hartwick	02/19/2016	@ St. John Fisher		St. John Fisher		false		false	-								
 2016	12260	273	Hartwick	02/20/2016	@ Ithaca		Ithaca		false		false	-								
-2016	12260	276	Haverford	11/13/2015	Arcadia@Reading, PA		ArcadiaReading, PA		false		false	-								
+2016	12260	276	Haverford	11/13/2015	Arcadia @ Reading, Pa. (Bollman Center)	966	Arcadia	http://stats.ncaa.org/team/index/12260?org_id=966	true	Reading, Pa. (Bollman Center)	true	L 61 - 79	false	61 - 79	61	79	false		3948601	http://stats.ncaa.org/game/index/3948601?org_id=966
 2016	12260	276	Haverford	11/14/2015	Albright@Allentown, PA		AlbrightAllentown, PA		false		false	-								
 2016	12260	276	Haverford	11/18/2015	Penn St. Harrisburg		Penn St. Harrisburg		false		true	-								
 2016	12260	276	Haverford	11/24/2015	@ Washington Col.		Washington Col.		false		false	-								
@@ -3632,31 +3673,31 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	281	Hiram	02/13/2016	Oberlin		Oberlin		false		true	-								
 2016	12260	281	Hiram	02/17/2016	@ Denison		Denison		false		false	-								
 2016	12260	281	Hiram	02/20/2016	Wittenberg		Wittenberg		false		true	-								
-2016	12260	282	Hobart	11/14/2015	Keuka		Keuka		false		true	-								
-2016	12260	282	Hobart	11/17/2015	Rochester (NY)		Rochester (NY)		false		true	-								
-2016	12260	282	Hobart	11/21/2015	@ Scranton		Scranton		false		false	-								
-2016	12260	282	Hobart	11/24/2015	@ Buffalo St.		Buffalo St.		false		false	-								
-2016	12260	282	Hobart	12/02/2015	TBA		TBA		false		true	-								
-2016	12260	282	Hobart	12/04/2015	TBA@Rochester, NY		TBARochester, NY		false		false	-								
-2016	12260	282	Hobart	12/05/2015	TBA@Rochester, NY		TBARochester, NY		false		false	-								
-2016	12260	282	Hobart	12/10/2015	@ Hamilton		Hamilton		false		false	-								
-2016	12260	282	Hobart	01/02/2016	@ Rensselaer		Rensselaer		false		false	-								
-2016	12260	282	Hobart	01/03/2016	@ Skidmore		Skidmore		false		false	-								
-2016	12260	282	Hobart	01/09/2016	@ Fisher		Fisher		false		false	-								
-2016	12260	282	Hobart	01/15/2016	@ St. Lawrence		St. Lawrence		false		false	-								
-2016	12260	282	Hobart	01/16/2016	@ Clarkson		Clarkson		false		false	-								
-2016	12260	282	Hobart	01/19/2016	RIT		RIT		false		true	-								
-2016	12260	282	Hobart	01/22/2016	Bard		Bard		false		true	-								
-2016	12260	282	Hobart	01/23/2016	Vassar		Vassar		false		true	-								
-2016	12260	282	Hobart	01/26/2016	@ Union (NY)		Union (NY)		false		false	-								
-2016	12260	282	Hobart	01/29/2016	Skidmore		Skidmore		false		true	-								
-2016	12260	282	Hobart	01/30/2016	Rensselaer		Rensselaer		false		true	-								
-2016	12260	282	Hobart	02/05/2016	@ Vassar		Vassar		false		false	-								
-2016	12260	282	Hobart	02/06/2016	@ Bard		Bard		false		false	-								
-2016	12260	282	Hobart	02/12/2016	Clarkson		Clarkson		false		true	-								
-2016	12260	282	Hobart	02/13/2016	St. Lawrence		St. Lawrence		false		true	-								
-2016	12260	282	Hobart	02/17/2016	@ RIT		RIT		false		false	-								
-2016	12260	282	Hobart	02/19/2016	Union (NY)		Union (NY)		false		true	-								
+2016	12260	282	Hobart and William Colleges	11/14/2015	Keuka		Keuka		false		true	-								
+2016	12260	282	Hobart and William Colleges	11/17/2015	Rochester (NY)		Rochester (NY)		false		true	-								
+2016	12260	282	Hobart and William Colleges	11/21/2015	@ Scranton		Scranton		false		false	-								
+2016	12260	282	Hobart and William Colleges	11/24/2015	@ Buffalo St.		Buffalo St.		false		false	-								
+2016	12260	282	Hobart and William Colleges	12/02/2015	TBA		TBA		false		true	-								
+2016	12260	282	Hobart and William Colleges	12/04/2015	TBA@Rochester, NY		TBARochester, NY		false		false	-								
+2016	12260	282	Hobart and William Colleges	12/05/2015	TBA@Rochester, NY		TBARochester, NY		false		false	-								
+2016	12260	282	Hobart and William Colleges	12/10/2015	@ Hamilton		Hamilton		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/02/2016	@ Rensselaer		Rensselaer		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/03/2016	@ Skidmore		Skidmore		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/09/2016	@ Fisher		Fisher		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/15/2016	@ St. Lawrence		St. Lawrence		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/16/2016	@ Clarkson		Clarkson		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/19/2016	RIT		RIT		false		true	-								
+2016	12260	282	Hobart and William Colleges	01/22/2016	Bard		Bard		false		true	-								
+2016	12260	282	Hobart and William Colleges	01/23/2016	Vassar		Vassar		false		true	-								
+2016	12260	282	Hobart and William Colleges	01/26/2016	@ Union (NY)		Union (NY)		false		false	-								
+2016	12260	282	Hobart and William Colleges	01/29/2016	Skidmore		Skidmore		false		true	-								
+2016	12260	282	Hobart and William Colleges	01/30/2016	Rensselaer		Rensselaer		false		true	-								
+2016	12260	282	Hobart and William Colleges	02/05/2016	@ Vassar		Vassar		false		false	-								
+2016	12260	282	Hobart and William Colleges	02/06/2016	@ Bard		Bard		false		false	-								
+2016	12260	282	Hobart and William Colleges	02/12/2016	Clarkson		Clarkson		false		true	-								
+2016	12260	282	Hobart and William Colleges	02/13/2016	St. Lawrence		St. Lawrence		false		true	-								
+2016	12260	282	Hobart and William Colleges	02/17/2016	@ RIT		RIT		false		false	-								
+2016	12260	282	Hobart and William Colleges	02/19/2016	Union (NY)		Union (NY)		false		true	-								
 2016	12260	8404	Hood	11/17/2015	@ Marymount (VA)		Marymount (VA)		false		false	-								
 2016	12260	8404	Hood	11/21/2015	@ Frostburg St.		Frostburg St.		false		false	-								
 2016	12260	8404	Hood	11/22/2015	TBA@Frostburg, MD		TBAFrostburg, MD		false		false	-								
@@ -3733,7 +3774,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30160	Houghton	02/13/2016	@ St. John Fisher		St. John Fisher		false		false	-								
 2016	12260	30160	Houghton	02/16/2016	D'Youville		D'Youville		false		true	-								
 2016	12260	30160	Houghton	02/18/2016	Alfred		Alfred		false		true	-								
-2016	12260	2741	Howard Payne	11/13/2015	@ Southwestern (TX)		Southwestern (TX)		false		false	-								
+2016	12260	2741	Howard Payne	11/13/2015	@ Southwestern (TX)	8746	Southwestern (TX)	http://stats.ncaa.org/team/index/12260?org_id=8746	false		false	L 73 - 82	false	73 - 82	73	82	false		3949037	http://stats.ncaa.org/game/index/3949037?org_id=8746
 2016	12260	2741	Howard Payne	11/17/2015	@ Abilene Christian		Abilene Christian		false		false	-								
 2016	12260	2741	Howard Payne	11/19/2015	@ Austin		Austin		false		false	-								
 2016	12260	2741	Howard Payne	11/27/2015	@ Colorado Col.		Colorado Col.		false		false	-								
@@ -3759,7 +3800,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	2741	Howard Payne	02/11/2016	Concordia (TX)		Concordia (TX)		false		true	-								
 2016	12260	2741	Howard Payne	02/13/2016	Mary Hardin-Baylor		Mary Hardin-Baylor		false		true	-								
 2016	12260	2741	Howard Payne	02/20/2016	Sul Ross St.		Sul Ross St.		false		true	-								
-2016	12260	292	Hunter	11/13/2015	St. Joseph's (ME)@Biddeford, ME		St. Joseph's (ME)Biddeford, ME		false		false	-								
+2016	12260	292	Hunter	11/13/2015	St. Joseph's (ME) @ Biddeford, Maine (Harold Alfond Forum)	605	St. Joseph's (ME)	http://stats.ncaa.org/team/index/12260?org_id=605	true	Biddeford, Maine (Harold Alfond Forum)	true	L 81 - 88	false	81 - 88	81	88	false		3948897	http://stats.ncaa.org/game/index/3948897?org_id=605
 2016	12260	292	Hunter	11/14/2015	TBA@Biddeford, ME		TBABiddeford, ME		false		false	-								
 2016	12260	292	Hunter	11/17/2015	Rutgers-Newark		Rutgers-Newark		false		true	-								
 2016	12260	292	Hunter	11/21/2015	Claremont-M-S		Claremont-M-S		false		true	-								
@@ -3784,6 +3825,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	292	Hunter	02/05/2016	@ Brooklyn		Brooklyn		false		false	-								
 2016	12260	292	Hunter	02/09/2016	Lehman		Lehman		false		true	-								
 2016	12260	292	Hunter	02/16/2016	@ York (NY)		York (NY)		false		false	-								
+2016	12260	1130	Huntingdon	11/13/2015	@ Sewanee		Sewanee		false		false	-								
 2016	12260	1130	Huntingdon	11/13/2015	@ Sewanee		Sewanee		false		false	-								
 2016	12260	1130	Huntingdon	11/17/2015	Birmingham-So.		Birmingham-So.		false		true	-								
 2016	12260	1130	Huntingdon	11/21/2015	@ Berry		Berry		false		false	-								
@@ -3981,7 +4023,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	321	John Jay	02/05/2016	@ Medgar Evers		Medgar Evers		false		false	-								
 2016	12260	321	John Jay	02/09/2016	@ York (NY)		York (NY)		false		false	-								
 2016	12260	321	John Jay	02/13/2016	CCNY		CCNY		false		true	-								
-2016	12260	322	Johns Hopkins	11/13/2015	Lynchburg		Lynchburg		false		true	-								
+2016	12260	322	Johns Hopkins	11/13/2015	@ Lynchburg		Lynchburg		false		false	-								
 2016	12260	322	Johns Hopkins	11/20/2015	DePauw@St. Louis, MO		DePauwSt. Louis, MO		false		false	-								
 2016	12260	322	Johns Hopkins	11/21/2015	TBA@St. Louis, MO		TBASt. Louis, MO		false		false	-								
 2016	12260	322	Johns Hopkins	11/24/2015	@ Gettysburg		Gettysburg		false		false	-								
@@ -4106,6 +4148,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	326	Kalamazoo	02/13/2016	Calvin		Calvin		false		true	-								
 2016	12260	326	Kalamazoo	02/17/2016	Hope		Hope		false		true	-								
 2016	12260	326	Kalamazoo	02/20/2016	@ Adrian		Adrian		false		false	-								
+2016	12260	329	Kean	11/13/2015	@ Columbia	158	Columbia	http://stats.ncaa.org/team/index/12260?org_id=158	false		false	L 62 - 107	false	62 - 107	62	107	false		3948488	http://stats.ncaa.org/game/index/3948488?org_id=158
 2016	12260	329	Kean	11/14/2015	Marymount (VA)		Marymount (VA)		false		true	-								
 2016	12260	329	Kean	11/16/2015	Baruch		Baruch		false		true	-								
 2016	12260	329	Kean	11/18/2015	@ Stevens		Stevens		false		false	-								
@@ -4181,7 +4224,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	335	Kenyon	02/13/2016	@ DePauw		DePauw		false		false	-								
 2016	12260	335	Kenyon	02/17/2016	@ Wittenberg		Wittenberg		false		false	-								
 2016	12260	335	Kenyon	02/20/2016	Wabash		Wabash		false		true	-								
-2016	12260	1159	Keuka	11/14/2015	@ Hobart		Hobart		false		false	-								
+2016	12260	1159	Keuka	11/14/2015	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	1159	Keuka	11/20/2015	Hamilton@Rochester, NY		HamiltonRochester, NY		false		false	-								
 2016	12260	1159	Keuka	11/21/2015	TBA@Rochester, NY		TBARochester, NY		false		false	-								
 2016	12260	1159	Keuka	11/24/2015	Alfred		Alfred		false		true	-								
@@ -4229,7 +4272,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30047	Keystone	02/13/2016	Neumann		Neumann		false		true	-								
 2016	12260	30047	Keystone	02/17/2016	@ Centenary (NJ)		Centenary (NJ)		false		false	-								
 2016	12260	30047	Keystone	02/20/2016	Marywood		Marywood		false		true	-								
-2016	12260	336	King's (PA)	11/13/2015	Penn St.-Abington		Penn St.-Abington		false		true	-								
+2016	12260	336	King's (PA)	11/13/2015	@ Penn St.-Abington		Penn St.-Abington		false		false	-								
 2016	12260	336	King's (PA)	11/16/2015	@ Penn St.-Hazleton		Penn St.-Hazleton		false		false	-								
 2016	12260	336	King's (PA)	11/20/2015	TBA@Selinsgrove, PA		TBASelinsgrove, PA		false		false	-								
 2016	12260	336	King's (PA)	11/21/2015	TBA@Selinsgrove, PA		TBASelinsgrove, PA		false		false	-								
@@ -4301,7 +4344,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1163	La Roche	02/13/2016	@ Pitt.-Bradford		Pitt.-Bradford		false		false	-								
 2016	12260	1163	La Roche	02/17/2016	Franciscan		Franciscan		false		true	-								
 2016	12260	1163	La Roche	02/20/2016	Medaille		Medaille		false		true	-								
-2016	12260	341	La Verne	11/13/2015	@ Whitworth		Whitworth		false		false	-								
+2016	12260	341	La Verne	11/13/2015	@ Whitworth	1454	Whitworth	http://stats.ncaa.org/team/index/12260?org_id=1454	false		false	L 80 - 87	false	80 - 87	80	87	false		3948336	http://stats.ncaa.org/game/index/3948336?org_id=1454
 2016	12260	341	La Verne	11/14/2015	@ Whitman		Whitman		false		false	-								
 2016	12260	341	La Verne	11/21/2015	Willamette		Willamette		false		true	-								
 2016	12260	341	La Verne	11/28/2015	Linfield		Linfield		false		true	-								
@@ -4519,7 +4562,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	351	Lebanon Valley	02/13/2016	Arcadia		Arcadia		false		true	-								
 2016	12260	351	Lebanon Valley	02/16/2016	@ Messiah		Messiah		false		false	-								
 2016	12260	351	Lebanon Valley	02/20/2016	Lycoming		Lycoming		false		true	-								
-2016	12260	279	Lehman	11/13/2015	Misericordia@Williamsport, PA		MisericordiaWilliamsport, PA		false		false	-								
+2016	12260	279	Lehman	11/13/2015	@ Misericordia		Misericordia		false		false	-								
 2016	12260	279	Lehman	11/14/2015	TBA@Williamsport, PA		TBAWilliamsport, PA		false		false	-								
 2016	12260	279	Lehman	11/18/2015	@ Wm. Paterson		Wm. Paterson		false		false	-								
 2016	12260	279	Lehman	11/21/2015	Coast Guard		Coast Guard		false		true	-								
@@ -4545,6 +4588,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	279	Lehman	02/12/2016	@ York (NY)		York (NY)		false		false	-								
 2016	12260	279	Lehman	02/16/2016	Staten Island		Staten Island		false		true	-								
 2016	12260	24317	Lesley	11/13/2015	@ Gordon		Gordon		false		false	-								
+2016	12260	24317	Lesley	11/13/2015	@ Gordon		Gordon		false		false	-								
 2016	12260	24317	Lesley	11/16/2015	@ New England Col.		New England Col.		false		false	-								
 2016	12260	24317	Lesley	11/18/2015	Green Mountain		Green Mountain		false		true	-								
 2016	12260	24317	Lesley	11/21/2015	@ Salve Regina		Salve Regina		false		false	-								
@@ -4569,8 +4613,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	24317	Lesley	02/13/2016	@ Mitchell		Mitchell		false		false	-								
 2016	12260	24317	Lesley	02/16/2016	Regis (MA)		Regis (MA)		false		true	-								
 2016	12260	24317	Lesley	02/20/2016	Elms		Elms		false		true	-								
-2016	12260	22235	Lewis & Clark	11/06/2015	@ Portland St.		Portland St.		false		false	-								
-2016	12260	22235	Lewis & Clark	11/13/2015	Valley Forge		Valley Forge		false		true	-								
+2016	12260	22235	Lewis & Clark	11/13/2015	@ Valley Forge		Valley Forge		false		false	-								
 2016	12260	22235	Lewis & Clark	11/14/2015	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-								
 2016	12260	22235	Lewis & Clark	11/21/2015	Redlands@Santa Cruz, CA		RedlandsSanta Cruz, CA		false		false	-								
 2016	12260	22235	Lewis & Clark	11/22/2015	@ UC Santa Cruz		UC Santa Cruz		false		false	-								
@@ -4645,6 +4688,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	364	Loras	02/13/2016	@ Buena Vista		Buena Vista		false		false	-								
 2016	12260	364	Loras	02/17/2016	Central (IA)		Central (IA)		false		true	-								
 2016	12260	364	Loras	02/20/2016	Simpson		Simpson		false		true	-								
+2016	12260	1182	Louisiana Col.	11/13/2015	@ La.-Lafayette		La.-Lafayette		false		false	-								
 2016	12260	1182	Louisiana Col.	11/17/2015	@ McNeese St.		McNeese St.		false		false	-								
 2016	12260	1182	Louisiana Col.	11/20/2015	LSU-Alexandria		LSU-Alexandria		false		true	-								
 2016	12260	1182	Louisiana Col.	11/25/2015	@ Northwestern St.		Northwestern St.		false		false	-								
@@ -4693,7 +4737,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	372	Luther	02/13/2016	Dubuque		Dubuque		false		true	-								
 2016	12260	372	Luther	02/17/2016	@ Coe		Coe		false		false	-								
 2016	12260	372	Luther	02/20/2016	@ Wartburg		Wartburg		false		false	-								
-2016	12260	373	Lycoming	11/13/2015	Penn St.-Schuylkill		Penn St.-Schuylkill		false		true	-								
+2016	12260	373	Lycoming	11/13/2015	Penn St.-Schuylkill		Penn St.-Schuylkill		false		true	W 97 - 75	true	97 - 75	97	75	false		3948588	http://stats.ncaa.org/game/index/3948588?org_id=373
 2016	12260	373	Lycoming	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	373	Lycoming	11/17/2015	@ Fredonia		Fredonia		false		false	-								
 2016	12260	373	Lycoming	11/23/2015	Susquehanna		Susquehanna		false		true	-								
@@ -4743,6 +4787,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	374	Lynchburg	02/13/2016	@ Shenandoah		Shenandoah		false		false	-								
 2016	12260	374	Lynchburg	02/17/2016	Roanoke		Roanoke		false		true	-								
 2016	12260	374	Lynchburg	02/20/2016	Va. Wesleyan		Va. Wesleyan		false		true	-								
+2016	12260	30065	Lyndon St.	11/13/2015	@ New Hampshire		New Hampshire		false		false	-								
 2016	12260	30065	Lyndon St.	11/17/2015	@ MCLA		MCLA		false		false	-								
 2016	12260	30065	Lyndon St.	11/20/2015	@ Wesleyan (CT)		Wesleyan (CT)		false		false	-								
 2016	12260	30065	Lyndon St.	11/21/2015	TBA@Middletown, CT		TBAMiddletown, CT		false		false	-								
@@ -4768,6 +4813,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30065	Lyndon St.	02/18/2016	@ Castleton		Castleton		false		false	-								
 2016	12260	30065	Lyndon St.	02/20/2016	Green Mountain		Green Mountain		false		true	-								
 2016	12260	486	MCLA	11/13/2015	@ Southern Vt.		Southern Vt.		false		false	-								
+2016	12260	486	MCLA	11/13/2015	@ Southern Vt.		Southern Vt.		false		false	-								
 2016	12260	486	MCLA	11/15/2015	Norwich		Norwich		false		true	-								
 2016	12260	486	MCLA	11/17/2015	Lyndon St.		Lyndon St.		false		true	-								
 2016	12260	486	MCLA	11/20/2015	Castleton		Castleton		false		true	-								
@@ -4792,6 +4838,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	486	MCLA	02/13/2016	@ Fitchburg St.		Fitchburg St.		false		false	-								
 2016	12260	486	MCLA	02/16/2016	Pine Manor		Pine Manor		false		true	-								
 2016	12260	486	MCLA	02/20/2016	Bridgewater St.		Bridgewater St.		false		true	-								
+2016	12260	398	MIT	11/13/2015	@ Harvard		Harvard		false		false	-								
+2016	12260	398	MIT	11/13/2015	@ Harvard		Harvard		false		false	-								
+2016	12260	398	MIT	11/13/2015	@ Harvard		Harvard		false		false	-								
 2016	12260	398	MIT	11/17/2015	Bridgewater St.		Bridgewater St.		false		true	-								
 2016	12260	398	MIT	11/19/2015	Gordon		Gordon		false		true	-								
 2016	12260	398	MIT	11/21/2015	Eastern Nazarene		Eastern Nazarene		false		true	-								
@@ -5016,7 +5065,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1196	Marian (WI)	02/11/2016	Dominican (IL)		Dominican (IL)		false		true	-								
 2016	12260	1196	Marian (WI)	02/13/2016	@ Rockford		Rockford		false		false	-								
 2016	12260	1196	Marian (WI)	02/17/2016	@ MSOE		MSOE		false		false	-								
-2016	12260	385	Marietta	11/13/2015	Westminster (PA)		Westminster (PA)		false		true	-								
+2016	12260	385	Marietta	11/13/2015	@ Westminster (PA)		Westminster (PA)		false		false	-								
 2016	12260	385	Marietta	11/17/2015	@ Bethany (WV)		Bethany (WV)		false		false	-								
 2016	12260	385	Marietta	11/20/2015	Methodist		Methodist		false		true	-								
 2016	12260	385	Marietta	11/21/2015	TBA		TBA		false		true	-								
@@ -5191,7 +5240,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	397	Marywood	02/13/2016	Rosemont		Rosemont		false		true	-								
 2016	12260	397	Marywood	02/17/2016	@ Summit		Summit		false		false	-								
 2016	12260	397	Marywood	02/20/2016	@ Keystone		Keystone		false		false	-								
-2016	12260	773	McDaniel	11/13/2015	Immaculata		Immaculata		false		true	-								
+2016	12260	773	McDaniel	11/13/2015	@ Immaculata		Immaculata		false		false	-								
 2016	12260	773	McDaniel	11/20/2015	Pitt.-Greensburg@York, PA		Pitt.-GreensburgYork, PA		false		false	-								
 2016	12260	773	McDaniel	11/21/2015	TBA@York, PA		TBAYork, PA		false		false	-								
 2016	12260	773	McDaniel	11/24/2015	Dickinson		Dickinson		false		true	-								
@@ -5216,6 +5265,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	773	McDaniel	02/15/2016	Valley Forge		Valley Forge		false		true	-								
 2016	12260	773	McDaniel	02/17/2016	@ Washington Col.		Washington Col.		false		false	-								
 2016	12260	773	McDaniel	02/20/2016	Gettysburg		Gettysburg		false		true	-								
+2016	12260	8530	McMurry	11/13/2015	@ La.-Monroe		La.-Monroe		false		false	-								
 2016	12260	8530	McMurry	11/18/2015	@ Southwest (NM)		Southwest (NM)		false		false	-								
 2016	12260	8530	McMurry	11/20/2015	St. Edward's@San Angelo, TX		St. Edward'sSan Angelo, TX		false		false	-								
 2016	12260	8530	McMurry	11/21/2015	Schreiner@San Angelo, TX		SchreinerSan Angelo, TX		false		false	-								
@@ -5360,7 +5410,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	724	Merchant Marine	02/13/2016	@ Juniata		Juniata		false		false	-								
 2016	12260	724	Merchant Marine	02/15/2016	@ Moravian		Moravian		false		false	-								
 2016	12260	724	Merchant Marine	02/20/2016	@ Goucher		Goucher		false		false	-								
-2016	12260	411	Messiah	11/13/2015	@ Summit		Summit		false		false	-								
+2016	12260	411	Messiah	11/13/2015	@ Summit	958	Summit	http://stats.ncaa.org/team/index/12260?org_id=958	false		false	W 79 - 63	true	79 - 63	79	63	false		3948705	http://stats.ncaa.org/game/index/3948705?org_id=958
 2016	12260	411	Messiah	11/14/2015	@ Keystone		Keystone		false		false	-								
 2016	12260	411	Messiah	11/20/2015	Lancaster Bible		Lancaster Bible		false		true	-								
 2016	12260	411	Messiah	11/21/2015	TBA		TBA		false		true	-								
@@ -5458,6 +5508,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	424	Millikin	02/10/2016	Wheaton (IL)		Wheaton (IL)		false		true	-								
 2016	12260	424	Millikin	02/13/2016	Augustana (IL)		Augustana (IL)		false		true	-								
 2016	12260	424	Millikin	02/20/2016	Carthage		Carthage		false		true	-								
+2016	12260	426	Millsaps	11/13/2015	@ Louisiana Tech		Louisiana Tech		false		false	-								
 2016	12260	426	Millsaps	11/15/2015	Rust		Rust		false		true	-								
 2016	12260	426	Millsaps	11/17/2015	LeTourneau		LeTourneau		false		true	-								
 2016	12260	426	Millsaps	11/21/2015	@ Centenary (LA)		Centenary (LA)		false		false	-								
@@ -5483,6 +5534,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	426	Millsaps	02/14/2016	Berry		Berry		false		true	-								
 2016	12260	426	Millsaps	02/19/2016	Hendrix		Hendrix		false		true	-								
 2016	12260	426	Millsaps	02/21/2016	Rhodes		Rhodes		false		true	-								
+2016	12260	1226	Minn.-Morris	11/13/2015	@ North Dakota	494	North Dakota	http://stats.ncaa.org/team/index/12260?org_id=494	false		false	L 69 - 99	false	69 - 99	69	99	false		3948515	http://stats.ncaa.org/game/index/3948515?org_id=494
 2016	12260	1226	Minn.-Morris	11/14/2015	@ Concordia-M'head		Concordia-M'head		false		false	-								
 2016	12260	1226	Minn.-Morris	11/17/2015	@ Trinity Bible (ND)		Trinity Bible (ND)		false		false	-								
 2016	12260	1226	Minn.-Morris	11/24/2015	@ Presentation		Presentation		false		false	-								
@@ -5508,7 +5560,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1226	Minn.-Morris	02/13/2016	@ Finlandia		Finlandia		false		false	-								
 2016	12260	1226	Minn.-Morris	02/19/2016	Martin Luther		Martin Luther		false		true	-								
 2016	12260	1226	Minn.-Morris	02/20/2016	Bethany Lutheran		Bethany Lutheran		false		true	-								
-2016	12260	16142	Misericordia	11/13/2015	Lehman@Williamsport, PA		LehmanWilliamsport, PA		false		false	-								
+2016	12260	16142	Misericordia	11/13/2015	@ Lehman		Lehman		false		false	-								
 2016	12260	16142	Misericordia	11/14/2015	TBA@Williamsport, PA		TBAWilliamsport, PA		false		false	-								
 2016	12260	16142	Misericordia	11/17/2015	Susquehanna		Susquehanna		false		true	-								
 2016	12260	16142	Misericordia	11/20/2015	Summit		Summit		false		true	-								
@@ -5533,6 +5585,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	16142	Misericordia	02/13/2016	King's (PA)		King's (PA)		false		true	-								
 2016	12260	16142	Misericordia	02/16/2016	Eastern		Eastern		false		true	-								
 2016	12260	16142	Misericordia	02/20/2016	@ Manhattanville		Manhattanville		false		false	-								
+2016	12260	30042	Mitchell	11/13/2015	@ UMass Dartmouth		UMass Dartmouth		false		false	-								
+2016	12260	30042	Mitchell	11/13/2015	@ UMass Dartmouth		UMass Dartmouth		false		false	-								
 2016	12260	30042	Mitchell	11/13/2015	@ UMass Dartmouth		UMass Dartmouth		false		false	-								
 2016	12260	30042	Mitchell	11/14/2015	TBA@North Dartmouth, MA		TBANorth Dartmouth, MA		false		false	-								
 2016	12260	30042	Mitchell	11/18/2015	Albertus Magnus		Albertus Magnus		false		true	-								
@@ -5579,6 +5633,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	438	Monmouth (IL)	02/13/2016	Beloit		Beloit		false		true	-								
 2016	12260	438	Monmouth (IL)	02/17/2016	@ Illinois Col.		Illinois Col.		false		false	-								
 2016	12260	438	Monmouth (IL)	02/20/2016	Lawrence		Lawrence		false		true	-								
+2016	12260	442	Montclair St.	11/13/2015	Baruch	58	Baruch	http://stats.ncaa.org/team/index/12260?org_id=58	false		true	-								
 2016	12260	442	Montclair St.	11/13/2015	@ Baruch		Baruch		false		false	-								
 2016	12260	442	Montclair St.	11/17/2015	@ Washington Col.		Washington Col.		false		false	-								
 2016	12260	442	Montclair St.	11/21/2015	TCNJ		TCNJ		false		true	-								
@@ -5629,7 +5684,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	443	Moravian	02/13/2016	@ Elizabethtown		Elizabethtown		false		false	-								
 2016	12260	443	Moravian	02/15/2016	Merchant Marine		Merchant Marine		false		true	-								
 2016	12260	443	Moravian	02/20/2016	Juniata		Juniata		false		true	-								
-2016	12260	30067	Morrisville St.	11/13/2015	Clarkson		Clarkson		false		true	-								
+2016	12260	30067	Morrisville St.	11/13/2015	Clarkson	146	Clarkson	http://stats.ncaa.org/team/index/12260?org_id=146	false		true	W 64 - 61	true	64 - 61	64	61	false		3948674	http://stats.ncaa.org/game/index/3948674?org_id=30067
 2016	12260	30067	Morrisville St.	11/17/2015	@ Utica		Utica		false		false	-								
 2016	12260	30067	Morrisville St.	11/20/2015	@ Elmira		Elmira		false		false	-								
 2016	12260	30067	Morrisville St.	11/21/2015	TBA@Elmira, NY		TBAElmira, NY		false		false	-								
@@ -5805,7 +5860,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	451	Mt. St. Vincent	02/13/2016	Old Westbury		Old Westbury		false		true	-								
 2016	12260	451	Mt. St. Vincent	02/17/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-								
 2016	12260	451	Mt. St. Vincent	02/20/2016	@ Farmingdale St.		Farmingdale St.		false		false	-								
-2016	12260	453	Muhlenberg	11/13/2015	@ Albright		Albright		false		false	-								
+2016	12260	453	Muhlenberg	11/13/2015	@ Albright	16	Albright	http://stats.ncaa.org/team/index/12260?org_id=16	false		false	W 74 - 66	true	74 - 66	74	66	false		3948888	http://stats.ncaa.org/game/index/3948888?org_id=16
 2016	12260	453	Muhlenberg	11/14/2015	Arcadia		Arcadia		false		true	-								
 2016	12260	453	Muhlenberg	11/20/2015	CCNY		CCNY		false		true	-								
 2016	12260	453	Muhlenberg	11/21/2015	TBA		TBA		false		true	-								
@@ -5904,7 +5959,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	479	NYU	02/19/2016	Chicago		Chicago		false		true	-								
 2016	12260	479	NYU	02/21/2016	Washington-St. Louis		Washington-St. Louis		false		true	-								
 2016	12260	479	NYU	02/27/2016	@ Brandeis		Brandeis		false		false	-								
-2016	12260	461	Nazareth	11/13/2015	D'Youville		D'Youville		false		true	-								
+2016	12260	461	Nazareth	11/13/2015	@ D'Youville		D'Youville		false		false	-								
 2016	12260	461	Nazareth	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	461	Nazareth	11/20/2015	Bluffton@Buffalo, NY		BlufftonBuffalo, NY		false		false	-								
 2016	12260	461	Nazareth	11/21/2015	TBA@Buffalo, NY		TBABuffalo, NY		false		false	-								
@@ -6054,7 +6109,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	21772	Newbury	02/16/2016	@ Elms		Elms		false		false	-								
 2016	12260	21772	Newbury	02/18/2016	Mitchell		Mitchell		false		true	-								
 2016	12260	21772	Newbury	02/20/2016	@ Wheelock		Wheelock		false		false	-								
-2016	12260	484	Nichols	11/13/2015	Becker		Becker		false		true	-								
+2016	12260	484	Nichols	11/13/2015	@ Becker		Becker		false		false	-								
+2016	12260	484	Nichols	11/13/2015	@ Becker		Becker		false		false	-								
 2016	12260	484	Nichols	11/17/2015	Thomas (ME)		Thomas (ME)		false		true	-								
 2016	12260	484	Nichols	11/19/2015	@ Daniel Webster		Daniel Webster		false		false	-								
 2016	12260	484	Nichols	11/21/2015	@ Lasell		Lasell		false		false	-								
@@ -6155,7 +6211,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	496	North Park	02/10/2016	Elmhurst		Elmhurst		false		true	-								
 2016	12260	496	North Park	02/13/2016	@ Ill. Wesleyan		Ill. Wesleyan		false		false	-								
 2016	12260	496	North Park	02/20/2016	North Central (IL)		North Central (IL)		false		true	-								
-2016	12260	1267	Northland	11/13/2015	@ Bemidji St.		Bemidji St.		false		false	-								
+2016	12260	1267	Northland	11/13/2015	@ Bemidji St.	54	Bemidji St.	http://stats.ncaa.org/team/index/12260?org_id=54	false		false	L 55 - 84	false	55 - 84	55	84	false		3949144	http://stats.ncaa.org/game/index/3949144?org_id=54
 2016	12260	1267	Northland	11/17/2015	@ Maranatha Baptist		Maranatha Baptist		false		false	-								
 2016	12260	1267	Northland	11/21/2015	Carthage		Carthage		false		true	-								
 2016	12260	1267	Northland	11/24/2015	@ St. Cloud St.		St. Cloud St.		false		false	-								
@@ -6256,9 +6312,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	515	Oberlin	02/13/2016	@ Hiram		Hiram		false		false	-								
 2016	12260	515	Oberlin	02/17/2016	Ohio Wesleyan		Ohio Wesleyan		false		true	-								
 2016	12260	515	Oberlin	02/20/2016	@ Wooster		Wooster		false		false	-								
-2016	12260	516	Occidental	11/24/2014	West Coast Baptist		West Coast Baptist		false		true	-								
 2016	12260	516	Occidental	11/14/2015	Caltech		Caltech		false		true	-								
 2016	12260	516	Occidental	11/17/2015	@ West Coast Baptist		West Coast Baptist		false		false	-								
+2016	12260	516	Occidental	11/24/2015	West Coast Baptist		West Coast Baptist		false		true	-								
 2016	12260	516	Occidental	11/29/2015	Sarah Lawrence		Sarah Lawrence		false		true	-								
 2016	12260	516	Occidental	12/19/2015	@ Willamette		Willamette		false		false	-								
 2016	12260	516	Occidental	12/20/2015	@ Pacific (OR)		Pacific (OR)		false		false	-								
@@ -6378,7 +6434,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	524	Old Westbury	02/13/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-								
 2016	12260	524	Old Westbury	02/17/2016	Farmingdale St.		Farmingdale St.		false		true	-								
 2016	12260	524	Old Westbury	02/20/2016	Sage Colleges		Sage Colleges		false		true	-								
-2016	12260	525	Olivet	11/13/2015	Trinity Int'l@Palos Heights, Ill.		Trinity Int'lPalos Heights, Ill.		false		false	-								
+2016	12260	525	Olivet	11/13/2015	@ Trinity Int'l		Trinity Int'l		false		false	-								
+2016	12260	525	Olivet	11/13/2015	@ Trinity Int'l		Trinity Int'l		false		false	-								
 2016	12260	525	Olivet	11/14/2015	@ Trinity Christian		Trinity Christian		false		false	-								
 2016	12260	525	Olivet	11/18/2015	@ Manchester		Manchester		false		false	-								
 2016	12260	525	Olivet	11/20/2015	@ Grand Valley St.		Grand Valley St.		false		false	-								
@@ -6453,10 +6510,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	531	Otterbein	02/13/2016	@ Capital		Capital		false		false	-								
 2016	12260	531	Otterbein	02/17/2016	Marietta		Marietta		false		true	-								
 2016	12260	531	Otterbein	02/20/2016	Heidelberg		Heidelberg		false		true	-								
+2016	12260	23008	Ozarks (AR)	11/13/2015	S'western Adventist@Broken Arrow, OK		S'western AdventistBroken Arrow, OK		false		false	-								
 2016	12260	23008	Ozarks (AR)	11/17/2015	Dallas Christian		Dallas Christian		false		true	-								
 2016	12260	23008	Ozarks (AR)	11/21/2015	Cent. Christian Bib.		Cent. Christian Bib.		false		true	-								
 2016	12260	23008	Ozarks (AR)	11/23/2015	@ Welch		Welch		false		false	-								
-2016	12260	23008	Ozarks (AR)	11/30/2015	@ S'western Adventist		S'western Adventist		false		false	-								
 2016	12260	23008	Ozarks (AR)	12/01/2015	Crowley's Ridge		Crowley's Ridge		false		true	-								
 2016	12260	23008	Ozarks (AR)	12/05/2015	Texas-Dallas		Texas-Dallas		false		true	-								
 2016	12260	23008	Ozarks (AR)	12/07/2015	@ Cent. Christian Bib.		Cent. Christian Bib.		false		false	-								
@@ -6529,6 +6586,21 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1297	Pacific Lutheran	02/13/2016	@ Lewis & Clark		Lewis & Clark		false		false	-								
 2016	12260	1297	Pacific Lutheran	02/19/2016	Whitman		Whitman		false		true	-								
 2016	12260	1297	Pacific Lutheran	02/20/2016	Whitworth		Whitworth		false		true	-								
+2016	12260	30190	Penn College	11/17/2015	@ Shenandoah		Shenandoah		false		false	-								
+2016	12260	30190	Penn College	12/02/2015	Alfred St.		Alfred St.		false		true	-								
+2016	12260	30190	Penn College	12/06/2015	Gallaudet		Gallaudet		false		true	-								
+2016	12260	30190	Penn College	12/11/2015	Gordon@Williamsport, PA		GordonWilliamsport, PA		false		false	-								
+2016	12260	30190	Penn College	01/05/2016	Penn St.-Berks		Penn St.-Berks		false		true	-								
+2016	12260	30190	Penn College	01/07/2016	Lancaster Bible		Lancaster Bible		false		true	-								
+2016	12260	30190	Penn College	01/09/2016	@ Gallaudet		Gallaudet		false		false	-								
+2016	12260	30190	Penn College	01/23/2016	Cobleskill St.		Cobleskill St.		false		true	-								
+2016	12260	30190	Penn College	01/24/2016	SUNY Poly		SUNY Poly		false		true	-								
+2016	12260	30190	Penn College	01/27/2016	@ Penn St.-Berks		Penn St.-Berks		false		false	-								
+2016	12260	30190	Penn College	02/06/2016	@ Morrisville St.		Morrisville St.		false		false	-								
+2016	12260	30190	Penn College	02/07/2016	@ Cazenovia		Cazenovia		false		false	-								
+2016	12260	30190	Penn College	02/13/2016	Wells		Wells		false		true	-								
+2016	12260	30190	Penn College	02/14/2016	Keuka		Keuka		false		true	-								
+2016	12260	30190	Penn College	02/16/2016	@ Lancaster Bible		Lancaster Bible		false		false	-								
 2016	12260	30081	Penn St. Harrisburg	11/14/2015	Rutgers-Camden		Rutgers-Camden		false		true	-								
 2016	12260	30081	Penn St. Harrisburg	11/15/2015	TBA		TBA		false		true	-								
 2016	12260	30081	Penn St. Harrisburg	11/18/2015	@ Haverford		Haverford		false		false	-								
@@ -6650,6 +6722,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30044	Penn St.-Berks	02/19/2016	@ Wilson		Wilson		false		false	-								
 2016	12260	30044	Penn St.-Berks	02/20/2016	@ Gallaudet		Gallaudet		false		false	-								
 2016	12260	21830	Piedmont	11/13/2015	@ Emory		Emory		false		false	-								
+2016	12260	21830	Piedmont	11/13/2015	@ Emory		Emory		false		false	-								
+2016	12260	21830	Piedmont	11/13/2015	@ Emory		Emory		false		false	-								
 2016	12260	21830	Piedmont	11/14/2015	@ Tennessee Tech		Tennessee Tech		false		false	-								
 2016	12260	21830	Piedmont	11/18/2015	@ Oglethorpe		Oglethorpe		false		false	-								
 2016	12260	21830	Piedmont	11/21/2015	Toccoa Falls		Toccoa Falls		false		true	-								
@@ -6701,6 +6775,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	544	Pine Manor	02/06/2016	@ Vermont Tech		Vermont Tech		false		false	-								
 2016	12260	544	Pine Manor	02/09/2016	Tufts		Tufts		false		true	-								
 2016	12260	544	Pine Manor	02/16/2016	@ MCLA		MCLA		false		false	-								
+2016	12260	1315	Pitt.-Bradford	11/13/2015	@ Buffalo		Buffalo		false		false	-								
+2016	12260	1315	Pitt.-Bradford	11/13/2015	@ Buffalo		Buffalo		false		false	-								
+2016	12260	1315	Pitt.-Bradford	11/13/2015	@ Buffalo		Buffalo		false		false	-								
+2016	12260	1315	Pitt.-Bradford	11/13/2015	@ Buffalo		Buffalo		false		false	-								
 2016	12260	1315	Pitt.-Bradford	11/17/2015	Alfred St.		Alfred St.		false		true	-								
 2016	12260	1315	Pitt.-Bradford	11/20/2015	@ Gettysburg		Gettysburg		false		false	-								
 2016	12260	1315	Pitt.-Bradford	11/21/2015	TBA@Gettysburg, PA		TBAGettysburg, PA		false		false	-								
@@ -6776,6 +6854,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	547	Plattsburgh St.	02/16/2016	SUNY Potsdam		SUNY Potsdam		false		true	-								
 2016	12260	547	Plattsburgh St.	02/19/2016	@ Brockport		Brockport		false		false	-								
 2016	12260	547	Plattsburgh St.	02/20/2016	@ SUNY Geneseo		SUNY Geneseo		false		false	-								
+2016	12260	548	Plymouth St.	11/13/2015	@ Thomas (ME)		Thomas (ME)		false		false	-								
 2016	12260	548	Plymouth St.	11/13/2015	@ Thomas (ME)		Thomas (ME)		false		false	-								
 2016	12260	548	Plymouth St.	11/17/2015	Rivier@Concord, NH		RivierConcord, NH		false		false	-								
 2016	12260	548	Plymouth St.	11/19/2015	@ Framingham St.		Framingham St.		false		false	-								
@@ -6898,7 +6977,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30029	Purchase	02/14/2016	St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		true	-								
 2016	12260	30029	Purchase	02/17/2016	@ Mt. St. Mary (NY)		Mt. St. Mary (NY)		false		false	-								
 2016	12260	30029	Purchase	02/20/2016	@ Yeshiva		Yeshiva		false		false	-								
-2016	12260	580	RIT	11/13/2015	Brooklyn@Cleveland, OH		BrooklynCleveland, OH		false		false	-								
+2016	12260	580	RIT	11/13/2015	@ Brooklyn		Brooklyn		false		false	-								
 2016	12260	580	RIT	11/14/2015	TBA@Cleveland, OH		TBACleveland, OH		false		false	-								
 2016	12260	580	RIT	11/20/2015	D'Youville		D'Youville		false		true	-								
 2016	12260	580	RIT	11/21/2015	TBA		TBA		false		true	-								
@@ -6912,7 +6991,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	580	RIT	01/12/2016	Union (NY)		Union (NY)		false		true	-								
 2016	12260	580	RIT	01/15/2016	@ Clarkson		Clarkson		false		false	-								
 2016	12260	580	RIT	01/16/2016	@ St. Lawrence		St. Lawrence		false		false	-								
-2016	12260	580	RIT	01/19/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	580	RIT	01/19/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	580	RIT	01/22/2016	Vassar		Vassar		false		true	-								
 2016	12260	580	RIT	01/23/2016	Bard		Bard		false		true	-								
 2016	12260	580	RIT	01/29/2016	Rensselaer		Rensselaer		false		true	-								
@@ -6921,7 +7000,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	580	RIT	02/06/2016	@ Vassar		Vassar		false		false	-								
 2016	12260	580	RIT	02/12/2016	St. Lawrence		St. Lawrence		false		true	-								
 2016	12260	580	RIT	02/13/2016	Clarkson		Clarkson		false		true	-								
-2016	12260	580	RIT	02/17/2016	Hobart		Hobart		false		true	-								
+2016	12260	580	RIT	02/17/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	580	RIT	02/21/2016	@ Union (NY)		Union (NY)		false		false	-								
 2016	12260	564	Ramapo	11/16/2015	York (NY)		York (NY)		false		true	-								
 2016	12260	564	Ramapo	11/19/2015	Farmingdale St.		Farmingdale St.		false		true	-								
@@ -6948,6 +7027,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	564	Ramapo	02/10/2016	@ TCNJ		TCNJ		false		false	-								
 2016	12260	564	Ramapo	02/13/2016	Rutgers-Camden		Rutgers-Camden		false		true	-								
 2016	12260	564	Ramapo	02/17/2016	Rutgers-Newark		Rutgers-Newark		false		true	-								
+2016	12260	566	Randolph	11/13/2015	@ Longwood		Longwood		false		false	-								
 2016	12260	566	Randolph	11/15/2015	@ Methodist		Methodist		false		false	-								
 2016	12260	566	Randolph	11/18/2015	William Peace		William Peace		false		true	-								
 2016	12260	566	Randolph	11/19/2015	@ Christendom		Christendom		false		false	-								
@@ -7023,7 +7103,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	567	Redlands	02/17/2016	Whittier		Whittier		false		true	-								
 2016	12260	567	Redlands	02/20/2016	Claremont-M-S		Claremont-M-S		false		true	-								
 2016	12260	567	Redlands	02/23/2016	@ La Verne		La Verne		false		false	-								
-2016	12260	569	Regis (MA)	11/13/2015	Wentworth		Wentworth		false		true	-								
+2016	12260	569	Regis (MA)	11/13/2015	@ Wentworth		Wentworth		false		false	-								
+2016	12260	569	Regis (MA)	11/13/2015	@ Wentworth		Wentworth		false		false	-								
+2016	12260	569	Regis (MA)	11/13/2015	@ Wentworth		Wentworth		false		false	-								
+2016	12260	569	Regis (MA)	11/13/2015	@ Wentworth		Wentworth		false		false	-								
 2016	12260	569	Regis (MA)	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	569	Regis (MA)	11/17/2015	@ Colby-Sawyer		Colby-Sawyer		false		false	-								
 2016	12260	569	Regis (MA)	11/21/2015	@ Wheaton (MA)		Wheaton (MA)		false		false	-								
@@ -7057,7 +7140,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	570	Rensselaer	12/13/2015	TBA		TBA		false		true	-								
 2016	12260	570	Rensselaer	12/29/2015	Wilkes@Rochester, NY		WilkesRochester, NY		false		false	-								
 2016	12260	570	Rensselaer	12/30/2015	TBA@Rochester, NY		TBARochester, NY		false		false	-								
-2016	12260	570	Rensselaer	01/02/2016	Hobart		Hobart		false		true	-								
+2016	12260	570	Rensselaer	01/02/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	570	Rensselaer	01/03/2016	Clarkson		Clarkson		false		true	-								
 2016	12260	570	Rensselaer	01/08/2016	@ Union (NY)		Union (NY)		false		false	-								
 2016	12260	570	Rensselaer	01/09/2016	RIT		RIT		false		true	-								
@@ -7065,7 +7148,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	570	Rensselaer	01/22/2016	St. Lawrence		St. Lawrence		false		true	-								
 2016	12260	570	Rensselaer	01/23/2016	@ Skidmore		Skidmore		false		false	-								
 2016	12260	570	Rensselaer	01/29/2016	@ RIT		RIT		false		false	-								
-2016	12260	570	Rensselaer	01/30/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	570	Rensselaer	01/30/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	570	Rensselaer	02/05/2016	@ Clarkson		Clarkson		false		false	-								
 2016	12260	570	Rensselaer	02/06/2016	@ St. Lawrence		St. Lawrence		false		false	-								
 2016	12260	570	Rensselaer	02/09/2016	Bard		Bard		false		true	-								
@@ -7123,7 +7206,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	573	Rhodes	02/14/2016	Sewanee		Sewanee		false		true	-								
 2016	12260	573	Rhodes	02/19/2016	@ Birmingham-So.		Birmingham-So.		false		false	-								
 2016	12260	573	Rhodes	02/21/2016	@ Millsaps		Millsaps		false		false	-								
-2016	12260	577	Ripon	11/13/2015	Wis.-Whitewater		Wis.-Whitewater		false		true	-								
+2016	12260	577	Ripon	11/13/2015	@ Wis.-Whitewater		Wis.-Whitewater		false		false	-								
 2016	12260	577	Ripon	11/21/2015	Lawrence		Lawrence		false		true	-								
 2016	12260	577	Ripon	11/24/2015	@ Wis. Lutheran		Wis. Lutheran		false		false	-								
 2016	12260	577	Ripon	12/02/2015	@ St. Norbert		St. Norbert		false		false	-								
@@ -7196,7 +7279,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	578	Roanoke	02/13/2016	Bridgewater (VA)		Bridgewater (VA)		false		true	-								
 2016	12260	578	Roanoke	02/17/2016	@ Lynchburg		Lynchburg		false		false	-								
 2016	12260	578	Roanoke	02/20/2016	@ Randolph-Macon		Randolph-Macon		false		false	-								
-2016	12260	581	Rochester (NY)	11/17/2015	@ Hobart		Hobart		false		false	-								
+2016	12260	581	Rochester (NY)	11/17/2015	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	581	Rochester (NY)	11/20/2015	Keystone		Keystone		false		true	-								
 2016	12260	581	Rochester (NY)	11/21/2015	TBA		TBA		false		true	-								
 2016	12260	581	Rochester (NY)	11/24/2015	@ Nazareth		Nazareth		false		false	-								
@@ -7221,7 +7304,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	581	Rochester (NY)	02/19/2016	@ CWRU		CWRU		false		false	-								
 2016	12260	581	Rochester (NY)	02/21/2016	@ Carnegie Mellon		Carnegie Mellon		false		false	-								
 2016	12260	581	Rochester (NY)	02/27/2016	Emory		Emory		false		true	-								
-2016	12260	582	Rockford	11/13/2015	Eureka		Eureka		false		true	-								
+2016	12260	582	Rockford	11/13/2015	@ Eureka		Eureka		false		false	-								
 2016	12260	582	Rockford	11/20/2015	@ Carroll (WI)		Carroll (WI)		false		false	-								
 2016	12260	582	Rockford	11/21/2015	TBA@Waukesha, WI		TBAWaukesha, WI		false		false	-								
 2016	12260	582	Rockford	11/24/2015	Loras		Loras		false		true	-								
@@ -7321,7 +7404,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	15882	Rosemont	02/13/2016	@ Marywood		Marywood		false		false	-								
 2016	12260	15882	Rosemont	02/17/2016	@ Immaculata		Immaculata		false		false	-								
 2016	12260	15882	Rosemont	02/20/2016	Centenary (NJ)		Centenary (NJ)		false		true	-								
-2016	12260	259	Rowan	11/13/2015	Salisbury@Chester, PA		SalisburyChester, PA		false		false	-								
+2016	12260	259	Rowan	11/13/2015	Salisbury @ Chester, Pa. (Schwartz Center)	622	Salisbury	http://stats.ncaa.org/team/index/12260?org_id=622	true	Chester, Pa. (Schwartz Center)	true	L 61 - 62	false	61 - 62	61	62	false		3948622	http://stats.ncaa.org/game/index/3948622?org_id=259
 2016	12260	259	Rowan	11/14/2015	TBA@Chester, PA		TBAChester, PA		false		false	-								
 2016	12260	259	Rowan	11/17/2015	Neumann		Neumann		false		true	-								
 2016	12260	259	Rowan	11/20/2015	Wilkes@Annville, PA		WilkesAnnville, PA		false		false	-								
@@ -7396,6 +7479,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	588	Rutgers-Camden	02/10/2016	Rutgers-Newark		Rutgers-Newark		false		true	-								
 2016	12260	588	Rutgers-Camden	02/13/2016	@ Ramapo		Ramapo		false		false	-								
 2016	12260	588	Rutgers-Camden	02/17/2016	New Jersey City		New Jersey City		false		true	-								
+2016	12260	589	Rutgers-Newark	11/13/2015	@ Rutgers		Rutgers		false		false	-								
 2016	12260	589	Rutgers-Newark	11/17/2015	@ Hunter		Hunter		false		false	-								
 2016	12260	589	Rutgers-Newark	11/20/2015	Wash. & Lee@Gettysburg, PA		Wash. & LeeGettysburg, PA		false		false	-								
 2016	12260	589	Rutgers-Newark	11/21/2015	TBA@Gettysburg, PA		TBAGettysburg, PA		false		false	-								
@@ -7521,7 +7605,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	478	SUNY Maritime	02/13/2016	@ Mt. St. Mary (NY)		Mt. St. Mary (NY)		false		false	-								
 2016	12260	478	SUNY Maritime	02/17/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-								
 2016	12260	478	SUNY Maritime	02/20/2016	Sarah Lawrence		Sarah Lawrence		false		true	-								
-2016	12260	475	SUNY New Paltz	11/13/2015	Vassar		Vassar		false		true	-								
+2016	12260	475	SUNY New Paltz	11/13/2015	Vassar	737	Vassar	http://stats.ncaa.org/team/index/12260?org_id=737	false		true	W 70 - 68	true	70 - 68	70	68	false		3948717	http://stats.ncaa.org/game/index/3948717?org_id=475
 2016	12260	475	SUNY New Paltz	11/17/2015	@ Mt. St. Mary (NY)		Mt. St. Mary (NY)		false		false	-								
 2016	12260	475	SUNY New Paltz	11/20/2015	Mt. St. Vincent@Williamstown, MA		Mt. St. VincentWilliamstown, MA		false		false	-								
 2016	12260	475	SUNY New Paltz	11/24/2015	Middlebury		Middlebury		false		true	-								
@@ -7671,7 +7755,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	602	Saint John's (MN)	02/13/2016	Concordia-M'head		Concordia-M'head		false		true	-								
 2016	12260	602	Saint John's (MN)	02/17/2016	@ Gust. Adolphus		Gust. Adolphus		false		false	-								
 2016	12260	602	Saint John's (MN)	02/20/2016	@ Augsburg		Augsburg		false		false	-								
-2016	12260	612	Saint Mary's (MN)	11/13/2015	Crossroads		Crossroads		false		true	-								
+2016	12260	612	Saint Mary's (MN)	11/13/2015	Crossroads		Crossroads		false		true	W 83 - 66	true	83 - 66	83	66	false		3948867	http://stats.ncaa.org/game/index/3948867?org_id=612
 2016	12260	612	Saint Mary's (MN)	11/24/2015	@ Martin Luther		Martin Luther		false		false	-								
 2016	12260	612	Saint Mary's (MN)	11/29/2015	@ St. Scholastica		St. Scholastica		false		false	-								
 2016	12260	612	Saint Mary's (MN)	12/02/2015	@ Gust. Adolphus		Gust. Adolphus		false		false	-								
@@ -7746,7 +7830,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	621	Salem St.	02/10/2016	Bridgewater St.		Bridgewater St.		false		true	-								
 2016	12260	621	Salem St.	02/13/2016	@ Westfield St.		Westfield St.		false		false	-								
 2016	12260	621	Salem St.	02/17/2016	@ Fitchburg St.		Fitchburg St.		false		false	-								
-2016	12260	622	Salisbury	11/13/2015	Rowan@Chester, PA		RowanChester, PA		false		false	-								
+2016	12260	622	Salisbury	11/13/2015	Rowan @ Chester, Pa. (Schwartz Center)	259	Rowan	http://stats.ncaa.org/team/index/12260?org_id=259	true	Chester, Pa. (Schwartz Center)	true	W 62 - 61	true	62 - 61	62	61	false		3948622	http://stats.ncaa.org/game/index/3948622?org_id=259
 2016	12260	622	Salisbury	11/20/2015	Southern Vt.@Stevenson, MD		Southern Vt.Stevenson, MD		false		false	-								
 2016	12260	622	Salisbury	11/21/2015	DeSales@Stevenson, MD		DeSalesStevenson, MD		false		false	-								
 2016	12260	622	Salisbury	11/24/2015	Va. Wesleyan		Va. Wesleyan		false		true	-								
@@ -7845,10 +7929,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1355	Schreiner	02/12/2016	Centenary (LA)		Centenary (LA)		false		true	-								
 2016	12260	1355	Schreiner	02/13/2016	Colorado Col.		Colorado Col.		false		true	-								
 2016	12260	1355	Schreiner	02/20/2016	Trinity (TX)		Trinity (TX)		false		true	-								
-2016	12260	633	Scranton	11/13/2015	Bryn Athyn		Bryn Athyn		false		true	-								
+2016	12260	633	Scranton	11/13/2015	@ Bryn Athyn		Bryn Athyn		false		false	-								
+2016	12260	633	Scranton	11/13/2015	@ Bryn Athyn		Bryn Athyn		false		false	-								
 2016	12260	633	Scranton	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	633	Scranton	11/17/2015	Ithaca		Ithaca		false		true	-								
-2016	12260	633	Scranton	11/21/2015	Hobart		Hobart		false		true	-								
+2016	12260	633	Scranton	11/21/2015	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	633	Scranton	11/28/2015	King's (PA)@Scranton, PA		King's (PA)Scranton, PA		false		false	-								
 2016	12260	633	Scranton	11/29/2015	Wilkes@Scranton, PA		WilkesScranton, PA		false		false	-								
 2016	12260	633	Scranton	12/05/2015	@ Juniata		Juniata		false		false	-								
@@ -7870,7 +7955,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	633	Scranton	02/10/2016	@ Susquehanna		Susquehanna		false		false	-								
 2016	12260	633	Scranton	02/13/2016	Goucher		Goucher		false		true	-								
 2016	12260	633	Scranton	02/20/2016	@ Catholic		Catholic		false		false	-								
-2016	12260	652	Sewanee	11/13/2015	Huntingdon		Huntingdon		false		true	-								
+2016	12260	652	Sewanee	11/13/2015	@ Huntingdon		Huntingdon		false		false	-								
+2016	12260	652	Sewanee	11/13/2015	@ Huntingdon		Huntingdon		false		false	-								
 2016	12260	652	Sewanee	11/17/2015	@ Covenant		Covenant		false		false	-								
 2016	12260	652	Sewanee	11/20/2015	Boyce		Boyce		false		true	-								
 2016	12260	652	Sewanee	11/21/2015	Blackburn		Blackburn		false		true	-								
@@ -7895,6 +7981,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	652	Sewanee	02/14/2016	@ Rhodes		Rhodes		false		false	-								
 2016	12260	652	Sewanee	02/19/2016	Oglethorpe		Oglethorpe		false		true	-								
 2016	12260	652	Sewanee	02/21/2016	Berry		Berry		false		true	-								
+2016	12260	637	Shenandoah	11/13/2015	@ Bucknell		Bucknell		false		false	-								
 2016	12260	637	Shenandoah	11/15/2015	John Jay		John Jay		false		true	-								
 2016	12260	637	Shenandoah	11/17/2015	Penn College		Penn College		false		true	-								
 2016	12260	637	Shenandoah	11/21/2015	@ Mary Washington		Mary Washington		false		false	-								
@@ -7920,6 +8007,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	637	Shenandoah	02/13/2016	Lynchburg		Lynchburg		false		true	-								
 2016	12260	637	Shenandoah	02/17/2016	@ Bridgewater (VA)		Bridgewater (VA)		false		false	-								
 2016	12260	637	Shenandoah	02/20/2016	@ Emory & Henry		Emory & Henry		false		false	-								
+2016	12260	641	Simpson	11/13/2015	@ Drake		Drake		false		false	-								
 2016	12260	641	Simpson	11/16/2015	Graceland (IA)		Graceland (IA)		false		true	-								
 2016	12260	641	Simpson	11/20/2015	@ Augsburg		Augsburg		false		false	-								
 2016	12260	641	Simpson	11/21/2015	@ Gust. Adolphus		Gust. Adolphus		false		false	-								
@@ -7954,7 +8042,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	642	Skidmore	12/28/2015	Ramapo@Las Vegas, NV		RamapoLas Vegas, NV		false		false	-								
 2016	12260	642	Skidmore	12/30/2015	Wis.-Stout@Las Vegas, NV		Wis.-StoutLas Vegas, NV		false		false	-								
 2016	12260	642	Skidmore	01/02/2016	Bard		Bard		false		true	-								
-2016	12260	642	Skidmore	01/03/2016	Hobart		Hobart		false		true	-								
+2016	12260	642	Skidmore	01/03/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	642	Skidmore	01/08/2016	RIT		RIT		false		true	-								
 2016	12260	642	Skidmore	01/09/2016	@ Union (NY)		Union (NY)		false		false	-								
 2016	12260	642	Skidmore	01/15/2016	@ Vassar		Vassar		false		false	-								
@@ -7962,7 +8050,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	642	Skidmore	01/19/2016	Clarkson		Clarkson		false		true	-								
 2016	12260	642	Skidmore	01/22/2016	Union (NY)		Union (NY)		false		true	-								
 2016	12260	642	Skidmore	01/23/2016	Rensselaer		Rensselaer		false		true	-								
-2016	12260	642	Skidmore	01/29/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	642	Skidmore	01/29/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	642	Skidmore	01/30/2016	@ RIT		RIT		false		false	-								
 2016	12260	642	Skidmore	02/02/2016	@ St. Lawrence		St. Lawrence		false		false	-								
 2016	12260	642	Skidmore	02/12/2016	@ Rensselaer		Rensselaer		false		false	-								
@@ -8019,7 +8107,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30164	Southern Va.	02/13/2016	Salisbury		Salisbury		false		true	-								
 2016	12260	30164	Southern Va.	02/17/2016	@ Mary Washington		Mary Washington		false		false	-								
 2016	12260	30164	Southern Va.	02/20/2016	@ York (PA)		York (PA)		false		false	-								
-2016	12260	1379	Southern Vt.	11/13/2015	MCLA		MCLA		false		true	-								
+2016	12260	1379	Southern Vt.	11/13/2015	@ MCLA		MCLA		false		false	-								
+2016	12260	1379	Southern Vt.	11/13/2015	@ MCLA		MCLA		false		false	-								
 2016	12260	1379	Southern Vt.	11/20/2015	Salisbury@Stevenson, MD		SalisburyStevenson, MD		false		false	-								
 2016	12260	1379	Southern Vt.	11/21/2015	St. Thomas (MN)@Stevenson, MD		St. Thomas (MN)Stevenson, MD		false		false	-								
 2016	12260	1379	Southern Vt.	11/29/2015	@ Castleton		Castleton		false		false	-								
@@ -8044,7 +8133,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1379	Southern Vt.	02/13/2016	@ Wheelock		Wheelock		false		false	-								
 2016	12260	1379	Southern Vt.	02/18/2016	Elms		Elms		false		true	-								
 2016	12260	1379	Southern Vt.	02/20/2016	Daniel Webster		Daniel Webster		false		true	-								
-2016	12260	8746	Southwestern (TX)	11/13/2015	Howard Payne		Howard Payne		false		true	-								
+2016	12260	8746	Southwestern (TX)	11/13/2015	Howard Payne	2741	Howard Payne	http://stats.ncaa.org/team/index/12260?org_id=2741	false		true	W 82 - 73	true	82 - 73	82	73	false		3949037	http://stats.ncaa.org/game/index/3949037?org_id=8746
 2016	12260	8746	Southwestern (TX)	11/17/2015	@ St. Edward's		St. Edward's		false		false	-								
 2016	12260	8746	Southwestern (TX)	11/19/2015	Hardin-Simmons		Hardin-Simmons		false		true	-								
 2016	12260	8746	Southwestern (TX)	11/21/2015	Texas-Tyler		Texas-Tyler		false		true	-								
@@ -8094,7 +8183,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	23260	Spalding	02/13/2016	@ MacMurray		MacMurray		false		false	-								
 2016	12260	23260	Spalding	02/17/2016	@ Webster		Webster		false		false	-								
 2016	12260	23260	Spalding	02/20/2016	Blackburn		Blackburn		false		true	-								
-2016	12260	673	Springfield	11/13/2015	Fitchburg St.@Dartmouth, MA		Fitchburg St.Dartmouth, MA		false		false	-								
+2016	12260	673	Springfield	11/13/2015	@ Fitchburg St.		Fitchburg St.		false		false	-								
+2016	12260	673	Springfield	11/13/2015	@ Fitchburg St.		Fitchburg St.		false		false	-								
+2016	12260	673	Springfield	11/13/2015	@ Fitchburg St.		Fitchburg St.		false		false	-								
+2016	12260	673	Springfield	11/13/2015	@ Fitchburg St.		Fitchburg St.		false		false	-								
+2016	12260	673	Springfield	11/13/2015	@ Fitchburg St.		Fitchburg St.		false		false	-								
 2016	12260	673	Springfield	11/14/2015	TBA@Dartmouth, MA		TBADartmouth, MA		false		false	-								
 2016	12260	673	Springfield	11/19/2015	@ Elms		Elms		false		false	-								
 2016	12260	673	Springfield	11/21/2015	Trinity (CT)		Trinity (CT)		false		true	-								
@@ -8194,7 +8287,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1340	St. Joseph's (L.I.)	02/14/2016	@ Purchase		Purchase		false		false	-								
 2016	12260	1340	St. Joseph's (L.I.)	02/17/2016	@ Yeshiva		Yeshiva		false		false	-								
 2016	12260	1340	St. Joseph's (L.I.)	02/20/2016	Mt. St. Mary (NY)		Mt. St. Mary (NY)		false		true	-								
-2016	12260	605	St. Joseph's (ME)	11/13/2015	Hunter@Biddeford, ME		HunterBiddeford, ME		false		false	-								
+2016	12260	605	St. Joseph's (ME)	11/13/2015	Hunter @ Biddeford, Maine (Harold Alfond Forum)	292	Hunter	http://stats.ncaa.org/team/index/12260?org_id=292	true	Biddeford, Maine (Harold Alfond Forum)	true	W 88 - 81	true	88 - 81	88	81	false		3948897	http://stats.ncaa.org/game/index/3948897?org_id=605
 2016	12260	605	St. Joseph's (ME)	11/14/2015	TBA@Biddeford, ME		TBABiddeford, ME		false		false	-								
 2016	12260	605	St. Joseph's (ME)	11/19/2015	Husson		Husson		false		true	-								
 2016	12260	605	St. Joseph's (ME)	11/23/2015	@ Me.-Farmington		Me.-Farmington		false		false	-								
@@ -8230,7 +8323,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	607	St. Lawrence	01/08/2016	Vassar		Vassar		false		true	-								
 2016	12260	607	St. Lawrence	01/09/2016	Bard		Bard		false		true	-								
 2016	12260	607	St. Lawrence	01/12/2016	@ Clarkson		Clarkson		false		false	-								
-2016	12260	607	St. Lawrence	01/15/2016	Hobart		Hobart		false		true	-								
+2016	12260	607	St. Lawrence	01/15/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	607	St. Lawrence	01/16/2016	RIT		RIT		false		true	-								
 2016	12260	607	St. Lawrence	01/22/2016	@ Rensselaer		Rensselaer		false		false	-								
 2016	12260	607	St. Lawrence	01/23/2016	@ Union (NY)		Union (NY)		false		false	-								
@@ -8240,7 +8333,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	607	St. Lawrence	02/05/2016	Union (NY)		Union (NY)		false		true	-								
 2016	12260	607	St. Lawrence	02/06/2016	Rensselaer		Rensselaer		false		true	-								
 2016	12260	607	St. Lawrence	02/12/2016	@ RIT		RIT		false		false	-								
-2016	12260	607	St. Lawrence	02/13/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	607	St. Lawrence	02/13/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	607	St. Lawrence	02/17/2016	Clarkson		Clarkson		false		true	-								
 2016	12260	607	St. Lawrence	02/21/2016	@ Skidmore		Skidmore		false		false	-								
 2016	12260	611	St. Mary's (MD)	11/14/2015	Bridgewater (VA)		Bridgewater (VA)		false		true	-								
@@ -8291,7 +8384,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	614	St. Norbert	02/09/2016	@ Lake Forest		Lake Forest		false		false	-								
 2016	12260	614	St. Norbert	02/13/2016	Knox		Knox		false		true	-								
 2016	12260	614	St. Norbert	02/20/2016	@ Cornell College		Cornell College		false		false	-								
-2016	12260	615	St. Olaf	11/13/2015	Bethany Lutheran		Bethany Lutheran		false		true	-								
+2016	12260	615	St. Olaf	11/13/2015	@ Bethany Lutheran		Bethany Lutheran		false		false	-								
+2016	12260	615	St. Olaf	11/13/2015	@ Bethany Lutheran		Bethany Lutheran		false		false	-								
 2016	12260	615	St. Olaf	11/18/2015	@ Wis.-Stevens Point		Wis.-Stevens Point		false		false	-								
 2016	12260	615	St. Olaf	11/28/2015	Wis.-River Falls		Wis.-River Falls		false		true	-								
 2016	12260	615	St. Olaf	12/02/2015	Augsburg		Augsburg		false		true	-								
@@ -8391,7 +8485,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	675	Staten Island	02/09/2016	Medgar Evers		Medgar Evers		false		true	-								
 2016	12260	675	Staten Island	02/12/2016	Baruch		Baruch		false		true	-								
 2016	12260	675	Staten Island	02/16/2016	@ Lehman		Lehman		false		false	-								
-2016	12260	679	Stevens	11/13/2015	Ursinus@Scranton, Pa., PA		UrsinusScranton, Pa., PA		false		false	-								
+2016	12260	679	Stevens	11/13/2015	Ursinus @ John Long Center, Scranton, Pa.	730	Ursinus	http://stats.ncaa.org/team/index/12260?org_id=730	true	John Long Center, Scranton, Pa.	true	L 80 - 83	false	80 - 83	80	83	false		3948923	http://stats.ncaa.org/game/index/3948923?org_id=679
 2016	12260	679	Stevens	11/14/2015	TBA@Scranton, Pa., PA		TBAScranton, Pa., PA		false		false	-								
 2016	12260	679	Stevens	11/18/2015	Kean		Kean		false		true	-								
 2016	12260	679	Stevens	11/21/2015	Drew		Drew		false		true	-								
@@ -8416,7 +8510,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	679	Stevens	02/16/2016	Hartwick		Hartwick		false		true	-								
 2016	12260	679	Stevens	02/19/2016	@ Nazareth		Nazareth		false		false	-								
 2016	12260	679	Stevens	02/20/2016	@ St. John Fisher		St. John Fisher		false		false	-								
-2016	12260	21852	Stevenson	11/13/2015	York (PA)		York (PA)		false		true	-								
+2016	12260	21852	Stevenson	11/13/2015	@ York (PA)		York (PA)		false		false	-								
 2016	12260	21852	Stevenson	11/17/2015	Goucher		Goucher		false		true	-								
 2016	12260	21852	Stevenson	11/20/2015	Dickinson		Dickinson		false		true	-								
 2016	12260	21852	Stevenson	11/21/2015	Emory		Emory		false		true	-								
@@ -8515,7 +8609,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1390	Sul Ross St.	02/11/2016	Mary Hardin-Baylor		Mary Hardin-Baylor		false		true	-								
 2016	12260	1390	Sul Ross St.	02/13/2016	Concordia (TX)		Concordia (TX)		false		true	-								
 2016	12260	1390	Sul Ross St.	02/20/2016	@ Howard Payne		Howard Payne		false		false	-								
-2016	12260	958	Summit	11/13/2015	Messiah		Messiah		false		true	-								
+2016	12260	958	Summit	11/13/2015	Messiah	411	Messiah	http://stats.ncaa.org/team/index/12260?org_id=411	false		true	L 63 - 79	false	63 - 79	63	79	false		3948705	http://stats.ncaa.org/game/index/3948705?org_id=958
 2016	12260	958	Summit	11/14/2015	@ Liberty		Liberty		false		false	-								
 2016	12260	958	Summit	11/17/2015	@ Wilkes		Wilkes		false		false	-								
 2016	12260	958	Summit	11/20/2015	@ Misericordia		Misericordia		false		false	-								
@@ -8614,6 +8708,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	712	TCNJ	02/10/2016	Ramapo		Ramapo		false		true	-								
 2016	12260	712	TCNJ	02/13/2016	@ Wm. Paterson		Wm. Paterson		false		false	-								
 2016	12260	712	TCNJ	02/17/2016	@ Kean		Kean		false		false	-								
+2016	12260	1400	Texas Lutheran	11/13/2015	@ Incarnate Word	2743	Incarnate Word	http://stats.ncaa.org/team/index/12260?org_id=2743	false		false	L 65 - 86	false	65 - 86	65	86	false		3949050	http://stats.ncaa.org/game/index/3949050?org_id=2743
 2016	12260	1400	Texas Lutheran	11/15/2015	Texas-Tyler		Texas-Tyler		false		true	-								
 2016	12260	1400	Texas Lutheran	11/20/2015	Pacific Lutheran@Tacoma, WA		Pacific LutheranTacoma, WA		false		false	-								
 2016	12260	1400	Texas Lutheran	11/21/2015	@ Puget Sound		Puget Sound		false		false	-								
@@ -8689,7 +8784,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30028	Texas-Tyler	02/13/2016	@ Rust		Rust		false		false	-								
 2016	12260	30028	Texas-Tyler	02/18/2016	Ozarks (AR)		Ozarks (AR)		false		true	-								
 2016	12260	30028	Texas-Tyler	02/20/2016	Texas-Dallas		Texas-Dallas		false		true	-								
-2016	12260	707	Thiel	11/13/2015	@ Allegheny		Allegheny		false		false	-								
+2016	12260	707	Thiel	11/13/2015	@ Allegheny	19	Allegheny	http://stats.ncaa.org/team/index/12260?org_id=19	false		false	W 70 - 62	true	70 - 62	70	62	false		3948841	http://stats.ncaa.org/game/index/3948841?org_id=19
 2016	12260	707	Thiel	11/18/2015	Penn St.-Behrend		Penn St.-Behrend		false		true	-								
 2016	12260	707	Thiel	11/20/2015	Hiram@New Wilmington, PA		HiramNew Wilmington, PA		false		false	-								
 2016	12260	707	Thiel	11/21/2015	Heidelberg@New Wilmington, PA		HeidelbergNew Wilmington, PA		false		false	-								
@@ -8714,7 +8809,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	707	Thiel	02/13/2016	Westminster (PA)		Westminster (PA)		false		true	-								
 2016	12260	707	Thiel	02/17/2016	Saint Vincent		Saint Vincent		false		true	-								
 2016	12260	707	Thiel	02/20/2016	@ Grove City		Grove City		false		false	-								
-2016	12260	2758	Thomas (ME)	11/13/2015	Plymouth St.		Plymouth St.		false		true	-								
+2016	12260	2758	Thomas (ME)	11/13/2015	@ Plymouth St.		Plymouth St.		false		false	-								
+2016	12260	2758	Thomas (ME)	11/13/2015	@ Plymouth St.		Plymouth St.		false		false	-								
 2016	12260	2758	Thomas (ME)	11/17/2015	@ Nichols		Nichols		false		false	-								
 2016	12260	2758	Thomas (ME)	11/21/2015	Me.-Fort Kent		Me.-Fort Kent		false		true	-								
 2016	12260	2758	Thomas (ME)	11/22/2015	Norwich		Norwich		false		true	-								
@@ -8886,7 +8982,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	717	Tufts	02/06/2016	Amherst		Amherst		false		true	-								
 2016	12260	717	Tufts	02/09/2016	@ Pine Manor		Pine Manor		false		false	-								
 2016	12260	717	Tufts	02/12/2016	@ Williams		Williams		false		false	-								
-2016	12260	1255	U New England	11/13/2015	Colby-Sawyer		Colby-Sawyer		false		true	-								
+2016	12260	1255	U New England	11/13/2015	@ Colby-Sawyer		Colby-Sawyer		false		false	-								
+2016	12260	1255	U New England	11/13/2015	@ Colby-Sawyer		Colby-Sawyer		false		false	-								
 2016	12260	1255	U New England	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	1255	U New England	11/17/2015	Southern Me.		Southern Me.		false		true	-								
 2016	12260	1255	U New England	11/19/2015	@ Me.-Farmington		Me.-Farmington		false		false	-								
@@ -8960,7 +9057,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	401	UMass Boston	02/13/2016	@ Plymouth St.		Plymouth St.		false		false	-								
 2016	12260	401	UMass Boston	02/17/2016	UMass Dartmouth		UMass Dartmouth		false		true	-								
 2016	12260	401	UMass Boston	02/20/2016	Eastern Conn. St.		Eastern Conn. St.		false		true	-								
-2016	12260	656	UMass Dartmouth	11/13/2015	Mitchell		Mitchell		false		true	-								
+2016	12260	656	UMass Dartmouth	11/13/2015	@ Mitchell		Mitchell		false		false	-								
+2016	12260	656	UMass Dartmouth	11/13/2015	@ Mitchell		Mitchell		false		false	-								
+2016	12260	656	UMass Dartmouth	11/13/2015	@ Mitchell		Mitchell		false		false	-								
 2016	12260	656	UMass Dartmouth	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	656	UMass Dartmouth	11/18/2015	Brandeis		Brandeis		false		true	-								
 2016	12260	656	UMass Dartmouth	11/21/2015	Plymouth St.		Plymouth St.		false		true	-								
@@ -9001,15 +9100,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	727	Union (NY)	01/16/2016	@ Vassar		Vassar		false		false	-								
 2016	12260	727	Union (NY)	01/22/2016	@ Skidmore		Skidmore		false		false	-								
 2016	12260	727	Union (NY)	01/23/2016	St. Lawrence		St. Lawrence		false		true	-								
-2016	12260	727	Union (NY)	01/26/2016	Hobart		Hobart		false		true	-								
+2016	12260	727	Union (NY)	01/26/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	727	Union (NY)	02/01/2016	@ Hamilton		Hamilton		false		false	-								
 2016	12260	727	Union (NY)	02/05/2016	@ St. Lawrence		St. Lawrence		false		false	-								
 2016	12260	727	Union (NY)	02/06/2016	@ Clarkson		Clarkson		false		false	-								
 2016	12260	727	Union (NY)	02/12/2016	Vassar		Vassar		false		true	-								
 2016	12260	727	Union (NY)	02/13/2016	@ Rensselaer		Rensselaer		false		false	-								
-2016	12260	727	Union (NY)	02/19/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	727	Union (NY)	02/19/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	727	Union (NY)	02/21/2016	RIT		RIT		false		true	-								
-2016	12260	730	Ursinus	11/13/2015	Stevens@Scranton, Pa., PA		StevensScranton, Pa., PA		false		false	-								
+2016	12260	730	Ursinus	11/13/2015	Stevens @ John Long Center, Scranton, Pa.	679	Stevens	http://stats.ncaa.org/team/index/12260?org_id=679	true	John Long Center, Scranton, Pa.	true	W 83 - 80	true	83 - 80	83	80	false		3948923	http://stats.ncaa.org/game/index/3948923?org_id=679
 2016	12260	730	Ursinus	11/14/2015	TBA@Scranton, PA		TBAScranton, PA		false		false	-								
 2016	12260	730	Ursinus	11/24/2015	Swarthmore		Swarthmore		false		true	-								
 2016	12260	730	Ursinus	12/01/2015	@ Frank. & Marsh.		Frank. & Marsh.		false		false	-								
@@ -9109,7 +9208,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	30166	Valley Forge	02/13/2016	@ Davis		Davis		false		false	-								
 2016	12260	30166	Valley Forge	02/15/2016	@ McDaniel		McDaniel		false		false	-								
 2016	12260	30166	Valley Forge	02/18/2016	@ Washington Adventist		Washington Adventist		false		false	-								
-2016	12260	737	Vassar	11/13/2015	@ SUNY New Paltz		SUNY New Paltz		false		false	-								
+2016	12260	737	Vassar	11/13/2015	@ SUNY New Paltz	475	SUNY New Paltz	http://stats.ncaa.org/team/index/12260?org_id=475	false		false	L 68 - 70	false	68 - 70	68	70	false		3948717	http://stats.ncaa.org/game/index/3948717?org_id=475
 2016	12260	737	Vassar	11/20/2015	Ohio Northern@Rochester, NY		Ohio NorthernRochester, NY		false		false	-								
 2016	12260	737	Vassar	11/21/2015	@ TBA		TBA		false		false	-								
 2016	12260	737	Vassar	11/24/2015	@ SUNY Maritime		SUNY Maritime		false		false	-								
@@ -9124,17 +9223,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	737	Vassar	01/15/2016	Skidmore		Skidmore		false		true	-								
 2016	12260	737	Vassar	01/16/2016	Union (NY)		Union (NY)		false		true	-								
 2016	12260	737	Vassar	01/22/2016	@ RIT		RIT		false		false	-								
-2016	12260	737	Vassar	01/23/2016	@ Hobart		Hobart		false		false	-								
+2016	12260	737	Vassar	01/23/2016	@ Hobart and William Colleges		Hobart and William Colleges		false		false	-								
 2016	12260	737	Vassar	01/26/2016	@ Bard		Bard		false		false	-								
 2016	12260	737	Vassar	01/29/2016	Clarkson		Clarkson		false		true	-								
 2016	12260	737	Vassar	01/30/2016	St. Lawrence		St. Lawrence		false		true	-								
-2016	12260	737	Vassar	02/05/2016	Hobart		Hobart		false		true	-								
+2016	12260	737	Vassar	02/05/2016	Hobart and William Colleges		Hobart and William Colleges		false		true	-								
 2016	12260	737	Vassar	02/06/2016	RIT		RIT		false		true	-								
 2016	12260	737	Vassar	02/12/2016	@ Union (NY)		Union (NY)		false		false	-								
 2016	12260	737	Vassar	02/13/2016	@ Skidmore		Skidmore		false		false	-								
 2016	12260	737	Vassar	02/17/2016	Bard		Bard		false		true	-								
 2016	12260	737	Vassar	02/21/2016	@ Rensselaer		Rensselaer		false		false	-								
-2016	12260	808	WPI	11/13/2015	Eastern Conn. St.@Westfield, MA		Eastern Conn. St.Westfield, MA		false		false	-								
+2016	12260	808	WPI	11/13/2015	Eastern Conn. St. @ Westfield, MA	200	Eastern Conn. St.	http://stats.ncaa.org/team/index/12260?org_id=200	true	Westfield, MA	true	W 60 - 50	true	60 - 50	60	50	false		3948850	http://stats.ncaa.org/game/index/3948850?org_id=808
 2016	12260	808	WPI	11/14/2015	@ TBA		TBA		false		false	-								
 2016	12260	808	WPI	11/20/2015	Curry		Curry		false		true	-								
 2016	12260	808	WPI	11/21/2015	TBA		TBA		false		true	-								
@@ -9259,6 +9358,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	752	Wash. & Lee	02/13/2016	@ Va. Wesleyan		Va. Wesleyan		false		false	-								
 2016	12260	752	Wash. & Lee	02/17/2016	East. Mennonite		East. Mennonite		false		true	-								
 2016	12260	752	Wash. & Lee	02/20/2016	@ Randolph		Randolph		false		false	-								
+2016	12260	753	Washington Col.	11/13/2015	Widener	783	Widener	http://stats.ncaa.org/team/index/12260?org_id=783	false		true	-								
+2016	12260	753	Washington Col.	11/13/2015	@ Widener		Widener		false		false	-								
 2016	12260	753	Washington Col.	11/13/2015	@ Widener		Widener		false		false	-								
 2016	12260	753	Washington Col.	11/14/2015	TBA@Chester, PA		TBAChester, PA		false		false	-								
 2016	12260	753	Washington Col.	11/17/2015	Montclair St.		Montclair St.		false		true	-								
@@ -9385,6 +9486,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	761	Wells	02/19/2016	Cobleskill St.		Cobleskill St.		false		true	-								
 2016	12260	761	Wells	02/20/2016	SUNY Poly		SUNY Poly		false		true	-								
 2016	12260	762	Wentworth	11/13/2015	@ Regis (MA)		Regis (MA)		false		false	-								
+2016	12260	762	Wentworth	11/13/2015	@ Regis (MA)		Regis (MA)		false		false	-								
+2016	12260	762	Wentworth	11/13/2015	@ Regis (MA)		Regis (MA)		false		false	-								
+2016	12260	762	Wentworth	11/13/2015	@ Regis (MA)		Regis (MA)		false		false	-								
 2016	12260	762	Wentworth	11/14/2015	TBA@Weston, MA		TBAWeston, MA		false		false	-								
 2016	12260	762	Wentworth	11/17/2015	@ Northeastern		Northeastern		false		false	-								
 2016	12260	762	Wentworth	11/21/2015	@ Tufts		Tufts		false		false	-								
@@ -9483,6 +9587,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	770	Western Conn. St.	02/17/2016	@ Rhode Island Col.		Rhode Island Col.		false		false	-								
 2016	12260	770	Western Conn. St.	02/20/2016	Plymouth St.		Plymouth St.		false		true	-								
 2016	12260	775	Western New Eng.	11/13/2015	@ Westfield St.		Westfield St.		false		false	-								
+2016	12260	775	Western New Eng.	11/13/2015	@ Westfield St.		Westfield St.		false		false	-								
 2016	12260	775	Western New Eng.	11/14/2015	TBA@Westfield, MA		TBAWestfield, MA		false		false	-								
 2016	12260	775	Western New Eng.	11/17/2015	@ Elms		Elms		false		false	-								
 2016	12260	775	Western New Eng.	11/24/2015	@ Western Conn. St.		Western Conn. St.		false		false	-								
@@ -9507,7 +9612,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	775	Western New Eng.	02/13/2016	Eastern Nazarene		Eastern Nazarene		false		true	-								
 2016	12260	775	Western New Eng.	02/16/2016	@ Salve Regina		Salve Regina		false		false	-								
 2016	12260	775	Western New Eng.	02/20/2016	@ Endicott		Endicott		false		false	-								
-2016	12260	777	Westfield St.	11/13/2015	Western New Eng.		Western New Eng.		false		true	-								
+2016	12260	777	Westfield St.	11/13/2015	@ Western New Eng.		Western New Eng.		false		false	-								
+2016	12260	777	Westfield St.	11/13/2015	@ Western New Eng.		Western New Eng.		false		false	-								
 2016	12260	777	Westfield St.	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	777	Westfield St.	11/18/2015	@ Norwich		Norwich		false		false	-								
 2016	12260	777	Westfield St.	11/21/2015	Emmanuel (MA)		Emmanuel (MA)		false		true	-								
@@ -9606,7 +9712,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	778	Wheaton (IL)	02/10/2016	@ Millikin		Millikin		false		false	-								
 2016	12260	778	Wheaton (IL)	02/13/2016	@ Carthage		Carthage		false		false	-								
 2016	12260	778	Wheaton (IL)	02/20/2016	Augustana (IL)		Augustana (IL)		false		true	-								
-2016	12260	779	Wheaton (MA)	11/13/2015	Wheelock		Wheelock		false		true	-								
+2016	12260	779	Wheaton (MA)	11/13/2015	@ Wheelock		Wheelock		false		false	-								
+2016	12260	779	Wheaton (MA)	11/13/2015	@ Wheelock		Wheelock		false		false	-								
+2016	12260	779	Wheaton (MA)	11/13/2015	@ Wheelock		Wheelock		false		false	-								
+2016	12260	779	Wheaton (MA)	11/13/2015	@ Wheelock		Wheelock		false		false	-								
 2016	12260	779	Wheaton (MA)	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	779	Wheaton (MA)	11/17/2015	@ Worcester St.		Worcester St.		false		false	-								
 2016	12260	779	Wheaton (MA)	11/21/2015	Regis (MA)		Regis (MA)		false		true	-								
@@ -9630,6 +9739,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	779	Wheaton (MA)	02/13/2016	MIT		MIT		false		true	-								
 2016	12260	779	Wheaton (MA)	02/17/2016	@ WPI		WPI		false		false	-								
 2016	12260	779	Wheaton (MA)	02/20/2016	Emerson		Emerson		false		true	-								
+2016	12260	8896	Wheelock	11/13/2015	@ Wheaton (MA)		Wheaton (MA)		false		false	-								
+2016	12260	8896	Wheelock	11/13/2015	@ Wheaton (MA)		Wheaton (MA)		false		false	-								
+2016	12260	8896	Wheelock	11/13/2015	@ Wheaton (MA)		Wheaton (MA)		false		false	-								
 2016	12260	8896	Wheelock	11/13/2015	@ Wheaton (MA)		Wheaton (MA)		false		false	-								
 2016	12260	8896	Wheelock	11/14/2015	TBA@Wheaton, MA		TBAWheaton, MA		false		false	-								
 2016	12260	8896	Wheelock	11/17/2015	Eastern Nazarene		Eastern Nazarene		false		true	-								
@@ -9703,7 +9815,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	781	Whittier	02/17/2016	@ Redlands		Redlands		false		false	-								
 2016	12260	781	Whittier	02/20/2016	@ Occidental		Occidental		false		false	-								
 2016	12260	781	Whittier	02/23/2016	Cal Lutheran		Cal Lutheran		false		true	-								
-2016	12260	1454	Whitworth	11/13/2015	La Verne		La Verne		false		true	-								
+2016	12260	1454	Whitworth	11/13/2015	La Verne	341	La Verne	http://stats.ncaa.org/team/index/12260?org_id=341	false		true	W 87 - 80	true	87 - 80	87	80	false		3948336	http://stats.ncaa.org/game/index/3948336?org_id=1454
 2016	12260	1454	Whitworth	11/20/2015	Caltech		Caltech		false		true	-								
 2016	12260	1454	Whitworth	11/21/2015	Northwest (WA)		Northwest (WA)		false		true	-								
 2016	12260	1454	Whitworth	11/27/2015	Hamline@Colorado Springs, CO		HamlineColorado Springs, CO		false		false	-								
@@ -9728,7 +9840,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1454	Whitworth	02/13/2016	Willamette		Willamette		false		true	-								
 2016	12260	1454	Whitworth	02/19/2016	@ Puget Sound		Puget Sound		false		false	-								
 2016	12260	1454	Whitworth	02/20/2016	@ Pacific Lutheran		Pacific Lutheran		false		false	-								
-2016	12260	783	Widener	11/13/2015	Washington Col.		Washington Col.		false		true	-								
+2016	12260	783	Widener	11/13/2015	Washington Col.	753	Washington Col.	http://stats.ncaa.org/team/index/12260?org_id=753	false		true	-								
+2016	12260	783	Widener	11/13/2015	@ Washington Col.		Washington Col.		false		false	-								
+2016	12260	783	Widener	11/13/2015	@ Washington Col.		Washington Col.		false		false	-								
 2016	12260	783	Widener	11/14/2015	TBA		TBA		false		true	-								
 2016	12260	783	Widener	11/18/2015	Swarthmore		Swarthmore		false		true	-								
 2016	12260	783	Widener	11/20/2015	York (NY)@Purchase, NY		York (NY)Purchase, NY		false		false	-								
@@ -9776,7 +9890,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	784	Wilkes	02/13/2016	@ Delaware Valley		Delaware Valley		false		false	-								
 2016	12260	784	Wilkes	02/17/2016	@ FDU-Florham		FDU-Florham		false		false	-								
 2016	12260	784	Wilkes	02/20/2016	King's (PA)		King's (PA)		false		true	-								
-2016	12260	785	Willamette	11/13/2015	Macalester		Macalester		false		true	-								
+2016	12260	785	Willamette	11/13/2015	@ Macalester		Macalester		false		false	-								
 2016	12260	785	Willamette	11/14/2015	Southern Ore.		Southern Ore.		false		true	-								
 2016	12260	785	Willamette	11/20/2015	@ Chapman		Chapman		false		false	-								
 2016	12260	785	Willamette	11/21/2015	@ La Verne		La Verne		false		false	-								
@@ -9946,7 +10060,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	793	Wis.-Eau Claire	02/13/2016	@ Wis.-Stevens Point		Wis.-Stevens Point		false		false	-								
 2016	12260	793	Wis.-Eau Claire	02/17/2016	Wis.-La Crosse		Wis.-La Crosse		false		true	-								
 2016	12260	793	Wis.-Eau Claire	02/20/2016	Wis.-Whitewater		Wis.-Whitewater		false		true	-								
-2016	12260	795	Wis.-La Crosse	11/13/2015	@ Augustana (IL)		Augustana (IL)		false		false	-								
+2016	12260	795	Wis.-La Crosse	11/13/2015	@ Augustana (IL)	40	Augustana (IL)	http://stats.ncaa.org/team/index/12260?org_id=40	false		false	L 60 - 88	false	60 - 88	60	88	false		3948865	http://stats.ncaa.org/game/index/3948865?org_id=40
 2016	12260	795	Wis.-La Crosse	11/16/2015	Lakeland		Lakeland		false		true	-								
 2016	12260	795	Wis.-La Crosse	11/20/2015	Hope		Hope		false		true	-								
 2016	12260	795	Wis.-La Crosse	11/21/2015	@ Bethel (MN)		Bethel (MN)		false		false	-								
@@ -10267,7 +10381,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	814	Yeshiva	02/14/2016	@ Sage Colleges		Sage Colleges		false		false	-								
 2016	12260	814	Yeshiva	02/17/2016	St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		true	-								
 2016	12260	814	Yeshiva	02/20/2016	Purchase		Purchase		false		true	-								
-2016	12260	2730	York (NY)	11/13/2015	St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		true	-								
+2016	12260	2730	York (NY)	11/13/2015	@ St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		false	-								
 2016	12260	2730	York (NY)	11/16/2015	@ Ramapo		Ramapo		false		false	-								
 2016	12260	2730	York (NY)	11/18/2015	Purchase		Purchase		false		true	-								
 2016	12260	2730	York (NY)	11/20/2015	Widener@Purchase, NY		WidenerPurchase, NY		false		false	-								

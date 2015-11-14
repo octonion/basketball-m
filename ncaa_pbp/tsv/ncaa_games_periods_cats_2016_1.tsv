@@ -1,0 +1,2113 @@
+game_id	period_id	category	team_value	opponent_value
+3948488	1st Half	Time of Possession	607	593
+3948488	1st Half	Scoring Time of Possession	219	396
+3948488	1st Half	Times Took Lead	1	2
+3948488	1st Half	Largest Lead	0	0
+3948488	1st Half	Time of Largest Lead	-	-
+3948488	1st Half	Bench Pts	9	25
+3948488	1st Half	Times Tied Score	2	0
+3948488	1st Half	2nd Chance Pts	6	14
+3948488	1st Half	Pts off TO	0	11
+3948488	1st Half	Fastbreak Pts	2	2
+3948488	1st Half	Pts in Paint	8	24
+3948488	2nd Half	Time of Possession	634	566
+3948488	2nd Half	Scoring Time of Possession	123	335
+3948488	2nd Half	Times Took Lead	0	0
+3948488	2nd Half	Largest Lead	0	0
+3948488	2nd Half	Time of Largest Lead	-	-
+3948488	2nd Half	Bench Pts	23	40
+3948488	2nd Half	Times Tied Score	0	0
+3948488	2nd Half	2nd Chance Pts	0	17
+3948488	2nd Half	Pts off TO	9	17
+3948488	2nd Half	Fastbreak Pts	0	4
+3948488	2nd Half	Pts in Paint	14	20
+3948488	Game Stats	Time of Possession	1,241	1,159
+3948488	Game Stats	Scoring Time of Possession	342	731
+3948488	Game Stats	Times Took Lead	1	2
+3948488	Game Stats	Largest Lead	2	48
+3948488	Game Stats	Time of Largest Lead		
+3948488	Game Stats	Bench Pts	32	65
+3948488	Game Stats	Times Tied Score	2	
+3948488	Game Stats	2nd Chance Pts	6	31
+3948488	Game Stats	Pts off TO	9	28
+3948488	Game Stats	Fastbreak Pts	2	6
+3948488	Game Stats	Pts in Paint	22	44
+3948515	1st Half	Time of Possession	589	611
+3948515	1st Half	Scoring Time of Possession	170	348
+3948515	1st Half	Times Took Lead	0	0
+3948515	1st Half	Largest Lead	""	0
+3948515	1st Half	Time of Largest Lead	""	-
+3948515	1st Half	Bench Pts	9	10
+3948515	1st Half	Times Tied Score	0	0
+3948515	1st Half	2nd Chance Pts	0	10
+3948515	1st Half	Pts off TO	7	15
+3948515	1st Half	Fastbreak Pts	""	""
+3948515	1st Half	Pts in Paint	""	""
+3948515	2nd Half	Time of Possession	662	538
+3948515	2nd Half	Scoring Time of Possession	335	302
+3948515	2nd Half	Times Took Lead	0	0
+3948515	2nd Half	Largest Lead	""	0
+3948515	2nd Half	Time of Largest Lead	""	-
+3948515	2nd Half	Bench Pts	32	13
+3948515	2nd Half	Times Tied Score	0	0
+3948515	2nd Half	2nd Chance Pts	12	1
+3948515	2nd Half	Pts off TO	0	3
+3948515	2nd Half	Fastbreak Pts	""	""
+3948515	2nd Half	Pts in Paint	""	""
+3948515	Game Stats	Time of Possession	1,251	1,149
+3948515	Game Stats	Scoring Time of Possession	505	650
+3948515	Game Stats	Times Took Lead		
+3948515	Game Stats	Largest Lead	39	
+3948515	Game Stats	Time of Largest Lead		
+3948515	Game Stats	Bench Pts	41	23
+3948515	Game Stats	Times Tied Score		
+3948515	Game Stats	2nd Chance Pts	12	11
+3948515	Game Stats	Pts off TO	7	18
+3948515	Game Stats	Fastbreak Pts		
+3948515	Game Stats	Pts in Paint		
+3948557	1st Half	Time of Possession	667	533
+3948557	1st Half	Scoring Time of Possession	238	303
+3948557	1st Half	Times Took Lead	3	3
+3948557	1st Half	Largest Lead	0	0
+3948557	1st Half	Time of Largest Lead	-	-
+3948557	1st Half	Bench Pts	7	11
+3948557	1st Half	Times Tied Score	1	0
+3948557	1st Half	2nd Chance Pts	6	7
+3948557	1st Half	Pts off TO	4	5
+3948557	1st Half	Fastbreak Pts	4	2
+3948557	1st Half	Pts in Paint	14	14
+3948557	2nd Half	Time of Possession	597	603
+3948557	2nd Half	Scoring Time of Possession	332	282
+3948557	2nd Half	Times Took Lead	0	0
+3948557	2nd Half	Largest Lead	0	0
+3948557	2nd Half	Time of Largest Lead	-	-
+3948557	2nd Half	Bench Pts	16	3
+3948557	2nd Half	Times Tied Score	0	0
+3948557	2nd Half	2nd Chance Pts	14	1
+3948557	2nd Half	Pts off TO	6	5
+3948557	2nd Half	Fastbreak Pts	8	4
+3948557	2nd Half	Pts in Paint	26	20
+3948557	Game Stats	Time of Possession	1,264	1,136
+3948557	Game Stats	Scoring Time of Possession	570	585
+3948557	Game Stats	Times Took Lead	3	3
+3948557	Game Stats	Largest Lead	2	19
+3948557	Game Stats	Time of Largest Lead		
+3948557	Game Stats	Bench Pts	23	14
+3948557	Game Stats	Times Tied Score	1	
+3948557	Game Stats	2nd Chance Pts	20	8
+3948557	Game Stats	Pts off TO	10	10
+3948557	Game Stats	Fastbreak Pts	12	6
+3948557	Game Stats	Pts in Paint	40	34
+3948595	1st Half	Time of Possession	0	0
+3948595	1st Half	Scoring Time of Possession	8,634	8,691
+3948595	1st Half	Times Took Lead	3	3
+3948595	1st Half	Largest Lead	6	4
+3948595	1st Half	Time of Largest Lead	1st-05:05	1st-17:22
+3948595	1st Half	Bench Pts	5	12
+3948595	1st Half	Times Tied Score	2	0
+3948595	1st Half	2nd Chance Pts	2	0
+3948595	1st Half	Pts off TO	5	5
+3948595	1st Half	Fastbreak Pts	0	0
+3948595	1st Half	Pts in Paint	12	8
+3948595	2nd Half	Time of Possession	0	0
+3948595	2nd Half	Scoring Time of Possession	13,158	13,575
+3948595	2nd Half	Times Took Lead	0	1
+3948595	2nd Half	Largest Lead	9	13
+3948595	2nd Half	Time of Largest Lead	2nd-17:31	2nd-05:11
+3948595	2nd Half	Bench Pts	2	23
+3948595	2nd Half	Times Tied Score	0	1
+3948595	2nd Half	2nd Chance Pts	5	2
+3948595	2nd Half	Pts off TO	3	8
+3948595	2nd Half	Fastbreak Pts	0	0
+3948595	2nd Half	Pts in Paint	14	8
+3948595	Game Stats	Time of Possession		
+3948595	Game Stats	Scoring Time of Possession		
+3948595	Game Stats	Times Took Lead	3	4
+3948595	Game Stats	Largest Lead	9	13
+3948595	Game Stats	Time of Largest Lead		
+3948595	Game Stats	Bench Pts	7	35
+3948595	Game Stats	Times Tied Score	2	1
+3948595	Game Stats	2nd Chance Pts	7	2
+3948595	Game Stats	Pts off TO	8	13
+3948595	Game Stats	Fastbreak Pts		
+3948595	Game Stats	Pts in Paint	26	16
+3948672	1st Half	Time of Possession	630	570
+3948672	1st Half	Scoring Time of Possession	230	165
+3948672	1st Half	Times Took Lead	0	0
+3948672	1st Half	Largest Lead	0	0
+3948672	1st Half	Time of Largest Lead	-	-
+3948672	1st Half	Bench Pts	2	7
+3948672	1st Half	Times Tied Score	0	0
+3948672	1st Half	2nd Chance Pts	2	0
+3948672	1st Half	Pts off TO	11	2
+3948672	1st Half	Fastbreak Pts	0	4
+3948672	1st Half	Pts in Paint	10	12
+3948672	2nd Half	Time of Possession	621	579
+3948672	2nd Half	Scoring Time of Possession	261	188
+3948672	2nd Half	Times Took Lead	1	1
+3948672	2nd Half	Largest Lead	0	0
+3948672	2nd Half	Time of Largest Lead	-	-
+3948672	2nd Half	Bench Pts	17	0
+3948672	2nd Half	Times Tied Score	0	0
+3948672	2nd Half	2nd Chance Pts	4	4
+3948672	2nd Half	Pts off TO	9	13
+3948672	2nd Half	Fastbreak Pts	2	6
+3948672	2nd Half	Pts in Paint	16	20
+3948672	Game Stats	Time of Possession	1,251	1,149
+3948672	Game Stats	Scoring Time of Possession	491	353
+3948672	Game Stats	Times Took Lead	1	1
+3948672	Game Stats	Largest Lead	16	3
+3948672	Game Stats	Time of Largest Lead		
+3948672	Game Stats	Bench Pts	19	7
+3948672	Game Stats	Times Tied Score		
+3948672	Game Stats	2nd Chance Pts	6	4
+3948672	Game Stats	Pts off TO	20	15
+3948672	Game Stats	Fastbreak Pts	2	10
+3948672	Game Stats	Pts in Paint	26	32
+3948704	1st Half	Time of Possession	699	501
+3948704	1st Half	Scoring Time of Possession	180	273
+3948704	1st Half	Times Took Lead	0	1
+3948704	1st Half	Largest Lead	0	0
+3948704	1st Half	Time of Largest Lead	-	-
+3948704	1st Half	Bench Pts	2	14
+3948704	1st Half	Times Tied Score	1	1
+3948704	1st Half	2nd Chance Pts	4	8
+3948704	1st Half	Pts off TO	4	7
+3948704	1st Half	Fastbreak Pts	4	10
+3948704	1st Half	Pts in Paint	10	20
+3948704	2nd Half	Time of Possession	623	577
+3948704	2nd Half	Scoring Time of Possession	326	265
+3948704	2nd Half	Times Took Lead	0	0
+3948704	2nd Half	Largest Lead	0	0
+3948704	2nd Half	Time of Largest Lead	-	-
+3948704	2nd Half	Bench Pts	6	12
+3948704	2nd Half	Times Tied Score	0	0
+3948704	2nd Half	2nd Chance Pts	0	7
+3948704	2nd Half	Pts off TO	7	5
+3948704	2nd Half	Fastbreak Pts	3	4
+3948704	2nd Half	Pts in Paint	10	18
+3948704	Game Stats	Time of Possession	1,322	1,078
+3948704	Game Stats	Scoring Time of Possession	506	538
+3948704	Game Stats	Times Took Lead	1	
+3948704	Game Stats	Largest Lead	2	31
+3948704	Game Stats	Time of Largest Lead		
+3948704	Game Stats	Bench Pts	8	26
+3948704	Game Stats	Times Tied Score	1	1
+3948704	Game Stats	2nd Chance Pts	4	15
+3948704	Game Stats	Pts off TO	11	12
+3948704	Game Stats	Fastbreak Pts	7	14
+3948704	Game Stats	Pts in Paint	20	38
+3948721	1st Half	Time of Possession	688	512
+3948721	1st Half	Scoring Time of Possession	0	0
+3948721	1st Half	Times Took Lead	0	1
+3948721	1st Half	Largest Lead	2	26
+3948721	1st Half	Time of Largest Lead	1st-19:49	1st-04:07
+3948721	1st Half	Bench Pts	2	4
+3948721	1st Half	Times Tied Score	0	1
+3948721	1st Half	2nd Chance Pts	3	2
+3948721	1st Half	Pts off TO	2	11
+3948721	1st Half	Fastbreak Pts	2	2
+3948721	1st Half	Pts in Paint	10	16
+3948721	2nd Half	Time of Possession	590	598
+3948721	2nd Half	Scoring Time of Possession	0	0
+3948721	2nd Half	Times Took Lead	0	0
+3948721	2nd Half	Largest Lead	0	36
+3948721	2nd Half	Time of Largest Lead	-	2nd-00:17
+3948721	2nd Half	Bench Pts	8	20
+3948721	2nd Half	Times Tied Score	0	0
+3948721	2nd Half	2nd Chance Pts	10	2
+3948721	2nd Half	Pts off TO	0	2
+3948721	2nd Half	Fastbreak Pts	0	2
+3948721	2nd Half	Pts in Paint	12	12
+3948721	Game Stats	Time of Possession	1,278	1,110
+3948721	Game Stats	Scoring Time of Possession		
+3948721	Game Stats	Times Took Lead	1	
+3948721	Game Stats	Largest Lead	2	36
+3948721	Game Stats	Time of Largest Lead		
+3948721	Game Stats	Bench Pts	10	24
+3948721	Game Stats	Times Tied Score	1	
+3948721	Game Stats	2nd Chance Pts	13	4
+3948721	Game Stats	Pts off TO	2	13
+3948721	Game Stats	Fastbreak Pts	2	4
+3948721	Game Stats	Pts in Paint	22	28
+3948723	1st Half	Time of Possession	644	556
+3948723	1st Half	Scoring Time of Possession	72	176
+3948723	1st Half	Times Took Lead	1	1
+3948723	1st Half	Largest Lead	0	0
+3948723	1st Half	Time of Largest Lead	-	-
+3948723	1st Half	Bench Pts	1	7
+3948723	1st Half	Times Tied Score	0	0
+3948723	1st Half	2nd Chance Pts	0	2
+3948723	1st Half	Pts off TO	6	7
+3948723	1st Half	Fastbreak Pts	""	""
+3948723	1st Half	Pts in Paint	""	""
+3948723	2nd Half	Time of Possession	476	724
+3948723	2nd Half	Scoring Time of Possession	209	232
+3948723	2nd Half	Times Took Lead	0	0
+3948723	2nd Half	Largest Lead	0	0
+3948723	2nd Half	Time of Largest Lead	-	-
+3948723	2nd Half	Bench Pts	4	5
+3948723	2nd Half	Times Tied Score	0	0
+3948723	2nd Half	2nd Chance Pts	8	2
+3948723	2nd Half	Pts off TO	15	0
+3948723	2nd Half	Fastbreak Pts	""	""
+3948723	2nd Half	Pts in Paint	""	""
+3948723	Game Stats	Time of Possession	1,280	1,120
+3948723	Game Stats	Scoring Time of Possession	408	281
+3948723	Game Stats	Times Took Lead	1	1
+3948723	Game Stats	Largest Lead	20	1
+3948723	Game Stats	Time of Largest Lead		
+3948723	Game Stats	Bench Pts	12	5
+3948723	Game Stats	Times Tied Score		
+3948723	Game Stats	2nd Chance Pts	4	8
+3948723	Game Stats	Pts off TO	7	21
+3948723	Game Stats	Fastbreak Pts		
+3948723	Game Stats	Pts in Paint		
+3948728	1st Half	Time of Possession	587	613
+3948728	1st Half	Scoring Time of Possession	170	369
+3948728	1st Half	Times Took Lead	0	0
+3948728	1st Half	Largest Lead	""	0
+3948728	1st Half	Time of Largest Lead	""	-
+3948728	1st Half	Bench Pts	4	13
+3948728	1st Half	Times Tied Score	0	0
+3948728	1st Half	2nd Chance Pts	3	9
+3948728	1st Half	Pts off TO	2	7
+3948728	1st Half	Fastbreak Pts	6	5
+3948728	1st Half	Pts in Paint	6	20
+3948728	2nd Half	Time of Possession	617	583
+3948728	2nd Half	Scoring Time of Possession	237	243
+3948728	2nd Half	Times Took Lead	0	0
+3948728	2nd Half	Largest Lead	""	0
+3948728	2nd Half	Time of Largest Lead	""	-
+3948728	2nd Half	Bench Pts	11	14
+3948728	2nd Half	Times Tied Score	0	0
+3948728	2nd Half	2nd Chance Pts	4	5
+3948728	2nd Half	Pts off TO	4	8
+3948728	2nd Half	Fastbreak Pts	3	12
+3948728	2nd Half	Pts in Paint	10	21
+3948728	Game Stats	Time of Possession	1,204	1,196
+3948728	Game Stats	Scoring Time of Possession	407	612
+3948728	Game Stats	Times Took Lead		
+3948728	Game Stats	Largest Lead	44	
+3948728	Game Stats	Time of Largest Lead		
+3948728	Game Stats	Bench Pts	15	27
+3948728	Game Stats	Times Tied Score		
+3948728	Game Stats	2nd Chance Pts	7	14
+3948728	Game Stats	Pts off TO	6	15
+3948728	Game Stats	Fastbreak Pts	9	17
+3948728	Game Stats	Pts in Paint	16	41
+3948729	1st Half	Time of Possession	545	655
+3948729	1st Half	Scoring Time of Possession	220	316
+3948729	1st Half	Times Took Lead	5	5
+3948729	1st Half	Largest Lead	0	0
+3948729	1st Half	Time of Largest Lead	-	-
+3948729	1st Half	Bench Pts	30	20
+3948729	1st Half	Times Tied Score	2	2
+3948729	1st Half	2nd Chance Pts	0	15
+3948729	1st Half	Pts off TO	10	16
+3948729	1st Half	Fastbreak Pts	""	""
+3948729	1st Half	Pts in Paint	""	""
+3948729	2nd Half	Time of Possession	665	534
+3948729	2nd Half	Scoring Time of Possession	183	310
+3948729	2nd Half	Times Took Lead	0	0
+3948729	2nd Half	Largest Lead	0	0
+3948729	2nd Half	Time of Largest Lead	-	-
+3948729	2nd Half	Bench Pts	9	42
+3948729	2nd Half	Times Tied Score	0	0
+3948729	2nd Half	2nd Chance Pts	10	4
+3948729	2nd Half	Pts off TO	2	19
+3948729	2nd Half	Fastbreak Pts	""	""
+3948729	2nd Half	Pts in Paint	""	""
+3948729	Game Stats	Time of Possession	1,210	1,189
+3948729	Game Stats	Scoring Time of Possession	403	626
+3948729	Game Stats	Times Took Lead	5	5
+3948729	Game Stats	Largest Lead	3	31
+3948729	Game Stats	Time of Largest Lead		
+3948729	Game Stats	Bench Pts	39	62
+3948729	Game Stats	Times Tied Score	2	2
+3948729	Game Stats	2nd Chance Pts	10	19
+3948729	Game Stats	Pts off TO	12	35
+3948729	Game Stats	Fastbreak Pts		
+3948729	Game Stats	Pts in Paint		
+3948736	1st Half	Time of Possession	693	507
+3948736	1st Half	Scoring Time of Possession	315	224
+3948736	1st Half	Times Took Lead	2	2
+3948736	1st Half	Largest Lead	0	0
+3948736	1st Half	Time of Largest Lead	-	-
+3948736	1st Half	Bench Pts	9	4
+3948736	1st Half	Times Tied Score	5	2
+3948736	1st Half	2nd Chance Pts	9	2
+3948736	1st Half	Pts off TO	4	6
+3948736	1st Half	Fastbreak Pts	4	2
+3948736	1st Half	Pts in Paint	16	18
+3948736	2nd Half	Time of Possession	671	527
+3948736	2nd Half	Scoring Time of Possession	378	326
+3948736	2nd Half	Times Took Lead	2	2
+3948736	2nd Half	Largest Lead	0	0
+3948736	2nd Half	Time of Largest Lead	-	-
+3948736	2nd Half	Bench Pts	11	9
+3948736	2nd Half	Times Tied Score	4	4
+3948736	2nd Half	2nd Chance Pts	8	7
+3948736	2nd Half	Pts off TO	8	4
+3948736	2nd Half	Fastbreak Pts	2	6
+3948736	2nd Half	Pts in Paint	24	24
+3948736	Game Stats	Time of Possession	1,364	1,034
+3948736	Game Stats	Scoring Time of Possession	693	550
+3948736	Game Stats	Times Took Lead	4	4
+3948736	Game Stats	Largest Lead	3	10
+3948736	Game Stats	Time of Largest Lead		
+3948736	Game Stats	Bench Pts	20	13
+3948736	Game Stats	Times Tied Score	9	6
+3948736	Game Stats	2nd Chance Pts	17	9
+3948736	Game Stats	Pts off TO	12	10
+3948736	Game Stats	Fastbreak Pts	6	8
+3948736	Game Stats	Pts in Paint	40	42
+3948738	1st Half	Time of Possession	654	546
+3948738	1st Half	Scoring Time of Possession	186	334
+3948738	1st Half	Times Took Lead	0	0
+3948738	1st Half	Largest Lead	""	0
+3948738	1st Half	Time of Largest Lead	""	-
+3948738	1st Half	Bench Pts	11	16
+3948738	1st Half	Times Tied Score	1	0
+3948738	1st Half	2nd Chance Pts	6	5
+3948738	1st Half	Pts off TO	4	11
+3948738	1st Half	Fastbreak Pts	3	8
+3948738	1st Half	Pts in Paint	10	24
+3948738	2nd Half	Time of Possession	540	660
+3948738	2nd Half	Scoring Time of Possession	202	377
+3948738	2nd Half	Times Took Lead	0	0
+3948738	2nd Half	Largest Lead	""	0
+3948738	2nd Half	Time of Largest Lead	""	-
+3948738	2nd Half	Bench Pts	2	18
+3948738	2nd Half	Times Tied Score	0	0
+3948738	2nd Half	2nd Chance Pts	4	5
+3948738	2nd Half	Pts off TO	9	6
+3948738	2nd Half	Fastbreak Pts	7	8
+3948738	2nd Half	Pts in Paint	12	30
+3948738	Game Stats	Time of Possession	1,194	1,206
+3948738	Game Stats	Scoring Time of Possession	388	711
+3948738	Game Stats	Times Took Lead		
+3948738	Game Stats	Largest Lead	25	
+3948738	Game Stats	Time of Largest Lead		
+3948738	Game Stats	Bench Pts	13	34
+3948738	Game Stats	Times Tied Score	1	
+3948738	Game Stats	2nd Chance Pts	10	10
+3948738	Game Stats	Pts off TO	13	17
+3948738	Game Stats	Fastbreak Pts	10	16
+3948738	Game Stats	Pts in Paint	22	54
+3948743	1st Half	Time of Possession	673	527
+3948743	1st Half	Scoring Time of Possession	236	269
+3948743	1st Half	Times Took Lead	1	1
+3948743	1st Half	Largest Lead	0	0
+3948743	1st Half	Time of Largest Lead	-	-
+3948743	1st Half	Bench Pts	0	6
+3948743	1st Half	Times Tied Score	2	0
+3948743	1st Half	2nd Chance Pts	4	7
+3948743	1st Half	Pts off TO	4	10
+3948743	1st Half	Fastbreak Pts	0	4
+3948743	1st Half	Pts in Paint	12	22
+3948743	2nd Half	Time of Possession	614	586
+3948743	2nd Half	Scoring Time of Possession	288	338
+3948743	2nd Half	Times Took Lead	0	0
+3948743	2nd Half	Largest Lead	0	0
+3948743	2nd Half	Time of Largest Lead	-	-
+3948743	2nd Half	Bench Pts	9	12
+3948743	2nd Half	Times Tied Score	0	0
+3948743	2nd Half	2nd Chance Pts	13	5
+3948743	2nd Half	Pts off TO	8	11
+3948743	2nd Half	Fastbreak Pts	8	2
+3948743	2nd Half	Pts in Paint	20	22
+3948743	Game Stats	Time of Possession	1,287	1,113
+3948743	Game Stats	Scoring Time of Possession	524	607
+3948743	Game Stats	Times Took Lead	1	1
+3948743	Game Stats	Largest Lead	2	29
+3948743	Game Stats	Time of Largest Lead		
+3948743	Game Stats	Bench Pts	9	18
+3948743	Game Stats	Times Tied Score	2	
+3948743	Game Stats	2nd Chance Pts	17	12
+3948743	Game Stats	Pts off TO	12	21
+3948743	Game Stats	Fastbreak Pts	8	6
+3948743	Game Stats	Pts in Paint	32	44
+3948748	1st Half	Time of Possession	604	596
+3948748	1st Half	Scoring Time of Possession	239	352
+3948748	1st Half	Times Took Lead	5	5
+3948748	1st Half	Largest Lead	0	0
+3948748	1st Half	Time of Largest Lead	-	-
+3948748	1st Half	Bench Pts	9	9
+3948748	1st Half	Times Tied Score	2	1
+3948748	1st Half	2nd Chance Pts	2	2
+3948748	1st Half	Pts off TO	10	5
+3948748	1st Half	Fastbreak Pts	2	2
+3948748	1st Half	Pts in Paint	8	20
+3948748	2nd Half	Time of Possession	544	656
+3948748	2nd Half	Scoring Time of Possession	232	408
+3948748	2nd Half	Times Took Lead	0	0
+3948748	2nd Half	Largest Lead	0	0
+3948748	2nd Half	Time of Largest Lead	-	-
+3948748	2nd Half	Bench Pts	5	16
+3948748	2nd Half	Times Tied Score	0	0
+3948748	2nd Half	2nd Chance Pts	4	8
+3948748	2nd Half	Pts off TO	5	9
+3948748	2nd Half	Fastbreak Pts	0	4
+3948748	2nd Half	Pts in Paint	14	28
+3948748	Game Stats	Time of Possession	1,148	1,252
+3948748	Game Stats	Scoring Time of Possession	471	760
+3948748	Game Stats	Times Took Lead	5	5
+3948748	Game Stats	Largest Lead	3	17
+3948748	Game Stats	Time of Largest Lead		
+3948748	Game Stats	Bench Pts	14	25
+3948748	Game Stats	Times Tied Score	2	1
+3948748	Game Stats	2nd Chance Pts	6	10
+3948748	Game Stats	Pts off TO	15	14
+3948748	Game Stats	Fastbreak Pts	2	6
+3948748	Game Stats	Pts in Paint	22	48
+3948749	1st Half	Time of Possession	640	560
+3948749	1st Half	Scoring Time of Possession	106	326
+3948749	1st Half	Times Took Lead	0	0
+3948749	1st Half	Largest Lead	""	0
+3948749	1st Half	Time of Largest Lead	""	-
+3948749	1st Half	Bench Pts	0	22
+3948749	1st Half	Times Tied Score	0	0
+3948749	1st Half	2nd Chance Pts	2	11
+3948749	1st Half	Pts off TO	4	21
+3948749	1st Half	Fastbreak Pts	6	8
+3948749	1st Half	Pts in Paint	10	20
+3948749	2nd Half	Time of Possession	602	598
+3948749	2nd Half	Scoring Time of Possession	325	239
+3948749	2nd Half	Times Took Lead	0	0
+3948749	2nd Half	Largest Lead	""	0
+3948749	2nd Half	Time of Largest Lead	""	-
+3948749	2nd Half	Bench Pts	19	27
+3948749	2nd Half	Times Tied Score	0	0
+3948749	2nd Half	2nd Chance Pts	13	8
+3948749	2nd Half	Pts off TO	7	4
+3948749	2nd Half	Fastbreak Pts	4	10
+3948749	2nd Half	Pts in Paint	14	16
+3948749	Game Stats	Time of Possession	1,242	1,158
+3948749	Game Stats	Scoring Time of Possession	431	565
+3948749	Game Stats	Times Took Lead		
+3948749	Game Stats	Largest Lead	36	
+3948749	Game Stats	Time of Largest Lead		
+3948749	Game Stats	Bench Pts	19	49
+3948749	Game Stats	Times Tied Score		
+3948749	Game Stats	2nd Chance Pts	15	19
+3948749	Game Stats	Pts off TO	11	25
+3948749	Game Stats	Fastbreak Pts	10	18
+3948749	Game Stats	Pts in Paint	24	36
+3948762	1st Half	Time of Possession	649	551
+3948762	1st Half	Scoring Time of Possession	305	302
+3948762	1st Half	Times Took Lead	1	1
+3948762	1st Half	Largest Lead	0	0
+3948762	1st Half	Time of Largest Lead	-	-
+3948762	1st Half	Bench Pts	12	11
+3948762	1st Half	Times Tied Score	3	1
+3948762	1st Half	2nd Chance Pts	9	7
+3948762	1st Half	Pts off TO	4	16
+3948762	1st Half	Fastbreak Pts	""	""
+3948762	1st Half	Pts in Paint	""	""
+3948762	2nd Half	Time of Possession	605	595
+3948762	2nd Half	Scoring Time of Possession	210	343
+3948762	2nd Half	Times Took Lead	0	0
+3948762	2nd Half	Largest Lead	0	0
+3948762	2nd Half	Time of Largest Lead	-	-
+3948762	2nd Half	Bench Pts	15	25
+3948762	2nd Half	Times Tied Score	0	0
+3948762	2nd Half	2nd Chance Pts	6	8
+3948762	2nd Half	Pts off TO	4	17
+3948762	2nd Half	Fastbreak Pts	""	""
+3948762	2nd Half	Pts in Paint	""	""
+3948762	Game Stats	Time of Possession	1,254	1,146
+3948762	Game Stats	Scoring Time of Possession	515	645
+3948762	Game Stats	Times Took Lead	1	1
+3948762	Game Stats	Largest Lead	4	44
+3948762	Game Stats	Time of Largest Lead		
+3948762	Game Stats	Bench Pts	27	36
+3948762	Game Stats	Times Tied Score	3	1
+3948762	Game Stats	2nd Chance Pts	15	15
+3948762	Game Stats	Pts off TO	8	33
+3948762	Game Stats	Fastbreak Pts		
+3948762	Game Stats	Pts in Paint		
+3948814	1st Half	Time of Possession	651	549
+3948814	1st Half	Scoring Time of Possession	241	282
+3948814	1st Half	Times Took Lead	2	1
+3948814	1st Half	Largest Lead	0	0
+3948814	1st Half	Time of Largest Lead	-	-
+3948814	1st Half	Bench Pts	11	7
+3948814	1st Half	Times Tied Score	0	2
+3948814	1st Half	2nd Chance Pts	0	10
+3948814	1st Half	Pts off TO	4	3
+3948814	1st Half	Fastbreak Pts	""	""
+3948814	1st Half	Pts in Paint	""	""
+3948814	2nd Half	Time of Possession	626	574
+3948814	2nd Half	Scoring Time of Possession	224	304
+3948814	2nd Half	Times Took Lead	1	2
+3948814	2nd Half	Largest Lead	0	0
+3948814	2nd Half	Time of Largest Lead	-	-
+3948814	2nd Half	Bench Pts	11	10
+3948814	2nd Half	Times Tied Score	4	1
+3948814	2nd Half	2nd Chance Pts	4	4
+3948814	2nd Half	Pts off TO	7	8
+3948814	2nd Half	Fastbreak Pts	""	""
+3948814	2nd Half	Pts in Paint	""	""
+3948814	Game Stats	Time of Possession	1,277	1,123
+3948814	Game Stats	Scoring Time of Possession	465	586
+3948814	Game Stats	Times Took Lead	3	3
+3948814	Game Stats	Largest Lead	7	8
+3948814	Game Stats	Time of Largest Lead		
+3948814	Game Stats	Bench Pts	22	17
+3948814	Game Stats	Times Tied Score	4	3
+3948814	Game Stats	2nd Chance Pts	4	14
+3948814	Game Stats	Pts off TO	11	11
+3948814	Game Stats	Fastbreak Pts		
+3948814	Game Stats	Pts in Paint		
+3948833	1st Half	Time of Possession	574	626
+3948833	1st Half	Scoring Time of Possession	280	176
+3948833	1st Half	Times Took Lead	0	0
+3948833	1st Half	Largest Lead	0	0
+3948833	1st Half	Time of Largest Lead	-	-
+3948833	1st Half	Bench Pts	10	2
+3948833	1st Half	Times Tied Score	0	0
+3948833	1st Half	2nd Chance Pts	5	1
+3948833	1st Half	Pts off TO	14	6
+3948833	1st Half	Fastbreak Pts	5	0
+3948833	1st Half	Pts in Paint	14	14
+3948833	2nd Half	Time of Possession	608	592
+3948833	2nd Half	Scoring Time of Possession	285	326
+3948833	2nd Half	Times Took Lead	4	4
+3948833	2nd Half	Largest Lead	0	0
+3948833	2nd Half	Time of Largest Lead	-	-
+3948833	2nd Half	Bench Pts	13	8
+3948833	2nd Half	Times Tied Score	4	1
+3948833	2nd Half	2nd Chance Pts	2	10
+3948833	2nd Half	Pts off TO	3	6
+3948833	2nd Half	Fastbreak Pts	0	5
+3948833	2nd Half	Pts in Paint	10	20
+3948833	Game Stats	Time of Possession	1,182	1,218
+3948833	Game Stats	Scoring Time of Possession	565	502
+3948833	Game Stats	Times Took Lead	4	4
+3948833	Game Stats	Largest Lead	12	6
+3948833	Game Stats	Time of Largest Lead		
+3948833	Game Stats	Bench Pts	23	10
+3948833	Game Stats	Times Tied Score	4	1
+3948833	Game Stats	2nd Chance Pts	7	11
+3948833	Game Stats	Pts off TO	17	12
+3948833	Game Stats	Fastbreak Pts	5	5
+3948833	Game Stats	Pts in Paint	24	34
+3948845	1st Half	Time of Possession	619	581
+3948845	1st Half	Scoring Time of Possession	236	295
+3948845	1st Half	Times Took Lead	0	0
+3948845	1st Half	Largest Lead	""	0
+3948845	1st Half	Time of Largest Lead	""	-
+3948845	1st Half	Bench Pts	4	20
+3948845	1st Half	Times Tied Score	0	0
+3948845	1st Half	2nd Chance Pts	4	6
+3948845	1st Half	Pts off TO	5	11
+3948845	1st Half	Fastbreak Pts	0	14
+3948845	1st Half	Pts in Paint	8	22
+3948845	2nd Half	Time of Possession	657	543
+3948845	2nd Half	Scoring Time of Possession	237	273
+3948845	2nd Half	Times Took Lead	0	0
+3948845	2nd Half	Largest Lead	""	0
+3948845	2nd Half	Time of Largest Lead	""	-
+3948845	2nd Half	Bench Pts	8	32
+3948845	2nd Half	Times Tied Score	0	0
+3948845	2nd Half	2nd Chance Pts	4	13
+3948845	2nd Half	Pts off TO	4	15
+3948845	2nd Half	Fastbreak Pts	2	4
+3948845	2nd Half	Pts in Paint	10	24
+3948845	Game Stats	Time of Possession	1,276	1,124
+3948845	Game Stats	Scoring Time of Possession	473	568
+3948845	Game Stats	Times Took Lead		
+3948845	Game Stats	Largest Lead	36	
+3948845	Game Stats	Time of Largest Lead		
+3948845	Game Stats	Bench Pts	12	52
+3948845	Game Stats	Times Tied Score		
+3948845	Game Stats	2nd Chance Pts	8	19
+3948845	Game Stats	Pts off TO	9	26
+3948845	Game Stats	Fastbreak Pts	2	18
+3948845	Game Stats	Pts in Paint	18	46
+3948848	1st Half	Time of Possession	686	514
+3948848	1st Half	Scoring Time of Possession	318	230
+3948848	1st Half	Times Took Lead	1	0
+3948848	1st Half	Largest Lead	0	0
+3948848	1st Half	Time of Largest Lead	-	-
+3948848	1st Half	Bench Pts	5	5
+3948848	1st Half	Times Tied Score	3	0
+3948848	1st Half	2nd Chance Pts	3	9
+3948848	1st Half	Pts off TO	6	3
+3948848	1st Half	Fastbreak Pts	2	0
+3948848	1st Half	Pts in Paint	14	12
+3948848	2nd Half	Time of Possession	635	565
+3948848	2nd Half	Scoring Time of Possession	198	261
+3948848	2nd Half	Times Took Lead	2	2
+3948848	2nd Half	Largest Lead	0	0
+3948848	2nd Half	Time of Largest Lead	-	-
+3948848	2nd Half	Bench Pts	0	3
+3948848	2nd Half	Times Tied Score	1	1
+3948848	2nd Half	2nd Chance Pts	0	4
+3948848	2nd Half	Pts off TO	12	10
+3948848	2nd Half	Fastbreak Pts	4	0
+3948848	2nd Half	Pts in Paint	14	18
+3948848	Game Stats	Time of Possession	1,321	1,079
+3948848	Game Stats	Scoring Time of Possession	516	491
+3948848	Game Stats	Times Took Lead	3	2
+3948848	Game Stats	Largest Lead	8	10
+3948848	Game Stats	Time of Largest Lead		
+3948848	Game Stats	Bench Pts	5	8
+3948848	Game Stats	Times Tied Score	4	1
+3948848	Game Stats	2nd Chance Pts	3	13
+3948848	Game Stats	Pts off TO	18	13
+3948848	Game Stats	Fastbreak Pts	6	
+3948848	Game Stats	Pts in Paint	28	30
+3948872	1st Half	Time of Possession	599	601
+3948872	1st Half	Scoring Time of Possession	240	234
+3948872	1st Half	Times Took Lead	2	3
+3948872	1st Half	Largest Lead	0	0
+3948872	1st Half	Time of Largest Lead	-	-
+3948872	1st Half	Bench Pts	18	0
+3948872	1st Half	Times Tied Score	3	2
+3948872	1st Half	2nd Chance Pts	7	6
+3948872	1st Half	Pts off TO	8	13
+3948872	1st Half	Fastbreak Pts	2	6
+3948872	1st Half	Pts in Paint	20	12
+3948872	2nd Half	Time of Possession	588	603
+3948872	2nd Half	Scoring Time of Possession	363	251
+3948872	2nd Half	Times Took Lead	2	1
+3948872	2nd Half	Largest Lead	0	0
+3948872	2nd Half	Time of Largest Lead	-	-
+3948872	2nd Half	Bench Pts	19	0
+3948872	2nd Half	Times Tied Score	2	7
+3948872	2nd Half	2nd Chance Pts	1	3
+3948872	2nd Half	Pts off TO	8	6
+3948872	2nd Half	Fastbreak Pts	4	2
+3948872	2nd Half	Pts in Paint	22	12
+3948872	Game Stats	Time of Possession	1,187	1,204
+3948872	Game Stats	Scoring Time of Possession	603	485
+3948872	Game Stats	Times Took Lead	4	4
+3948872	Game Stats	Largest Lead	15	9
+3948872	Game Stats	Time of Largest Lead		
+3948872	Game Stats	Bench Pts	37	
+3948872	Game Stats	Times Tied Score	5	9
+3948872	Game Stats	2nd Chance Pts	8	9
+3948872	Game Stats	Pts off TO	16	19
+3948872	Game Stats	Fastbreak Pts	6	8
+3948872	Game Stats	Pts in Paint	42	24
+3948876	1st Half	Time of Possession	712	488
+3948876	1st Half	Scoring Time of Possession	206	258
+3948876	1st Half	Times Took Lead	1	1
+3948876	1st Half	Largest Lead	0	0
+3948876	1st Half	Time of Largest Lead	-	-
+3948876	1st Half	Bench Pts	11	26
+3948876	1st Half	Times Tied Score	1	0
+3948876	1st Half	2nd Chance Pts	11	8
+3948876	1st Half	Pts off TO	7	9
+3948876	1st Half	Fastbreak Pts	0	6
+3948876	1st Half	Pts in Paint	6	20
+3948876	2nd Half	Time of Possession	755	445
+3948876	2nd Half	Scoring Time of Possession	144	218
+3948876	2nd Half	Times Took Lead	0	0
+3948876	2nd Half	Largest Lead	0	0
+3948876	2nd Half	Time of Largest Lead	-	-
+3948876	2nd Half	Bench Pts	11	14
+3948876	2nd Half	Times Tied Score	0	0
+3948876	2nd Half	2nd Chance Pts	3	2
+3948876	2nd Half	Pts off TO	5	6
+3948876	2nd Half	Fastbreak Pts	2	8
+3948876	2nd Half	Pts in Paint	8	20
+3948876	Game Stats	Time of Possession	1,467	933
+3948876	Game Stats	Scoring Time of Possession	350	476
+3948876	Game Stats	Times Took Lead	1	1
+3948876	Game Stats	Largest Lead	3	44
+3948876	Game Stats	Time of Largest Lead		
+3948876	Game Stats	Bench Pts	22	40
+3948876	Game Stats	Times Tied Score	1	
+3948876	Game Stats	2nd Chance Pts	14	10
+3948876	Game Stats	Pts off TO	12	15
+3948876	Game Stats	Fastbreak Pts	2	14
+3948876	Game Stats	Pts in Paint	14	40
+3948886	1st Half	Time of Possession	564	636
+3948886	1st Half	Scoring Time of Possession	186	296
+3948886	1st Half	Times Took Lead	0	0
+3948886	1st Half	Largest Lead	""	0
+3948886	1st Half	Time of Largest Lead	""	-
+3948886	1st Half	Bench Pts	11	20
+3948886	1st Half	Times Tied Score	0	0
+3948886	1st Half	2nd Chance Pts	6	6
+3948886	1st Half	Pts off TO	13	7
+3948886	1st Half	Fastbreak Pts	""	""
+3948886	1st Half	Pts in Paint	""	""
+3948886	2nd Half	Time of Possession	605	595
+3948886	2nd Half	Scoring Time of Possession	291	306
+3948886	2nd Half	Times Took Lead	0	0
+3948886	2nd Half	Largest Lead	""	0
+3948886	2nd Half	Time of Largest Lead	""	-
+3948886	2nd Half	Bench Pts	8	2
+3948886	2nd Half	Times Tied Score	0	0
+3948886	2nd Half	2nd Chance Pts	10	5
+3948886	2nd Half	Pts off TO	5	12
+3948886	2nd Half	Fastbreak Pts	""	""
+3948886	2nd Half	Pts in Paint	""	""
+3948886	Game Stats	Time of Possession	1,169	1,231
+3948886	Game Stats	Scoring Time of Possession	477	602
+3948886	Game Stats	Times Took Lead		
+3948886	Game Stats	Largest Lead	21	
+3948886	Game Stats	Time of Largest Lead		
+3948886	Game Stats	Bench Pts	19	22
+3948886	Game Stats	Times Tied Score		
+3948886	Game Stats	2nd Chance Pts	16	11
+3948886	Game Stats	Pts off TO	18	19
+3948886	Game Stats	Fastbreak Pts		
+3948886	Game Stats	Pts in Paint		
+3948904	1st Half	Time of Possession	692	499
+3948904	1st Half	Scoring Time of Possession	286	318
+3948904	1st Half	Times Took Lead	0	0
+3948904	1st Half	Largest Lead	""	0
+3948904	1st Half	Time of Largest Lead	""	-
+3948904	1st Half	Bench Pts	10	16
+3948904	1st Half	Times Tied Score	0	0
+3948904	1st Half	2nd Chance Pts	4	21
+3948904	1st Half	Pts off TO	8	27
+3948904	1st Half	Fastbreak Pts	2	6
+3948904	1st Half	Pts in Paint	14	34
+3948904	2nd Half	Time of Possession	647	553
+3948904	2nd Half	Scoring Time of Possession	208	337
+3948904	2nd Half	Times Took Lead	0	0
+3948904	2nd Half	Largest Lead	""	0
+3948904	2nd Half	Time of Largest Lead	""	-
+3948904	2nd Half	Bench Pts	13	9
+3948904	2nd Half	Times Tied Score	0	0
+3948904	2nd Half	2nd Chance Pts	2	13
+3948904	2nd Half	Pts off TO	2	17
+3948904	2nd Half	Fastbreak Pts	0	6
+3948904	2nd Half	Pts in Paint	14	18
+3948904	Game Stats	Time of Possession	1,339	1,052
+3948904	Game Stats	Scoring Time of Possession	494	655
+3948904	Game Stats	Times Took Lead		
+3948904	Game Stats	Largest Lead	46	
+3948904	Game Stats	Time of Largest Lead		
+3948904	Game Stats	Bench Pts	23	25
+3948904	Game Stats	Times Tied Score		
+3948904	Game Stats	2nd Chance Pts	6	34
+3948904	Game Stats	Pts off TO	10	44
+3948904	Game Stats	Fastbreak Pts	2	12
+3948904	Game Stats	Pts in Paint	28	52
+3948945	1st Half	Time of Possession	719	481
+3948945	1st Half	Scoring Time of Possession	0	0
+3948945	1st Half	Times Took Lead	0	0
+3948945	1st Half	Largest Lead	0	33
+3948945	1st Half	Time of Largest Lead	-	1st-00:35
+3948945	1st Half	Bench Pts	10	20
+3948945	1st Half	Times Tied Score	0	0
+3948945	1st Half	2nd Chance Pts	2	4
+3948945	1st Half	Pts off TO	3	30
+3948945	1st Half	Fastbreak Pts	0	10
+3948945	1st Half	Pts in Paint	14	32
+3948945	2nd Half	Time of Possession	605	594
+3948945	2nd Half	Scoring Time of Possession	0	0
+3948945	2nd Half	Times Took Lead	0	0
+3948945	2nd Half	Largest Lead	0	50
+3948945	2nd Half	Time of Largest Lead	-	2nd-03:45
+3948945	2nd Half	Bench Pts	17	30
+3948945	2nd Half	Times Tied Score	0	0
+3948945	2nd Half	2nd Chance Pts	0	8
+3948945	2nd Half	Pts off TO	6	9
+3948945	2nd Half	Fastbreak Pts	2	10
+3948945	2nd Half	Pts in Paint	6	28
+3948945	Game Stats	Time of Possession	1,324	1,075
+3948945	Game Stats	Scoring Time of Possession		
+3948945	Game Stats	Times Took Lead		
+3948945	Game Stats	Largest Lead	50	
+3948945	Game Stats	Time of Largest Lead		
+3948945	Game Stats	Bench Pts	27	50
+3948945	Game Stats	Times Tied Score		
+3948945	Game Stats	2nd Chance Pts	2	12
+3948945	Game Stats	Pts off TO	9	39
+3948945	Game Stats	Fastbreak Pts	2	20
+3948945	Game Stats	Pts in Paint	20	60
+3948958	1st Half	Time of Possession	593	607
+3948958	1st Half	Scoring Time of Possession	219	297
+3948958	1st Half	Times Took Lead	2	3
+3948958	1st Half	Largest Lead	0	0
+3948958	1st Half	Time of Largest Lead	-	-
+3948958	1st Half	Bench Pts	13	25
+3948958	1st Half	Times Tied Score	2	2
+3948958	1st Half	2nd Chance Pts	4	10
+3948958	1st Half	Pts off TO	3	9
+3948958	1st Half	Fastbreak Pts	0	2
+3948958	1st Half	Pts in Paint	4	12
+3948958	2nd Half	Time of Possession	604	596
+3948958	2nd Half	Scoring Time of Possession	262	443
+3948958	2nd Half	Times Took Lead	0	0
+3948958	2nd Half	Largest Lead	0	0
+3948958	2nd Half	Time of Largest Lead	-	-
+3948958	2nd Half	Bench Pts	12	26
+3948958	2nd Half	Times Tied Score	0	0
+3948958	2nd Half	2nd Chance Pts	3	11
+3948958	2nd Half	Pts off TO	2	4
+3948958	2nd Half	Fastbreak Pts	0	2
+3948958	2nd Half	Pts in Paint	10	20
+3948958	Game Stats	Time of Possession	1,197	1,203
+3948958	Game Stats	Scoring Time of Possession	481	740
+3948958	Game Stats	Times Took Lead	2	3
+3948958	Game Stats	Largest Lead	2	25
+3948958	Game Stats	Time of Largest Lead		
+3948958	Game Stats	Bench Pts	25	51
+3948958	Game Stats	Times Tied Score	2	2
+3948958	Game Stats	2nd Chance Pts	7	21
+3948958	Game Stats	Pts off TO	5	13
+3948958	Game Stats	Fastbreak Pts	4	
+3948958	Game Stats	Pts in Paint	14	32
+3948975	1st Half	Time of Possession	660	540
+3948975	1st Half	Scoring Time of Possession	167	376
+3948975	1st Half	Times Took Lead	2	3
+3948975	1st Half	Largest Lead	0	0
+3948975	1st Half	Time of Largest Lead	-	-
+3948975	1st Half	Bench Pts	0	9
+3948975	1st Half	Times Tied Score	0	0
+3948975	1st Half	2nd Chance Pts	0	8
+3948975	1st Half	Pts off TO	7	17
+3948975	1st Half	Fastbreak Pts	2	13
+3948975	1st Half	Pts in Paint	10	32
+3948975	2nd Half	Time of Possession	628	572
+3948975	2nd Half	Scoring Time of Possession	282	254
+3948975	2nd Half	Times Took Lead	0	0
+3948975	2nd Half	Largest Lead	0	0
+3948975	2nd Half	Time of Largest Lead	-	-
+3948975	2nd Half	Bench Pts	11	11
+3948975	2nd Half	Times Tied Score	0	0
+3948975	2nd Half	2nd Chance Pts	1	4
+3948975	2nd Half	Pts off TO	8	10
+3948975	2nd Half	Fastbreak Pts	4	5
+3948975	2nd Half	Pts in Paint	12	18
+3948975	Game Stats	Time of Possession	1,112	1,288
+3948975	Game Stats	Scoring Time of Possession	630	449
+3948975	Game Stats	Times Took Lead	3	2
+3948975	Game Stats	Largest Lead	32	5
+3948975	Game Stats	Time of Largest Lead		
+3948975	Game Stats	Bench Pts	20	11
+3948975	Game Stats	Times Tied Score		
+3948975	Game Stats	2nd Chance Pts	12	1
+3948975	Game Stats	Pts off TO	27	15
+3948975	Game Stats	Fastbreak Pts	18	6
+3948975	Game Stats	Pts in Paint	50	22
+3948982	1st Half	Time of Possession	574	625
+3948982	1st Half	Scoring Time of Possession	296	312
+3948982	1st Half	Times Took Lead	1	1
+3948982	1st Half	Largest Lead	0	0
+3948982	1st Half	Time of Largest Lead	-	-
+3948982	1st Half	Bench Pts	11	7
+3948982	1st Half	Times Tied Score	1	0
+3948982	1st Half	2nd Chance Pts	1	10
+3948982	1st Half	Pts off TO	7	6
+3948982	1st Half	Fastbreak Pts	13	2
+3948982	1st Half	Pts in Paint	16	12
+3948982	2nd Half	Time of Possession	622	578
+3948982	2nd Half	Scoring Time of Possession	292	266
+3948982	2nd Half	Times Took Lead	0	0
+3948982	2nd Half	Largest Lead	0	0
+3948982	2nd Half	Time of Largest Lead	-	-
+3948982	2nd Half	Bench Pts	10	12
+3948982	2nd Half	Times Tied Score	0	0
+3948982	2nd Half	2nd Chance Pts	10	4
+3948982	2nd Half	Pts off TO	7	7
+3948982	2nd Half	Fastbreak Pts	4	2
+3948982	2nd Half	Pts in Paint	24	16
+3948982	Game Stats	Time of Possession	1,196	1,203
+3948982	Game Stats	Scoring Time of Possession	588	578
+3948982	Game Stats	Times Took Lead	1	1
+3948982	Game Stats	Largest Lead	23	1
+3948982	Game Stats	Time of Largest Lead		
+3948982	Game Stats	Bench Pts	21	19
+3948982	Game Stats	Times Tied Score	1	
+3948982	Game Stats	2nd Chance Pts	11	14
+3948982	Game Stats	Pts off TO	14	13
+3948982	Game Stats	Fastbreak Pts	17	4
+3948982	Game Stats	Pts in Paint	40	28
+3948983	1st Half	Time of Possession	657	543
+3948983	1st Half	Scoring Time of Possession	428	144
+3948983	1st Half	Times Took Lead	0	0
+3948983	1st Half	Largest Lead	0	""
+3948983	1st Half	Time of Largest Lead	-	""
+3948983	1st Half	Bench Pts	25	12
+3948983	1st Half	Times Tied Score	0	0
+3948983	1st Half	2nd Chance Pts	2	0
+3948983	1st Half	Pts off TO	16	4
+3948983	1st Half	Fastbreak Pts	0	4
+3948983	1st Half	Pts in Paint	22	10
+3948983	2nd Half	Time of Possession	715	485
+3948983	2nd Half	Scoring Time of Possession	276	206
+3948983	2nd Half	Times Took Lead	0	0
+3948983	2nd Half	Largest Lead	0	""
+3948983	2nd Half	Time of Largest Lead	-	""
+3948983	2nd Half	Bench Pts	7	23
+3948983	2nd Half	Times Tied Score	0	0
+3948983	2nd Half	2nd Chance Pts	4	6
+3948983	2nd Half	Pts off TO	4	13
+3948983	2nd Half	Fastbreak Pts	4	13
+3948983	2nd Half	Pts in Paint	22	18
+3948983	Game Stats	Time of Possession	1,372	1,028
+3948983	Game Stats	Scoring Time of Possession	704	350
+3948983	Game Stats	Times Took Lead		
+3948983	Game Stats	Largest Lead	37	
+3948983	Game Stats	Time of Largest Lead		
+3948983	Game Stats	Bench Pts	32	35
+3948983	Game Stats	Times Tied Score		
+3948983	Game Stats	2nd Chance Pts	6	6
+3948983	Game Stats	Pts off TO	20	17
+3948983	Game Stats	Fastbreak Pts	4	17
+3948983	Game Stats	Pts in Paint	44	28
+3948990	1st Half	Time of Possession	705	495
+3948990	1st Half	Scoring Time of Possession	347	287
+3948990	1st Half	Times Took Lead	2	2
+3948990	1st Half	Largest Lead	0	0
+3948990	1st Half	Time of Largest Lead	-	-
+3948990	1st Half	Bench Pts	17	11
+3948990	1st Half	Times Tied Score	2	0
+3948990	1st Half	2nd Chance Pts	2	6
+3948990	1st Half	Pts off TO	4	3
+3948990	1st Half	Fastbreak Pts	0	2
+3948990	1st Half	Pts in Paint	12	20
+3948990	2nd Half	Time of Possession	652	548
+3948990	2nd Half	Scoring Time of Possession	234	359
+3948990	2nd Half	Times Took Lead	0	0
+3948990	2nd Half	Largest Lead	0	0
+3948990	2nd Half	Time of Largest Lead	-	-
+3948990	2nd Half	Bench Pts	13	26
+3948990	2nd Half	Times Tied Score	0	0
+3948990	2nd Half	2nd Chance Pts	4	4
+3948990	2nd Half	Pts off TO	0	9
+3948990	2nd Half	Fastbreak Pts	5	7
+3948990	2nd Half	Pts in Paint	10	24
+3948990	Game Stats	Time of Possession	1,357	1,043
+3948990	Game Stats	Scoring Time of Possession	581	646
+3948990	Game Stats	Times Took Lead	2	2
+3948990	Game Stats	Largest Lead	1	36
+3948990	Game Stats	Time of Largest Lead		
+3948990	Game Stats	Bench Pts	30	37
+3948990	Game Stats	Times Tied Score	2	
+3948990	Game Stats	2nd Chance Pts	6	10
+3948990	Game Stats	Pts off TO	4	12
+3948990	Game Stats	Fastbreak Pts	5	9
+3948990	Game Stats	Pts in Paint	22	44
+3949007	1st Half	Time of Possession	547	653
+3949007	1st Half	Scoring Time of Possession	313	439
+3949007	1st Half	Times Took Lead	3	4
+3949007	1st Half	Largest Lead	0	0
+3949007	1st Half	Time of Largest Lead	-	-
+3949007	1st Half	Bench Pts	6	9
+3949007	1st Half	Times Tied Score	4	2
+3949007	1st Half	2nd Chance Pts	8	11
+3949007	1st Half	Pts off TO	3	9
+3949007	1st Half	Fastbreak Pts	0	4
+3949007	1st Half	Pts in Paint	14	14
+3949007	2nd Half	Time of Possession	604	596
+3949007	2nd Half	Scoring Time of Possession	298	173
+3949007	2nd Half	Times Took Lead	2	1
+3949007	2nd Half	Largest Lead	0	0
+3949007	2nd Half	Time of Largest Lead	-	-
+3949007	2nd Half	Bench Pts	5	1
+3949007	2nd Half	Times Tied Score	4	1
+3949007	2nd Half	2nd Chance Pts	4	6
+3949007	2nd Half	Pts off TO	2	4
+3949007	2nd Half	Fastbreak Pts	3	2
+3949007	2nd Half	Pts in Paint	16	6
+3949007	Game Stats	Time of Possession	1,151	1,249
+3949007	Game Stats	Scoring Time of Possession	611	612
+3949007	Game Stats	Times Took Lead	5	5
+3949007	Game Stats	Largest Lead	8	8
+3949007	Game Stats	Time of Largest Lead		
+3949007	Game Stats	Bench Pts	11	10
+3949007	Game Stats	Times Tied Score	8	3
+3949007	Game Stats	2nd Chance Pts	12	17
+3949007	Game Stats	Pts off TO	5	13
+3949007	Game Stats	Fastbreak Pts	3	6
+3949007	Game Stats	Pts in Paint	30	20
+3949011	1st Half	Time of Possession	581	594
+3949011	1st Half	Scoring Time of Possession	118	320
+3949011	1st Half	Times Took Lead	0	0
+3949011	1st Half	Largest Lead	""	0
+3949011	1st Half	Time of Largest Lead	""	-
+3949011	1st Half	Bench Pts	4	11
+3949011	1st Half	Times Tied Score	0	0
+3949011	1st Half	2nd Chance Pts	4	7
+3949011	1st Half	Pts off TO	4	8
+3949011	1st Half	Fastbreak Pts	2	7
+3949011	1st Half	Pts in Paint	6	18
+3949011	2nd Half	Time of Possession	694	506
+3949011	2nd Half	Scoring Time of Possession	186	224
+3949011	2nd Half	Times Took Lead	0	0
+3949011	2nd Half	Largest Lead	""	0
+3949011	2nd Half	Time of Largest Lead	""	-
+3949011	2nd Half	Bench Pts	11	13
+3949011	2nd Half	Times Tied Score	0	0
+3949011	2nd Half	2nd Chance Pts	2	4
+3949011	2nd Half	Pts off TO	8	4
+3949011	2nd Half	Fastbreak Pts	2	9
+3949011	2nd Half	Pts in Paint	6	18
+3949011	Game Stats	Time of Possession	1,275	1,100
+3949011	Game Stats	Scoring Time of Possession	304	544
+3949011	Game Stats	Times Took Lead		
+3949011	Game Stats	Largest Lead	39	
+3949011	Game Stats	Time of Largest Lead		
+3949011	Game Stats	Bench Pts	15	24
+3949011	Game Stats	Times Tied Score		
+3949011	Game Stats	2nd Chance Pts	6	11
+3949011	Game Stats	Pts off TO	12	12
+3949011	Game Stats	Fastbreak Pts	4	16
+3949011	Game Stats	Pts in Paint	12	36
+3949030	1st Half	Time of Possession	655	545
+3949030	1st Half	Scoring Time of Possession	264	272
+3949030	1st Half	Times Took Lead	0	0
+3949030	1st Half	Largest Lead	""	0
+3949030	1st Half	Time of Largest Lead	""	-
+3949030	1st Half	Bench Pts	12	14
+3949030	1st Half	Times Tied Score	0	0
+3949030	1st Half	2nd Chance Pts	5	6
+3949030	1st Half	Pts off TO	5	9
+3949030	1st Half	Fastbreak Pts	4	8
+3949030	1st Half	Pts in Paint	10	28
+3949030	2nd Half	Time of Possession	602	598
+3949030	2nd Half	Scoring Time of Possession	229	263
+3949030	2nd Half	Times Took Lead	0	0
+3949030	2nd Half	Largest Lead	""	0
+3949030	2nd Half	Time of Largest Lead	""	-
+3949030	2nd Half	Bench Pts	0	4
+3949030	2nd Half	Times Tied Score	0	0
+3949030	2nd Half	2nd Chance Pts	5	6
+3949030	2nd Half	Pts off TO	3	16
+3949030	2nd Half	Fastbreak Pts	0	2
+3949030	2nd Half	Pts in Paint	2	20
+3949030	Game Stats	Time of Possession	1,257	1,143
+3949030	Game Stats	Scoring Time of Possession	493	535
+3949030	Game Stats	Times Took Lead		
+3949030	Game Stats	Largest Lead	17	
+3949030	Game Stats	Time of Largest Lead		
+3949030	Game Stats	Bench Pts	12	18
+3949030	Game Stats	Times Tied Score		
+3949030	Game Stats	2nd Chance Pts	10	12
+3949030	Game Stats	Pts off TO	8	25
+3949030	Game Stats	Fastbreak Pts	4	10
+3949030	Game Stats	Pts in Paint	12	48
+3949032	1st Half	Time of Possession	693	507
+3949032	1st Half	Scoring Time of Possession	151	284
+3949032	1st Half	Times Took Lead	0	0
+3949032	1st Half	Largest Lead	""	0
+3949032	1st Half	Time of Largest Lead	""	-
+3949032	1st Half	Bench Pts	16	16
+3949032	1st Half	Times Tied Score	0	0
+3949032	1st Half	2nd Chance Pts	0	8
+3949032	1st Half	Pts off TO	3	14
+3949032	1st Half	Fastbreak Pts	""	""
+3949032	1st Half	Pts in Paint	""	""
+3949032	2nd Half	Time of Possession	664	536
+3949032	2nd Half	Scoring Time of Possession	322	316
+3949032	2nd Half	Times Took Lead	0	0
+3949032	2nd Half	Largest Lead	""	0
+3949032	2nd Half	Time of Largest Lead	""	-
+3949032	2nd Half	Bench Pts	13	28
+3949032	2nd Half	Times Tied Score	0	0
+3949032	2nd Half	2nd Chance Pts	6	8
+3949032	2nd Half	Pts off TO	2	2
+3949032	2nd Half	Fastbreak Pts	""	""
+3949032	2nd Half	Pts in Paint	""	""
+3949032	Game Stats	Time of Possession	1,357	1,043
+3949032	Game Stats	Scoring Time of Possession	473	600
+3949032	Game Stats	Times Took Lead		
+3949032	Game Stats	Largest Lead	27	
+3949032	Game Stats	Time of Largest Lead		
+3949032	Game Stats	Bench Pts	29	44
+3949032	Game Stats	Times Tied Score		
+3949032	Game Stats	2nd Chance Pts	6	16
+3949032	Game Stats	Pts off TO	5	16
+3949032	Game Stats	Fastbreak Pts		
+3949032	Game Stats	Pts in Paint		
+3949038	1st Half	Time of Possession	639	561
+3949038	1st Half	Scoring Time of Possession	255	324
+3949038	1st Half	Times Took Lead	0	0
+3949038	1st Half	Largest Lead	""	0
+3949038	1st Half	Time of Largest Lead	""	-
+3949038	1st Half	Bench Pts	19	8
+3949038	1st Half	Times Tied Score	0	0
+3949038	1st Half	2nd Chance Pts	2	2
+3949038	1st Half	Pts off TO	6	10
+3949038	1st Half	Fastbreak Pts	4	0
+3949038	1st Half	Pts in Paint	12	12
+3949038	2nd Half	Time of Possession	629	571
+3949038	2nd Half	Scoring Time of Possession	366	316
+3949038	2nd Half	Times Took Lead	0	0
+3949038	2nd Half	Largest Lead	""	0
+3949038	2nd Half	Time of Largest Lead	""	-
+3949038	2nd Half	Bench Pts	18	5
+3949038	2nd Half	Times Tied Score	0	0
+3949038	2nd Half	2nd Chance Pts	12	14
+3949038	2nd Half	Pts off TO	9	5
+3949038	2nd Half	Fastbreak Pts	4	2
+3949038	2nd Half	Pts in Paint	26	22
+3949038	Game Stats	Time of Possession	1,268	1,132
+3949038	Game Stats	Scoring Time of Possession	621	640
+3949038	Game Stats	Times Took Lead		
+3949038	Game Stats	Largest Lead	16	
+3949038	Game Stats	Time of Largest Lead		
+3949038	Game Stats	Bench Pts	37	13
+3949038	Game Stats	Times Tied Score		
+3949038	Game Stats	2nd Chance Pts	14	16
+3949038	Game Stats	Pts off TO	15	15
+3949038	Game Stats	Fastbreak Pts	8	2
+3949038	Game Stats	Pts in Paint	38	34
+3949039	1st Half	Time of Possession	677	523
+3949039	1st Half	Scoring Time of Possession	224	209
+3949039	1st Half	Times Took Lead	0	0
+3949039	1st Half	Largest Lead	""	0
+3949039	1st Half	Time of Largest Lead	""	-
+3949039	1st Half	Bench Pts	2	7
+3949039	1st Half	Times Tied Score	0	0
+3949039	1st Half	2nd Chance Pts	4	4
+3949039	1st Half	Pts off TO	4	13
+3949039	1st Half	Fastbreak Pts	""	""
+3949039	1st Half	Pts in Paint	""	""
+3949039	2nd Half	Time of Possession	729	471
+3949039	2nd Half	Scoring Time of Possession	251	241
+3949039	2nd Half	Times Took Lead	0	0
+3949039	2nd Half	Largest Lead	""	0
+3949039	2nd Half	Time of Largest Lead	""	-
+3949039	2nd Half	Bench Pts	8	14
+3949039	2nd Half	Times Tied Score	0	0
+3949039	2nd Half	2nd Chance Pts	8	5
+3949039	2nd Half	Pts off TO	7	12
+3949039	2nd Half	Fastbreak Pts	""	""
+3949039	2nd Half	Pts in Paint	""	""
+3949039	Game Stats	Time of Possession	1,406	994
+3949039	Game Stats	Scoring Time of Possession	475	450
+3949039	Game Stats	Times Took Lead		
+3949039	Game Stats	Largest Lead	29	
+3949039	Game Stats	Time of Largest Lead		
+3949039	Game Stats	Bench Pts	10	21
+3949039	Game Stats	Times Tied Score		
+3949039	Game Stats	2nd Chance Pts	12	9
+3949039	Game Stats	Pts off TO	11	25
+3949039	Game Stats	Fastbreak Pts		
+3949039	Game Stats	Pts in Paint		
+3949042	1st Half	Time of Possession	0	0
+3949042	1st Half	Scoring Time of Possession	7,322	7,564
+3949042	1st Half	Times Took Lead	1	2
+3949042	1st Half	Largest Lead	3	8
+3949042	1st Half	Time of Largest Lead	1st-18:50	1st-02:01
+3949042	1st Half	Bench Pts	16	8
+3949042	1st Half	Times Tied Score	3	3
+3949042	1st Half	2nd Chance Pts	0	6
+3949042	1st Half	Pts off TO	9	7
+3949042	1st Half	Fastbreak Pts	0	0
+3949042	1st Half	Pts in Paint	14	8
+3949042	2nd Half	Time of Possession	0	0
+3949042	2nd Half	Scoring Time of Possession	7,350	8,613
+3949042	2nd Half	Times Took Lead	0	0
+3949042	2nd Half	Largest Lead	0	14
+3949042	2nd Half	Time of Largest Lead	-	2nd-02:07
+3949042	2nd Half	Bench Pts	6	0
+3949042	2nd Half	Times Tied Score	1	0
+3949042	2nd Half	2nd Chance Pts	2	0
+3949042	2nd Half	Pts off TO	9	8
+3949042	2nd Half	Fastbreak Pts	2	0
+3949042	2nd Half	Pts in Paint	12	8
+3949042	Game Stats	Time of Possession		
+3949042	Game Stats	Scoring Time of Possession		
+3949042	Game Stats	Times Took Lead	1	2
+3949042	Game Stats	Largest Lead	3	14
+3949042	Game Stats	Time of Largest Lead		
+3949042	Game Stats	Bench Pts	22	8
+3949042	Game Stats	Times Tied Score	4	3
+3949042	Game Stats	2nd Chance Pts	2	6
+3949042	Game Stats	Pts off TO	18	15
+3949042	Game Stats	Fastbreak Pts	2	
+3949042	Game Stats	Pts in Paint	26	16
+3949050	1st Half	Time of Possession	707	493
+3949050	1st Half	Scoring Time of Possession	181	225
+3949050	1st Half	Times Took Lead	0	0
+3949050	1st Half	Largest Lead	""	0
+3949050	1st Half	Time of Largest Lead	""	-
+3949050	1st Half	Bench Pts	8	11
+3949050	1st Half	Times Tied Score	0	0
+3949050	1st Half	2nd Chance Pts	2	7
+3949050	1st Half	Pts off TO	11	10
+3949050	1st Half	Fastbreak Pts	""	""
+3949050	1st Half	Pts in Paint	""	""
+3949050	2nd Half	Time of Possession	619	581
+3949050	2nd Half	Scoring Time of Possession	272	241
+3949050	2nd Half	Times Took Lead	0	0
+3949050	2nd Half	Largest Lead	""	0
+3949050	2nd Half	Time of Largest Lead	""	-
+3949050	2nd Half	Bench Pts	25	17
+3949050	2nd Half	Times Tied Score	0	0
+3949050	2nd Half	2nd Chance Pts	5	2
+3949050	2nd Half	Pts off TO	8	11
+3949050	2nd Half	Fastbreak Pts	""	""
+3949050	2nd Half	Pts in Paint	""	""
+3949050	Game Stats	Time of Possession	1,326	1,074
+3949050	Game Stats	Scoring Time of Possession	453	466
+3949050	Game Stats	Times Took Lead		
+3949050	Game Stats	Largest Lead	22	
+3949050	Game Stats	Time of Largest Lead		
+3949050	Game Stats	Bench Pts	33	28
+3949050	Game Stats	Times Tied Score		
+3949050	Game Stats	2nd Chance Pts	7	9
+3949050	Game Stats	Pts off TO	19	21
+3949050	Game Stats	Fastbreak Pts		
+3949050	Game Stats	Pts in Paint		
+3949053	1st Half	Time of Possession	634	566
+3949053	1st Half	Scoring Time of Possession	179	303
+3949053	1st Half	Times Took Lead	0	0
+3949053	1st Half	Largest Lead	""	0
+3949053	1st Half	Time of Largest Lead	""	-
+3949053	1st Half	Bench Pts	15	18
+3949053	1st Half	Times Tied Score	0	0
+3949053	1st Half	2nd Chance Pts	2	7
+3949053	1st Half	Pts off TO	2	2
+3949053	1st Half	Fastbreak Pts	0	12
+3949053	1st Half	Pts in Paint	6	20
+3949053	2nd Half	Time of Possession	699	501
+3949053	2nd Half	Scoring Time of Possession	253	211
+3949053	2nd Half	Times Took Lead	0	0
+3949053	2nd Half	Largest Lead	""	0
+3949053	2nd Half	Time of Largest Lead	""	-
+3949053	2nd Half	Bench Pts	22	21
+3949053	2nd Half	Times Tied Score	0	0
+3949053	2nd Half	2nd Chance Pts	4	10
+3949053	2nd Half	Pts off TO	14	9
+3949053	2nd Half	Fastbreak Pts	2	4
+3949053	2nd Half	Pts in Paint	14	34
+3949053	Game Stats	Time of Possession	1,333	1,067
+3949053	Game Stats	Scoring Time of Possession	432	514
+3949053	Game Stats	Times Took Lead		
+3949053	Game Stats	Largest Lead	31	
+3949053	Game Stats	Time of Largest Lead		
+3949053	Game Stats	Bench Pts	37	39
+3949053	Game Stats	Times Tied Score		
+3949053	Game Stats	2nd Chance Pts	6	17
+3949053	Game Stats	Pts off TO	16	11
+3949053	Game Stats	Fastbreak Pts	2	16
+3949053	Game Stats	Pts in Paint	20	54
+3949056	1st Half	Time of Possession	592	602
+3949056	1st Half	Scoring Time of Possession	244	263
+3949056	1st Half	Times Took Lead	0	1
+3949056	1st Half	Largest Lead	0	0
+3949056	1st Half	Time of Largest Lead	-	-
+3949056	1st Half	Bench Pts	11	8
+3949056	1st Half	Times Tied Score	0	1
+3949056	1st Half	2nd Chance Pts	7	4
+3949056	1st Half	Pts off TO	1	7
+3949056	1st Half	Fastbreak Pts	""	""
+3949056	1st Half	Pts in Paint	""	""
+3949056	2nd Half	Time of Possession	537	663
+3949056	2nd Half	Scoring Time of Possession	228	285
+3949056	2nd Half	Times Took Lead	0	0
+3949056	2nd Half	Largest Lead	0	0
+3949056	2nd Half	Time of Largest Lead	-	-
+3949056	2nd Half	Bench Pts	11	22
+3949056	2nd Half	Times Tied Score	0	0
+3949056	2nd Half	2nd Chance Pts	6	11
+3949056	2nd Half	Pts off TO	2	15
+3949056	2nd Half	Fastbreak Pts	""	""
+3949056	2nd Half	Pts in Paint	""	""
+3949056	Game Stats	Time of Possession	1,129	1,265
+3949056	Game Stats	Scoring Time of Possession	472	548
+3949056	Game Stats	Times Took Lead	1	
+3949056	Game Stats	Largest Lead	2	23
+3949056	Game Stats	Time of Largest Lead		
+3949056	Game Stats	Bench Pts	22	30
+3949056	Game Stats	Times Tied Score	1	
+3949056	Game Stats	2nd Chance Pts	13	15
+3949056	Game Stats	Pts off TO	3	22
+3949056	Game Stats	Fastbreak Pts		
+3949056	Game Stats	Pts in Paint		
+3949062	1st Half	Time of Possession	637	563
+3949062	1st Half	Scoring Time of Possession	206	265
+3949062	1st Half	Times Took Lead	5	6
+3949062	1st Half	Largest Lead	0	0
+3949062	1st Half	Time of Largest Lead	-	-
+3949062	1st Half	Bench Pts	6	6
+3949062	1st Half	Times Tied Score	2	4
+3949062	1st Half	2nd Chance Pts	6	1
+3949062	1st Half	Pts off TO	7	0
+3949062	1st Half	Fastbreak Pts	2	0
+3949062	1st Half	Pts in Paint	10	6
+3949062	2nd Half	Time of Possession	623	577
+3949062	2nd Half	Scoring Time of Possession	177	301
+3949062	2nd Half	Times Took Lead	4	4
+3949062	2nd Half	Largest Lead	0	0
+3949062	2nd Half	Time of Largest Lead	-	-
+3949062	2nd Half	Bench Pts	17	9
+3949062	2nd Half	Times Tied Score	1	0
+3949062	2nd Half	2nd Chance Pts	5	2
+3949062	2nd Half	Pts off TO	2	8
+3949062	2nd Half	Fastbreak Pts	7	0
+3949062	2nd Half	Pts in Paint	6	8
+3949062	Game Stats	Time of Possession	1,260	1,140
+3949062	Game Stats	Scoring Time of Possession	383	566
+3949062	Game Stats	Times Took Lead	9	10
+3949062	Game Stats	Largest Lead	5	9
+3949062	Game Stats	Time of Largest Lead		
+3949062	Game Stats	Bench Pts	23	15
+3949062	Game Stats	Times Tied Score	3	4
+3949062	Game Stats	2nd Chance Pts	11	3
+3949062	Game Stats	Pts off TO	9	8
+3949062	Game Stats	Fastbreak Pts	9	
+3949062	Game Stats	Pts in Paint	16	14
+3949066	1st Half	Time of Possession	0	0
+3949066	1st Half	Scoring Time of Possession	10,952	11,304
+3949066	1st Half	Times Took Lead	3	3
+3949066	1st Half	Largest Lead	7	4
+3949066	1st Half	Time of Largest Lead	1st-00:50	1st-05:45
+3949066	1st Half	Bench Pts	16	8
+3949066	1st Half	Times Tied Score	1	4
+3949066	1st Half	2nd Chance Pts	17	9
+3949066	1st Half	Pts off TO	6	8
+3949066	1st Half	Fastbreak Pts	3	6
+3949066	1st Half	Pts in Paint	20	24
+3949066	2nd Half	Time of Possession	0	0
+3949066	2nd Half	Scoring Time of Possession	9,410	10,720
+3949066	2nd Half	Times Took Lead	2	2
+3949066	2nd Half	Largest Lead	11	1
+3949066	2nd Half	Time of Largest Lead	2nd-18:25	2nd-11:21
+3949066	2nd Half	Bench Pts	8	10
+3949066	2nd Half	Times Tied Score	1	5
+3949066	2nd Half	2nd Chance Pts	0	5
+3949066	2nd Half	Pts off TO	6	7
+3949066	2nd Half	Fastbreak Pts	7	3
+3949066	2nd Half	Pts in Paint	14	16
+3949066	Game Stats	Time of Possession		
+3949066	Game Stats	Scoring Time of Possession		
+3949066	Game Stats	Times Took Lead	5	5
+3949066	Game Stats	Largest Lead	11	4
+3949066	Game Stats	Time of Largest Lead		
+3949066	Game Stats	Bench Pts	24	18
+3949066	Game Stats	Times Tied Score	2	9
+3949066	Game Stats	2nd Chance Pts	17	14
+3949066	Game Stats	Pts off TO	12	15
+3949066	Game Stats	Fastbreak Pts	10	9
+3949066	Game Stats	Pts in Paint	34	40
+3949072	1st Half	Time of Possession	664	536
+3949072	1st Half	Scoring Time of Possession	217	303
+3949072	1st Half	Times Took Lead	0	0
+3949072	1st Half	Largest Lead	""	0
+3949072	1st Half	Time of Largest Lead	""	-
+3949072	1st Half	Bench Pts	12	14
+3949072	1st Half	Times Tied Score	1	0
+3949072	1st Half	2nd Chance Pts	7	10
+3949072	1st Half	Pts off TO	4	16
+3949072	1st Half	Fastbreak Pts	7	2
+3949072	1st Half	Pts in Paint	10	14
+3949072	2nd Half	Time of Possession	600	600
+3949072	2nd Half	Scoring Time of Possession	320	305
+3949072	2nd Half	Times Took Lead	0	0
+3949072	2nd Half	Largest Lead	""	0
+3949072	2nd Half	Time of Largest Lead	""	-
+3949072	2nd Half	Bench Pts	24	6
+3949072	2nd Half	Times Tied Score	0	0
+3949072	2nd Half	2nd Chance Pts	7	4
+3949072	2nd Half	Pts off TO	15	12
+3949072	2nd Half	Fastbreak Pts	4	4
+3949072	2nd Half	Pts in Paint	24	22
+3949072	Game Stats	Time of Possession	1,264	1,136
+3949072	Game Stats	Scoring Time of Possession	537	608
+3949072	Game Stats	Times Took Lead		
+3949072	Game Stats	Largest Lead	22	
+3949072	Game Stats	Time of Largest Lead		
+3949072	Game Stats	Bench Pts	36	20
+3949072	Game Stats	Times Tied Score	1	
+3949072	Game Stats	2nd Chance Pts	14	14
+3949072	Game Stats	Pts off TO	19	28
+3949072	Game Stats	Fastbreak Pts	11	6
+3949072	Game Stats	Pts in Paint	34	36
+3949081	1st Half	Time of Possession	523	677
+3949081	1st Half	Scoring Time of Possession	178	230
+3949081	1st Half	Times Took Lead	1	1
+3949081	1st Half	Largest Lead	0	0
+3949081	1st Half	Time of Largest Lead	-	-
+3949081	1st Half	Bench Pts	20	6
+3949081	1st Half	Times Tied Score	2	1
+3949081	1st Half	2nd Chance Pts	6	4
+3949081	1st Half	Pts off TO	8	7
+3949081	1st Half	Fastbreak Pts	6	2
+3949081	1st Half	Pts in Paint	16	12
+3949081	2nd Half	Time of Possession	531	636
+3949081	2nd Half	Scoring Time of Possession	237	194
+3949081	2nd Half	Times Took Lead	0	0
+3949081	2nd Half	Largest Lead	0	0
+3949081	2nd Half	Time of Largest Lead	-	-
+3949081	2nd Half	Bench Pts	12	13
+3949081	2nd Half	Times Tied Score	0	0
+3949081	2nd Half	2nd Chance Pts	8	5
+3949081	2nd Half	Pts off TO	13	5
+3949081	2nd Half	Fastbreak Pts	6	0
+3949081	2nd Half	Pts in Paint	14	8
+3949081	Game Stats	Time of Possession	1,054	1,313
+3949081	Game Stats	Scoring Time of Possession	415	424
+3949081	Game Stats	Times Took Lead	1	1
+3949081	Game Stats	Largest Lead	20	7
+3949081	Game Stats	Time of Largest Lead		
+3949081	Game Stats	Bench Pts	32	19
+3949081	Game Stats	Times Tied Score	2	1
+3949081	Game Stats	2nd Chance Pts	14	9
+3949081	Game Stats	Pts off TO	21	12
+3949081	Game Stats	Fastbreak Pts	12	2
+3949081	Game Stats	Pts in Paint	30	20
+3949082	1st Half	Time of Possession	0	0
+3949082	1st Half	Scoring Time of Possession	8,517	14,303
+3949082	1st Half	Times Took Lead	5	5
+3949082	1st Half	Largest Lead	3	5
+3949082	1st Half	Time of Largest Lead	1st-06:37	1st-12:44
+3949082	1st Half	Bench Pts	14	11
+3949082	1st Half	Times Tied Score	5	2
+3949082	1st Half	2nd Chance Pts	10	6
+3949082	1st Half	Pts off TO	2	12
+3949082	1st Half	Fastbreak Pts	0	2
+3949082	1st Half	Pts in Paint	12	16
+3949082	2nd Half	Time of Possession	0	0
+3949082	2nd Half	Scoring Time of Possession	8,795	10,794
+3949082	2nd Half	Times Took Lead	0	0
+3949082	2nd Half	Largest Lead	0	18
+3949082	2nd Half	Time of Largest Lead	-	2nd-04:56
+3949082	2nd Half	Bench Pts	7	15
+3949082	2nd Half	Times Tied Score	0	0
+3949082	2nd Half	2nd Chance Pts	4	6
+3949082	2nd Half	Pts off TO	9	9
+3949082	2nd Half	Fastbreak Pts	2	11
+3949082	2nd Half	Pts in Paint	4	12
+3949082	Game Stats	Time of Possession		
+3949082	Game Stats	Scoring Time of Possession		
+3949082	Game Stats	Times Took Lead	5	5
+3949082	Game Stats	Largest Lead	3	18
+3949082	Game Stats	Time of Largest Lead		
+3949082	Game Stats	Bench Pts	21	26
+3949082	Game Stats	Times Tied Score	5	2
+3949082	Game Stats	2nd Chance Pts	14	12
+3949082	Game Stats	Pts off TO	11	21
+3949082	Game Stats	Fastbreak Pts	2	13
+3949082	Game Stats	Pts in Paint	16	28
+3949083	1st Half	Time of Possession	0	0
+3949083	1st Half	Scoring Time of Possession	7,660	7,959
+3949083	1st Half	Times Took Lead	3	3
+3949083	1st Half	Largest Lead	5	8
+3949083	1st Half	Time of Largest Lead	1st-12:34	1st-03:56
+3949083	1st Half	Bench Pts	11	14
+3949083	1st Half	Times Tied Score	1	4
+3949083	1st Half	2nd Chance Pts	4	6
+3949083	1st Half	Pts off TO	5	7
+3949083	1st Half	Fastbreak Pts	0	0
+3949083	1st Half	Pts in Paint	18	16
+3949083	2nd Half	Time of Possession	0	0
+3949083	2nd Half	Scoring Time of Possession	8,004	12,265
+3949083	2nd Half	Times Took Lead	0	0
+3949083	2nd Half	Largest Lead	0	9
+3949083	2nd Half	Time of Largest Lead	-	2nd-12:52
+3949083	2nd Half	Bench Pts	7	7
+3949083	2nd Half	Times Tied Score	1	0
+3949083	2nd Half	2nd Chance Pts	4	8
+3949083	2nd Half	Pts off TO	8	2
+3949083	2nd Half	Fastbreak Pts	4	0
+3949083	2nd Half	Pts in Paint	26	20
+3949083	1st OT	Time of Possession	0	0
+3949083	1st OT	Scoring Time of Possession	799	42
+3949083	1st OT	Times Took Lead	0	0
+3949083	1st OT	Largest Lead	10	0
+3949083	1st OT	Time of Largest Lead	OT-00:33	-
+3949083	1st OT	Bench Pts	0	0
+3949083	1st OT	Times Tied Score	1	0
+3949083	1st OT	2nd Chance Pts	2	2
+3949083	1st OT	Pts off TO	2	0
+3949083	1st OT	Fastbreak Pts	2	0
+3949083	1st OT	Pts in Paint	8	0
+3949083	Game Stats	Time of Possession		
+3949083	Game Stats	Scoring Time of Possession		
+3949083	Game Stats	Times Took Lead	3	3
+3949083	Game Stats	Largest Lead	10	9
+3949083	Game Stats	Time of Largest Lead		
+3949083	Game Stats	Bench Pts	18	21
+3949083	Game Stats	Times Tied Score	3	4
+3949083	Game Stats	2nd Chance Pts	10	16
+3949083	Game Stats	Pts off TO	15	9
+3949083	Game Stats	Fastbreak Pts	6	
+3949083	Game Stats	Pts in Paint	52	36
+3949086	1st Half	Time of Possession	644	556
+3949086	1st Half	Scoring Time of Possession	275	235
+3949086	1st Half	Times Took Lead	4	3
+3949086	1st Half	Largest Lead	0	0
+3949086	1st Half	Time of Largest Lead	-	-
+3949086	1st Half	Bench Pts	15	4
+3949086	1st Half	Times Tied Score	4	6
+3949086	1st Half	2nd Chance Pts	10	8
+3949086	1st Half	Pts off TO	5	5
+3949086	1st Half	Fastbreak Pts	""	""
+3949086	1st Half	Pts in Paint	""	""
+3949086	2nd Half	Time of Possession	581	619
+3949086	2nd Half	Scoring Time of Possession	190	369
+3949086	2nd Half	Times Took Lead	0	1
+3949086	2nd Half	Largest Lead	0	0
+3949086	2nd Half	Time of Largest Lead	-	-
+3949086	2nd Half	Bench Pts	18	18
+3949086	2nd Half	Times Tied Score	0	1
+3949086	2nd Half	2nd Chance Pts	6	1
+3949086	2nd Half	Pts off TO	4	3
+3949086	2nd Half	Fastbreak Pts	""	""
+3949086	2nd Half	Pts in Paint	""	""
+3949086	Game Stats	Time of Possession	1,225	1,175
+3949086	Game Stats	Scoring Time of Possession	465	604
+3949086	Game Stats	Times Took Lead	4	4
+3949086	Game Stats	Largest Lead	5	9
+3949086	Game Stats	Time of Largest Lead		
+3949086	Game Stats	Bench Pts	33	22
+3949086	Game Stats	Times Tied Score	4	7
+3949086	Game Stats	2nd Chance Pts	16	9
+3949086	Game Stats	Pts off TO	9	8
+3949086	Game Stats	Fastbreak Pts		
+3949086	Game Stats	Pts in Paint		
+3949091	1st Half	Time of Possession	761	438
+3949091	1st Half	Scoring Time of Possession	302	212
+3949091	1st Half	Times Took Lead	0	1
+3949091	1st Half	Largest Lead	0	0
+3949091	1st Half	Time of Largest Lead	-	-
+3949091	1st Half	Bench Pts	17	12
+3949091	1st Half	Times Tied Score	2	0
+3949091	1st Half	2nd Chance Pts	4	5
+3949091	1st Half	Pts off TO	4	12
+3949091	1st Half	Fastbreak Pts	""	""
+3949091	1st Half	Pts in Paint	""	""
+3949091	2nd Half	Time of Possession	663	537
+3949091	2nd Half	Scoring Time of Possession	325	221
+3949091	2nd Half	Times Took Lead	0	0
+3949091	2nd Half	Largest Lead	0	0
+3949091	2nd Half	Time of Largest Lead	-	-
+3949091	2nd Half	Bench Pts	10	24
+3949091	2nd Half	Times Tied Score	0	0
+3949091	2nd Half	2nd Chance Pts	12	3
+3949091	2nd Half	Pts off TO	4	4
+3949091	2nd Half	Fastbreak Pts	""	""
+3949091	2nd Half	Pts in Paint	""	""
+3949091	Game Stats	Time of Possession	1,424	975
+3949091	Game Stats	Scoring Time of Possession	627	433
+3949091	Game Stats	Times Took Lead	1	
+3949091	Game Stats	Largest Lead	2	21
+3949091	Game Stats	Time of Largest Lead		
+3949091	Game Stats	Bench Pts	27	36
+3949091	Game Stats	Times Tied Score	2	
+3949091	Game Stats	2nd Chance Pts	16	8
+3949091	Game Stats	Pts off TO	8	16
+3949091	Game Stats	Fastbreak Pts		
+3949091	Game Stats	Pts in Paint		
+3949092	1st Half	Time of Possession	651	549
+3949092	1st Half	Scoring Time of Possession	170	183
+3949092	1st Half	Times Took Lead	2	2
+3949092	1st Half	Largest Lead	0	0
+3949092	1st Half	Time of Largest Lead	-	-
+3949092	1st Half	Bench Pts	5	14
+3949092	1st Half	Times Tied Score	0	0
+3949092	1st Half	2nd Chance Pts	3	4
+3949092	1st Half	Pts off TO	6	8
+3949092	1st Half	Fastbreak Pts	4	9
+3949092	1st Half	Pts in Paint	6	12
+3949092	2nd Half	Time of Possession	559	641
+3949092	2nd Half	Scoring Time of Possession	300	354
+3949092	2nd Half	Times Took Lead	0	0
+3949092	2nd Half	Largest Lead	0	0
+3949092	2nd Half	Time of Largest Lead	-	-
+3949092	2nd Half	Bench Pts	17	6
+3949092	2nd Half	Times Tied Score	0	0
+3949092	2nd Half	2nd Chance Pts	2	11
+3949092	2nd Half	Pts off TO	13	13
+3949092	2nd Half	Fastbreak Pts	8	4
+3949092	2nd Half	Pts in Paint	22	24
+3949092	Game Stats	Time of Possession	1,210	1,190
+3949092	Game Stats	Scoring Time of Possession	470	537
+3949092	Game Stats	Times Took Lead	2	2
+3949092	Game Stats	Largest Lead	1	21
+3949092	Game Stats	Time of Largest Lead		
+3949092	Game Stats	Bench Pts	22	20
+3949092	Game Stats	Times Tied Score		
+3949092	Game Stats	2nd Chance Pts	5	15
+3949092	Game Stats	Pts off TO	19	21
+3949092	Game Stats	Fastbreak Pts	12	13
+3949092	Game Stats	Pts in Paint	28	36
+3949093	1st Half	Time of Possession	599	601
+3949093	1st Half	Scoring Time of Possession	258	225
+3949093	1st Half	Times Took Lead	2	1
+3949093	1st Half	Largest Lead	0	0
+3949093	1st Half	Time of Largest Lead	-	-
+3949093	1st Half	Bench Pts	18	6
+3949093	1st Half	Times Tied Score	0	0
+3949093	1st Half	2nd Chance Pts	0	3
+3949093	1st Half	Pts off TO	5	5
+3949093	1st Half	Fastbreak Pts	0	2
+3949093	1st Half	Pts in Paint	16	10
+3949093	2nd Half	Time of Possession	658	542
+3949093	2nd Half	Scoring Time of Possession	347	269
+3949093	2nd Half	Times Took Lead	4	4
+3949093	2nd Half	Largest Lead	0	0
+3949093	2nd Half	Time of Largest Lead	-	-
+3949093	2nd Half	Bench Pts	16	11
+3949093	2nd Half	Times Tied Score	2	2
+3949093	2nd Half	2nd Chance Pts	11	3
+3949093	2nd Half	Pts off TO	6	7
+3949093	2nd Half	Fastbreak Pts	0	2
+3949093	2nd Half	Pts in Paint	16	12
+3949093	Game Stats	Time of Possession	1,257	1,143
+3949093	Game Stats	Scoring Time of Possession	605	494
+3949093	Game Stats	Times Took Lead	6	5
+3949093	Game Stats	Largest Lead	9	7
+3949093	Game Stats	Time of Largest Lead		
+3949093	Game Stats	Bench Pts	34	17
+3949093	Game Stats	Times Tied Score	2	2
+3949093	Game Stats	2nd Chance Pts	11	6
+3949093	Game Stats	Pts off TO	11	12
+3949093	Game Stats	Fastbreak Pts	4	
+3949093	Game Stats	Pts in Paint	32	22
+3949094	1st Half	Time of Possession	648	552
+3949094	1st Half	Scoring Time of Possession	159	296
+3949094	1st Half	Times Took Lead	0	0
+3949094	1st Half	Largest Lead	""	0
+3949094	1st Half	Time of Largest Lead	""	-
+3949094	1st Half	Bench Pts	2	13
+3949094	1st Half	Times Tied Score	1	0
+3949094	1st Half	2nd Chance Pts	7	5
+3949094	1st Half	Pts off TO	4	10
+3949094	1st Half	Fastbreak Pts	""	""
+3949094	1st Half	Pts in Paint	""	""
+3949094	2nd Half	Time of Possession	617	583
+3949094	2nd Half	Scoring Time of Possession	225	301
+3949094	2nd Half	Times Took Lead	0	0
+3949094	2nd Half	Largest Lead	""	0
+3949094	2nd Half	Time of Largest Lead	""	-
+3949094	2nd Half	Bench Pts	16	19
+3949094	2nd Half	Times Tied Score	0	0
+3949094	2nd Half	2nd Chance Pts	4	12
+3949094	2nd Half	Pts off TO	6	9
+3949094	2nd Half	Fastbreak Pts	""	""
+3949094	2nd Half	Pts in Paint	""	""
+3949094	Game Stats	Time of Possession	1,135	1,265
+3949094	Game Stats	Scoring Time of Possession	597	384
+3949094	Game Stats	Times Took Lead		
+3949094	Game Stats	Largest Lead	37	
+3949094	Game Stats	Time of Largest Lead		
+3949094	Game Stats	Bench Pts	32	18
+3949094	Game Stats	Times Tied Score	1	
+3949094	Game Stats	2nd Chance Pts	17	11
+3949094	Game Stats	Pts off TO	19	10
+3949094	Game Stats	Fastbreak Pts		
+3949094	Game Stats	Pts in Paint		
+3949109	1st Half	Time of Possession	507	693
+3949109	1st Half	Scoring Time of Possession	202	360
+3949109	1st Half	Times Took Lead	2	2
+3949109	1st Half	Largest Lead	0	0
+3949109	1st Half	Time of Largest Lead	-	-
+3949109	1st Half	Bench Pts	8	6
+3949109	1st Half	Times Tied Score	1	1
+3949109	1st Half	2nd Chance Pts	7	4
+3949109	1st Half	Pts off TO	5	13
+3949109	1st Half	Fastbreak Pts	5	2
+3949109	1st Half	Pts in Paint	16	14
+3949109	2nd Half	Time of Possession	556	644
+3949109	2nd Half	Scoring Time of Possession	292	256
+3949109	2nd Half	Times Took Lead	2	2
+3949109	2nd Half	Largest Lead	0	0
+3949109	2nd Half	Time of Largest Lead	-	-
+3949109	2nd Half	Bench Pts	5	11
+3949109	2nd Half	Times Tied Score	1	0
+3949109	2nd Half	2nd Chance Pts	4	0
+3949109	2nd Half	Pts off TO	14	4
+3949109	2nd Half	Fastbreak Pts	4	4
+3949109	2nd Half	Pts in Paint	12	18
+3949109	Game Stats	Time of Possession	1,063	1,337
+3949109	Game Stats	Scoring Time of Possession	494	616
+3949109	Game Stats	Times Took Lead	4	4
+3949109	Game Stats	Largest Lead	1	17
+3949109	Game Stats	Time of Largest Lead		
+3949109	Game Stats	Bench Pts	13	17
+3949109	Game Stats	Times Tied Score	2	1
+3949109	Game Stats	2nd Chance Pts	11	4
+3949109	Game Stats	Pts off TO	19	17
+3949109	Game Stats	Fastbreak Pts	9	6
+3949109	Game Stats	Pts in Paint	28	32
+3949117	1st Half	Time of Possession	624	576
+3949117	1st Half	Scoring Time of Possession	220	304
+3949117	1st Half	Times Took Lead	0	0
+3949117	1st Half	Largest Lead	""	0
+3949117	1st Half	Time of Largest Lead	""	-
+3949117	1st Half	Bench Pts	9	26
+3949117	1st Half	Times Tied Score	1	0
+3949117	1st Half	2nd Chance Pts	8	6
+3949117	1st Half	Pts off TO	13	11
+3949117	1st Half	Fastbreak Pts	""	""
+3949117	1st Half	Pts in Paint	""	""
+3949117	2nd Half	Time of Possession	536	664
+3949117	2nd Half	Scoring Time of Possession	244	303
+3949117	2nd Half	Times Took Lead	0	0
+3949117	2nd Half	Largest Lead	""	0
+3949117	2nd Half	Time of Largest Lead	""	-
+3949117	2nd Half	Bench Pts	8	16
+3949117	2nd Half	Times Tied Score	0	0
+3949117	2nd Half	2nd Chance Pts	6	6
+3949117	2nd Half	Pts off TO	12	8
+3949117	2nd Half	Fastbreak Pts	""	""
+3949117	2nd Half	Pts in Paint	""	""
+3949117	Game Stats	Time of Possession	1,240	1,160
+3949117	Game Stats	Scoring Time of Possession	607	464
+3949117	Game Stats	Times Took Lead		
+3949117	Game Stats	Largest Lead	19	
+3949117	Game Stats	Time of Largest Lead		
+3949117	Game Stats	Bench Pts	42	17
+3949117	Game Stats	Times Tied Score	1	
+3949117	Game Stats	2nd Chance Pts	12	14
+3949117	Game Stats	Pts off TO	19	25
+3949117	Game Stats	Fastbreak Pts		
+3949117	Game Stats	Pts in Paint		
+3949123	1st Half	Time of Possession	570	630
+3949123	1st Half	Scoring Time of Possession	277	208
+3949123	1st Half	Times Took Lead	2	1
+3949123	1st Half	Largest Lead	0	0
+3949123	1st Half	Time of Largest Lead	-	-
+3949123	1st Half	Bench Pts	19	10
+3949123	1st Half	Times Tied Score	0	0
+3949123	1st Half	2nd Chance Pts	9	4
+3949123	1st Half	Pts off TO	11	4
+3949123	1st Half	Fastbreak Pts	0	2
+3949123	1st Half	Pts in Paint	14	6
+3949123	2nd Half	Time of Possession	390	810
+3949123	2nd Half	Scoring Time of Possession	169	292
+3949123	2nd Half	Times Took Lead	0	1
+3949123	2nd Half	Largest Lead	0	0
+3949123	2nd Half	Time of Largest Lead	-	-
+3949123	2nd Half	Bench Pts	20	32
+3949123	2nd Half	Times Tied Score	0	1
+3949123	2nd Half	2nd Chance Pts	5	11
+3949123	2nd Half	Pts off TO	9	19
+3949123	2nd Half	Fastbreak Pts	2	2
+3949123	2nd Half	Pts in Paint	10	10
+3949123	Game Stats	Time of Possession	1,440	960
+3949123	Game Stats	Scoring Time of Possession	500	446
+3949123	Game Stats	Times Took Lead	2	2
+3949123	Game Stats	Largest Lead	8	16
+3949123	Game Stats	Time of Largest Lead		
+3949123	Game Stats	Bench Pts	42	39
+3949123	Game Stats	Times Tied Score	1	
+3949123	Game Stats	2nd Chance Pts	15	14
+3949123	Game Stats	Pts off TO	23	20
+3949123	Game Stats	Fastbreak Pts	4	2
+3949123	Game Stats	Pts in Paint	16	24
+3949125	1st Half	Time of Possession	731	469
+3949125	1st Half	Scoring Time of Possession	362	241
+3949125	1st Half	Times Took Lead	2	2
+3949125	1st Half	Largest Lead	0	0
+3949125	1st Half	Time of Largest Lead	-	-
+3949125	1st Half	Bench Pts	2	11
+3949125	1st Half	Times Tied Score	2	2
+3949125	1st Half	2nd Chance Pts	4	7
+3949125	1st Half	Pts off TO	4	4
+3949125	1st Half	Fastbreak Pts	2	4
+3949125	1st Half	Pts in Paint	32	20
+3949125	2nd Half	Time of Possession	693	507
+3949125	2nd Half	Scoring Time of Possession	307	322
+3949125	2nd Half	Times Took Lead	0	1
+3949125	2nd Half	Largest Lead	0	0
+3949125	2nd Half	Time of Largest Lead	-	-
+3949125	2nd Half	Bench Pts	6	9
+3949125	2nd Half	Times Tied Score	0	1
+3949125	2nd Half	2nd Chance Pts	6	12
+3949125	2nd Half	Pts off TO	8	13
+3949125	2nd Half	Fastbreak Pts	2	8
+3949125	2nd Half	Pts in Paint	20	34
+3949125	Game Stats	Time of Possession	1,424	976
+3949125	Game Stats	Scoring Time of Possession	669	563
+3949125	Game Stats	Times Took Lead	2	3
+3949125	Game Stats	Largest Lead	10	21
+3949125	Game Stats	Time of Largest Lead		
+3949125	Game Stats	Bench Pts	8	20
+3949125	Game Stats	Times Tied Score	2	3
+3949125	Game Stats	2nd Chance Pts	10	19
+3949125	Game Stats	Pts off TO	12	17
+3949125	Game Stats	Fastbreak Pts	4	12
+3949125	Game Stats	Pts in Paint	52	54
+3949133	1st Half	Time of Possession	525	675
+3949133	1st Half	Scoring Time of Possession	153	419
+3949133	1st Half	Times Took Lead	0	0
+3949133	1st Half	Largest Lead	""	0
+3949133	1st Half	Time of Largest Lead	""	-
+3949133	1st Half	Bench Pts	14	17
+3949133	1st Half	Times Tied Score	0	0
+3949133	1st Half	2nd Chance Pts	4	2
+3949133	1st Half	Pts off TO	0	3
+3949133	1st Half	Fastbreak Pts	""	""
+3949133	1st Half	Pts in Paint	""	""
+3949133	2nd Half	Time of Possession	585	615
+3949133	2nd Half	Scoring Time of Possession	347	373
+3949133	2nd Half	Times Took Lead	0	0
+3949133	2nd Half	Largest Lead	""	0
+3949133	2nd Half	Time of Largest Lead	""	-
+3949133	2nd Half	Bench Pts	22	27
+3949133	2nd Half	Times Tied Score	0	0
+3949133	2nd Half	2nd Chance Pts	11	4
+3949133	2nd Half	Pts off TO	4	4
+3949133	2nd Half	Fastbreak Pts	""	""
+3949133	2nd Half	Pts in Paint	""	""
+3949133	Game Stats	Time of Possession	1,110	1,290
+3949133	Game Stats	Scoring Time of Possession	500	792
+3949133	Game Stats	Times Took Lead		
+3949133	Game Stats	Largest Lead	28	
+3949133	Game Stats	Time of Largest Lead		
+3949133	Game Stats	Bench Pts	36	44
+3949133	Game Stats	Times Tied Score		
+3949133	Game Stats	2nd Chance Pts	15	6
+3949133	Game Stats	Pts off TO	4	7
+3949133	Game Stats	Fastbreak Pts		
+3949133	Game Stats	Pts in Paint		
+3949135	1st Half	Time of Possession	684	516
+3949135	1st Half	Scoring Time of Possession	244	185
+3949135	1st Half	Times Took Lead	2	2
+3949135	1st Half	Largest Lead	0	0
+3949135	1st Half	Time of Largest Lead	-	-
+3949135	1st Half	Bench Pts	8	8
+3949135	1st Half	Times Tied Score	1	4
+3949135	1st Half	2nd Chance Pts	12	8
+3949135	1st Half	Pts off TO	3	4
+3949135	1st Half	Fastbreak Pts	2	8
+3949135	1st Half	Pts in Paint	16	16
+3949135	2nd Half	Time of Possession	652	547
+3949135	2nd Half	Scoring Time of Possession	207	240
+3949135	2nd Half	Times Took Lead	2	3
+3949135	2nd Half	Largest Lead	0	0
+3949135	2nd Half	Time of Largest Lead	-	-
+3949135	2nd Half	Bench Pts	5	8
+3949135	2nd Half	Times Tied Score	0	1
+3949135	2nd Half	2nd Chance Pts	0	6
+3949135	2nd Half	Pts off TO	3	13
+3949135	2nd Half	Fastbreak Pts	2	8
+3949135	2nd Half	Pts in Paint	10	20
+3949135	Game Stats	Time of Possession	1,336	1,063
+3949135	Game Stats	Scoring Time of Possession	451	425
+3949135	Game Stats	Times Took Lead	4	5
+3949135	Game Stats	Largest Lead	8	4
+3949135	Game Stats	Time of Largest Lead		
+3949135	Game Stats	Bench Pts	13	16
+3949135	Game Stats	Times Tied Score	1	5
+3949135	Game Stats	2nd Chance Pts	12	14
+3949135	Game Stats	Pts off TO	6	17
+3949135	Game Stats	Fastbreak Pts	4	16
+3949135	Game Stats	Pts in Paint	26	36
+3949142	1st Half	Time of Possession	608	592
+3949142	1st Half	Scoring Time of Possession	287	306
+3949142	1st Half	Times Took Lead	5	4
+3949142	1st Half	Largest Lead	0	0
+3949142	1st Half	Time of Largest Lead	-	-
+3949142	1st Half	Bench Pts	13	19
+3949142	1st Half	Times Tied Score	4	3
+3949142	1st Half	2nd Chance Pts	7	2
+3949142	1st Half	Pts off TO	15	6
+3949142	1st Half	Fastbreak Pts	3	2
+3949142	1st Half	Pts in Paint	14	12
+3949142	2nd Half	Time of Possession	650	550
+3949142	2nd Half	Scoring Time of Possession	254	258
+3949142	2nd Half	Times Took Lead	0	1
+3949142	2nd Half	Largest Lead	0	0
+3949142	2nd Half	Time of Largest Lead	-	-
+3949142	2nd Half	Bench Pts	15	17
+3949142	2nd Half	Times Tied Score	1	1
+3949142	2nd Half	2nd Chance Pts	9	7
+3949142	2nd Half	Pts off TO	11	9
+3949142	2nd Half	Fastbreak Pts	4	5
+3949142	2nd Half	Pts in Paint	8	16
+3949142	Game Stats	Time of Possession	1,258	1,142
+3949142	Game Stats	Scoring Time of Possession	541	564
+3949142	Game Stats	Times Took Lead	5	5
+3949142	Game Stats	Largest Lead	5	13
+3949142	Game Stats	Time of Largest Lead		
+3949142	Game Stats	Bench Pts	28	36
+3949142	Game Stats	Times Tied Score	5	4
+3949142	Game Stats	2nd Chance Pts	16	9
+3949142	Game Stats	Pts off TO	26	15
+3949142	Game Stats	Fastbreak Pts	7	7
+3949142	Game Stats	Pts in Paint	22	28
+3949149	1st Half	Time of Possession	726	474
+3949149	1st Half	Scoring Time of Possession	263	223
+3949149	1st Half	Times Took Lead	2	2
+3949149	1st Half	Largest Lead	0	0
+3949149	1st Half	Time of Largest Lead	-	-
+3949149	1st Half	Bench Pts	2	9
+3949149	1st Half	Times Tied Score	1	1
+3949149	1st Half	2nd Chance Pts	1	7
+3949149	1st Half	Pts off TO	2	15
+3949149	1st Half	Fastbreak Pts	0	10
+3949149	1st Half	Pts in Paint	14	28
+3949149	2nd Half	Time of Possession	620	555
+3949149	2nd Half	Scoring Time of Possession	171	240
+3949149	2nd Half	Times Took Lead	0	0
+3949149	2nd Half	Largest Lead	0	0
+3949149	2nd Half	Time of Largest Lead	-	-
+3949149	2nd Half	Bench Pts	2	15
+3949149	2nd Half	Times Tied Score	0	0
+3949149	2nd Half	2nd Chance Pts	2	3
+3949149	2nd Half	Pts off TO	5	10
+3949149	2nd Half	Fastbreak Pts	0	4
+3949149	2nd Half	Pts in Paint	12	8
+3949149	Game Stats	Time of Possession	1,346	1,029
+3949149	Game Stats	Scoring Time of Possession	434	463
+3949149	Game Stats	Times Took Lead	2	2
+3949149	Game Stats	Largest Lead	3	23
+3949149	Game Stats	Time of Largest Lead		
+3949149	Game Stats	Bench Pts	4	24
+3949149	Game Stats	Times Tied Score	1	1
+3949149	Game Stats	2nd Chance Pts	3	10
+3949149	Game Stats	Pts off TO	7	25
+3949149	Game Stats	Fastbreak Pts	14	
+3949149	Game Stats	Pts in Paint	26	36
+3949154	1st Half	Time of Possession	581	619
+3949154	1st Half	Scoring Time of Possession	202	197
+3949154	1st Half	Times Took Lead	1	1
+3949154	1st Half	Largest Lead	0	0
+3949154	1st Half	Time of Largest Lead	-	-
+3949154	1st Half	Bench Pts	12	8
+3949154	1st Half	Times Tied Score	1	3
+3949154	1st Half	2nd Chance Pts	3	4
+3949154	1st Half	Pts off TO	16	9
+3949154	1st Half	Fastbreak Pts	0	4
+3949154	1st Half	Pts in Paint	18	18
+3949154	2nd Half	Time of Possession	597	603
+3949154	2nd Half	Scoring Time of Possession	256	359
+3949154	2nd Half	Times Took Lead	0	1
+3949154	2nd Half	Largest Lead	0	0
+3949154	2nd Half	Time of Largest Lead	-	-
+3949154	2nd Half	Bench Pts	9	12
+3949154	2nd Half	Times Tied Score	1	3
+3949154	2nd Half	2nd Chance Pts	4	6
+3949154	2nd Half	Pts off TO	5	4
+3949154	2nd Half	Fastbreak Pts	2	0
+3949154	2nd Half	Pts in Paint	16	18
+3949154	1st OT	Time of Possession	137	163
+3949154	1st OT	Scoring Time of Possession	81	165
+3949154	1st OT	Times Took Lead	0	0
+3949154	1st OT	Largest Lead	0	0
+3949154	1st OT	Time of Largest Lead	-	-
+3949154	1st OT	Bench Pts	2	5
+3949154	1st OT	Times Tied Score	1	0
+3949154	1st OT	2nd Chance Pts	0	3
+3949154	1st OT	Pts off TO	0	3
+3949154	1st OT	Fastbreak Pts	0	0
+3949154	1st OT	Pts in Paint	4	6
+3949154	Game Stats	Time of Possession	1,315	1,385
+3949154	Game Stats	Scoring Time of Possession	539	721
+3949154	Game Stats	Times Took Lead	1	2
+3949154	Game Stats	Largest Lead	14	7
+3949154	Game Stats	Time of Largest Lead		
+3949154	Game Stats	Bench Pts	23	25
+3949154	Game Stats	Times Tied Score	3	6
+3949154	Game Stats	2nd Chance Pts	7	13
+3949154	Game Stats	Pts off TO	21	16
+3949154	Game Stats	Fastbreak Pts	2	4
+3949154	Game Stats	Pts in Paint	38	42
+3949165	1st Half	Time of Possession	680	497
+3949165	1st Half	Scoring Time of Possession	333	211
+3949165	1st Half	Times Took Lead	4	4
+3949165	1st Half	Largest Lead	0	0
+3949165	1st Half	Time of Largest Lead	-	-
+3949165	1st Half	Bench Pts	12	7
+3949165	1st Half	Times Tied Score	2	1
+3949165	1st Half	2nd Chance Pts	6	2
+3949165	1st Half	Pts off TO	6	10
+3949165	1st Half	Fastbreak Pts	4	4
+3949165	1st Half	Pts in Paint	12	14
+3949165	2nd Half	Time of Possession	549	622
+3949165	2nd Half	Scoring Time of Possession	306	289
+3949165	2nd Half	Times Took Lead	2	2
+3949165	2nd Half	Largest Lead	0	0
+3949165	2nd Half	Time of Largest Lead	-	-
+3949165	2nd Half	Bench Pts	6	4
+3949165	2nd Half	Times Tied Score	3	1
+3949165	2nd Half	2nd Chance Pts	6	7
+3949165	2nd Half	Pts off TO	9	2
+3949165	2nd Half	Fastbreak Pts	2	2
+3949165	2nd Half	Pts in Paint	12	12
+3949165	1st OT	Time of Possession	166	124
+3949165	1st OT	Scoring Time of Possession	47	51
+3949165	1st OT	Times Took Lead	1	1
+3949165	1st OT	Largest Lead	0	0
+3949165	1st OT	Time of Largest Lead	-	-
+3949165	1st OT	Bench Pts	3	2
+3949165	1st OT	Times Tied Score	1	1
+3949165	1st OT	2nd Chance Pts	0	2
+3949165	1st OT	Pts off TO	0	3
+3949165	1st OT	Fastbreak Pts	0	0
+3949165	1st OT	Pts in Paint	4	2
+3949165	Game Stats	Time of Possession	1,395	1,243
+3949165	Game Stats	Scoring Time of Possession	686	551
+3949165	Game Stats	Times Took Lead	7	7
+3949165	Game Stats	Largest Lead	11	5
+3949165	Game Stats	Time of Largest Lead		
+3949165	Game Stats	Bench Pts	21	13
+3949165	Game Stats	Times Tied Score	6	3
+3949165	Game Stats	2nd Chance Pts	12	11
+3949165	Game Stats	Pts off TO	15	15
+3949165	Game Stats	Fastbreak Pts	6	6
+3949165	Game Stats	Pts in Paint	28	28
+3949168	1st Half	Time of Possession	677	523
+3949168	1st Half	Scoring Time of Possession	264	202
+3949168	1st Half	Times Took Lead	0	1
+3949168	1st Half	Largest Lead	0	0
+3949168	1st Half	Time of Largest Lead	-	-
+3949168	1st Half	Bench Pts	16	2
+3949168	1st Half	Times Tied Score	0	2
+3949168	1st Half	2nd Chance Pts	4	4
+3949168	1st Half	Pts off TO	5	5
+3949168	1st Half	Fastbreak Pts	""	""
+3949168	1st Half	Pts in Paint	""	""
+3949168	2nd Half	Time of Possession	702	498
+3949168	2nd Half	Scoring Time of Possession	255	157
+3949168	2nd Half	Times Took Lead	2	1
+3949168	2nd Half	Largest Lead	0	0
+3949168	2nd Half	Time of Largest Lead	-	-
+3949168	2nd Half	Bench Pts	5	7
+3949168	2nd Half	Times Tied Score	1	0
+3949168	2nd Half	2nd Chance Pts	5	4
+3949168	2nd Half	Pts off TO	3	1
+3949168	2nd Half	Fastbreak Pts	""	""
+3949168	2nd Half	Pts in Paint	""	""
+3949168	Game Stats	Time of Possession	1,379	1,021
+3949168	Game Stats	Scoring Time of Possession	519	359
+3949168	Game Stats	Times Took Lead	2	2
+3949168	Game Stats	Largest Lead	4	11
+3949168	Game Stats	Time of Largest Lead		
+3949168	Game Stats	Bench Pts	21	9
+3949168	Game Stats	Times Tied Score	1	2
+3949168	Game Stats	2nd Chance Pts	9	8
+3949168	Game Stats	Pts off TO	8	6
+3949168	Game Stats	Fastbreak Pts		
+3949168	Game Stats	Pts in Paint		
+3949169	1st Half	Time of Possession	584	616
+3949169	1st Half	Scoring Time of Possession	224	385
+3949169	1st Half	Times Took Lead	0	0
+3949169	1st Half	Largest Lead	""	0
+3949169	1st Half	Time of Largest Lead	""	-
+3949169	1st Half	Bench Pts	6	4
+3949169	1st Half	Times Tied Score	1	0
+3949169	1st Half	2nd Chance Pts	4	7
+3949169	1st Half	Pts off TO	4	6
+3949169	1st Half	Fastbreak Pts	6	5
+3949169	1st Half	Pts in Paint	18	26
+3949169	2nd Half	Time of Possession	552	648
+3949169	2nd Half	Scoring Time of Possession	231	329
+3949169	2nd Half	Times Took Lead	0	0
+3949169	2nd Half	Largest Lead	""	0
+3949169	2nd Half	Time of Largest Lead	""	-
+3949169	2nd Half	Bench Pts	9	21
+3949169	2nd Half	Times Tied Score	0	0
+3949169	2nd Half	2nd Chance Pts	0	6
+3949169	2nd Half	Pts off TO	5	7
+3949169	2nd Half	Fastbreak Pts	0	2
+3949169	2nd Half	Pts in Paint	8	18
+3949169	Game Stats	Time of Possession	1,136	1,264
+3949169	Game Stats	Scoring Time of Possession	455	714
+3949169	Game Stats	Times Took Lead		
+3949169	Game Stats	Largest Lead	35	
+3949169	Game Stats	Time of Largest Lead		
+3949169	Game Stats	Bench Pts	15	25
+3949169	Game Stats	Times Tied Score	1	
+3949169	Game Stats	2nd Chance Pts	4	13
+3949169	Game Stats	Pts off TO	9	13
+3949169	Game Stats	Fastbreak Pts	6	7
+3949169	Game Stats	Pts in Paint	26	44
