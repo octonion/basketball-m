@@ -4,7 +4,7 @@ require 'csv'
 
 require 'mechanize'
 
-nthreads = 4
+nthreads = 10
 
 base_sleep = 0
 sleep_increment = 3

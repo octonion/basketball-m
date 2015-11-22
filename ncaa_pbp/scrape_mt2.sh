@@ -1,6 +1,9 @@
 #!/bin/bash
 
-./scrapers2/ncaa_teams.rb
+year=ARV[0]
+division=ARV[1]
+
+./scrapers2/ncaa_teams.rb 
 
 ./scrapers2/ncaa_team_rosters_mt.rb
 

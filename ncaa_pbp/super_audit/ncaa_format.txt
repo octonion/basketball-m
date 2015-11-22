@@ -1,0 +1,47 @@
+
+.BOX files
+-all we get from here are the team id/team name relationships
+-one row per team (two rows total)
+-header: GameID, Period, BoxScoreOrder, TPType, TPID, Jersey, Name1, Name2, Minutes, FGM, FGA, TPM, TPA, FTM, FTA, OffRebound, DefRebound, TotalRebound, Assist, PerFoul, Steal, TurnOver, Block, Point
+-columns: game_id,0,0,”HT”,team_id,””,””,”team_name”,,,,,,,,,,,,,,,,
+-example: 23011412,0,0,"HT",23,"","","South Dakota State",,,,,,,,,,,,,,,,
+-put “HT” for home team and “AT” for away team
+
+.TG files
+-this is the game info
+-one row only
+-header: GameId, HomeTeam, AwayTeam, Date, WallClock, SiteName
+-columns: game_id,home_team_id,away_team_id,”game_date”,””,””
+-example: 23011412,23,434,"01/14/12","",""
+
+.TL files
+-starters by period
+-one row per period (so usually just two rows, though there will be more for overtime games)
+-header: GameID, Period, HomeFW1Type, HomeFW1, HomeFW2Type, HomeFW2, HomeCTType, HomeCT, HomeGD1Type, HomeGD1, HomeGD2Type, HomeGD2, AwayFW1Type, AwayFW1, AwayFW2Type, AwayFW2, AwayCTType, AwayCT, AwayGD1Type, AwayGD1, AwayGD2Type, AwayGD2
+-example: 23011412,1,"HP",12036,"HP",9013,"HP",18174,"HP",19401,"HP",12044,"AP",12921,"AP",29594,"AP",29593,"AP",7978,"AP",19619
+-“HP” for home team players and “AP” for away team players
+
+.TP files
+-rosters for the game
+-one row per player
+-header: GameID, TeamIdType, TeamID, PersonIDType, PersonID, Jersey, ShortName, FirstName, LastName, Status
+-example: 23011412,"AT",434,"AP",19618,"00","KAMWA","BERNARD","KAMWA","A"
+-“HT” or “AT” for home/away team; “HP” or “AP” for home/away player
+-status can always be “A” (for Active) unless you can somehow determine somebody was inactive
+
+.TS files
+-all events
+-one row per event
+-header: GameID, EventType, EventNumber, WallClock, Period, GameClock, ShotX, ShotY, OffenseTeamType, OffenseTeamID, PrimaryType, PrimaryID, SecondaryType, SecondaryID, OtherType, OtherID, ActionType, Option1, Option2, MemoText
+-example: 23011412,"MADE_SHOT",15,"12:00:15.0",1,"17:34.0",,,"HT",23,"HP",19401,"",0,"",0,"Jump Shot","2","NO_FAST_BREAK",""
+-EventTypes are: MADE_SHOT, MISSED_SHOT, FREE_THROW, REBOUND, TURNOVER, FOUL, VIOLATION, SUBSTITUTION, TIMEOUT, JUMP_BALL, EJECTION, START_PERIOD, END_PERIOD
+-for wall clock, in the past we just used “12:00:01.0” where the underlined portion is the event order, so “12:01:15.0” would be the 115th event
+-Primary ID is for shooter, rebounder, turnoverer, fouler, sub OUT
+-Secondary ID is for assister, stealer, foul drawer (if applicable), sub IN
+-Other ID is for shot blocker or the player that secured the jump ball (if applicable)
+-ActionType is any detail like shot type, turnover type, timeout type, etc. For example “Jump Shot” or “Lay-Up” or “Lost Ball Turnover”
+-Option1 is: 2 or 3 for made/missed shots; FT_MADE or FT_MISSED for free throws; NO_STEAL or STEAL for turnovers
+-Option2 you can put “NO_FAST_BREAK” or “FAST_BREAK” if applicable; we can also use this perhaps for shot distances or any other info you find in the play by play
+
+Let me know if you have any questions.
+

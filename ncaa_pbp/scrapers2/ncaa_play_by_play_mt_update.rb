@@ -27,7 +27,7 @@ base_url = 'http://stats.ncaa.org'
 play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
 periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3

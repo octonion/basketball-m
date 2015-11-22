@@ -79,9 +79,10 @@ and not(pbp.opponent_player='TEAM')
 
 );
 
-select pn.game_id
+select distinct pn.game_id
 from player_names pn
 join bad_player_names bpn
-on (bpn.team_id,bpn.player_name)=(pn.team_id,pn.player_name);
+on (bpn.team_id,bpn.player_name)=(pn.team_id,pn.player_name)
+order by pn.game_id;
 
 commit;

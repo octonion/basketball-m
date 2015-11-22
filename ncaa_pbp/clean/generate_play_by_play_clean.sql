@@ -1,4 +1,4 @@
---begin;
+begin;
 
 drop table if exists ncaa_pbp.play_by_play_clean;
 
@@ -13,16 +13,16 @@ create table ncaa_pbp.play_by_play_clean (
 	opponent_player_id    integer,
 	opponent_event	      text,
 	opponent_score	      integer,
-	id 		      integer
---	unique (game_id,period_id,event_id)
+	id 		      integer,
+	unique (game_id,period_id,event_id)
 );
 
 -- a small problem with the many-to-one player ID mapping I use
 -- for the case of duplicate NCAA rosters IDs
 
---create temporary table ids (
-drop table if exists ids;
-create table ids (
+create temporary table ids (
+--drop table if exists ids;
+--create table ids (
        id	       	   integer, -- primary key,
        team_player_id  	   integer,
        opponent_player_id  integer
@@ -62,6 +62,7 @@ left join ncaa_pbp.team_rosters opr
 
 where
     TRUE
+
 and sdt.div_id in (1)
 and sdo.div_id in (1)
 and coalesce(p.team_player,p.opponent_player) is not null
@@ -102,6 +103,7 @@ left join ncaa_pbp.team_rosters opr
 
 where
     TRUE
+
 and sdt.div_id in (1)
 and sdo.div_id in (1)
 and coalesce(p.team_player,p.opponent_player) is not null
@@ -142,6 +144,7 @@ left join ncaa_pbp.team_rosters opr
 
 where
     TRUE
+
 and sdt.div_id in (1)
 and sdo.div_id in (1)
 and coalesce(p.team_player,p.opponent_player) is not null
@@ -182,6 +185,7 @@ left join ncaa_pbp.team_rosters opr
 
 where
     TRUE
+
 and sdt.div_id in (1)
 and sdo.div_id in (1)
 and coalesce(p.team_player,p.opponent_player) is not null
@@ -211,9 +215,9 @@ on (i.id)=(p.id)
 
 create index on ncaa_pbp.play_by_play_clean (game_id,period_id,event_id);
 
---create temporary table type (
-drop table if exists type;
-create table type (
+create temporary table type (
+--drop table if exists type;
+--create table type (
 	game_id		      integer,
 	period_id	      integer,
 	time		      interval,
@@ -252,9 +256,9 @@ from ncaa_pbp.play_by_play_clean
 group by game_id,period_id,time,player_id
 );
 
---create temporary table reorder (
-drop table if exists reorder;
-create table reorder (
+create temporary table reorder (
+--drop table if exists reorder;
+--create table reorder (
        	game_id		      integer,
 	period_id	      integer,
 	event_id	      integer,
@@ -278,7 +282,7 @@ join type t
 
 create index on reorder (game_id,period_id,event_id);
 
-begin;
+--begin;
 
 update ncaa_pbp.play_by_play_clean
 -- w/o space for beginning/end of period
@@ -289,8 +293,8 @@ from reorder r
 where (r.game_id,r.period_id,r.event_id)=
       (play_by_play_clean.game_id,play_by_play_clean.period_id,play_by_play_clean.event_id);
 
-commit;
+--commit;
 
 create index on ncaa_pbp.play_by_play_clean (id);
 
---commit;
+commit;
