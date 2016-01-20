@@ -49,7 +49,6 @@ year	year_id	team_id	team_name	team_url
 2016	12260	693	Chattanooga	http://stats.ncaa.org/team/index/12260?org_id=693
 2016	12260	136	Chicago St.	http://stats.ncaa.org/team/index/12260?org_id=136
 2016	12260	140	Cincinnati	http://stats.ncaa.org/team/index/12260?org_id=140
-2016	12260	141	Citadel	http://stats.ncaa.org/team/index/12260?org_id=141
 2016	12260	147	Clemson	http://stats.ncaa.org/team/index/12260?org_id=147
 2016	12260	148	Cleveland St.	http://stats.ncaa.org/team/index/12260?org_id=148
 2016	12260	149	Coastal Caro.	http://stats.ncaa.org/team/index/12260?org_id=149
@@ -292,6 +291,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	670	Texas St.	http://stats.ncaa.org/team/index/12260?org_id=670
 2016	12260	700	Texas Tech	http://stats.ncaa.org/team/index/12260?org_id=700
 2016	12260	702	Texas-Arlington	http://stats.ncaa.org/team/index/12260?org_id=702
+2016	12260	141	The Citadel	http://stats.ncaa.org/team/index/12260?org_id=141
 2016	12260	709	Toledo	http://stats.ncaa.org/team/index/12260?org_id=709
 2016	12260	711	Towson	http://stats.ncaa.org/team/index/12260?org_id=711
 2016	12260	716	Troy	http://stats.ncaa.org/team/index/12260?org_id=716
