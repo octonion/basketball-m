@@ -39,7 +39,8 @@ ncaa_team_summaries << ["year","year_id","team_id","team_name","jersey_number","
 base_url = 'http://stats.ncaa.org'
 
 players_xpath = '//*[@id="stat_grid"]/tbody/tr'
-teams_xpath = '//*[@id="stat_grid"]/tfoot/tr[position()>1]'
+
+teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
 # Get team IDs
 
@@ -72,7 +73,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       team_id = team[2]
       team_name = team[3]
 
-      stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+      stat_url = "http://stats.ncaa.org/team/#{team_id}/stats/#{year_id}"
 
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time

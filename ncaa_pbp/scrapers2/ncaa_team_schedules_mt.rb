@@ -16,7 +16,7 @@ base_url = 'http://stats.ncaa.org'
 year = ARGV[0].to_i
 division = ARGV[1].to_i
 
-game_xpath = '//*[@id="contentArea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
 
 ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
                       "r",
@@ -27,7 +27,15 @@ ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.t
 
 # Header for team file
 
-ncaa_team_schedules << ["year", "year_id", "team_id", "team_name", "game_date", "game_string", "opponent_id", "opponent_name", "opponent_url", "neutral_site", "neutral_location", "home_game", "score_string", "team_won", "score", "team_score", "opponent_score", "overtime", "overtime_periods", "game_id", "game_url"]
+ncaa_team_schedules << ["year", "year_id",
+                        "team_id", "team_name",
+                        "game_date", "game_string",
+                        "opponent_id", "opponent_name", "opponent_url",
+                        "neutral_site", "neutral_location", "home_game",
+                        "score_string", "team_won", "score", "exempt",
+                        "team_score", "opponent_score",
+                        "overtime", "overtime_periods",
+                        "game_id", "game_url"]
 
 # Get team IDs
 
@@ -60,7 +68,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       team_id = team[2]
       team_name = team[3]
       
-      team_schedule_url = "http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
+      team_schedule_url = "http://stats.ncaa.org/team/%d/%d" % [team_id,year_id]
 
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time
@@ -124,11 +132,11 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               opponent_url = nil
             else
               link_url = link.attributes["href"].text
-              parameters = link_url.split("/")[-1]
+              parameters = link_url.split("/") #[-1]
 
               # opponent_id
 
-              opponent_id = parameters.split("=")[1]
+              opponent_id = parameters[-2]
 
               # opponent URL
 
@@ -139,6 +147,12 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
             row += [game_string, opponent_id, opponent_name, opponent_url, neutral_site, neutral_location, home_game]
           when 2
             score_string = element.text.strip
+            if (score_string.include?("*"))
+              exempt = TRUE
+              score_string = score_string.gsub("*","").strip
+            else
+              exempt = FALSE
+            end
             score_parameters = score_string.split(" ",2)
             if (score_parameters.size>1)
               if (score_parameters[0]=="W")
@@ -162,6 +176,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               end
 
             else
+              exempt = nil
               team_won = nil
               score = nil
               team_score = nil
@@ -201,7 +216,9 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               end
             end
 
-            row += [score_string, team_won, score, team_score, opponent_score, overtime, overtime_periods, game_id, game_url]
+            row += [score_string, team_won, score, exempt,
+                    team_score, opponent_score,
+                    overtime, overtime_periods, game_id, game_url]
           end
         end
 

@@ -33,7 +33,7 @@ base_url = 'http://stats.ncaa.org'
 #play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
 #periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-period_xpath = '//*[@id="contentArea"]/table[position()>4]'
+period_xpath = '//*[@id="contentarea"]/table[position()>4]'
 
 year = ARGV[0].to_i
 division = ARGV[1].to_i

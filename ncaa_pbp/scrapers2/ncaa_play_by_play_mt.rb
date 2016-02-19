@@ -199,8 +199,8 @@ game_ids.each_slice(gpt).with_index do |ids,i|
             if not(link.nil?)
               link_url = link.attributes["href"].text
               team_url = base_url+link_url
-              parameters = link_url.split("/")[-1]
-              team_id = parameters.split("=")[1]
+              parameters = link_url.split("/")
+              team_id = parameters[-2]
             end
 #            section += [team_id, team_name, team_url]
           else
