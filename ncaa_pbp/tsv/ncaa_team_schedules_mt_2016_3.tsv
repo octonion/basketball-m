@@ -122,6 +122,31 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	18	Alfred	02/13/2016	@ Ithaca	313	Ithaca	http://stats.ncaa.org/team/313/12260	false		false	L 79 - 91	false	79 - 91	false	79	91	false		4010455	http://stats.ncaa.org/game/index/4010455?org_id=313
 2016	12260	18	Alfred	02/18/2016	@ Houghton	30160	Houghton	http://stats.ncaa.org/team/30160/12260	false		false	L 78 - 80	false	78 - 80	false	78	80	false		4018193	http://stats.ncaa.org/game/index/4018193?org_id=30160
 2016	12260	18	Alfred	02/20/2016	Elmira		Elmira		false		true	-									
+2016	12260	30170	Alfred St.	11/13/2015	Sage Colleges @ Kidera Gymnasium - Nazareth College	11036	Sage Colleges	http://stats.ncaa.org/team/11036/12260	true	Kidera Gymnasium - Nazareth College	true	L 72 - 84	false	72 - 84	false	72	84	false		3985411	http://stats.ncaa.org/game/index/3985411?org_id=11036
+2016	12260	30170	Alfred St.	11/14/2015	D'Youville @ Kidera Gymnasium - Nazareth College	1059	D'Youville	http://stats.ncaa.org/team/1059/12260	true	Kidera Gymnasium - Nazareth College	true	L 77 - 93	false	77 - 93	false	77	93	false		3951556	http://stats.ncaa.org/game/index/3951556?org_id=1059
+2016	12260	30170	Alfred St.	11/17/2015	@ Pitt.-Bradford	1315	Pitt.-Bradford	http://stats.ncaa.org/team/1315/12260	false		false	L 75 - 87	false	75 - 87	false	75	87	false		3985559	http://stats.ncaa.org/game/index/3985559?org_id=1315
+2016	12260	30170	Alfred St.	11/19/2015	@ Wells	761	Wells	http://stats.ncaa.org/team/761/12260	false		false	L 74 - 79	false	74 - 79	false	74	79	false		3985437	http://stats.ncaa.org/game/index/3985437?org_id=761
+2016	12260	30170	Alfred St.	11/21/2015	Oberlin	515	Oberlin	http://stats.ncaa.org/team/515/12260	false		true	L 62 - 71	false	62 - 71	false	62	71	false		3956882	http://stats.ncaa.org/game/index/3956882?org_id=515
+2016	12260	30170	Alfred St.	11/24/2015	@ D'Youville	1059	D'Youville	http://stats.ncaa.org/team/1059/12260	false		false	L 73 - 80	false	73 - 80	false	73	80	false		3958885	http://stats.ncaa.org/game/index/3958885?org_id=1059
+2016	12260	30170	Alfred St.	11/29/2015	Mansfield	384	Mansfield	http://stats.ncaa.org/team/384/12260	false		true	L 94 - 106	false	94 - 106	false	94	106	false		3970176	http://stats.ncaa.org/game/index/3970176?org_id=384
+2016	12260	30170	Alfred St.	11/30/2015	Morrisville St.	30067	Morrisville St.	http://stats.ncaa.org/team/30067/12260	false		true	W 70 - 50	true	70 - 50	false	70	50	false		3985426	http://stats.ncaa.org/game/index/3985426?org_id=30067
+2016	12260	30170	Alfred St.	12/02/2015	@ Penn College	30190	Penn College	http://stats.ncaa.org/team/30190/12260	false		false	W 77 - 71	true	77 - 71	false	77	71	false		3967318	http://stats.ncaa.org/game/index/3967318?org_id=30170
+2016	12260	30170	Alfred St.	12/06/2015	Me.-Fort Kent		Me.-Fort Kent		false		true	L 65 - 76	false	65 - 76	false	65	76	false		3967358	http://stats.ncaa.org/game/index/3967358?org_id=30170
+2016	12260	30170	Alfred St.	12/10/2015	Houghton	30160	Houghton	http://stats.ncaa.org/team/30160/12260	false		true	L 83 - 84	false	83 - 84	false	83	84	false		3967317	http://stats.ncaa.org/game/index/3967317?org_id=30160
+2016	12260	30170	Alfred St.	12/12/2015	SUNY ESF		SUNY ESF		false		true	W 88 - 69	true	88 - 69	false	88	69	false		3968842	http://stats.ncaa.org/game/index/3968842?org_id=30170
+2016	12260	30170	Alfred St.	01/06/2016	@ Keuka	1159	Keuka	http://stats.ncaa.org/team/1159/12260	false		false	L 58 - 67	false	58 - 67	false	58	67	false		3985444	http://stats.ncaa.org/game/index/3985444?org_id=1159
+2016	12260	30170	Alfred St.	01/09/2016	SUNY Poly	9500	SUNY Poly	http://stats.ncaa.org/team/9500/12260	false		true	W 89 - 71	true	89 - 71	false	89	71	false		3980557	http://stats.ncaa.org/game/index/3980557?org_id=9500
+2016	12260	30170	Alfred St.	01/11/2016	Cazenovia	23624	Cazenovia	http://stats.ncaa.org/team/23624/12260	false		true	L 85 - 94	false	85 - 94	false	85	94	false		3980920	http://stats.ncaa.org/game/index/3980920?org_id=23624
+2016	12260	30170	Alfred St.	01/13/2016	@ Hilbert	8398	Hilbert	http://stats.ncaa.org/team/8398/12260	false		false	L 61 - 81	false	61 - 81	false	61	81	false		3981837	http://stats.ncaa.org/game/index/3981837?org_id=8398
+2016	12260	30170	Alfred St.	01/16/2016	@ SUNY ESF		SUNY ESF		false		false	L 62 - 67	false	62 - 67	false	62	67	false		3987999	http://stats.ncaa.org/game/index/3987999?org_id=30170
+2016	12260	30170	Alfred St.	01/20/2016	@ SUNY Canton	30165	SUNY Canton	http://stats.ncaa.org/team/30165/12260	false		false	L 77 - 87	false	77 - 87	false	77	87	false		3988739	http://stats.ncaa.org/game/index/3988739?org_id=30165
+2016	12260	30170	Alfred St.	01/23/2016	Davis		Davis		false		true	W 98 - 62	true	98 - 62	false	98	62	false		3993016	http://stats.ncaa.org/game/index/3993016?org_id=30170
+2016	12260	30170	Alfred St.	01/27/2016	@ Franciscan	30069	Franciscan	http://stats.ncaa.org/team/30069/12260	false		false	W 81 - 71 (1OT)	true	81 - 71	false	81	71	true	1OT	3994719	http://stats.ncaa.org/game/index/3994719?org_id=30069
+2016	12260	30170	Alfred St.	01/30/2016	SUNY Delhi		SUNY Delhi		false		true	W 65 - 63	true	65 - 63	false	65	63	false		3998223	http://stats.ncaa.org/game/index/3998223?org_id=30170
+2016	12260	30170	Alfred St.	02/03/2016	@ Penn St.-Behrend	538	Penn St.-Behrend	http://stats.ncaa.org/team/538/12260	false		false	L 45 - 81	false	45 - 81	false	45	81	false		4000376	http://stats.ncaa.org/game/index/4000376?org_id=538
+2016	12260	30170	Alfred St.	02/06/2016	SUNY Canton	30165	SUNY Canton	http://stats.ncaa.org/team/30165/12260	false		true	L 56 - 76	false	56 - 76	false	56	76	false		4004384	http://stats.ncaa.org/game/index/4004384?org_id=30165
+2016	12260	30170	Alfred St.	02/09/2016	@ Davis		Davis		false		false	W 78 - 55	true	78 - 55	false	78	55	false		4007362	http://stats.ncaa.org/game/index/4007362?org_id=30170
+2016	12260	30170	Alfred St.	02/14/2016	Berkeley (NY)		Berkeley (NY)		false		true	L 66 - 76	false	66 - 76	false	66	76	false		4013678	http://stats.ncaa.org/game/index/4013678?org_id=30170
 2016	12260	19	Allegheny	11/13/2015	Thiel	707	Thiel	http://stats.ncaa.org/team/707/12260	false		true	L 62 - 70	false	62 - 70	false	62	70	false		3948841	http://stats.ncaa.org/game/index/3948841?org_id=19
 2016	12260	19	Allegheny	11/17/2015	Juniata	325	Juniata	http://stats.ncaa.org/team/325/12260	false		true	L 63 - 67	false	63 - 67	false	63	67	false		3952652	http://stats.ncaa.org/game/index/3952652?org_id=19
 2016	12260	19	Allegheny	11/20/2015	Adrian	4	Adrian	http://stats.ncaa.org/team/4/12260	false		true	L 51 - 84	false	51 - 84	false	51	84	false		3954433	http://stats.ncaa.org/game/index/3954433?org_id=19
@@ -2361,7 +2386,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1062	East Tex. Baptist	02/06/2016	@ LeTourneau	8490	LeTourneau	http://stats.ncaa.org/team/8490/12260	false		false	W 56 - 54	true	56 - 54	false	56	54	false		4003511	http://stats.ncaa.org/game/index/4003511?org_id=8490
 2016	12260	1062	East Tex. Baptist	02/11/2016	@ Ozarks (AR)	23008	Ozarks (AR)	http://stats.ncaa.org/team/23008/12260	false		false	W 79 - 62	true	79 - 62	false	79	62	false		4009696	http://stats.ncaa.org/game/index/4009696?org_id=23008
 2016	12260	1062	East Tex. Baptist	02/13/2016	@ Texas-Dallas	23121	Texas-Dallas	http://stats.ncaa.org/team/23121/12260	false		false	L 68 - 69	false	68 - 69	false	68	69	false		4010715	http://stats.ncaa.org/game/index/4010715?org_id=23121
-2016	12260	1062	East Tex. Baptist	02/18/2016	Belhaven	30197	Belhaven	http://stats.ncaa.org/team/30197/12260	false		true	-									
+2016	12260	1062	East Tex. Baptist	02/18/2016	Belhaven	30197	Belhaven	http://stats.ncaa.org/team/30197/12260	false		true	W 78 - 66	true	78 - 66	false	78	66	false		4018493	http://stats.ncaa.org/game/index/4018493?org_id=1062
 2016	12260	203	East. Mennonite	11/17/2015	@ Ferrum	225	Ferrum	http://stats.ncaa.org/team/225/12260	false		false	L 65 - 69	false	65 - 69	false	65	69	false		3953059	http://stats.ncaa.org/game/index/3953059?org_id=225
 2016	12260	203	East. Mennonite	11/21/2015	St. Joseph's (L.I.) @ Arlington, Va. / Verizon Sports Arena	1340	St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12260	true	Arlington, Va. / Verizon Sports Arena	true	W 98 - 70	true	98 - 70	false	98	70	false		3955186	http://stats.ncaa.org/game/index/3955186?org_id=203
 2016	12260	203	East. Mennonite	11/22/2015	@ Marymount (VA)	394	Marymount (VA)	http://stats.ncaa.org/team/394/12260	false		false	W 70 - 59	true	70 - 59	false	70	59	false		3956583	http://stats.ncaa.org/game/index/3956583?org_id=394
@@ -2582,8 +2607,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	532	Elms	02/10/2016	@ Westfield St.	777	Westfield St.	http://stats.ncaa.org/team/777/12260	false		false	L 71 - 73	false	71 - 73	false	71	73	false		4007530	http://stats.ncaa.org/game/index/4007530?org_id=777
 2016	12260	532	Elms	02/13/2016	@ Regis (MA)	569	Regis (MA)	http://stats.ncaa.org/team/569/12260	false		false	W 93 - 90 (1OT)	true	93 - 90	false	93	90	true	1OT	4010962	http://stats.ncaa.org/game/index/4010962?org_id=569
 2016	12260	532	Elms	02/16/2016	Newbury	21772	Newbury	http://stats.ncaa.org/team/21772/12260	false		true	W 83 - 71	true	83 - 71	false	83	71	false		4015360	http://stats.ncaa.org/game/index/4015360?org_id=21772
-2016	12260	532	Elms	02/18/2016	@ Southern Vt.	1379	Southern Vt.	http://stats.ncaa.org/team/1379/12260	false		false	L 84 - 93	false	84 - 93	false	84	93	false		4018256	http://stats.ncaa.org/game/index/4018256?org_id=1379
-2016	12260	532	Elms	02/18/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12260	532	Elms	02/18/2016	@ Southern Vt.	1379	Southern Vt.	http://stats.ncaa.org/team/1379/12260	false		false	L 84 - 93	false	84 - 93	false	84	93	false		4018525	http://stats.ncaa.org/game/index/4018525?org_id=1379
 2016	12260	532	Elms	02/20/2016	@ Lesley		Lesley		false		false	-									
 2016	12260	214	Emerson	11/13/2015	Emmanuel (MA) @ Weston, Mass. - Higgins Court	215	Emmanuel (MA)	http://stats.ncaa.org/team/215/12260	true	Weston, Mass. - Higgins Court	true	W 76 - 64	true	76 - 64	false	76	64	false		3950050	http://stats.ncaa.org/game/index/3950050?org_id=214
 2016	12260	214	Emerson	11/14/2015	@ Regis (MA)	569	Regis (MA)	http://stats.ncaa.org/team/569/12260	false		false	L 65 - 67	false	65 - 67	false	65	67	false		3950150	http://stats.ncaa.org/game/index/3950150?org_id=569
@@ -2685,56 +2709,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	216	Emory & Henry	02/13/2016	Hampden-Sydney	269	Hampden-Sydney	http://stats.ncaa.org/team/269/12260	false		true	W 65 - 63	true	65 - 63	false	65	63	false		4010647	http://stats.ncaa.org/game/index/4010647?org_id=216
 2016	12260	216	Emory & Henry	02/17/2016	@ Randolph	566	Randolph	http://stats.ncaa.org/team/566/12260	false		false	W 61 - 58	true	61 - 58	false	61	58	false		4016067	http://stats.ncaa.org/game/index/4016067?org_id=216
 2016	12260	216	Emory & Henry	02/20/2016	Shenandoah		Shenandoah		false		true	-									
-2016	12260	8981	Endicott	11/14/2015	Elms @ Keene, N.H. (Spaulding Gym)	532	Elms	http://stats.ncaa.org/team/532/12260	true	Keene, N.H. (Spaulding Gym)	true	W 93 - 89	true	93 - 89	false	93	89	false		3950684	http://stats.ncaa.org/game/index/3950684?org_id=8981
-2016	12260	8981	Endicott	11/15/2015	@ Keene St.	330	Keene St.	http://stats.ncaa.org/team/330/12260	false		false	L 88 - 100	false	88 - 100	false	88	100	false		3951751	http://stats.ncaa.org/game/index/3951751?org_id=8981
-2016	12260	8981	Endicott	11/20/2015	@ Clark (MA)	145	Clark (MA)	http://stats.ncaa.org/team/145/12260	false		false	W 88 - 72	true	88 - 72	false	88	72	false		3954820	http://stats.ncaa.org/game/index/3954820?org_id=145
-2016	12260	8981	Endicott	11/21/2015	Lyndon St. @ Middletown, Conn. (Silloway Gymnasium)	30065	Lyndon St.	http://stats.ncaa.org/team/30065/12260	true	Middletown, Conn. (Silloway Gymnasium)	true	L 81 - 87	false	81 - 87	false	81	87	false		3955510	http://stats.ncaa.org/game/index/3955510?org_id=8981
-2016	12260	8981	Endicott	12/02/2015	@ Nichols	484	Nichols	http://stats.ncaa.org/team/484/12260	false		false	W 82 - 78 (1OT)	true	82 - 78	false	82	78	true	1OT	3962436	http://stats.ncaa.org/game/index/3962436?org_id=484
-2016	12260	8981	Endicott	12/05/2015	Eastern Nazarene	1064	Eastern Nazarene	http://stats.ncaa.org/team/1064/12260	false		true	L 65 - 71	false	65 - 71	false	65	71	false		3965671	http://stats.ncaa.org/game/index/3965671?org_id=8981
-2016	12260	8981	Endicott	12/08/2015	Salve Regina	623	Salve Regina	http://stats.ncaa.org/team/623/12260	false		true	W 93 - 78	true	93 - 78	false	93	78	false		3966366	http://stats.ncaa.org/game/index/3966366?org_id=8981
-2016	12260	8981	Endicott	12/29/2015	@ Salem St.	621	Salem St.	http://stats.ncaa.org/team/621/12260	false		false	L 83 - 87	false	83 - 87	false	83	87	false		3973614	http://stats.ncaa.org/game/index/3973614?org_id=621
-2016	12260	8981	Endicott	12/30/2015	Elmira @ Salem, Mass.	213	Elmira	http://stats.ncaa.org/team/213/12260	true	Salem, Mass.	true	L 59 - 62	false	59 - 62	false	59	62	false		3974073	http://stats.ncaa.org/game/index/3974073?org_id=213
-2016	12260	8981	Endicott	01/02/2016	Middlebury	420	Middlebury	http://stats.ncaa.org/team/420/12260	false		true	W 82 - 76	true	82 - 76	false	82	76	false		3975397	http://stats.ncaa.org/game/index/3975397?org_id=8981
-2016	12260	8981	Endicott	01/05/2016	@ Curry	170	Curry	http://stats.ncaa.org/team/170/12260	false		false	W 81 - 61	true	81 - 61	false	81	61	false		3977460	http://stats.ncaa.org/game/index/3977460?org_id=170
-2016	12260	8981	Endicott	01/07/2016	Roger Williams	583	Roger Williams	http://stats.ncaa.org/team/583/12260	false		true	W 64 - 61	true	64 - 61	false	64	61	false		3978585	http://stats.ncaa.org/game/index/3978585?org_id=8981
-2016	12260	8981	Endicott	01/09/2016	@ Western New Eng.	775	Western New Eng.	http://stats.ncaa.org/team/775/12260	false		false	W 71 - 57	true	71 - 57	false	71	57	false		3981261	http://stats.ncaa.org/game/index/3981261?org_id=775
-2016	12260	8981	Endicott	01/14/2016	@ Wentworth	762	Wentworth	http://stats.ncaa.org/team/762/12260	false		false	L 75 - 77	false	75 - 77	false	75	77	false		3985282	http://stats.ncaa.org/game/index/3985282?org_id=762
-2016	12260	8981	Endicott	01/16/2016	@ Gordon	1099	Gordon	http://stats.ncaa.org/team/1099/12260	false		false	W 75 - 60	true	75 - 60	false	75	60	false		3986406	http://stats.ncaa.org/game/index/3986406?org_id=1099
-2016	12260	8981	Endicott	01/19/2016	U New England	1255	U New England	http://stats.ncaa.org/team/1255/12260	false		true	W 88 - 62	true	88 - 62	false	88	62	false		3988457	http://stats.ncaa.org/game/index/3988457?org_id=8981
-2016	12260	8981	Endicott	01/23/2016	@ Eastern Nazarene	1064	Eastern Nazarene	http://stats.ncaa.org/team/1064/12260	false		false	L 78 - 80 (1OT)	false	78 - 80	false	78	80	true	1OT	3991074	http://stats.ncaa.org/game/index/3991074?org_id=1064
-2016	12260	8981	Endicott	01/27/2016	Nichols	484	Nichols	http://stats.ncaa.org/team/484/12260	false		true	L 77 - 86	false	77 - 86	false	77	86	false		3994296	http://stats.ncaa.org/game/index/3994296?org_id=8981
-2016	12260	8981	Endicott	01/30/2016	@ Salve Regina	623	Salve Regina	http://stats.ncaa.org/team/623/12260	false		false	L 62 - 63	false	62 - 63	false	62	63	false		4000096	http://stats.ncaa.org/game/index/4000096?org_id=623
-2016	12260	8981	Endicott	02/02/2016	Curry	170	Curry	http://stats.ncaa.org/team/170/12260	false		true	W 97 - 75	true	97 - 75	false	97	75	false		3999643	http://stats.ncaa.org/game/index/3999643?org_id=8981
-2016	12260	8981	Endicott	02/06/2016	@ Roger Williams	583	Roger Williams	http://stats.ncaa.org/team/583/12260	false		false	W 64 - 51	true	64 - 51	false	64	51	false		4003459	http://stats.ncaa.org/game/index/4003459?org_id=583
-2016	12260	8981	Endicott	02/10/2016	@ U New England	1255	U New England	http://stats.ncaa.org/team/1255/12260	false		false	W 68 - 61	true	68 - 61	false	68	61	false		4007583	http://stats.ncaa.org/game/index/4007583?org_id=1255
-2016	12260	8981	Endicott	02/13/2016	Gordon	1099	Gordon	http://stats.ncaa.org/team/1099/12260	false		true	W 80 - 73	true	80 - 73	false	80	73	false		4010637	http://stats.ncaa.org/game/index/4010637?org_id=8981
-2016	12260	8981	Endicott	02/16/2016	Wentworth	762	Wentworth	http://stats.ncaa.org/team/762/12260	false		true	L 72 - 75 (1OT)	false	72 - 75	false	72	75	true	1OT	4015180	http://stats.ncaa.org/game/index/4015180?org_id=8981
-2016	12260	8981	Endicott	02/20/2016	Western New Eng.		Western New Eng.		false		true	-									
-2016	12260	218	Eureka	11/13/2015	@ Rockford	582	Rockford	http://stats.ncaa.org/team/582/12260	false		false	L 77 - 100	false	77 - 100	false	77	100	false		3974860	http://stats.ncaa.org/game/index/3974860?org_id=582
-2016	12260	218	Eureka	11/14/2015	@ Loyola Chicago	371	Loyola Chicago	http://stats.ncaa.org/team/371/12260	false		false	L 51 - 84	false	51 - 84	false	51	84	false		3950452	http://stats.ncaa.org/game/index/3950452?org_id=371
-2016	12260	218	Eureka	11/16/2015	@ Monmouth (IL)	438	Monmouth (IL)	http://stats.ncaa.org/team/438/12260	false		false	L 71 - 101	false	71 - 101	false	71	101	false		3952342	http://stats.ncaa.org/game/index/3952342?org_id=438
-2016	12260	218	Eureka	11/17/2015	Emmaus		Emmaus		false		true	W 100 - 75	true	100 - 75	false	100	75	false		3952819	http://stats.ncaa.org/game/index/3952819?org_id=218
-2016	12260	218	Eureka	11/21/2015	@ Northern Ill.	503	Northern Ill.	http://stats.ncaa.org/team/503/12260	false		false	L 52 - 100	false	52 - 100	false	52	100	false		3955228	http://stats.ncaa.org/game/index/3955228?org_id=503
-2016	12260	218	Eureka	11/28/2015	@ Loras	364	Loras	http://stats.ncaa.org/team/364/12260	false		false	L 67 - 104	false	67 - 104	false	67	104	false		3960360	http://stats.ncaa.org/game/index/3960360?org_id=364
-2016	12260	218	Eureka	12/01/2015	Principia	555	Principia	http://stats.ncaa.org/team/555/12260	false		true	W 91 - 85	true	91 - 85	false	91	85	false		3961876	http://stats.ncaa.org/game/index/3961876?org_id=218
-2016	12260	218	Eureka	12/05/2015	@ Spalding	23260	Spalding	http://stats.ncaa.org/team/23260/12260	false		false	L 66 - 74	false	66 - 74	false	66	74	false		3965517	http://stats.ncaa.org/game/index/3965517?org_id=23260
-2016	12260	218	Eureka	12/16/2015	Knox	337	Knox	http://stats.ncaa.org/team/337/12260	false		true	W 107 - 97	true	107 - 97	false	107	97	false		3969823	http://stats.ncaa.org/game/index/3969823?org_id=218
-2016	12260	218	Eureka	01/02/2016	MacMurray	377	MacMurray	http://stats.ncaa.org/team/377/12260	false		true	W 75 - 73	true	75 - 73	false	75	73	false		3975273	http://stats.ncaa.org/game/index/3975273?org_id=218
-2016	12260	218	Eureka	01/04/2016	@ Webster	759	Webster	http://stats.ncaa.org/team/759/12260	false		false	L 72 - 86	false	72 - 86	false	72	86	false		3976966	http://stats.ncaa.org/game/index/3976966?org_id=759
-2016	12260	218	Eureka	01/06/2016	Westminster (MO)	1450	Westminster (MO)	http://stats.ncaa.org/team/1450/12260	false		true	W 84 - 79 (1OT)	true	84 - 79	false	84	79	true	1OT	3978237	http://stats.ncaa.org/game/index/3978237?org_id=218
-2016	12260	218	Eureka	01/09/2016	@ Iowa Wesleyan	30173	Iowa Wesleyan	http://stats.ncaa.org/team/30173/12260	false		false	L 79 - 91	false	79 - 91	false	79	91	false		3980916	http://stats.ncaa.org/game/index/3980916?org_id=218
-2016	12260	218	Eureka	01/13/2016	@ Fontbonne	11538	Fontbonne	http://stats.ncaa.org/team/11538/12260	false		false	L 79 - 86	false	79 - 86	false	79	86	false		3985571	http://stats.ncaa.org/game/index/3985571?org_id=11538
-2016	12260	218	Eureka	01/16/2016	Blackburn	64	Blackburn	http://stats.ncaa.org/team/64/12260	false		true	W 83 - 75	true	83 - 75	false	83	75	false		3986684	http://stats.ncaa.org/game/index/3986684?org_id=218
-2016	12260	218	Eureka	01/20/2016	Greenville	1111	Greenville	http://stats.ncaa.org/team/1111/12260	false		true	L 112 - 121	false	112 - 121	false	112	121	false		3988912	http://stats.ncaa.org/game/index/3988912?org_id=218
-2016	12260	218	Eureka	01/23/2016	@ Principia	555	Principia	http://stats.ncaa.org/team/555/12260	false		false	W 101 - 80	true	101 - 80	false	101	80	false		3991168	http://stats.ncaa.org/game/index/3991168?org_id=555
-2016	12260	218	Eureka	01/27/2016	Spalding	23260	Spalding	http://stats.ncaa.org/team/23260/12260	false		true	W 83 - 72	true	83 - 72	false	83	72	false		3994500	http://stats.ncaa.org/game/index/3994500?org_id=218
-2016	12260	218	Eureka	01/30/2016	Webster	759	Webster	http://stats.ncaa.org/team/759/12260	false		true	L 67 - 84	false	67 - 84	false	67	84	false		3996946	http://stats.ncaa.org/game/index/3996946?org_id=218
-2016	12260	218	Eureka	02/03/2016	@ MacMurray	377	MacMurray	http://stats.ncaa.org/team/377/12260	false		false	L 100 - 105	false	100 - 105	false	100	105	false		4000736	http://stats.ncaa.org/game/index/4000736?org_id=377
-2016	12260	218	Eureka	02/06/2016	@ Westminster (MO)	1450	Westminster (MO)	http://stats.ncaa.org/team/1450/12260	false		false	L 90 - 91	false	90 - 91	false	90	91	false		4003973	http://stats.ncaa.org/game/index/4003973?org_id=1450
-2016	12260	218	Eureka	02/10/2016	Iowa Wesleyan	30173	Iowa Wesleyan	http://stats.ncaa.org/team/30173/12260	false		true	W 82 - 67	true	82 - 67	false	82	67	false		4007743	http://stats.ncaa.org/game/index/4007743?org_id=218
-2016	12260	218	Eureka	02/13/2016	Fontbonne	11538	Fontbonne	http://stats.ncaa.org/team/11538/12260	false		true	W 86 - 68	true	86 - 68	false	86	68	false		4010822	http://stats.ncaa.org/game/index/4010822?org_id=218
-2016	12260	218	Eureka	02/17/2016	@ Blackburn	64	Blackburn	http://stats.ncaa.org/team/64/12260	false		false	W 67 - 50	true	67 - 50	false	67	50	false		4016517	http://stats.ncaa.org/game/index/4016517?org_id=64
-2016	12260	218	Eureka	02/20/2016	@ Greenville		Greenville		false		false	-									
 2016	12260	221	FDU-Florham	11/16/2015	@ Fairleigh Dickinson	222	Fairleigh Dickinson	http://stats.ncaa.org/team/222/12260	false		false	L 70 - 111	false	70 - 111	false	70	111	false		3952967	http://stats.ncaa.org/game/index/3952967?org_id=222
 2016	12260	221	FDU-Florham	11/20/2015	@ Connecticut Col.	163	Connecticut Col.	http://stats.ncaa.org/team/163/12260	false		false	W 83 - 73	true	83 - 73	false	83	73	false		3954966	http://stats.ncaa.org/game/index/3954966?org_id=163
 2016	12260	221	FDU-Florham	11/21/2015	Mount Ida	27901	Mount Ida	http://stats.ncaa.org/team/27901/12260	false		true	L 66 - 67	false	66 - 67	false	66	67	false		3957221	http://stats.ncaa.org/game/index/3957221?org_id=27901
@@ -3205,17 +3179,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	11062	Green Mountain	02/06/2016	@ Thomas (ME)	2758	Thomas (ME)	http://stats.ncaa.org/team/2758/12260	false		false	W 98 - 74	true	98 - 74	false	98	74	false		4003240	http://stats.ncaa.org/game/index/4003240?org_id=2758
 2016	12260	11062	Green Mountain	02/12/2016	Husson	1133	Husson	http://stats.ncaa.org/team/1133/12260	false		true	W 98 - 95	true	98 - 95	false	98	95	false		4010000	http://stats.ncaa.org/game/index/4010000?org_id=11062
 2016	12260	11062	Green Mountain	02/13/2016	Maine Maritime	378	Maine Maritime	http://stats.ncaa.org/team/378/12260	false		true	W 95 - 63	true	95 - 63	false	95	63	false		4010750	http://stats.ncaa.org/game/index/4010750?org_id=11062
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
-2016	12260	11062	Green Mountain	02/18/2016	@ Johnson St.		Johnson St.		false		false	-									
+2016	12260	11062	Green Mountain	02/18/2016	Johnson St.	324	Johnson St.	http://stats.ncaa.org/team/324/12260	false		true	W 116 - 77	true	116 - 77	false	116	77	false		4018527	http://stats.ncaa.org/game/index/4018527?org_id=11062
 2016	12260	11062	Green Mountain	02/20/2016	@ Lyndon St.		Lyndon St.		false		false	-									
 2016	12260	263	Greensboro	11/14/2015	@ UNCG	459	UNCG	http://stats.ncaa.org/team/459/12260	false		false	L 69 - 86	false	69 - 86	false	69	86	false		3950685	http://stats.ncaa.org/game/index/3950685?org_id=459
 2016	12260	263	Greensboro	11/17/2015	@ Guilford	1112	Guilford	http://stats.ncaa.org/team/1112/12260	false		false	L 63 - 68	false	63 - 68	false	63	68	false		3953057	http://stats.ncaa.org/game/index/3953057?org_id=1112
@@ -4088,17 +4052,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	324	Johnson St.	02/06/2016	@ Husson	1133	Husson	http://stats.ncaa.org/team/1133/12260	false		false	W 101 - 95	true	101 - 95	false	101	95	false		4004199	http://stats.ncaa.org/game/index/4004199?org_id=1133
 2016	12260	324	Johnson St.	02/10/2016	Colby-Sawyer	152	Colby-Sawyer	http://stats.ncaa.org/team/152/12260	false		true	L 83 - 92	false	83 - 92	false	83	92	false		4007576	http://stats.ncaa.org/game/index/4007576?org_id=324
 2016	12260	324	Johnson St.	02/13/2016	Lyndon St.	30065	Lyndon St.	http://stats.ncaa.org/team/30065/12260	false		true	L 74 - 88	false	74 - 88	false	74	88	false		4010599	http://stats.ncaa.org/game/index/4010599?org_id=324
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
-2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain		Green Mountain		false		false	-									
+2016	12260	324	Johnson St.	02/18/2016	@ Green Mountain	11062	Green Mountain	http://stats.ncaa.org/team/11062/12260	false		false	L 77 - 116	false	77 - 116	false	77	116	false		4018527	http://stats.ncaa.org/game/index/4018527?org_id=11062
 2016	12260	324	Johnson St.	02/20/2016	Castleton		Castleton		false		true	-									
 2016	12260	325	Juniata	11/17/2015	@ Allegheny	19	Allegheny	http://stats.ncaa.org/team/19/12260	false		false	W 67 - 63	true	67 - 63	false	67	63	false		3952652	http://stats.ncaa.org/game/index/3952652?org_id=19
 2016	12260	325	Juniata	11/20/2015	Cazenovia	23624	Cazenovia	http://stats.ncaa.org/team/23624/12260	false		true	W 82 - 69	true	82 - 69	false	82	69	false		3957204	http://stats.ncaa.org/game/index/3957204?org_id=23624
@@ -8124,8 +8078,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	1379	Southern Vt.	02/06/2016	@ Mitchell	30042	Mitchell	http://stats.ncaa.org/team/30042/12260	false		false	W 97 - 72	true	97 - 72	false	97	72	false		4003352	http://stats.ncaa.org/game/index/4003352?org_id=30042
 2016	12260	1379	Southern Vt.	02/11/2016	Becker	26107	Becker	http://stats.ncaa.org/team/26107/12260	false		true	W 64 - 51	true	64 - 51	false	64	51	false		4008556	http://stats.ncaa.org/game/index/4008556?org_id=1379
 2016	12260	1379	Southern Vt.	02/13/2016	@ Wheelock	8896	Wheelock	http://stats.ncaa.org/team/8896/12260	false		false	W 107 - 58	true	107 - 58	false	107	58	false		4010513	http://stats.ncaa.org/game/index/4010513?org_id=1379
-2016	12260	1379	Southern Vt.	02/18/2016	Elms	532	Elms	http://stats.ncaa.org/team/532/12260	false		true	W 93 - 84	true	93 - 84	false	93	84	false		4018256	http://stats.ncaa.org/game/index/4018256?org_id=1379
-2016	12260	1379	Southern Vt.	02/18/2016	@ Elms		Elms		false		false	-									
+2016	12260	1379	Southern Vt.	02/18/2016	Elms	532	Elms	http://stats.ncaa.org/team/532/12260	false		true	W 93 - 84	true	93 - 84	false	93	84	false		4018525	http://stats.ncaa.org/game/index/4018525?org_id=1379
 2016	12260	1379	Southern Vt.	02/20/2016	Daniel Webster		Daniel Webster		false		true	-									
 2016	12260	8746	Southwestern (TX)	11/13/2015	Howard Payne	2741	Howard Payne	http://stats.ncaa.org/team/2741/12260	false		true	W 82 - 73	true	82 - 73	false	82	73	false		3949564	http://stats.ncaa.org/game/index/3949564?org_id=8746
 2016	12260	8746	Southwestern (TX)	11/17/2015	@ St. Edward's	1334	St. Edward's	http://stats.ncaa.org/team/1334/12260	false		false	L 76 - 95	false	76 - 95	false	76	95	false		3952823	http://stats.ncaa.org/game/index/3952823?org_id=1334
@@ -10397,7 +10350,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12260	2730	York (NY)	02/09/2016	John Jay	321	John Jay	http://stats.ncaa.org/team/321/12260	false		true	W 78 - 73	true	78 - 73	false	78	73	false		4006793	http://stats.ncaa.org/game/index/4006793?org_id=2730
 2016	12260	2730	York (NY)	02/12/2016	Lehman	279	Lehman	http://stats.ncaa.org/team/279/12260	false		true	W 75 - 72	true	75 - 72	false	75	72	false		4009921	http://stats.ncaa.org/game/index/4009921?org_id=2730
 2016	12260	2730	York (NY)	02/16/2016	Hunter	292	Hunter	http://stats.ncaa.org/team/292/12260	false		true	W 79 - 74	true	79 - 74	false	79	74	false		4015166	http://stats.ncaa.org/game/index/4015166?org_id=2730
-2016	12260	2730	York (NY)	02/18/2016	@ CCNY	480	CCNY	http://stats.ncaa.org/team/480/12260	false		false	W 74 - 71	true	74 - 71	false	74	71	false		4018238	http://stats.ncaa.org/game/index/4018238?org_id=480
+2016	12260	2730	York (NY)	02/18/2016	@ CCNY	480	CCNY	http://stats.ncaa.org/team/480/12260	false		false	W 74 - 71	true	74 - 71	false	74	71	false		4018716	http://stats.ncaa.org/game/index/4018716?org_id=480
 2016	12260	815	York (PA)	11/13/2015	@ Stevenson	21852	Stevenson	http://stats.ncaa.org/team/21852/12260	false		false	W 59 - 47	true	59 - 47	false	59	47	false		3954923	http://stats.ncaa.org/game/index/3954923?org_id=21852
 2016	12260	815	York (PA)	11/16/2015	Gettysburg	258	Gettysburg	http://stats.ncaa.org/team/258/12260	false		true	W 66 - 47	true	66 - 47	false	66	47	false		3952185	http://stats.ncaa.org/game/index/3952185?org_id=815
 2016	12260	815	York (PA)	11/20/2015	Wilson	12973	Wilson	http://stats.ncaa.org/team/12973/12260	false		true	W 72 - 61	true	72 - 61	false	72	61	false		3954474	http://stats.ncaa.org/game/index/3954474?org_id=815
