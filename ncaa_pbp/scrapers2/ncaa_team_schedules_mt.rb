@@ -222,7 +222,9 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
           end
         end
 
-        ncaa_team_schedules << row
+        if (row.size>7)
+          ncaa_team_schedules << row
+        end
     
       end
 
