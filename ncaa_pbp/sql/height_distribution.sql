@@ -5,4 +5,5 @@ where
     not(height='-')
 and not(height like '4%')
 and not(height='5-1')
+and year=2016
 group by height order by height;
