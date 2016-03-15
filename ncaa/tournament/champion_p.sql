@@ -1,7 +1,7 @@
 begin;
 
 select
-school_name,p::numeric(17,16)
+school_name,p::numeric(5,4)
 from ncaa.rounds
 where round_id=7
 order by p desc;
@@ -9,7 +9,7 @@ order by p desc;
 copy
 (
 select
-school_name,p::numeric(17,16)
+school_name,p::numeric(5,4)
 from ncaa.rounds
 where round_id=7
 order by p desc
