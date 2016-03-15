@@ -1,0 +1,64 @@
+1 Kansas
+16 Austin Peay
+8 Colorado
+9 Connecticut
+5 Maryland
+12 South Dakota St.
+4 California
+13 Hawaii
+6 Arizona
+VAN/WICH
+3 Miami (Fla.)
+14 Buffalo
+7 Iowa
+10 Temple
+2 Villanova
+15 UNC-Asheville
+1 Oregon
+HC/SOUTH
+8 Saint Joseph's
+9 Cincinnati
+5 Baylor
+12 Yale
+4 Duke
+13 UNCW
+6 Texas
+11 UNI
+3 Texas A&M
+14 Green Bay
+7 Oregon State
+10 VCU
+2 Oklahoma
+15 CSU Bakersfield
+North Carolina
+FGCU/FDU
+8 USC
+9 Providence
+5 Indiana
+12 Chattanooga
+4 Kentucky
+13 Stony Brook
+6 Notre Dame
+MICH/TULSA
+3 West Virginia
+14 Steph. F. Austin
+7 Wisconsin
+10 Pittsburgh
+2 Xavier
+15 Weber Stat
+1 Virginia
+16 Hampton
+8 Texas Tech
+9 Butler
+5 Purdue
+12 Little Rock
+4 Iowa State
+13 Iona
+6 Seton Hall
+11 Gonzaga
+3 Utah
+14 Fresno State
+7 Dayton
+10 Syracuse
+2 Michigan State
+15 Middle Tenn.

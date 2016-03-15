@@ -1,7 +1,9 @@
 BEGIN
 SET
- team | h_div | site | opp | v_div | t_score | o_score 
-------+-------+------+-----+-------+---------+---------
-(0 rows)
+     team     | h_div | site |              opp               | v_div | t_score | o_score 
+--------------+-------+------+--------------------------------+-------+---------+---------
+ Western Ore. |     2 | home | %                             +|     2 |    67.8 |    67.2
+              |       |      |                   UC San Diego |       |         | 
+(1 row)
 
 COMMIT
