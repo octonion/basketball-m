@@ -11,8 +11,8 @@ BEGIN
   2 | Fairleigh Dickinson | 0.263
   3 | Virginia            | 0.978
   3 | Kansas              | 0.978
-  3 | Oregon              | 0.959
   3 | North Carolina      | 0.959
+  3 | Oregon              | 0.959
   3 | Michigan St.        | 0.947
   3 | Villanova           | 0.924
   3 | Miami (FL)          | 0.899
@@ -73,8 +73,8 @@ BEGIN
   3 | Middle Tenn.        | 0.053
   3 | FGCU                | 0.036
   3 | Southern U.         | 0.030
-  3 | Austin Peay         | 0.022
   3 | Hampton             | 0.022
+  3 | Austin Peay         | 0.022
   3 | Holy Cross          | 0.011
   3 | Fairleigh Dickinson | 0.005
   4 | Michigan St.        | 0.786
@@ -118,8 +118,8 @@ BEGIN
   4 | Hawaii              | 0.109
   4 | Oregon St.          | 0.107
   4 | Michigan            | 0.102
-  4 | Texas Tech          | 0.092
   4 | Dayton              | 0.092
+  4 | Texas Tech          | 0.092
   4 | Little Rock         | 0.091
   4 | SFA                 | 0.089
   4 | Providence          | 0.088
@@ -141,10 +141,10 @@ BEGIN
   4 | Buffalo             | 0.011
   4 | FGCU                | 0.006
   4 | Southern U.         | 0.002
-  4 | Austin Peay         | 0.002
   4 | Hampton             | 0.002
-  4 | Holy Cross          | 0.000
+  4 | Austin Peay         | 0.002
   4 | Fairleigh Dickinson | 0.000
+  4 | Holy Cross          | 0.000
   5 | Michigan St.        | 0.612
   5 | Kansas              | 0.566
   5 | Virginia            | 0.491
@@ -168,8 +168,8 @@ BEGIN
   5 | Iowa St.            | 0.129
   5 | Texas               | 0.128
   5 | California          | 0.115
-  5 | Gonzaga             | 0.114
   5 | Utah                | 0.114
+  5 | Gonzaga             | 0.114
   5 | UConn               | 0.107
   5 | Pittsburgh          | 0.086
   5 | VCU                 | 0.085
@@ -185,8 +185,8 @@ BEGIN
   5 | Michigan            | 0.046
   5 | Yale                | 0.042
   5 | Dayton              | 0.038
-  5 | Oregon St.          | 0.034
   5 | SFA                 | 0.034
+  5 | Oregon St.          | 0.034
   5 | Texas Tech          | 0.029
   5 | Providence          | 0.023
   5 | Colorado            | 0.022
@@ -198,11 +198,11 @@ BEGIN
   5 | South Dakota St.    | 0.010
   5 | UNCW                | 0.010
   5 | CSU Bakersfield     | 0.007
-  5 | Temple              | 0.006
   5 | Fresno St.          | 0.006
+  5 | Temple              | 0.006
   5 | Green Bay           | 0.004
-  5 | Chattanooga         | 0.004
   5 | Iona                | 0.004
+  5 | Chattanooga         | 0.004
   5 | Weber St.           | 0.003
   5 | Middle Tenn.        | 0.002
   5 | UNC Asheville       | 0.002
@@ -213,18 +213,18 @@ BEGIN
   5 | Fairleigh Dickinson | 0.000
   5 | Southern U.         | 0.000
   5 | Holy Cross          | 0.000
-  6 | Michigan St.        | 0.385
+  6 | Michigan St.        | 0.383
   6 | Kansas              | 0.361
-  6 | Virginia            | 0.277
+  6 | Virginia            | 0.276
   6 | West Virginia       | 0.269
-  6 | North Carolina      | 0.263
+  6 | North Carolina      | 0.264
   6 | Oklahoma            | 0.246
   6 | Villanova           | 0.210
   6 | Texas A&M           | 0.182
   6 | Oregon              | 0.156
   6 | Duke                | 0.141
-  6 | Kentucky            | 0.138
-  6 | Purdue              | 0.137
+  6 | Kentucky            | 0.139
+  6 | Purdue              | 0.136
   6 | Xavier              | 0.106
   6 | Indiana             | 0.104
   6 | Miami (FL)          | 0.100
@@ -235,19 +235,19 @@ BEGIN
   6 | Arizona             | 0.061
   6 | Texas               | 0.057
   6 | Iowa St.            | 0.049
-  6 | California          | 0.043
   6 | UConn               | 0.043
+  6 | California          | 0.043
   6 | Gonzaga             | 0.042
   6 | Utah                | 0.038
   6 | VCU                 | 0.034
   6 | Pittsburgh          | 0.028
   6 | Vanderbilt          | 0.022
-  6 | Seton Hall          | 0.021
   6 | Wichita St.         | 0.021
+  6 | Seton Hall          | 0.020
   6 | Southern California | 0.018
+  6 | Butler              | 0.017
   6 | Wisconsin           | 0.017
   6 | Notre Dame          | 0.017
-  6 | Butler              | 0.017
   6 | Michigan            | 0.015
   6 | Saint Joseph's      | 0.015
   6 | Syracuse            | 0.014
@@ -256,54 +256,54 @@ BEGIN
   6 | Dayton              | 0.010
   6 | SFA                 | 0.009
   6 | Texas Tech          | 0.008
-  6 | Little Rock         | 0.006
-  6 | Colorado            | 0.006
   6 | Providence          | 0.006
+  6 | Colorado            | 0.006
+  6 | Little Rock         | 0.006
   6 | UNI                 | 0.005
   6 | Hawaii              | 0.004
-  6 | Tulsa               | 0.003
   6 | Stony Brook         | 0.003
+  6 | Tulsa               | 0.003
   6 | South Dakota St.    | 0.002
   6 | UNCW                | 0.002
-  6 | Green Bay           | 0.001
   6 | Temple              | 0.001
-  6 | Chattanooga         | 0.001
-  6 | Weber St.           | 0.001
-  6 | Iona                | 0.001
   6 | CSU Bakersfield     | 0.001
+  6 | Iona                | 0.001
   6 | Fresno St.          | 0.001
+  6 | Chattanooga         | 0.001
+  6 | Green Bay           | 0.001
   6 | Southern U.         | 0.000
   6 | Buffalo             | 0.000
   6 | Middle Tenn.        | 0.000
-  6 | UNC Asheville       | 0.000
+  6 | Weber St.           | 0.000
   6 | FGCU                | 0.000
   6 | Hampton             | 0.000
   6 | Austin Peay         | 0.000
   6 | Holy Cross          | 0.000
+  6 | UNC Asheville       | 0.000
   6 | Fairleigh Dickinson | 0.000
   7 | Kansas              | 0.249
   7 | Michigan St.        | 0.247
-  7 | Virginia            | 0.164
-  7 | West Virginia       | 0.143
+  7 | Virginia            | 0.163
+  7 | West Virginia       | 0.142
   7 | Villanova           | 0.132
   7 | North Carolina      | 0.131
   7 | Oklahoma            | 0.119
   7 | Texas A&M           | 0.079
-  7 | Purdue              | 0.073
+  7 | Purdue              | 0.072
   7 | Oregon              | 0.063
   7 | Kentucky            | 0.062
   7 | Duke                | 0.059
   7 | Miami (FL)          | 0.054
   7 | Indiana             | 0.042
-  7 | Xavier              | 0.040
+  7 | Xavier              | 0.039
   7 | Arizona             | 0.033
   7 | Maryland            | 0.031
   7 | Iowa                | 0.030
   7 | Baylor              | 0.028
   7 | Cincinnati          | 0.022
   7 | UConn               | 0.020
-  7 | Texas               | 0.019
   7 | California          | 0.019
+  7 | Texas               | 0.019
   7 | Iowa St.            | 0.019
   7 | Gonzaga             | 0.016
   7 | Utah                | 0.013
@@ -313,31 +313,29 @@ BEGIN
   7 | Pittsburgh          | 0.008
   7 | Seton Hall          | 0.007
   7 | Butler              | 0.005
-  7 | Southern California | 0.004
-  7 | Saint Joseph's      | 0.004
-  7 | Notre Dame          | 0.004
-  7 | Syracuse            | 0.004
-  7 | Michigan            | 0.004
   7 | Wisconsin           | 0.004
-  7 | Yale                | 0.003
+  7 | Michigan            | 0.004
+  7 | Saint Joseph's      | 0.004
+  7 | Southern California | 0.004
+  7 | Syracuse            | 0.004
+  7 | Notre Dame          | 0.004
   7 | Dayton              | 0.003
-  7 | Texas Tech          | 0.002
-  7 | Oregon St.          | 0.002
+  7 | Yale                | 0.003
   7 | Colorado            | 0.002
   7 | SFA                 | 0.002
-  7 | Tulsa               | 0.001
+  7 | Texas Tech          | 0.002
+  7 | Oregon St.          | 0.002
   7 | Little Rock         | 0.001
-  7 | Providence          | 0.001
   7 | Hawaii              | 0.001
   7 | UNI                 | 0.001
-  7 | UNCW                | 0.000
-  7 | UNC Asheville       | 0.000
+  7 | Providence          | 0.001
+  7 | Tulsa               | 0.001
   7 | Temple              | 0.000
+  7 | UNC Asheville       | 0.000
   7 | Buffalo             | 0.000
+  7 | Stony Brook         | 0.000
   7 | Green Bay           | 0.000
   7 | CSU Bakersfield     | 0.000
-  7 | Middle Tenn.        | 0.000
-  7 | Stony Brook         | 0.000
   7 | Weber St.           | 0.000
   7 | South Dakota St.    | 0.000
   7 | Southern U.         | 0.000
@@ -347,8 +345,10 @@ BEGIN
   7 | Fresno St.          | 0.000
   7 | Austin Peay         | 0.000
   7 | Hampton             | 0.000
-  7 | FGCU                | 0.000
+  7 | UNCW                | 0.000
   7 | Holy Cross          | 0.000
+  7 | FGCU                | 0.000
+  7 | Middle Tenn.        | 0.000
   8 | Michigan St.        | 0.159
   8 | Kansas              | 0.143
   8 | Virginia            | 0.097
@@ -364,33 +364,33 @@ BEGIN
   8 | Miami (FL)          | 0.022
   8 | Indiana             | 0.019
   8 | Xavier              | 0.017
-  8 | Arizona             | 0.014
+  8 | Arizona             | 0.013
   8 | Maryland            | 0.011
   8 | Iowa                | 0.011
-  8 | Baylor              | 0.010
+  8 | Baylor              | 0.009
   8 | Iowa St.            | 0.008
   8 | UConn               | 0.007
   8 | Cincinnati          | 0.007
-  8 | Gonzaga             | 0.006
   8 | California          | 0.006
+  8 | Gonzaga             | 0.006
   8 | Texas               | 0.006
   8 | Utah                | 0.005
   8 | Wichita St.         | 0.004
   8 | Vanderbilt          | 0.004
-  8 | VCU                 | 0.003
   8 | Pittsburgh          | 0.003
+  8 | VCU                 | 0.003
   8 | Butler              | 0.002
   8 | Seton Hall          | 0.002
-  8 | Yale                | 0.001
-  8 | Syracuse            | 0.001
   8 | Michigan            | 0.001
-  8 | Dayton              | 0.001
-  8 | Southern California | 0.001
-  8 | Saint Joseph's      | 0.001
-  8 | Texas Tech          | 0.001
-  8 | SFA                 | 0.001
-  8 | Notre Dame          | 0.001
+  8 | Syracuse            | 0.001
   8 | Wisconsin           | 0.001
+  8 | Dayton              | 0.001
+  8 | Saint Joseph's      | 0.001
+  8 | SFA                 | 0.001
+  8 | Texas Tech          | 0.001
+  8 | Southern California | 0.001
+  8 | Notre Dame          | 0.001
+  8 | Yale                | 0.001
   8 | UNCW                | 0.000
   8 | Middle Tenn.        | 0.000
   8 | CSU Bakersfield     | 0.000
@@ -405,8 +405,8 @@ BEGIN
   8 | Fairleigh Dickinson | 0.000
   8 | Temple              | 0.000
   8 | Buffalo             | 0.000
-  8 | Holy Cross          | 0.000
   8 | Weber St.           | 0.000
+  8 | Holy Cross          | 0.000
   8 | Hawaii              | 0.000
   8 | UNC Asheville       | 0.000
   8 | Providence          | 0.000
