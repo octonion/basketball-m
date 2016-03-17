@@ -1,75 +1,71 @@
 BEGIN
      school_name     |   p    
 ---------------------+--------
- Michigan St.        | 0.1590
- Kansas              | 0.1426
- Virginia            | 0.0971
- West Virginia       | 0.0838
- North Carolina      | 0.0726
- Villanova           | 0.0667
+ Michigan St.        | 0.1593
+ Kansas              | 0.1427
+ Virginia            | 0.0972
+ West Virginia       | 0.0824
+ North Carolina      | 0.0720
+ Villanova           | 0.0668
  Oklahoma            | 0.0541
  Purdue              | 0.0387
  Texas A&M           | 0.0322
- Kentucky            | 0.0314
- Oregon              | 0.0235
+ Kentucky            | 0.0316
+ Oregon              | 0.0239
  Duke                | 0.0227
  Miami (FL)          | 0.0221
- Indiana             | 0.0193
- Xavier              | 0.0167
- Arizona             | 0.0135
- Maryland            | 0.0109
+ Indiana             | 0.0195
+ Xavier              | 0.0166
+ Arizona             | 0.0136
  Iowa                | 0.0109
+ Maryland            | 0.0109
  Baylor              | 0.0095
+ Wichita St.         | 0.0078
  Iowa St.            | 0.0076
- Cincinnati          | 0.0070
+ Cincinnati          | 0.0069
  UConn               | 0.0069
  Gonzaga             | 0.0063
  California          | 0.0060
  Texas               | 0.0055
  Utah                | 0.0047
- Vanderbilt          | 0.0041
- Wichita St.         | 0.0038
- Pittsburgh          | 0.0026
  VCU                 | 0.0025
+ Pittsburgh          | 0.0025
+ Michigan            | 0.0022
  Seton Hall          | 0.0022
- Butler              | 0.0017
- Michigan            | 0.0014
- Notre Dame          | 0.0013
+ Butler              | 0.0018
  Southern California | 0.0013
- Syracuse            | 0.0012
  Wisconsin           | 0.0012
+ Syracuse            | 0.0012
+ Notre Dame          | 0.0011
  Saint Joseph's      | 0.0008
  Dayton              | 0.0007
  Texas Tech          | 0.0006
  Yale                | 0.0006
  SFA                 | 0.0005
- Oregon St.          | 0.0004
  Little Rock         | 0.0004
+ Oregon St.          | 0.0004
  Colorado            | 0.0004
  Providence          | 0.0003
  UNI                 | 0.0002
  Hawaii              | 0.0002
- Tulsa               | 0.0001
  South Dakota St.    | 0.0001
  Stony Brook         | 0.0001
- UNCW                | 0.0000
- Fresno St.          | 0.0000
- Chattanooga         | 0.0000
- Austin Peay         | 0.0000
- Hampton             | 0.0000
- Southern U.         | 0.0000
  Middle Tenn.        | 0.0000
- FGCU                | 0.0000
+ Fresno St.          | 0.0000
  Green Bay           | 0.0000
  CSU Bakersfield     | 0.0000
- Holy Cross          | 0.0000
- Weber St.           | 0.0000
- Buffalo             | 0.0000
- Temple              | 0.0000
- UNC Asheville       | 0.0000
- Fairleigh Dickinson | 0.0000
+ Austin Peay         | 0.0000
+ Hampton             | 0.0000
+ Chattanooga         | 0.0000
+ FGCU                | 0.0000
  Iona                | 0.0000
-(68 rows)
+ Buffalo             | 0.0000
+ Weber St.           | 0.0000
+ Holy Cross          | 0.0000
+ Temple              | 0.0000
+ UNCW                | 0.0000
+ UNC Asheville       | 0.0000
+(64 rows)
 
-COPY 68
+COPY 64
 COMMIT
