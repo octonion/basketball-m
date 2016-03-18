@@ -1,63 +1,55 @@
 BEGIN
-     school_name     |   p    
----------------------+--------
- Michigan St.        | 0.1663
- Kansas              | 0.1388
- Virginia            | 0.1113
- West Virginia       | 0.0839
- North Carolina      | 0.0735
- Villanova           | 0.0671
- Oklahoma            | 0.0546
- Duke                | 0.0326
- Texas A&M           | 0.0325
- Kentucky            | 0.0323
- Oregon              | 0.0243
- Miami (FL)          | 0.0223
- Indiana             | 0.0200
- Xavier              | 0.0171
- Iowa St.            | 0.0145
- Arizona             | 0.0136
- Iowa                | 0.0110
- Maryland            | 0.0108
- UConn               | 0.0099
- Wichita St.         | 0.0078
- Cincinnati          | 0.0071
- Gonzaga             | 0.0069
- California          | 0.0059
- Texas               | 0.0056
- Utah                | 0.0052
- Butler              | 0.0037
- VCU                 | 0.0026
- Pittsburgh          | 0.0026
- Seton Hall          | 0.0024
- Michigan            | 0.0023
- Yale                | 0.0016
- Southern California | 0.0014
- Little Rock         | 0.0013
- Syracuse            | 0.0013
- Wisconsin           | 0.0012
- Notre Dame          | 0.0012
- Saint Joseph's      | 0.0008
- Dayton              | 0.0008
- SFA                 | 0.0005
- Oregon St.          | 0.0004
- Providence          | 0.0003
- Hawaii              | 0.0002
- UNI                 | 0.0002
- Stony Brook         | 0.0001
- South Dakota St.    | 0.0001
- Weber St.           | 0.0000
- Fresno St.          | 0.0000
- Middle Tenn.        | 0.0000
- FGCU                | 0.0000
- Holy Cross          | 0.0000
- Green Bay           | 0.0000
- Chattanooga         | 0.0000
- UNC Asheville       | 0.0000
- CSU Bakersfield     | 0.0000
- Buffalo             | 0.0000
- Temple              | 0.0000
-(56 rows)
+   school_name    |   p    
+------------------+--------
+ Michigan St.     | 0.1617
+ Kansas           | 0.1394
+ Virginia         | 0.1104
+ West Virginia    | 0.0825
+ North Carolina   | 0.0778
+ Villanova        | 0.0676
+ Oklahoma         | 0.0547
+ Kentucky         | 0.0355
+ Duke             | 0.0326
+ Texas A&M        | 0.0326
+ Miami (FL)       | 0.0258
+ Oregon           | 0.0243
+ Indiana          | 0.0202
+ Xavier           | 0.0167
+ Wichita St.      | 0.0155
+ Iowa St.         | 0.0142
+ Iowa             | 0.0111
+ Gonzaga          | 0.0109
+ Maryland         | 0.0108
+ UConn            | 0.0100
+ Cincinnati       | 0.0071
+ Utah             | 0.0062
+ California       | 0.0059
+ Texas            | 0.0056
+ Butler           | 0.0036
+ Pittsburgh       | 0.0026
+ VCU              | 0.0026
+ Michigan         | 0.0022
+ Yale             | 0.0016
+ Little Rock      | 0.0013
+ Wisconsin        | 0.0012
+ Syracuse         | 0.0012
+ Notre Dame       | 0.0012
+ Saint Joseph's   | 0.0008
+ Dayton           | 0.0007
+ Providence       | 0.0006
+ SFA              | 0.0005
+ Oregon St.       | 0.0004
+ Hawaii           | 0.0002
+ UNI              | 0.0002
+ South Dakota St. | 0.0001
+ CSU Bakersfield  | 0.0000
+ UNC Asheville    | 0.0000
+ Temple           | 0.0000
+ Weber St.        | 0.0000
+ Green Bay        | 0.0000
+ Holy Cross       | 0.0000
+ Middle Tenn.     | 0.0000
+(48 rows)
 
-COPY 56
+COPY 48
 COMMIT
