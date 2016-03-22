@@ -1,279 +1,71 @@
 BEGIN
- rd |       name       |   p   
-----+------------------+-------
-  3 | Oregon           | 0.971
-  3 | Michigan St.     | 0.947
-  3 | Villanova        | 0.924
-  3 | Texas A&M        | 0.886
-  3 | Oklahoma         | 0.880
-  3 | Xavier           | 0.875
-  3 | West Virginia    | 0.808
-  3 | Iowa             | 0.798
-  3 | Maryland         | 0.773
-  3 | Texas            | 0.697
-  3 | California       | 0.687
-  3 | Cincinnati       | 0.628
-  3 | VCU              | 0.602
-  3 | Pittsburgh       | 0.546
-  3 | Michigan         | 0.538
-  3 | Syracuse         | 0.528
-  3 | Dayton           | 0.472
-  3 | Notre Dame       | 0.462
-  3 | Wisconsin        | 0.454
-  3 | Oregon St.       | 0.398
-  3 | Saint Joseph's   | 0.372
-  3 | Hawaii           | 0.313
-  3 | UNI              | 0.303
-  3 | South Dakota St. | 0.227
-  3 | Temple           | 0.202
-  3 | SFA              | 0.192
-  3 | Weber St.        | 0.125
-  3 | CSU Bakersfield  | 0.120
-  3 | Green Bay        | 0.114
-  3 | UNC Asheville    | 0.076
-  3 | Middle Tenn.     | 0.053
-  3 | Holy Cross       | 0.029
-  4 | North Carolina   | 0.814
-  4 | Michigan St.     | 0.786
-  4 | Virginia         | 0.761
-  4 | Kansas           | 0.724
-  4 | Duke             | 0.707
-  4 | Iowa St.         | 0.660
-  4 | Oklahoma         | 0.651
-  4 | Villanova        | 0.636
-  4 | West Virginia    | 0.622
-  4 | Texas A&M        | 0.595
-  4 | Oregon           | 0.587
-  4 | Xavier           | 0.550
-  4 | Kentucky         | 0.548
-  4 | Gonzaga          | 0.542
-  4 | Miami (FL)       | 0.541
-  4 | Wichita St.      | 0.459
-  4 | Maryland         | 0.459
-  4 | Utah             | 0.458
-  4 | Indiana          | 0.452
-  4 | California       | 0.362
-  4 | Little Rock      | 0.340
-  4 | Iowa             | 0.317
-  4 | Texas            | 0.300
-  4 | Yale             | 0.293
-  4 | Cincinnati       | 0.287
-  4 | UConn            | 0.276
-  4 | Pittsburgh       | 0.243
-  4 | Butler           | 0.239
-  4 | VCU              | 0.209
-  4 | Providence       | 0.186
-  4 | Wisconsin        | 0.183
-  4 | Michigan         | 0.165
-  4 | Notre Dame       | 0.128
-  4 | Saint Joseph's   | 0.126
-  4 | Syracuse         | 0.111
-  4 | Hawaii           | 0.109
-  4 | Oregon St.       | 0.107
-  4 | Dayton           | 0.092
-  4 | SFA              | 0.085
-  4 | UNI              | 0.080
-  4 | South Dakota St. | 0.070
-  4 | CSU Bakersfield  | 0.034
-  4 | Temple           | 0.033
-  4 | Green Bay        | 0.025
-  4 | Weber St.        | 0.024
-  4 | UNC Asheville    | 0.014
-  4 | Middle Tenn.     | 0.011
-  4 | Holy Cross       | 0.001
-  5 | Michigan St.     | 0.599
-  5 | Virginia         | 0.561
-  5 | Kansas           | 0.549
-  5 | North Carolina   | 0.466
-  5 | West Virginia    | 0.445
-  5 | Oklahoma         | 0.401
-  5 | Duke             | 0.392
-  5 | Villanova        | 0.390
-  5 | Texas A&M        | 0.322
-  5 | Oregon           | 0.321
-  5 | Kentucky         | 0.280
-  5 | Miami (FL)       | 0.255
-  5 | Xavier           | 0.247
-  5 | Iowa St.         | 0.244
-  5 | Indiana          | 0.211
-  5 | Wichita St.      | 0.198
-  5 | Gonzaga          | 0.180
-  5 | Maryland         | 0.158
-  5 | UConn            | 0.152
-  5 | Iowa             | 0.149
-  5 | Cincinnati       | 0.141
-  5 | Utah             | 0.138
-  5 | Texas            | 0.128
-  5 | California       | 0.113
-  5 | Butler           | 0.113
-  5 | Yale             | 0.100
-  5 | Pittsburgh       | 0.086
-  5 | VCU              | 0.085
-  5 | Little Rock      | 0.081
-  5 | Michigan         | 0.075
-  5 | Wisconsin        | 0.058
-  5 | Notre Dame       | 0.053
-  5 | Saint Joseph's   | 0.046
-  5 | Syracuse         | 0.046
-  5 | Providence       | 0.044
-  5 | Dayton           | 0.035
-  5 | Oregon St.       | 0.034
-  5 | SFA              | 0.033
-  5 | UNI              | 0.020
-  5 | Hawaii           | 0.019
-  5 | South Dakota St. | 0.010
-  5 | CSU Bakersfield  | 0.007
-  5 | Temple           | 0.006
-  5 | Green Bay        | 0.004
-  5 | Weber St.        | 0.003
-  5 | Middle Tenn.     | 0.002
-  5 | UNC Asheville    | 0.002
-  5 | Holy Cross       | 0.000
-  6 | Michigan St.     | 0.391
-  6 | Kansas           | 0.352
-  6 | Virginia         | 0.315
-  6 | North Carolina   | 0.276
-  6 | West Virginia    | 0.260
-  6 | Oklahoma         | 0.246
-  6 | Villanova        | 0.212
-  6 | Duke             | 0.199
-  6 | Texas A&M        | 0.181
-  6 | Oregon           | 0.158
-  6 | Kentucky         | 0.153
-  6 | Miami (FL)       | 0.116
-  6 | Indiana          | 0.106
-  6 | Xavier           | 0.103
-  6 | Iowa St.         | 0.091
-  6 | Wichita St.      | 0.082
-  6 | Gonzaga          | 0.073
-  6 | Maryland         | 0.065
-  6 | Cincinnati       | 0.062
-  6 | UConn            | 0.062
-  6 | Iowa             | 0.061
-  6 | Texas            | 0.057
-  6 | Utah             | 0.051
-  6 | California       | 0.043
-  6 | Butler           | 0.035
-  6 | VCU              | 0.034
-  6 | Yale             | 0.031
-  6 | Pittsburgh       | 0.027
-  6 | Michigan         | 0.024
-  6 | Little Rock      | 0.020
-  6 | Wisconsin        | 0.016
-  6 | Saint Joseph's   | 0.015
-  6 | Notre Dame       | 0.015
-  6 | Syracuse         | 0.014
-  6 | Providence       | 0.012
-  6 | Dayton           | 0.010
-  6 | Oregon St.       | 0.010
-  6 | SFA              | 0.008
-  6 | UNI              | 0.005
-  6 | Hawaii           | 0.004
-  6 | South Dakota St. | 0.002
-  6 | Temple           | 0.001
-  6 | Green Bay        | 0.001
-  6 | CSU Bakersfield  | 0.001
-  6 | Holy Cross       | 0.000
-  6 | Weber St.        | 0.000
-  6 | UNC Asheville    | 0.000
-  6 | Middle Tenn.     | 0.000
-  7 | Michigan St.     | 0.250
-  7 | Kansas           | 0.243
-  7 | Virginia         | 0.185
-  7 | North Carolina   | 0.140
-  7 | West Virginia    | 0.140
-  7 | Villanova        | 0.133
-  7 | Oklahoma         | 0.120
-  7 | Duke             | 0.084
-  7 | Texas A&M        | 0.080
-  7 | Kentucky         | 0.070
-  7 | Oregon           | 0.064
-  7 | Miami (FL)       | 0.062
-  7 | Indiana          | 0.044
-  7 | Wichita St.      | 0.041
-  7 | Xavier           | 0.039
-  7 | Iowa St.         | 0.036
-  7 | Maryland         | 0.031
-  7 | Iowa             | 0.030
-  7 | UConn            | 0.029
-  7 | Gonzaga          | 0.028
-  7 | Cincinnati       | 0.022
-  7 | California       | 0.019
-  7 | Texas            | 0.019
-  7 | Utah             | 0.017
-  7 | Butler           | 0.011
-  7 | VCU              | 0.010
-  7 | Pittsburgh       | 0.008
-  7 | Michigan         | 0.007
-  7 | Yale             | 0.007
-  7 | Little Rock      | 0.005
-  7 | Saint Joseph's   | 0.004
-  7 | Wisconsin        | 0.004
-  7 | Notre Dame       | 0.004
-  7 | Syracuse         | 0.004
-  7 | Dayton           | 0.003
-  7 | Oregon St.       | 0.002
-  7 | SFA              | 0.002
-  7 | Providence       | 0.002
-  7 | UNI              | 0.001
-  7 | Hawaii           | 0.001
-  7 | Temple           | 0.000
-  7 | Holy Cross       | 0.000
-  7 | Middle Tenn.     | 0.000
-  7 | UNC Asheville    | 0.000
-  7 | Green Bay        | 0.000
-  7 | CSU Bakersfield  | 0.000
-  7 | South Dakota St. | 0.000
-  7 | Weber St.        | 0.000
-  8 | Michigan St.     | 0.162
-  8 | Kansas           | 0.139
-  8 | Virginia         | 0.110
-  8 | West Virginia    | 0.083
-  8 | North Carolina   | 0.078
-  8 | Villanova        | 0.068
-  8 | Oklahoma         | 0.055
-  8 | Kentucky         | 0.036
-  8 | Texas A&M        | 0.033
-  8 | Duke             | 0.033
-  8 | Miami (FL)       | 0.026
-  8 | Oregon           | 0.024
-  8 | Indiana          | 0.020
-  8 | Xavier           | 0.017
-  8 | Wichita St.      | 0.015
-  8 | Iowa St.         | 0.014
-  8 | Gonzaga          | 0.011
-  8 | Iowa             | 0.011
-  8 | Maryland         | 0.011
-  8 | UConn            | 0.010
-  8 | Cincinnati       | 0.007
-  8 | Utah             | 0.006
-  8 | California       | 0.006
-  8 | Texas            | 0.006
-  8 | Butler           | 0.004
-  8 | VCU              | 0.003
-  8 | Pittsburgh       | 0.003
-  8 | Yale             | 0.002
-  8 | Michigan         | 0.002
-  8 | Little Rock      | 0.001
-  8 | SFA              | 0.001
-  8 | Syracuse         | 0.001
-  8 | Notre Dame       | 0.001
-  8 | Dayton           | 0.001
-  8 | Wisconsin        | 0.001
-  8 | Providence       | 0.001
-  8 | Saint Joseph's   | 0.001
-  8 | Middle Tenn.     | 0.000
-  8 | UNI              | 0.000
-  8 | Hawaii           | 0.000
-  8 | South Dakota St. | 0.000
-  8 | Oregon St.       | 0.000
-  8 | Green Bay        | 0.000
-  8 | CSU Bakersfield  | 0.000
-  8 | Temple           | 0.000
-  8 | Weber St.        | 0.000
-  8 | Holy Cross       | 0.000
-  8 | UNC Asheville    | 0.000
-(272 rows)
+ rd |      name      |   p   
+----+----------------+-------
+  5 | Kansas         | 0.719
+  5 | Virginia       | 0.697
+  5 | Gonzaga        | 0.608
+  5 | North Carolina | 0.598
+  5 | Villanova      | 0.595
+  5 | Oklahoma       | 0.551
+  5 | Duke           | 0.514
+  5 | Notre Dame     | 0.506
+  5 | Wisconsin      | 0.494
+  5 | Oregon         | 0.486
+  5 | Texas A&M      | 0.449
+  5 | Miami (FL)     | 0.405
+  5 | Indiana        | 0.402
+  5 | Syracuse       | 0.392
+  5 | Iowa St.       | 0.303
+  5 | Maryland       | 0.281
+  6 | Virginia       | 0.513
+  6 | North Carolina | 0.455
+  6 | Kansas         | 0.436
+  6 | Oklahoma       | 0.318
+  6 | Villanova      | 0.295
+  6 | Indiana        | 0.274
+  6 | Texas A&M      | 0.237
+  6 | Duke           | 0.232
+  6 | Gonzaga        | 0.216
+  6 | Oregon         | 0.213
+  6 | Iowa St.       | 0.167
+  6 | Miami (FL)     | 0.163
+  6 | Notre Dame     | 0.138
+  6 | Wisconsin      | 0.133
+  6 | Maryland       | 0.106
+  6 | Syracuse       | 0.104
+  7 | Virginia       | 0.326
+  7 | Kansas         | 0.289
+  7 | North Carolina | 0.258
+  7 | Villanova      | 0.176
+  7 | Oklahoma       | 0.144
+  7 | Indiana        | 0.130
+  7 | Texas A&M      | 0.095
+  7 | Gonzaga        | 0.094
+  7 | Duke           | 0.089
+  7 | Miami (FL)     | 0.082
+  7 | Oregon         | 0.079
+  7 | Iowa St.       | 0.074
+  7 | Maryland       | 0.046
+  7 | Notre Dame     | 0.042
+  7 | Wisconsin      | 0.040
+  7 | Syracuse       | 0.035
+  8 | Virginia       | 0.186
+  8 | Kansas         | 0.181
+  8 | North Carolina | 0.137
+  8 | Villanova      | 0.099
+  8 | Oklahoma       | 0.074
+  8 | Indiana        | 0.056
+  8 | Texas A&M      | 0.044
+  8 | Duke           | 0.040
+  8 | Miami (FL)     | 0.039
+  8 | Gonzaga        | 0.034
+  8 | Oregon         | 0.034
+  8 | Iowa St.       | 0.027
+  8 | Maryland       | 0.019
+  8 | Wisconsin      | 0.011
+  8 | Notre Dame     | 0.011
+  8 | Syracuse       | 0.009
+(64 rows)
 
-COPY 272
+COPY 64
 COMMIT
