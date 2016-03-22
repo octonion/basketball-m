@@ -63,6 +63,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Sam Houston St.",624,03/11/2016,79,76,Neutral,"Katy, Texas (Merrell Center)",-,"3,019"
 2016,A&M-Corpus Christi,26172,"%
                   SFA",676,03/12/2016,60,82,Neutral,"Katy, Texas (Merrell Center)",-,"4,399"
+2016,A&M-Corpus Christi,26172,"%
+                  La.-Lafayette",671,03/16/2016,72,96,Away,"",-,"1,205"
 2016,Abilene Christian,2,"%
                   Southwest (NM)",,11/13/2015,94,63,Home,"",-,"1,150"
 2016,Abilene Christian,2,"%
@@ -473,6 +475,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Bowling Green",71,03/11/2016,80,66,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
 2016,Akron,5,"%
                   Buffalo",86,03/12/2016,61,64,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"6,719"
+2016,Akron,5,"%
+                  Ohio St.",518,03/15/2016,63,72,Away,"",1 OT,"4,698"
 2016,Ala.-Huntsville,10,"%
                   Tampa",689,11/13/2015,82,61,Neutral,"Saint Leo, Fla. -- Bowman Center",-,0
 2016,Ala.-Huntsville,10,"%
@@ -536,7 +540,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ala.-Huntsville,10,"%
                   Saint Leo",608,03/12/2016,98,81,Home,"",-,"2,034"
 2016,Ala.-Huntsville,10,"%
-                  Stillman",680,03/13/2016,0,0,Home,"",-,0
+                  Stillman",680,03/13/2016,81,71,Home,"",-,"2,034"
+2016,Ala.-Huntsville,10,"%
+                  Barry",49,03/15/2016,83,87,Home,"",-,"2,509"
 2016,Alabama,8,"%
                   Kennesaw St.",1157,11/13/2015,77,64,Home,"",-,"14,970"
 2016,Alabama,8,"%
@@ -601,6 +607,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Ole Miss",433,03/10/2016,81,73,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,0
 2016,Alabama,8,"%
                   Kentucky",334,03/11/2016,59,85,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"18,049"
+2016,Alabama,8,"%
+                  Creighton",169,03/15/2016,54,72,Away,"",-,"6,305"
 2016,Alabama A&M,6,"%
                   Tulane",718,11/13/2015,68,67,Away,"",1 OT,"1,126"
 2016,Alabama A&M,6,"%
@@ -909,6 +917,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Hartford",272,02/27/2016,75,59,Home,"",-,"4,408"
 2016,Albany (NY),14,"%
                   Hartford",272,03/02/2016,59,68,Home,"",-,"2,535"
+2016,Albany (NY),14,"%
+                  Ohio",519,03/16/2016,90,94,Away,"",1 OT,"3,034"
 2016,Albany St. (GA),13,"%
                   Georgia College",1096,11/20/2015,56,55,Away,"",-,721
 2016,Albany St. (GA),13,"%
@@ -1672,7 +1682,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Amherst,24,"%
                   Tufts",717,03/12/2016,86,73,Away,"",-,"1,350"
 2016,Amherst,24,"%
-                  Benedictine (IL)",296,03/18/2016,0,0,Neutral,"Salem, VA",-,0
+                  Benedictine (IL)",296,03/18/2016,60,63,Neutral,"Salem Civic Center - Salem, VA",-,"2,037"
 2016,Anderson (IN),939,"%
                   UC Clermont",,11/14/2015,100,77,Home,"",-,437
 2016,Anderson (IN),939,"%
@@ -1840,7 +1850,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Angelo St.,25,"%
                   Ark.-Fort Smith",30105,03/12/2016,92,85,Neutral,"Wichita Falls, Texas",-,"2,103"
 2016,Angelo St.,25,"%
-                  Fort Lewis",1083,03/13/2016,0,0,Neutral,"Wichita Falls, TX",-,0
+                  Fort Lewis",1083,03/13/2016,87,66,Neutral,"Wichita Falls, Texas",-,609
+2016,Angelo St.,25,"%
+                  Tarleton St.",1395,03/15/2016,72,77,Neutral,"Wichita Falls, Texas",-,"1,419"
 2016,Anna Maria,26,"%
                   Bridgewater St.",76,11/13/2015,76,67,Neutral,"Babson Park, Mass.",-,125
 2016,Anna Maria,26,"%
@@ -2081,6 +2093,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Colorado",157,03/10/2016,82,78,Neutral,"MGM Grand Garden Arena (Las Vegas, Nev.)",-,"12,916"
 2016,Arizona,29,"%
                   Oregon",529,03/11/2016,89,95,Neutral,"MGM Grand Garden Arena, Las Vegas, Nev.",1 OT,"12,916"
+2016,Arizona,29,"%
+                  Wichita St.",782,03/17/2016,55,65,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,559"
 2016,Arizona St.,28,"%
                   Sacramento St.",102,11/13/2015,63,66,Home,"",-,"5,275"
 2016,Arizona St.,28,"%
@@ -2633,6 +2647,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Colgate",153,03/03/2016,79,72,Home,"",-,482
 2016,Army West Point,725,"%
                   Holy Cross",285,03/06/2016,38,60,Home,"",-,"1,107"
+2016,Army West Point,725,"%
+                  NJIT",471,03/16/2016,65,79,Away,"",-,855
 2016,Ashland,35,"%
                   Missouri S&T",435,11/13/2015,82,73,Home,"",-,286
 2016,Ashland,35,"%
@@ -3044,7 +3060,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Augustana (SD),41,"%
                   Harding",1116,03/12/2016,100,85,Home,"",-,"2,971"
 2016,Augustana (SD),41,"%
-                  Neb.-Kearney",1156,03/13/2016,0,0,Home,"",-,0
+                  Neb.-Kearney",1156,03/13/2016,77,67,Home,"",-,"2,751"
+2016,Augustana (SD),41,"%
+                  Northwest Mo. St.",507,03/15/2016,80,78,Home,"",-,"3,221"
+2016,Augustana (SD),41,"%
+                  Tarleton St.",1395,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,AUM,30093,"%
                   South Ala.",646,11/13/2015,68,88,Away,"",-,"2,398"
 2016,AUM,30093,"%
@@ -3231,6 +3251,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Belmont",14927,03/04/2016,97,96,Neutral,"Nashville, Tenn. (Municipal Auditorium)",1 OT,"2,167"
 2016,Austin Peay,43,"%
                   UT Martin",695,03/05/2016,83,73,Neutral,"Nashville, Tenn. (Municipal Auditorium)",-,"2,068"
+2016,Austin Peay,43,"%
+                  Kansas",328,03/17/2016,79,105,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,628"
 2016,Averett,44,"%
                   Hampden-Sydney",269,11/17/2015,71,59,Away,"",-,307
 2016,Averett,44,"%
@@ -3523,6 +3545,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Northern Ill.",503,03/04/2016,69,80,Away,"",-,"2,102"
 2016,Ball St.,47,"%
                   Miami (OH)",414,03/07/2016,47,49,Home,"",-,"2,245"
+2016,Ball St.,47,"%
+                  Tennessee St.",691,03/15/2016,78,73,Away,"",2 OT,"1,013"
+2016,Ball St.,47,"%
+                  UT Martin",695,03/20/2016,83,80,Home,"",1 OT,"1,203"
+2016,Ball St.,47,"%
+                  Columbia",158,03/23/2016,0,0,Away,"",-,0
 2016,Bard,962,"%
                   Albany Pharmacy",,11/20/2015,75,58,Home,"",-,180
 2016,Bard,962,"%
@@ -3634,7 +3662,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Barry,49,"%
                   Rollins",584,03/12/2016,107,92,Neutral,"Huntsville, AL",-,111
 2016,Barry,49,"%
-                  Union (TN)",30153,03/13/2016,74,65,Neutral,"Huntsville, Ala.",-,249
+                  Union (TN)",30153,03/13/2016,74,65,Neutral,"Huntsville, AL",-,249
+2016,Barry,49,"%
+                  Ala.-Huntsville",10,03/15/2016,87,83,Away,"",-,"2,509"
+2016,Barry,49,"%
+                  Lincoln Memorial",1176,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,Barton,15646,"%
                   Young Harris",30154,11/13/2015,91,86,Home,"",-,847
 2016,Barton,15646,"%
@@ -3873,6 +3905,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Texas",703,03/10/2016,75,61,Neutral,"Kansas City, Mo. (Sprint Center)",-,0
 2016,Baylor,51,"%
                   Kansas",328,03/11/2016,66,70,Neutral,"Kansas City, Mo. (Sprint Center)",-,0
+2016,Baylor,51,"%
+                  Yale",813,03/17/2016,75,79,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,656"
 2016,Becker,26107,"%
                   Nichols",484,11/13/2015,85,105,Away,"",-,301
 2016,Becker,26107,"%
@@ -4051,6 +4085,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Tennessee St.",691,02/28/2016,72,87,Away,"",-,"6,845"
 2016,Belmont,14927,"%
                   Austin Peay",43,03/04/2016,96,97,Neutral,"Nashville, Tenn. (Municipal Auditorium)",1 OT,"2,167"
+2016,Belmont,14927,"%
+                  Georgia",257,03/16/2016,84,93,Away,"",-,"2,965"
 2016,Belmont Abbey,2683,"%
                   Mars Hill",1199,11/13/2015,81,77,Home,"",-,700
 2016,Belmont Abbey,2683,"%
@@ -4324,7 +4360,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Benedictine (IL),296,"%
                   Alma",21,03/12/2016,93,73,Home,"",-,"1,514"
 2016,Benedictine (IL),296,"%
-                  Amherst",24,03/18/2016,0,0,Neutral,"Salem, VA",-,0
+                  Amherst",24,03/18/2016,63,60,Neutral,"Salem Civic Center - Salem, VA",-,"2,037"
+2016,Benedictine (IL),296,"%
+                  St. Thomas (MN)",620,03/19/2016,76,82,Neutral,"Salem Civic Center - Salem, VA",-,"2,708"
 2016,Bentley,56,"%
                   Concordia (NY)",162,11/13/2015,102,76,Home,"",-,519
 2016,Bentley,56,"%
@@ -5297,6 +5335,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Holy Cross",285,02/27/2016,83,68,Home,"",-,"1,237"
 2016,Boston U.,68,"%
                   American",23,03/03/2016,64,69,Home,"",-,731
+2016,Boston U.,68,"%
+                  Fordham",236,03/16/2016,69,66,Away,"",-,"1,264"
+2016,Boston U.,68,"%
+                  NJIT",471,03/21/2016,72,83,Away,"",-,"1,134"
 2016,Bowdoin,69,"%
                   Western Conn. St.",770,11/20/2015,77,94,Neutral,"Bristol, R.I. (Campus Rec Center)",-,70
 2016,Bowdoin,69,"%
@@ -6135,6 +6177,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Navy",726,02/27/2016,77,73,Away,"",-,"2,909"
 2016,Bucknell,83,"%
                   Holy Cross",285,03/03/2016,72,77,Home,"",2 OT,"2,700"
+2016,Bucknell,83,"%
+                  Monmouth",439,03/16/2016,80,90,Away,"",-,"2,661"
+2016,Bucknell,83,"%
+                  Florida",235,03/23/2016,0,0,Home,"",-,0
 2016,Buena Vista,84,"%
                   Neb. Wesleyan",462,11/15/2015,104,109,Home,"",-,0
 2016,Buena Vista,84,"%
@@ -6257,6 +6303,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Ohio",519,03/11/2016,88,74,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"6,427"
 2016,Buffalo,86,"%
                   Akron",5,03/12/2016,64,61,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"6,719"
+2016,Buffalo,86,"%
+                  Miami (FL)",415,03/17/2016,72,79,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,0
 2016,Buffalo St.,85,"%
                   Point Park",,11/14/2015,89,91,Home,"",-,350
 2016,Buffalo St.,85,"%
@@ -6371,6 +6419,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Marquette",387,03/05/2016,95,74,Home,"",-,"9,244"
 2016,Butler,87,"%
                   Providence",556,03/10/2016,60,74,Neutral,Madison Square Garden,-,"14,863"
+2016,Butler,87,"%
+                  Texas Tech",700,03/17/2016,71,61,Neutral,"Raleigh, NC",-,0
+2016,Butler,87,"%
+                  Virginia",746,03/19/2016,69,77,Neutral,"Raleigh, NC",-,0
 2016,BYU,77,"%
                   Utah Valley",30024,11/13/2015,85,54,Home,"",-,"17,683"
 2016,BYU,77,"%
@@ -6437,6 +6489,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Santa Clara",631,03/05/2016,72,60,Neutral,"The Orleans Arena (Las Vegas, NV)",-,0
 2016,BYU,77,"%
                   Gonzaga",260,03/07/2016,84,88,Neutral,"The Orleans Arena (Las Vegas, NV)",-,"8,362"
+2016,BYU,77,"%
+                  UAB",9,03/16/2016,97,79,Home,"",-,"8,420"
+2016,BYU,77,"%
+                  Virginia Tech",742,03/18/2016,80,77,Home,"",-,"12,379"
+2016,BYU,77,"%
+                  Creighton",169,03/22/2016,0,0,Home,"",-,0
 2016,BYU-Hawaii,2685,"%
                   Western Wash.",1448,11/18/2015,93,80,Away,"",-,523
 2016,BYU-Hawaii,2685,"%
@@ -8653,6 +8711,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Western Mich.",774,03/04/2016,82,91,Home,"",1 OT,"3,292"
 2016,Central Mich.,129,"%
                   Bowling Green",71,03/10/2016,59,62,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"2,217"
+2016,Central Mich.,129,"%
+                  UT Martin",695,03/16/2016,73,76,Home,"",-,832
 2016,Central Mo.,130,"%
                   Minn. Duluth",427,11/13/2015,78,60,Home,"",-,"1,837"
 2016,Central Mo.,130,"%
@@ -9397,6 +9457,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Western Caro.",769,03/06/2016,73,69,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,0
 2016,Chattanooga,693,"%
                   ETSU",198,03/07/2016,73,67,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,"3,058"
+2016,Chattanooga,693,"%
+                  Indiana",306,03/17/2016,74,99,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,774"
 2016,Chestnut Hill,21323,"%
                   Dist. Columbia",186,11/14/2015,93,86,Neutral,"Gallagher Center (Philadelphia, Pa.)",-,203
 2016,Chestnut Hill,21323,"%
@@ -9798,7 +9860,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chris. Newport,139,"%
                   Wooster",807,03/12/2016,81,61,Neutral,"Oswego, N.Y. (Max Ziel Gymnasium)",-,196
 2016,Chris. Newport,139,"%
-                  St. Thomas (MN)",620,03/18/2016,0,0,Neutral,"Salem, VA",-,0
+                  St. Thomas (MN)",620,03/18/2016,62,66,Neutral,"Salem, Va. (Salem Civic Center)",-,"2,265"
 2016,Christian Bros.,1015,"%
                   Stillman",680,11/13/2015,72,90,Away,"",-,530
 2016,Christian Bros.,1015,"%
@@ -9921,6 +9983,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   SMU",663,03/06/2016,61,54,Home,"",-,"13,176"
 2016,Cincinnati,140,"%
                   UConn",164,03/11/2016,97,104,Neutral,"Orlando, Fla. - Amway Center",4 OT,"7,475"
+2016,Cincinnati,140,"%
+                  Saint Joseph's",606,03/18/2016,76,78,Neutral,"Spokane Arena, Spokane, Wash.",-,"11,274"
 2016,Claflin,30058,"%
                   Millersville",423,11/14/2015,66,65,Away,"",-,395
 2016,Claflin,30058,"%
@@ -10531,6 +10595,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UNC Asheville",456,02/27/2016,81,79,Away,"",-,"3,269"
 2016,Coastal Caro.,149,"%
                   Gardner-Webb",1092,03/04/2016,65,69,Neutral,"Buies Creek, NC (Pope Center/Gore Arena)",-,"2,035"
+2016,Coastal Caro.,149,"%
+                  Mercer",406,03/15/2016,65,57,Home,"",-,940
+2016,Coastal Caro.,149,"%
+                  New Hampshire",469,03/19/2016,71,62,Home,"",-,847
+2016,Coastal Caro.,149,"%
+                  Grand Canyon",1104,03/23/2016,0,0,Home,"",-,0
 2016,Cobleskill St.,30083,"%
                   Rensselaer",570,11/15/2015,46,75,Home,"",-,169
 2016,Cobleskill St.,30083,"%
@@ -11035,6 +11105,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Washington St.",754,03/09/2016,80,56,Neutral,"MGM Grand Garden Arena (Las Vegas, NV)",-,"12,916"
 2016,Colorado,157,"%
                   Arizona",29,03/10/2016,78,82,Neutral,"MGM Grand Garden Arena (Las Vegas, Nev.)",-,"12,916"
+2016,Colorado,157,"%
+                  UConn",164,03/17/2016,67,74,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,628"
 2016,Colorado Col.,154,"%
                   Grinnell",264,11/22/2015,90,105,Away,"",-,326
 2016,Colorado Col.,154,"%
@@ -11401,6 +11473,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Brown",80,03/04/2016,66,63,Home,"",-,"1,937"
 2016,Columbia,158,"%
                   Yale",813,03/05/2016,55,71,Home,"",-,"2,720"
+2016,Columbia,158,"%
+                  Norfolk St.",485,03/16/2016,86,54,Home,"",-,"1,037"
+2016,Columbia,158,"%
+                  Ball St.",47,03/23/2016,0,0,Home,"",-,0
 2016,Columbus St.,159,"%
                   Middle Ga. St.",,11/14/2015,91,72,Home,"",-,273
 2016,Columbus St.,159,"%
@@ -12287,6 +12363,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Xavier",812,03/05/2016,93,98,Away,"",-,"10,633"
 2016,Creighton,169,"%
                   Seton Hall",635,03/10/2016,73,81,Neutral,Madison Square Garden,-,"13,813"
+2016,Creighton,169,"%
+                  Alabama",8,03/15/2016,72,54,Home,"",-,"6,305"
+2016,Creighton,169,"%
+                  Wagner",748,03/19/2016,87,54,Home,"",-,"6,471"
+2016,Creighton,169,"%
+                  BYU",77,03/22/2016,0,0,Away,"",-,0
 2016,Crown (MN),30035,"%
                   Bemidji St.",54,11/14/2015,48,86,Away,"",-,436
 2016,Crown (MN),30035,"%
@@ -12405,6 +12487,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Seattle",1356,03/11/2016,72,47,Neutral,"Las Vegas, NC (Orleans Arena)",-,"1,729"
 2016,CSU Bakersfield,94,"%
                   New Mexico St.",472,03/12/2016,57,54,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,"1,673"
+2016,CSU Bakersfield,94,"%
+                  Oklahoma",522,03/18/2016,68,82,Neutral,Chesapeake Arena-Oklahoma City,-,"15,662"
 2016,CSUN,101,"%
                   Northern Ill.",503,11/13/2015,71,83,Away,"",-,995
 2016,CSUN,101,"%
@@ -12959,6 +13043,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   St. Bonaventure",596,03/11/2016,90,86,Neutral,"Brooklyn, N.Y. (Barclays Center)",1 OT,"8,223"
 2016,Davidson,173,"%
                   VCU",740,03/12/2016,54,76,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"10,439"
+2016,Davidson,173,"%
+                  Florida St.",234,03/15/2016,74,84,Away,"",-,"2,496"
 2016,Davis & Elkins,174,"%
                   Malone",30137,11/13/2015,105,108,Neutral,"Callan Athletic Center; Cedarville, OH",1 OT,448
 2016,Davis & Elkins,174,"%
@@ -13081,6 +13167,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Richmond",575,03/11/2016,69,54,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,0
 2016,Dayton,175,"%
                   Saint Joseph's",606,03/12/2016,79,82,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,0
+2016,Dayton,175,"%
+                  Syracuse",688,03/18/2016,51,70,Neutral,"Scottrade Center, St. Louis, Missouri",-,0
 2016,Defiance,1050,"%
                   Wabash",747,11/20/2015,76,59,Neutral,"Lee Pfund Classic - Wheaton, Ill.",-,127
 2016,Defiance,1050,"%
@@ -14449,6 +14537,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   North Carolina St.",490,03/09/2016,92,89,Neutral,"Verizon Center, Washington, DC",-,"18,561"
 2016,Duke,193,"%
                   Notre Dame",513,03/10/2016,79,84,Neutral,"Verizon Center, Washington, DC",1 OT,"18,561"
+2016,Duke,193,"%
+                  UNCW",460,03/17/2016,93,85,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,0
+2016,Duke,193,"%
+                  Yale",813,03/19/2016,71,64,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,679"
+2016,Duke,193,"%
+                  Oregon",529,03/24/2016,0,0,Neutral,Anaheim,-,0
 2016,Duquesne,194,"%
                   Seton Hill",30063,11/13/2015,96,71,Home,"",-,943
 2016,Duquesne,194,"%
@@ -14513,6 +14607,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Saint Joseph's",606,03/05/2016,78,70,Away,"",-,"4,200"
 2016,Duquesne,194,"%
                   La Salle",340,03/09/2016,73,88,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"5,523"
+2016,Duquesne,194,"%
+                  Omaha",464,03/16/2016,120,112,Home,"",-,609
+2016,Duquesne,194,"%
+                  Morehead St.",444,03/21/2016,72,82,Away,"",-,"1,387"
 2016,Earlham,195,"%
                   DePauw",177,11/24/2015,74,80,Home,"",-,275
 2016,Earlham,195,"%
@@ -15307,6 +15405,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Northern Ariz.",501,03/08/2016,74,52,Neutral,"Reno, Nev. (Reno Events Center)",-,"1,723"
 2016,Eastern Wash.,207,"%
                   Idaho",295,03/10/2016,73,77,Neutral,"Reno, Nev. (Reno Events Center)",-,"2,365"
+2016,Eastern Wash.,207,"%
+                  Pepperdine",541,03/16/2016,79,72,Home,"",-,"1,518"
+2016,Eastern Wash.,207,"%
+                  Nevada",466,03/21/2016,70,85,Away,"",-,"6,053"
 2016,Eckerd,208,"%
                   Delta St.",181,11/13/2015,77,87,Neutral,"Livingston, AL",-,224
 2016,Eckerd,208,"%
@@ -15959,6 +16061,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Columbia Int'l",,03/11/2016,94,52,Home,"",-,181
 2016,Emmanuel (GA),30193,"%
                   Carver",,03/12/2016,99,69,Home,"",-,91
+2016,Emmanuel (GA),30193,"%
+                  Cent. Christian (KS)",,03/16/2016,76,47,Neutral,"MOCC Winona Lake, IN",-,0
+2016,Emmanuel (GA),30193,"%
+                  Grace (IN)",,03/17/2016,83,61,Away,"",-,0
+2016,Emmanuel (GA),30193,"%
+                  Southwestern Christ.",,03/19/2016,75,68,Neutral,"MOCC Winona Lake, IN",-,0
 2016,Emmanuel (MA),215,"%
                   Emerson",214,11/13/2015,64,76,Neutral,"Weston, Mass. - Higgins Court",-,167
 2016,Emmanuel (MA),215,"%
@@ -16547,6 +16655,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Saint Peter's",617,03/05/2016,64,55,Neutral,"Albany, N.Y. (Times Union Center)",-,"6,987"
 2016,Fairfield,220,"%
                   Monmouth",439,03/06/2016,63,76,Neutral,"Albany, N.Y. (Times Union Center)",-,0
+2016,Fairfield,220,"%
+                  New Hampshire",469,03/16/2016,62,77,Home,"",-,"1,145"
 2016,Fairleigh Dickinson,222,"%
                   Villanova",739,11/13/2015,54,91,Away,"",-,"6,500"
 2016,Fairleigh Dickinson,222,"%
@@ -16611,6 +16721,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Mt. St. Mary's",450,03/05/2016,80,75,Home,"",-,"1,562"
 2016,Fairleigh Dickinson,222,"%
                   Wagner",748,03/08/2016,87,79,Away,"",-,"2,358"
+2016,Fairleigh Dickinson,222,"%
+                  FGCU",28755,03/15/2016,65,96,Neutral,"University of Dayton Arena, Dayton, Ohio",-,0
 2016,Fairmont St.,1076,"%
                   Lincoln (PA)",357,11/13/2015,98,73,Home,"",-,641
 2016,Fairmont St.,1076,"%
@@ -16950,7 +17062,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ferris St.,224,"%
                   Bellarmine",52,03/12/2016,100,84,Neutral,"Somers, WI (DeSimone Gymnasium)",-,306
 2016,Ferris St.,224,"%
-                  UIndy",309,03/13/2016,0,0,Neutral,"Somers, WI",-,0
+                  UIndy",309,03/13/2016,89,87,Neutral,"Somers, WI (DeSimone Gymnasium)",-,416
+2016,Ferris St.,224,"%
+                  Saginaw Valley",591,03/15/2016,61,63,Neutral,"Somers, WI (DeSimone Gymnasium)",-,120
 2016,Ferrum,225,"%
                   East. Mennonite",203,11/17/2015,69,65,Home,"",-,655
 2016,Ferrum,225,"%
@@ -17069,6 +17183,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   North Florida",2711,03/03/2016,89,56,Away,"",-,"4,305"
 2016,FGCU,28755,"%
                   Stetson",678,03/06/2016,80,78,Home,"",1 OT,"4,670"
+2016,FGCU,28755,"%
+                  Fairleigh Dickinson",222,03/15/2016,96,65,Neutral,"University of Dayton Arena, Dayton, Ohio",-,0
+2016,FGCU,28755,"%
+                  North Carolina",457,03/17/2016,67,83,Neutral,"Raleigh, NC",-,"17,387"
 2016,Findlay,1079,"%
                   Southern Ind.",661,11/13/2015,80,88,Neutral,"Las Vegas, Nev.",-,0
 2016,Findlay,1079,"%
@@ -17539,6 +17657,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Arkansas",31,03/10/2016,68,61,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,0
 2016,Florida,235,"%
                   Texas A&M",697,03/11/2016,66,72,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"15,227"
+2016,Florida,235,"%
+                  North Florida",2711,03/15/2016,97,68,Away,"",-,"6,011"
+2016,Florida,235,"%
+                  Ohio St.",518,03/20/2016,74,66,Away,"",-,"8,185"
+2016,Florida,235,"%
+                  Bucknell",83,03/23/2016,0,0,Away,"",-,0
 2016,Florida A&M,228,"%
                   Johnson (FL)",,11/13/2015,103,71,Home,"",-,893
 2016,Florida A&M,228,"%
@@ -17661,6 +17785,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Boston College",67,03/08/2016,88,66,Neutral,"Verizon Center, Washington, DC",-,"7,302"
 2016,Florida St.,234,"%
                   Virginia Tech",742,03/09/2016,85,96,Neutral,"Verizon Center, Washington, DC",-,"18,561"
+2016,Florida St.,234,"%
+                  Davidson",173,03/15/2016,84,74,Home,"",-,"2,496"
+2016,Florida St.,234,"%
+                  Valparaiso",735,03/17/2016,69,81,Away,"",-,"4,991"
 2016,Florida Tech,230,"%
                   Clark Atlanta",144,11/13/2015,94,88,Home,"",-,683
 2016,Florida Tech,230,"%
@@ -17829,6 +17957,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Rhode Island",572,03/05/2016,64,61,Home,"",-,"3,200"
 2016,Fordham,236,"%
                   Richmond",575,03/10/2016,55,70,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,0
+2016,Fordham,236,"%
+                  Boston U.",68,03/16/2016,66,69,Home,"",-,"1,264"
 2016,Fort Hays St.,9011,"%
                   Southwest Minn. St.",8736,11/14/2015,76,75,Home,"",-,"1,905"
 2016,Fort Hays St.,9011,"%
@@ -17954,7 +18084,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fort Lewis,1083,"%
                   Dallas Baptist",1045,03/12/2016,95,87,Neutral,"Wichita Falls, Texas",-,"2,103"
 2016,Fort Lewis,1083,"%
-                  Angelo St.",25,03/13/2016,0,0,Neutral,"Wichita Falls, TX",-,0
+                  Angelo St.",25,03/13/2016,66,87,Neutral,"Wichita Falls, Texas",-,609
 2016,Fort Valley St.,237,"%
                   Valdosta St.",734,11/13/2015,65,72,Away,"",-,484
 2016,Fort Valley St.,237,"%
@@ -18501,6 +18631,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Colorado St.",156,03/11/2016,64,56,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,036"
 2016,Fresno St.,96,"%
                   San Diego St.",626,03/12/2016,68,63,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,132"
+2016,Fresno St.,96,"%
+                  Utah",732,03/17/2016,69,80,Neutral,"Denver, Colo. (Pepsi Center)",-,"19,500"
 2016,Frostburg St.,243,"%
                   Mount Aloysius",30036,11/16/2015,86,92,Away,"",1 OT,141
 2016,Frostburg St.,243,"%
@@ -18617,6 +18749,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UNCG",459,03/05/2016,80,64,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,"5,164"
 2016,Furman,244,"%
                   ETSU",198,03/06/2016,76,84,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,"6,019"
+2016,Furman,244,"%
+                  La.-Monroe",498,03/15/2016,58,57,Home,"",-,806
+2016,Furman,244,"%
+                  La.-Lafayette",671,03/19/2016,72,80,Home,"",-,"1,308"
 2016,Ga. Southern,253,"%
                   Webber Int'l",,11/13/2015,116,49,Home,"",-,"2,380"
 2016,Ga. Southern,253,"%
@@ -18678,7 +18814,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ga. Southern,253,"%
                   La.-Lafayette",671,03/05/2016,78,87,Away,"",-,"4,474"
 2016,Ga. Southern,253,"%
-                  South Ala.",646,03/10/2016,61,67,Neutral,Lakefront Arena,-,0
+                  South Ala.",646,03/10/2016,61,67,Neutral,Lakefront Arena,-,703
 2016,Ga. Southwestern,1097,"%
                   Fort Valley St.",237,11/17/2015,89,85,Home,"",-,874
 2016,Ga. Southwestern,1097,"%
@@ -19133,6 +19269,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Saint Louis",609,03/10/2016,73,65,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"6,519"
 2016,George Washington,249,"%
                   Saint Joseph's",606,03/11/2016,80,86,Neutral,"Barclays Center, Brooklyn, N.Y.",-,"7,509"
+2016,George Washington,249,"%
+                  Hofstra",283,03/16/2016,82,80,Home,"",-,"1,083"
+2016,George Washington,249,"%
+                  Monmouth",439,03/21/2016,87,71,Away,"",-,"3,442"
 2016,Georgetown,251,"%
                   Radford",563,11/14/2015,80,82,Home,"",2 OT,"8,187"
 2016,Georgetown,251,"%
@@ -19263,6 +19403,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   South Carolina",648,03/11/2016,65,64,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"18,049"
 2016,Georgia,257,"%
                   Kentucky",334,03/12/2016,80,93,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"19,108"
+2016,Georgia,257,"%
+                  Belmont",14927,03/16/2016,93,84,Home,"",-,"2,965"
+2016,Georgia,257,"%
+                  St. Mary's (CA)",610,03/20/2016,65,77,Away,"",-,"2,050"
 2016,Georgia College,1096,"%
                   Emmanuel (GA)",30193,11/13/2015,76,72,Neutral,"Memorial Hall - Dahlonega, Ga.",-,387
 2016,Georgia College,1096,"%
@@ -19447,6 +19591,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Clemson",147,03/09/2016,88,85,Neutral,"Verizon Center, Washington, DC",1 OT,"18,561"
 2016,Georgia Tech,255,"%
                   Virginia",746,03/10/2016,52,72,Neutral,"Verizon Center, Washington, DC",-,"20,719"
+2016,Georgia Tech,255,"%
+                  Houston",288,03/16/2016,81,62,Home,"",-,"2,932"
+2016,Georgia Tech,255,"%
+                  South Carolina",648,03/21/2016,83,66,Away,"",-,"2,856"
+2016,Georgia Tech,255,"%
+                  San Diego St.",626,03/23/2016,0,0,Away,"",-,0
 2016,Georgian Court,9004,"%
                   Assumption",36,11/13/2015,79,86,Neutral,"Easton, Mass. - Paula Sullivan Court",-,108
 2016,Georgian Court,9004,"%
@@ -19735,6 +19885,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   BYU",77,03/07/2016,88,84,Neutral,"The Orleans Arena (Las Vegas, NV)",-,"8,362"
 2016,Gonzaga,260,"%
                   St. Mary's (CA)",610,03/08/2016,85,75,Neutral,"Orleans Arena (Las Vegas, Nev.)",-,"7,418"
+2016,Gonzaga,260,"%
+                  Seton Hall",635,03/17/2016,68,52,Neutral,"Pepsi Center, Denver, Colo.",-,"19,500"
+2016,Gonzaga,260,"%
+                  Utah",732,03/19/2016,82,59,Neutral,"Pepsi Center, Denver, Colo.",-,"19,551"
+2016,Gonzaga,260,"%
+                  Syracuse",688,03/25/2016,0,0,Neutral,Chicago,-,0
 2016,Gordon,1099,"%
                   Lesley",24317,11/13/2015,86,70,Home,"",-,625
 2016,Gordon,1099,"%
@@ -19961,6 +20117,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   St. Mary's (CA)",610,03/01/2016,64,73,Away,"",-,"2,735"
 2016,Grand Canyon,1104,"%
                   Utah Valley",30024,03/05/2016,86,79,Away,"",-,"3,854"
+2016,Grand Canyon,1104,"%
+                  South Carolina St.",647,03/14/2016,78,74,Home,"",-,"7,315"
+2016,Grand Canyon,1104,"%
+                  Jackson St.",314,03/17/2016,64,54,Home,"",-,"7,015"
+2016,Grand Canyon,1104,"%
+                  Coastal Caro.",149,03/23/2016,0,0,Away,"",-,0
 2016,Grand Valley St.,262,"%
                   Quincy",561,11/14/2015,76,67,Home,"",-,"1,263"
 2016,Grand Valley St.,262,"%
@@ -20089,6 +20251,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Valparaiso",735,03/07/2016,99,92,Neutral,"Joe Louis Arena (Detroit, Mich.)",1 OT,0
 2016,Green Bay,794,"%
                   Wright St.",810,03/08/2016,78,69,Neutral,Joe Louis Arena,-,"4,312"
+2016,Green Bay,794,"%
+                  Texas A&M",697,03/18/2016,65,92,Neutral,Chesapeake Arena-Oklahoma City,-,"15,279"
 2016,Green Mountain,11062,"%
                   Keene St.",330,11/14/2015,104,108,Away,"",-,600
 2016,Green Mountain,11062,"%
@@ -20717,6 +20881,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Savannah St.",632,03/11/2016,89,55,Neutral,"The Scope - Norfolk, VA",-,0
 2016,Hampton,270,"%
                   South Carolina St.",647,03/12/2016,81,69,Neutral,"The Scope - Norfolk, Va.",-,0
+2016,Hampton,270,"%
+                  Virginia",746,03/17/2016,45,81,Neutral,"Raleigh, NC",-,0
 2016,Hanover,1115,"%
                   Marian (IN)",,11/20/2015,50,67,Neutral,"Westerville, Ohio -- Rike Center",-,71
 2016,Hanover,1115,"%
@@ -21187,6 +21353,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UC Santa Barbara",104,03/11/2016,88,76,Neutral,"Anaheim, Ca",-,0
 2016,Hawaii,277,"%
                   Long Beach St.",99,03/12/2016,64,60,Neutral,"Anaheim, Ca",-,"5,610"
+2016,Hawaii,277,"%
+                  Maryland",392,03/20/2016,60,73,Neutral,"Spokane Arena - Spokane, Washington",-,"11,296"
 2016,Hawaii Hilo,2697,"%
                   Montana St.",440,11/14/2015,85,90,Neutral,"Stan Sheriff Center (Honolulu, O'ahu)",-,0
 2016,Hawaii Hilo,2697,"%
@@ -21513,6 +21681,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Longwood",363,03/04/2016,89,78,Neutral,"Buies Creek, NC (Pope Center/Gore Arena)",-,"1,505"
 2016,High Point,19651,"%
                   UNC Asheville",456,03/05/2016,69,80,Neutral,"Buies Creek, NC (Pope Center/Gore Arena)",-,0
+2016,High Point,19651,"%
+                  South Carolina",648,03/15/2016,66,88,Away,"",-,"2,566"
 2016,Hilbert,8398,"%
                   Geneva",30084,11/14/2015,102,75,Home,"",-,375
 2016,Hilbert,8398,"%
@@ -21793,6 +21963,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   William & Mary",786,03/06/2016,70,67,Neutral,"Baltimore, Md - Royal Farms Arena",-,0
 2016,Hofstra,283,"%
                   UNCW",460,03/07/2016,73,80,Neutral,"Baltimore, Md - Royal Farms Arena",1 OT,"3,031"
+2016,Hofstra,283,"%
+                  George Washington",249,03/16/2016,80,82,Away,"",-,"1,083"
 2016,Holy Cross,285,"%
                   Marist",386,11/13/2015,67,64,Away,"",-,"1,707"
 2016,Holy Cross,285,"%
@@ -21859,6 +22031,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Army West Point",725,03/06/2016,60,38,Away,"",-,"1,107"
 2016,Holy Cross,285,"%
                   Lehigh",352,03/09/2016,59,56,Away,"",-,"4,587"
+2016,Holy Cross,285,"%
+                  Southern U.",665,03/16/2016,59,55,Neutral,"University of Dayton Arena, Dayton, Ohio",-,"12,582"
+2016,Holy Cross,285,"%
+                  Oregon",529,03/18/2016,52,91,Neutral,"Spokane Arena, Spokane, Wash.",-,"11,274"
 2016,Holy Family,1126,"%
                   Roberts Wesleyan",30150,11/13/2015,79,61,Neutral,"Amherst, N.Y. (Lumsden Gymnasium)",-,180
 2016,Holy Family,1126,"%
@@ -22199,6 +22375,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Cincinnati",140,03/03/2016,69,56,Home,"",-,"4,171"
 2016,Houston,288,"%
                   Tulane",718,03/11/2016,69,72,Neutral,"Orlando, Fla. - Amway Center",-,0
+2016,Houston,288,"%
+                  Georgia Tech",255,03/16/2016,62,81,Away,"",-,"2,932"
 2016,Houston Baptist,287,"%
                   New Mexico St.",472,11/13/2015,69,91,Away,"",-,"5,130"
 2016,Houston Baptist,287,"%
@@ -22265,6 +22443,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Southeastern La.",655,03/10/2016,73,68,Neutral,"Katy, Texas (Merrell Center)",-,0
 2016,Houston Baptist,287,"%
                   SFA",676,03/11/2016,68,104,Neutral,"Katy, Texas (Merrell Center)",-,"2,306"
+2016,Houston Baptist,287,"%
+                  UNCG",459,03/16/2016,65,69,Away,"",-,"1,031"
 2016,Howard,290,"%
                   Massachusetts",400,11/14/2015,79,85,Away,"",-,"3,188"
 2016,Howard,290,"%
@@ -22328,7 +22508,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Howard,290,"%
                   Norfolk St.",485,02/29/2016,66,84,Away,"",-,"2,111"
 2016,Howard,290,"%
-                  N.C. Central",489,03/08/2016,66,68,Neutral,Norfolk,-,0
+                  N.C. Central",489,03/08/2016,66,68,Neutral,"The Scope - Norfolk, Va.",-,0
 2016,Howard Payne,2741,"%
                   Southwestern (TX)",8746,11/13/2015,73,82,Away,"",-,336
 2016,Howard Payne,2741,"%
@@ -22661,6 +22841,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Eastern Wash.",207,03/10/2016,77,73,Neutral,"Reno, Nev. (Reno Events Center)",-,"2,365"
 2016,Idaho,295,"%
                   Montana",441,03/11/2016,72,81,Neutral,"Reno, Nev. (Reno Events Center)",-,"2,362"
+2016,Idaho,295,"%
+                  Seattle",1356,03/16/2016,63,68,Away,"",-,999
 2016,Idaho St.,294,"%
                   Great Falls",,11/13/2015,78,72,Home,"",-,"1,659"
 2016,Idaho St.,294,"%
@@ -23247,6 +23429,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Maryland",392,03/06/2016,80,62,Home,"",-,"17,472"
 2016,Indiana,306,"%
                   Michigan",418,03/11/2016,69,72,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"18,355"
+2016,Indiana,306,"%
+                  Chattanooga",693,03/17/2016,99,74,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,774"
+2016,Indiana,306,"%
+                  Kentucky",334,03/19/2016,73,67,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,824"
+2016,Indiana,306,"%
+                  North Carolina",457,03/25/2016,0,0,Neutral,Philadelphia,-,0
 2016,Indiana (PA),307,"%
                   Urbana",30104,11/13/2015,86,69,Home,"",-,"1,945"
 2016,Indiana (PA),307,"%
@@ -23433,6 +23621,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Siena",639,03/06/2016,81,70,Away,"",-,"5,722"
 2016,Iona,310,"%
                   Monmouth",439,03/07/2016,79,76,Neutral,"Albany, N.Y. (Times Union Center)",-,"3,115"
+2016,Iona,310,"%
+                  Iowa St.",311,03/17/2016,81,94,Neutral,"Pepsi Center, Denver, Colo",-,"19,499"
 2016,Iowa,312,"%
                   Gardner-Webb",1092,11/13/2015,76,59,Home,"",-,"14,209"
 2016,Iowa,312,"%
@@ -23495,6 +23685,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Michigan",418,03/05/2016,71,61,Away,"",-,"12,707"
 2016,Iowa,312,"%
                   Illinois",301,03/10/2016,66,68,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
+2016,Iowa,312,"%
+                  Temple",690,03/18/2016,72,70,Neutral,"Brooklyn, N.Y. (Barclays Center)",1 OT,"17,333"
+2016,Iowa,312,"%
+                  Villanova",739,03/20/2016,68,87,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,401"
 2016,Iowa St.,311,"%
                   Colorado",157,11/13/2015,68,62,Neutral,"Sanford Pentagon Sioux Falls, SD",-,"3,200"
 2016,Iowa St.,311,"%
@@ -23559,6 +23753,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Kansas",328,03/05/2016,78,85,Away,"",-,"16,300"
 2016,Iowa St.,311,"%
                   Oklahoma",522,03/10/2016,76,79,Neutral,"Kansas City, Mo. (Sprint Center)",-,"18,972"
+2016,Iowa St.,311,"%
+                  Iona",310,03/17/2016,94,81,Neutral,"Pepsi Center, Denver, Colo",-,"19,499"
+2016,Iowa St.,311,"%
+                  Little Rock",32,03/19/2016,78,61,Neutral,"Pepsi Center, Denver, Colo.",-,"19,551"
+2016,Iowa St.,311,"%
+                  Virginia",746,03/25/2016,0,0,Neutral,Chicago,-,0
 2016,Iowa Wesleyan,30173,"%
                   Carthage",121,11/13/2015,84,86,Away,"",-,0
 2016,Iowa Wesleyan,30173,"%
@@ -23673,6 +23873,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   South Dakota",650,03/05/2016,86,70,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,0
 2016,IPFW,308,"%
                   North Dakota St.",493,03/07/2016,68,69,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,0
+2016,IPFW,308,"%
+                  San Diego St.",626,03/15/2016,55,79,Away,"",-,"8,324"
 2016,Ithaca,313,"%
                   Skidmore",642,11/14/2015,90,84,Away,"",-,685
 2016,Ithaca,313,"%
@@ -23861,6 +24063,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Mississippi Val.",432,03/11/2016,74,68,Neutral,"Houston, Texas (Toyota Center)",-,776
 2016,Jackson St.,314,"%
                   Southern U.",665,03/12/2016,53,54,Neutral,"Houston, Texas (Toyota Center)",-,"3,041"
+2016,Jackson St.,314,"%
+                  Sam Houston St.",624,03/14/2016,81,77,Away,"",1 OT,376
+2016,Jackson St.,314,"%
+                  Grand Canyon",1104,03/17/2016,54,64,Away,"",-,"7,015"
 2016,Jacksonville,316,"%
                   Appalachian St.",27,11/14/2015,68,76,Away,"",-,767
 2016,Jacksonville,316,"%
@@ -24551,6 +24757,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Baylor",51,03/11/2016,70,66,Neutral,"Kansas City, Mo. (Sprint Center)",-,0
 2016,Kansas,328,"%
                   West Virginia",768,03/12/2016,81,71,Neutral,"Kansas City, Mo. (Sprint Center)",-,"19,046"
+2016,Kansas,328,"%
+                  Austin Peay",43,03/17/2016,105,79,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,628"
+2016,Kansas,328,"%
+                  UConn",164,03/19/2016,73,61,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,824"
+2016,Kansas,328,"%
+                  Maryland",392,03/24/2016,0,0,Neutral,Louisville,-,0
 2016,Kansas St.,327,"%
                   UMES",393,11/13/2015,80,53,Home,"",-,"11,389"
 2016,Kansas St.,327,"%
@@ -24921,6 +25133,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Georgia",257,03/12/2016,93,80,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"19,108"
 2016,Kentucky,334,"%
                   Texas A&M",697,03/13/2016,82,77,Neutral,"2016 SEC Men's Tournament-Nashville, TN",1 OT,"19,613"
+2016,Kentucky,334,"%
+                  Stony Brook",683,03/17/2016,85,57,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,774"
+2016,Kentucky,334,"%
+                  Indiana",306,03/19/2016,67,73,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,824"
 2016,Kentucky St.,332,"%
                   Wilberforce",,11/14/2015,70,72,Neutral,"Kroc Center - Chicago, IL",1 OT,0
 2016,Kentucky St.,332,"%
@@ -25338,7 +25554,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Kutztown,339,"%
                   West Chester",765,03/12/2016,76,63,Neutral,"Wheeling, WV",-,0
 2016,Kutztown,339,"%
-                  Mercyhurst",408,03/13/2016,0,0,Neutral,"Wheeling, WV",-,0
+                  Mercyhurst",408,03/13/2016,79,73,Neutral,"Wheeling, W. Va.",-,224
+2016,Kutztown,339,"%
+                  West Liberty",1438,03/15/2016,64,85,Neutral,"Wheeling, WV (McDonough Center)",-,"1,234"
 2016,Ky. Wesleyan,333,"%
                   Wayne St. (MI)",757,11/14/2015,82,51,Away,"",-,539
 2016,Ky. Wesleyan,333,"%
@@ -25602,7 +25820,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,La.-Lafayette,671,"%
                   Texas St.",670,01/28/2016,80,54,Home,"",-,"4,460"
 2016,La.-Lafayette,671,"%
-                  Texas-Arlington",702,01/30/2016,90,75,Home,"",-,"3,989"
+                  UT Arlington",702,01/30/2016,90,75,Home,"",-,"3,989"
 2016,La.-Lafayette,671,"%
                   La.-Monroe",498,02/02/2016,72,65,Home,"",1 OT,"3,749"
 2016,La.-Lafayette,671,"%
@@ -25627,6 +25845,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   South Ala.",646,03/11/2016,90,68,Neutral,Lakefront Arena,-,0
 2016,La.-Lafayette,671,"%
                   Little Rock",32,03/12/2016,65,72,Neutral,Lakefront Arena,-,0
+2016,La.-Lafayette,671,"%
+                  A&M-Corpus Christi",26172,03/16/2016,96,72,Home,"",-,"1,205"
+2016,La.-Lafayette,671,"%
+                  Furman",244,03/19/2016,80,72,Away,"",-,"1,308"
+2016,La.-Lafayette,671,"%
+                  UC Irvine",109,03/23/2016,0,0,Home,"",-,0
 2016,La.-Monroe,498,"%
                   McMurry",8530,11/13/2015,88,43,Home,"",-,"1,344"
 2016,La.-Monroe,498,"%
@@ -25693,6 +25917,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UT Arlington",702,03/12/2016,82,71,Neutral,Lakefront Arena,-,"1,629"
 2016,La.-Monroe,498,"%
                   Little Rock",32,03/13/2016,50,70,Neutral,Lakefront Arena,-,"1,665"
+2016,La.-Monroe,498,"%
+                  Furman",244,03/15/2016,57,58,Away,"",-,806
 2016,Lafayette,342,"%
                   George Washington",249,11/13/2015,76,85,Away,"",-,"3,118"
 2016,Lafayette,342,"%
@@ -26824,7 +27050,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lenoir-Rhyne,1170,"%
                   King (TN)",30051,03/12/2016,83,79,Neutral,"Harrogate, Tenn.",-,575
 2016,Lenoir-Rhyne,1170,"%
-                  Wingate",1462,03/13/2016,0,0,Neutral,"Harrogate, TN",-,0
+                  Wingate",1462,03/13/2016,76,69,Neutral,"Harrogate, TN",-,575
+2016,Lenoir-Rhyne,1170,"%
+                  Lincoln Memorial",1176,03/15/2016,80,103,Away,"",-,"4,042"
 2016,Lesley ,24317,"%
                   Gordon",1099,11/13/2015,70,86,Away,"",-,625
 2016,Lesley ,24317,"%
@@ -27350,7 +27578,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lincoln Memorial,1176,"%
                   Lander",1167,03/12/2016,98,71,Home,"",-,"2,145"
 2016,Lincoln Memorial,1176,"%
-                  Queens (NC)",11504,03/13/2016,0,0,Home,"",-,0
+                  Queens (NC)",11504,03/13/2016,95,67,Home,"",-,"2,725"
+2016,Lincoln Memorial,1176,"%
+                  Lenoir-Rhyne",1170,03/15/2016,103,80,Home,"",-,"4,042"
+2016,Lincoln Memorial,1176,"%
+                  Barry",49,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,Lindenwood (MO),30136,"%
                   Southwestern Okla.",8744,11/13/2015,77,68,Away,"",-,"1,267"
 2016,Lindenwood (MO),30136,"%
@@ -27593,6 +27825,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   La.-Lafayette",671,03/12/2016,72,65,Neutral,Lakefront Arena,-,0
 2016,Little Rock,32,"%
                   La.-Monroe",498,03/13/2016,70,50,Neutral,Lakefront Arena,-,"1,665"
+2016,Little Rock,32,"%
+                  Purdue",559,03/17/2016,85,83,Neutral,"Pepsi Center, Denver, Colo.",2 OT,"19,499"
+2016,Little Rock,32,"%
+                  Iowa St.",311,03/19/2016,61,78,Neutral,"Pepsi Center, Denver, Colo.",-,"19,551"
 2016,LIU Brooklyn,361,"%
                   Loyola Maryland",369,11/16/2015,71,68,Away,"",-,512
 2016,LIU Brooklyn,361,"%
@@ -27901,6 +28137,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UC Irvine",109,03/11/2016,77,72,Neutral,"Anaheim, Ca",-,"5,134"
 2016,Long Beach St.,99,"%
                   Hawaii",277,03/12/2016,60,64,Neutral,"Anaheim, Ca",-,"5,610"
+2016,Long Beach St.,99,"%
+                  Washington",756,03/15/2016,102,107,Away,"",-,"3,505"
 2016,Longwood,363,"%
                   Randolph",566,11/13/2015,69,49,Home,"",-,"1,478"
 2016,Longwood,363,"%
@@ -28512,7 +28750,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lubbock Christian,30177,"%
                   Midwestern St.",1222,03/12/2016,79,73,Away,"",1 OT,"3,359"
 2016,Lubbock Christian,30177,"%
-                  Tarleton St.",1395,03/13/2016,0,0,Neutral,"Wichita Falls, TX",-,0
+                  Tarleton St.",1395,03/13/2016,63,69,Neutral,"Wichita Falls, Texas",-,779
 2016,Luther,372,"%
                   St. Scholastica",618,11/15/2015,70,74,Home,"",-,254
 2016,Luther,372,"%
@@ -29965,6 +30203,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Nebraska",463,03/11/2016,97,86,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
 2016,Maryland,392,"%
                   Michigan St.",416,03/12/2016,61,64,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
+2016,Maryland,392,"%
+                  South Dakota St.",649,03/18/2016,79,74,Neutral,"Spokane Arena - Spokane, Washington",-,"11,109"
+2016,Maryland,392,"%
+                  Hawaii",277,03/20/2016,73,60,Neutral,"Spokane Arena - Spokane, Washington",-,"11,296"
+2016,Maryland,392,"%
+                  Kansas",328,03/24/2016,0,0,Neutral,Louisville,-,0
 2016,Marymount (VA),394,"%
                   Kean",329,11/14/2015,76,68,Away,"",-,114
 2016,Marymount (VA),394,"%
@@ -30827,6 +31071,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   The Citadel",141,03/04/2016,71,69,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,"2,411"
 2016,Mercer,406,"%
                   ETSU",198,03/05/2016,65,81,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,0
+2016,Mercer,406,"%
+                  Coastal Caro.",149,03/15/2016,57,65,Away,"",-,940
 2016,Merchant Marine,724,"%
                   Stony Brook",683,11/14/2015,32,103,Away,"",-,"3,404"
 2016,Merchant Marine,724,"%
@@ -30994,9 +31240,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mercyhurst,408,"%
                   Wheeling Jesuit",12799,03/12/2016,66,65,Away,"",-,0
 2016,Mercyhurst,408,"%
-                  Wheeling Jesuit",12799,03/12/2016,66,65,Neutral,"Wheeling, WV",-,0
-2016,Mercyhurst,408,"%
-                  Kutztown",339,03/13/2016,0,0,Neutral,"Wheeling, WV",-,0
+                  Kutztown",339,03/13/2016,73,79,Neutral,"Wheeling, W. Va.",-,224
 2016,Merrimack,410,"%
                   Caldwell",995,11/13/2015,91,69,Neutral,"Waltham, Mass. (Dana Center)",-,130
 2016,Merrimack,410,"%
@@ -31211,6 +31455,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Virginia Tech",742,03/10/2016,88,82,Neutral,"Verizon Center, Washington, DC",-,"20,719"
 2016,Miami (FL),415,"%
                   Virginia",746,03/11/2016,68,73,Neutral,"Verizon Center, Washington, DC",-,"20,719"
+2016,Miami (FL),415,"%
+                  Buffalo",86,03/17/2016,79,72,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,0
+2016,Miami (FL),415,"%
+                  Wichita St.",782,03/19/2016,65,57,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,679"
+2016,Miami (FL),415,"%
+                  Villanova",739,03/24/2016,0,0,Neutral,Louisville,-,0
 2016,Miami (OH),414,"%
                   Xavier",812,11/13/2015,72,81,Away,"",-,"10,372"
 2016,Miami (OH),414,"%
@@ -31345,6 +31595,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Indiana",306,03/11/2016,72,69,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"18,355"
 2016,Michigan,418,"%
                   Purdue",559,03/12/2016,59,76,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"18,339"
+2016,Michigan,418,"%
+                  Tulsa",719,03/16/2016,67,62,Neutral,"University of Dayton Arena; Dayton, Ohio",-,"12,582"
+2016,Michigan,418,"%
+                  Notre Dame",513,03/18/2016,63,70,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,502"
 2016,Michigan St.,416,"%
                   Fla. Atlantic",229,11/13/2015,82,55,Home,"",-,"14,797"
 2016,Michigan St.,416,"%
@@ -31413,6 +31667,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Maryland",392,03/12/2016,64,61,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
 2016,Michigan St.,416,"%
                   Purdue",559,03/13/2016,66,62,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"16,429"
+2016,Michigan St.,416,"%
+                  Middle Tenn.",419,03/18/2016,81,90,Neutral,"Scottrade Center, St. Louis, Missouri",-,"14,250"
 2016,Michigan Tech,417,"%
                   Minn. Duluth",427,11/19/2015,68,74,Home,"",-,763
 2016,Michigan Tech,417,"%
@@ -31531,6 +31787,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Marshall",388,03/11/2016,99,90,Neutral,"Birmingham, Ala. (Legacy Arena)",-,"6,176"
 2016,Middle Tenn.,419,"%
                   Old Dominion",523,03/12/2016,55,53,Neutral,"Birmingham, Ala. (Legacy Arena)",-,"5,519"
+2016,Middle Tenn.,419,"%
+                  Michigan St.",416,03/18/2016,90,81,Neutral,"Scottrade Center, St. Louis, Missouri",-,"14,250"
+2016,Middle Tenn.,419,"%
+                  Syracuse",688,03/20/2016,50,75,Neutral,"Scottrade Center, St. Louis, Missouri",-,0
 2016,Middlebury,420,"%
                   Baldwin Wallace",46,11/20/2015,87,97,Neutral,"Buffalo, N.Y.",-,79
 2016,Middlebury,420,"%
@@ -33093,6 +33353,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Fairfield",220,03/06/2016,76,63,Neutral,"Albany, N.Y. (Times Union Center)",-,0
 2016,Monmouth,439,"%
                   Iona",310,03/07/2016,76,79,Neutral,"Albany, N.Y. (Times Union Center)",-,"3,115"
+2016,Monmouth,439,"%
+                  Bucknell",83,03/16/2016,90,80,Home,"",-,"2,661"
+2016,Monmouth,439,"%
+                  George Washington",249,03/21/2016,71,87,Home,"",-,"3,442"
 2016,Monmouth (IL),438,"%
                   Eureka",218,11/16/2015,101,71,Home,"",-,650
 2016,Monmouth (IL),438,"%
@@ -33259,6 +33523,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Idaho",295,03/11/2016,81,72,Neutral,"Reno, Nev. (Reno Events Center)",-,"2,362"
 2016,Montana,441,"%
                   Weber St.",758,03/12/2016,59,62,Neutral,"Reno, Nev. (Reno Events Center)",-,"2,516"
+2016,Montana,441,"%
+                  Nevada",466,03/16/2016,75,79,Away,"",-,"4,524"
 2016,Montana St.,440,"%
                   Hawaii",277,11/13/2015,76,87,Away,"",-,"6,259"
 2016,Montana St.,440,"%
@@ -33541,6 +33807,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Murray St.",454,03/03/2016,75,66,Neutral,"Nashville, Tenn. (Municipal Auditorium)",-,"1,545"
 2016,Morehead St.,444,"%
                   UT Martin",695,03/04/2016,70,83,Neutral,"Nashville, Tenn. (Municipal Auditorium)",-,"2,167"
+2016,Morehead St.,444,"%
+                  Siena",639,03/15/2016,84,80,Away,"",-,"2,061"
+2016,Morehead St.,444,"%
+                  Duquesne",194,03/21/2016,82,72,Home,"",-,"1,387"
+2016,Morehead St.,444,"%
+                  Ohio",519,03/23/2016,0,0,Away,"",-,0
 2016,Morehouse,445,"%
                   Johnson C. Smith",323,11/13/2015,77,70,Neutral,"Tuskegee, Ala.",-,190
 2016,Morehouse,445,"%
@@ -34620,7 +34892,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,N.C. Central,489,"%
                   N.C. A&T",488,03/03/2016,87,93,Away,"",-,"5,700"
 2016,N.C. Central,489,"%
-                  Howard",290,03/08/2016,68,66,Neutral,Norfolk,-,0
+                  Howard",290,03/08/2016,68,66,Neutral,"The Scope - Norfolk, Va.",-,0
 2016,N.C. Central,489,"%
                   Norfolk St.",485,03/09/2016,47,66,Neutral,"Norfolk, Va. (Scope Arena)",-,0
 2016,N.C. Wesleyan,491,"%
@@ -34909,6 +35181,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Dordt",,02/24/2016,111,98,Home,"",-,"1,492"
 2016,Neb. Wesleyan,462,"%
                   Dakota Wesleyan",,02/27/2016,102,91,Home,"",-,"1,690"
+2016,Neb. Wesleyan,462,"%
+                  Briar Cliff (IA)",,03/01/2016,97,103,Away,"",-,840
+2016,Neb. Wesleyan,462,"%
+                  Warner Pacific",,03/09/2016,101,106,Neutral,"Keeter Gymnasium Pt. Lookout, MO",-,215
 2016,Neb.-Kearney,1156,"%
                   Southern Nazarene",30152,11/13/2015,95,80,Neutral,"Weatherford, Okla. (Pioneer Cellular EC)",-,124
 2016,Neb.-Kearney,1156,"%
@@ -34974,7 +35250,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Neb.-Kearney,1156,"%
                   Fort Hays St.",9011,03/12/2016,79,67,Neutral,"Sioux Falls, SD (Sanford Pentagon)",-,715
 2016,Neb.-Kearney,1156,"%
-                  Augustana (SD)",41,03/13/2016,0,0,Away,"",-,0
+                  Augustana (SD)",41,03/13/2016,67,77,Away,"",-,"2,751"
 2016,Nebraska,463,"%
                   Mississippi Val.",432,11/14/2015,97,51,Home,"",-,"15,489"
 2016,Nebraska,463,"%
@@ -35164,9 +35440,15 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Nevada,466,"%
                   New Mexico",473,03/05/2016,66,71,Home,"",-,"7,191"
 2016,Nevada,466,"%
-                  New Mexico",473,03/10/2016,64,62,Neutral,"Las Vegas, Nev. (Thomas ' Mack Center)",-,"8,279"
+                  New Mexico",473,03/10/2016,64,62,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,279"
 2016,Nevada,466,"%
                   San Diego St.",626,03/11/2016,55,67,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,036"
+2016,Nevada,466,"%
+                  Montana",441,03/16/2016,79,75,Home,"",-,"4,524"
+2016,Nevada,466,"%
+                  Eastern Wash.",207,03/21/2016,85,70,Home,"",-,"6,053"
+2016,Nevada,466,"%
+                  Vermont",738,03/23/2016,0,0,Home,"",-,0
 2016,New England Col.,467,"%
                   Mount Ida",27901,11/14/2015,86,97,Away,"",-,237
 2016,New England Col.,467,"%
@@ -35279,6 +35561,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Binghamton",62,03/02/2016,56,51,Home,"",-,"1,866"
 2016,New Hampshire,469,"%
                   Vermont",738,03/07/2016,56,63,Away,"",-,"2,840"
+2016,New Hampshire,469,"%
+                  Fairfield",220,03/16/2016,77,62,Away,"",-,"1,145"
+2016,New Hampshire,469,"%
+                  Coastal Caro.",149,03/19/2016,62,71,Away,"",-,847
 2016,New Haven,470,"%
                   Le Moyne",349,11/18/2015,64,68,Away,"",-,267
 2016,New Haven,470,"%
@@ -35452,7 +35738,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,New Mexico,473,"%
                   Nevada",466,03/05/2016,71,66,Away,"",-,"7,191"
 2016,New Mexico,473,"%
-                  Nevada",466,03/10/2016,62,64,Neutral,"Las Vegas, Nev. (Thomas ' Mack Center)",-,"8,279"
+                  Nevada",466,03/10/2016,62,64,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,279"
 2016,New Mexico St.,472,"%
                   Houston Baptist",287,11/13/2015,91,69,Home,"",-,"5,130"
 2016,New Mexico St.,472,"%
@@ -35519,6 +35805,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UMKC",2707,03/11/2016,78,64,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,"1,729"
 2016,New Mexico St.,472,"%
                   CSU Bakersfield",94,03/12/2016,54,57,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,"1,673"
+2016,New Mexico St.,472,"%
+                  St. Mary's (CA)",610,03/15/2016,56,58,Away,"",-,"1,154"
 2016,New Orleans,474,"%
                   Bowling Green",71,11/14/2015,61,79,Away,"",-,"1,592"
 2016,New Orleans,474,"%
@@ -36001,6 +36289,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   USC Upstate",10411,02/25/2016,71,72,Away,"",-,568
 2016,NJIT,471,"%
                   Stetson",678,03/01/2016,67,82,Home,"",-,"1,022"
+2016,NJIT,471,"%
+                  Army West Point",725,03/16/2016,79,65,Home,"",-,855
+2016,NJIT,471,"%
+                  Boston U.",68,03/21/2016,83,72,Home,"",-,"1,134"
+2016,NJIT,471,"%
+                  UT Arlington",702,03/24/2016,0,0,Home,"",-,0
 2016,Norfolk St.,485,"%
                   South Carolina",648,11/14/2015,69,84,Away,"",-,"10,623"
 2016,Norfolk St.,485,"%
@@ -36067,6 +36361,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   N.C. Central",489,03/09/2016,66,47,Neutral,"Norfolk, Va. (Scope Arena)",-,0
 2016,Norfolk St.,485,"%
                   South Carolina St.",647,03/11/2016,65,67,Neutral,"The Scope - Norfolk, Va.",-,0
+2016,Norfolk St.,485,"%
+                  Columbia",158,03/16/2016,54,86,Away,"",-,"1,037"
 2016,North Ala.,487,"%
                   Saint Leo",608,11/13/2015,90,97,Away,"",-,615
 2016,North Ala.,487,"%
@@ -36193,6 +36489,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Notre Dame",513,03/11/2016,78,47,Neutral,"Verizon Center, Washington, DC",-,"20,719"
 2016,North Carolina,457,"%
                   Virginia",746,03/12/2016,61,57,Neutral,"Verizon Center, Washington, DC",-,"20,719"
+2016,North Carolina,457,"%
+                  FGCU",28755,03/17/2016,83,67,Neutral,"Raleigh, NC",-,"17,387"
+2016,North Carolina,457,"%
+                  Providence",556,03/19/2016,85,66,Neutral,"Raleigh, NC",-,"19,433"
+2016,North Carolina,457,"%
+                  Indiana",306,03/25/2016,0,0,Neutral,Philadelphia,-,0
 2016,North Carolina St.,490,"%
                   William & Mary",786,11/13/2015,68,85,Home,"",-,"16,377"
 2016,North Carolina St.,490,"%
@@ -36441,6 +36743,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Idaho St.",294,03/10/2016,83,49,Neutral,"Reno, Nev. (Reno Events Center)",-,"1,003"
 2016,North Dakota,494,"%
                   Weber St.",758,03/11/2016,78,83,Neutral,"Reno, Nev. (Reno Events Center)",1 OT,"2,362"
+2016,North Dakota,494,"%
+                  UC Irvine",109,03/16/2016,86,89,Home,"",1 OT,"1,263"
 2016,North Dakota St.,493,"%
                   UC Davis",108,11/13/2015,79,71,Away,"",1 OT,"3,366"
 2016,North Dakota St.,493,"%
@@ -36506,7 +36810,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,North Dakota St.,493,"%
                   IPFW",308,03/07/2016,69,68,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,0
 2016,North Dakota St.,493,"%
-                  South Dakota St.",649,08/03/2016,59,67,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"10,188"
+                  South Dakota St.",649,03/08/2016,59,67,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"10,188"
 2016,North Florida,2711,"%
                   Illinois",301,11/13/2015,93,81,Away,"",-,"5,186"
 2016,North Florida,2711,"%
@@ -36573,6 +36877,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   USC Upstate",10411,03/01/2016,92,69,Home,"",-,"3,317"
 2016,North Florida,2711,"%
                   FGCU",28755,03/03/2016,56,89,Home,"",-,"4,305"
+2016,North Florida,2711,"%
+                  Florida",235,03/15/2016,68,97,Home,"",-,"6,011"
 2016,North Georgia,30052,"%
                   Pfeiffer",542,11/13/2015,87,109,Home,"",-,798
 2016,North Georgia,30052,"%
@@ -37399,6 +37705,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Ouachita Baptist",1289,03/12/2016,78,53,Neutral,"Sioux Falls, SD (Sanford Pentagon)",-,589
 2016,Northwest Mo. St.,507,"%
                   Minn. St. Mankato",383,03/13/2016,82,60,Neutral,"Sioux Falls, SD (Sanford Pentagon)",-,"1,055"
+2016,Northwest Mo. St.,507,"%
+                  Augustana (SD)",41,03/15/2016,78,80,Away,"",-,"3,221"
 2016,Northwest Nazarene,1274,"%
                   Bethesda (CA)",,11/13/2015,95,73,Home,"",-,"3,104"
 2016,Northwest Nazarene,1274,"%
@@ -37851,6 +38159,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Duke",193,03/10/2016,84,79,Neutral,"Verizon Center, Washington, DC",1 OT,"18,561"
 2016,Notre Dame,513,"%
                   North Carolina",457,03/11/2016,47,78,Neutral,"Verizon Center, Washington, DC",-,"20,719"
+2016,Notre Dame,513,"%
+                  Michigan",418,03/18/2016,70,63,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,502"
+2016,Notre Dame,513,"%
+                  SFA",676,03/20/2016,76,75,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,401"
+2016,Notre Dame,513,"%
+                  Wisconsin",796,03/25/2016,0,0,Neutral,Philadelphia,-,0
 2016,Notre Dame (OH),30126,"%
                   California (PA)",106,11/14/2015,86,69,Neutral,"West Liberty, W.Va. (ASRC)",-,217
 2016,Notre Dame (OH),30126,"%
@@ -38501,6 +38815,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Northern Ill.",503,03/10/2016,79,62,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,0
 2016,Ohio,519,"%
                   Buffalo",86,03/11/2016,74,88,Neutral,"Cleveland, Ohio (Quicken Loans Arena)",-,"6,427"
+2016,Ohio,519,"%
+                  Albany (NY)",14,03/16/2016,94,90,Home,"",1 OT,"3,034"
+2016,Ohio,519,"%
+                  UNCG",459,03/21/2016,72,67,Home,"",-,"3,567"
+2016,Ohio,519,"%
+                  Morehead St.",444,03/23/2016,0,0,Home,"",-,0
 2016,Ohio Dominican,30119,"%
                   Maryville (MO)",395,11/13/2015,84,69,Away,"",-,120
 2016,Ohio Dominican,30119,"%
@@ -38614,7 +38934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ohio St.,518,"%
                   Grambling",261,11/17/2015,82,55,Home,"",-,"10,779"
 2016,Ohio St.,518,"%
-                  Texas-Arlington",702,11/20/2015,68,73,Home,"",-,"12,312"
+                  UT Arlington",702,11/20/2015,68,73,Home,"",-,"12,312"
 2016,Ohio St.,518,"%
                   Louisiana Tech",366,11/24/2015,74,82,Home,"",-,"11,572"
 2016,Ohio St.,518,"%
@@ -38675,6 +38995,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Penn St.",539,03/10/2016,79,75,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
 2016,Ohio St.,518,"%
                   Michigan St.",416,03/11/2016,54,81,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,0
+2016,Ohio St.,518,"%
+                  Akron",5,03/15/2016,72,63,Home,"",1 OT,"4,698"
+2016,Ohio St.,518,"%
+                  Florida",235,03/20/2016,66,74,Home,"",-,"8,185"
 2016,Ohio Valley,15207,"%
                   Penn St.-Beaver",,11/13/2015,103,65,Home,"",-,110
 2016,Ohio Valley,15207,"%
@@ -39017,6 +39341,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Iowa St.",311,03/10/2016,79,76,Neutral,"Kansas City, Mo. (Sprint Center)",-,"18,972"
 2016,Oklahoma,522,"%
                   West Virginia",768,03/11/2016,67,69,Neutral,"Kansas City, Mo. (Sprint Center)",-,"18,972"
+2016,Oklahoma,522,"%
+                  CSU Bakersfield",94,03/18/2016,82,68,Neutral,Chesapeake Arena-Oklahoma City,-,"15,662"
+2016,Oklahoma,522,"%
+                  VCU",740,03/20/2016,85,81,Neutral,Chesapeake Arena-Oklahoma City,-,0
+2016,Oklahoma,522,"%
+                  Texas A&M",697,03/24/2016,0,0,Neutral,Anaheim,-,0
 2016,Oklahoma St.,521,"%
                   UT Martin",695,11/13/2015,91,57,Home,"",-,"4,972"
 2016,Oklahoma St.,521,"%
@@ -39383,6 +39713,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Oral Roberts",527,02/25/2016,102,98,Home,"",-,"3,109"
 2016,Omaha,464,"%
                   Denver",183,03/06/2016,70,78,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"6,432"
+2016,Omaha,464,"%
+                  Duquesne",194,03/16/2016,112,120,Away,"",-,609
 2016,Oral Roberts,527,"%
                   Missouri St.",669,11/13/2015,80,65,Home,"",-,"3,243"
 2016,Oral Roberts,527,"%
@@ -39513,6 +39845,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Arizona",29,03/11/2016,95,89,Neutral,"MGM Grand Garden Arena, Las Vegas, Nev.",1 OT,"12,916"
 2016,Oregon,529,"%
                   Utah",732,03/12/2016,88,57,Neutral,"MGM Grand Garden Arena, Las Vegas, Nev.",-,"12,916"
+2016,Oregon,529,"%
+                  Holy Cross",285,03/18/2016,91,52,Neutral,"Spokane Arena, Spokane, Wash.",-,"11,274"
+2016,Oregon,529,"%
+                  Saint Joseph's",606,03/20/2016,69,64,Neutral,"Spokane Arena, Spokane, Wash.",-,"11,296"
+2016,Oregon,529,"%
+                  Duke",193,03/24/2016,0,0,Neutral,Anaheim,-,0
 2016,Oregon St.,528,"%
                   Northwest Chrst.",,11/14/2015,74,52,Home,"",-,"4,594"
 2016,Oregon St.,528,"%
@@ -39575,6 +39913,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Arizona St.",28,03/09/2016,75,66,Neutral,"MGM Grand Garden Arena (Las Vegas, NV)",-,"12,916"
 2016,Oregon St.,528,"%
                   California",107,03/10/2016,68,76,Neutral,"MGM Grand Garden Arena (Las Vegas, Nev.)",-,"12,916"
+2016,Oregon St.,528,"%
+                  VCU",740,03/18/2016,67,75,Neutral,Chesapeake Arena-Oklahoma City,-,0
 2016,Oswego St.,530,"%
                   St. Lawrence",607,11/14/2015,73,67,Away,"",-,500
 2016,Oswego St.,530,"%
@@ -40645,6 +40985,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   San Francisco",629,03/05/2016,90,86,Neutral,"Las Vegas, Nev. (Orleans Arena)",-,"7,341"
 2016,Pepperdine,541,"%
                   St. Mary's (CA)",610,03/07/2016,66,81,Neutral,"The Orleans Arena (Las Vegas, NV)",-,0
+2016,Pepperdine,541,"%
+                  Eastern Wash.",207,03/16/2016,72,79,Away,"",-,"1,518"
 2016,Pfeiffer,542,"%
                   North Georgia",30052,11/13/2015,109,87,Away,"",-,798
 2016,Pfeiffer,542,"%
@@ -41165,6 +41507,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Syracuse",688,03/09/2016,72,71,Neutral,"Verizon Center, Washington, DC",-,"18,561"
 2016,Pittsburgh,545,"%
                   North Carolina",457,03/10/2016,71,88,Neutral,"Verizon Center, Washington, DC",-,"18,561"
+2016,Pittsburgh,545,"%
+                  Wisconsin",796,03/18/2016,43,47,Neutral,"Scottrade Center, St. Louis, Missouri",-,"14,425"
 2016,Plattsburgh St.,547,"%
                   Clarkson",146,11/17/2015,83,67,Home,"",-,461
 2016,Plattsburgh St.,547,"%
@@ -41733,6 +42077,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Dartmouth",172,03/05/2016,84,65,Away,"",-,930
 2016,Princeton,554,"%
                   Penn",540,03/08/2016,72,71,Home,"",-,"2,464"
+2016,Princeton,554,"%
+                  Virginia Tech",742,03/16/2016,81,86,Away,"",1 OT,"8,241"
 2016,Principia,555,"%
                   Illinois Col.",297,11/17/2015,88,68,Home,"",-,175
 2016,Principia,555,"%
@@ -41845,6 +42191,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Butler",87,03/10/2016,74,60,Neutral,Madison Square Garden,-,"14,863"
 2016,Providence,556,"%
                   Villanova",739,03/11/2016,68,76,Neutral,"Madison Square Garden, New York, NY",-,"17,130"
+2016,Providence,556,"%
+                  Southern California",657,03/17/2016,70,69,Neutral,"Raleigh, NC",-,"17,387"
+2016,Providence,556,"%
+                  North Carolina",457,03/19/2016,66,85,Neutral,"Raleigh, NC",-,"19,433"
 2016,Puget Sound,557,"%
                   Warner Pacific",,11/16/2015,88,102,Away,"",-,220
 2016,Puget Sound,557,"%
@@ -42017,6 +42367,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Michigan",418,03/12/2016,76,59,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"18,339"
 2016,Purdue,559,"%
                   Michigan St.",416,03/13/2016,62,66,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"16,429"
+2016,Purdue,559,"%
+                  Little Rock",32,03/17/2016,83,85,Neutral,"Pepsi Center, Denver, Colo.",2 OT,"19,499"
 2016,Queens (NC),11504,"%
                   Flagler",30092,11/14/2015,81,77,Away,"",-,416
 2016,Queens (NC),11504,"%
@@ -42080,7 +42432,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Queens (NC),11504,"%
                   Columbus St.",159,03/12/2016,94,84,Neutral,"Harrogate, TN",-,450
 2016,Queens (NC),11504,"%
-                  Lincoln Memorial",1176,03/13/2016,0,0,Away,"",-,0
+                  Lincoln Memorial",1176,03/13/2016,67,95,Away,"",-,"2,725"
 2016,Queens (NY),560,"%
                   Pace",533,11/13/2015,78,76,Home,"",1 OT,250
 2016,Queens (NY),560,"%
@@ -44364,7 +44716,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saginaw Valley,591,"%
                   Lewis",354,03/12/2016,80,65,Neutral,"Somers, WI (DeSimone Gymnasium)",-,908
 2016,Saginaw Valley,591,"%
-                  Wis.-Parkside",799,03/13/2016,0,0,Neutral,"Somers, WI",-,0
+                  Wis.-Parkside",799,03/13/2016,92,77,Away,"",-,911
+2016,Saginaw Valley,591,"%
+                  Ferris St.",224,03/15/2016,63,61,Neutral,"Somers, WI (DeSimone Gymnasium)",-,120
+2016,Saginaw Valley,591,"%
+                  Western Ore.",1446,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,Saint Augustine's,594,"%
                   Glenville St.",1098,11/13/2015,77,71,Neutral,"Ettrick,VA",-,520
 2016,Saint Augustine's,594,"%
@@ -44601,6 +44957,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Dayton",175,03/12/2016,82,79,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,0
 2016,Saint Joseph's,606,"%
                   VCU",740,03/13/2016,87,74,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"8,413"
+2016,Saint Joseph's,606,"%
+                  Cincinnati",140,03/18/2016,78,76,Neutral,"Spokane Arena, Spokane, Wash.",-,"11,274"
+2016,Saint Joseph's,606,"%
+                  Oregon",529,03/20/2016,64,69,Neutral,"Spokane Arena, Spokane, Wash.",-,"11,296"
 2016,Saint Leo,608,"%
                   North Ala.",487,11/13/2015,97,90,Home,"",-,615
 2016,Saint Leo,608,"%
@@ -45310,7 +45670,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Sam Houston St.,624,"%
                   Nicholls St.",483,01/18/2016,87,76,Home,"",-,"1,260"
 2016,Sam Houston St.,624,"%
-                  Stephen F. Austin",676,01/23/2016,64,76,Away,"",-,"7,123"
+                  SFA",676,01/23/2016,64,76,Away,"",-,"7,123"
 2016,Sam Houston St.,624,"%
                   Abilene Christian",2,01/25/2016,72,51,Home,"",-,"1,051"
 2016,Sam Houston St.,624,"%
@@ -45337,6 +45697,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Nicholls St.",483,03/10/2016,60,59,Neutral,"Katy, Texas (Merrell Center)",-,"1,298"
 2016,Sam Houston St.,624,"%
                   A&M-Corpus Christi",26172,03/11/2016,76,79,Neutral,"Katy, Texas (Merrell Center)",-,"3,019"
+2016,Sam Houston St.,624,"%
+                  Jackson St.",314,03/14/2016,77,81,Home,"",1 OT,376
 2016,Samford,625,"%
                   Louisville",367,11/13/2015,45,86,Away,"",-,"20,347"
 2016,Samford,625,"%
@@ -45531,6 +45893,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Nevada",466,03/11/2016,67,55,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,036"
 2016,San Diego St.,626,"%
                   Fresno St.",96,03/12/2016,63,68,Neutral,"Las Vegas, Nev. (Thomas & Mack Center)",-,"8,132"
+2016,San Diego St.,626,"%
+                  IPFW",308,03/15/2016,79,55,Home,"",-,"8,324"
+2016,San Diego St.,626,"%
+                  Washington",756,03/21/2016,93,78,Home,"",-,"12,414"
+2016,San Diego St.,626,"%
+                  Georgia Tech",255,03/23/2016,0,0,Home,"",-,0
 2016,San Fran. St.,628,"%
                   Pacific Union",,11/14/2015,78,76,Home,"",1 OT,372
 2016,San Fran. St.,628,"%
@@ -45881,6 +46249,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Bethune-Cookman",61,03/10/2016,57,50,Neutral,"The Scope - Norfolk, VA",-,0
 2016,Savannah St.,632,"%
                   Hampton",270,03/11/2016,55,89,Neutral,"The Scope - Norfolk, VA",-,0
+2016,Savannah St.,632,"%
+                  UT Arlington",702,03/16/2016,59,75,Home,"",-,"1,192"
 2016,Schreiner,1355,"%
                   Hardin-Simmons",271,11/14/2015,70,76,Home,"",-,260
 2016,Schreiner,1355,"%
@@ -46047,6 +46417,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UTRGV",536,03/10/2016,75,52,Neutral,Las Vegas (Orleans Arena),-,"1,472"
 2016,Seattle,1356,"%
                   CSU Bakersfield",94,03/11/2016,47,72,Neutral,"Las Vegas, NC (Orleans Arena)",-,"1,729"
+2016,Seattle,1356,"%
+                  Idaho",295,03/16/2016,68,63,Home,"",-,999
+2016,Seattle,1356,"%
+                  Vermont",738,03/21/2016,54,73,Home,"",-,999
 2016,Seattle Pacific,634,"%
                   Concordia (CA)",30199,11/13/2015,60,68,Neutral,"Burns Arena, St. George, Utah",1 OT,317
 2016,Seattle Pacific,634,"%
@@ -46175,6 +46549,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Xavier",812,03/11/2016,87,83,Neutral,"Madison Square Garden, New York, NY",-,"17,130"
 2016,Seton Hall,635,"%
                   Villanova",739,03/12/2016,69,67,Neutral,"Madison Square Garden, New York, NY",-,"19,812"
+2016,Seton Hall,635,"%
+                  Gonzaga",260,03/17/2016,52,68,Neutral,"Pepsi Center, Denver, Colo.",-,"19,500"
 2016,Seton Hill,30063,"%
                   Lake Erie",2746,11/19/2015,73,77,Away,"",1 OT,170
 2016,Seton Hill,30063,"%
@@ -46349,6 +46725,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Houston Baptist",287,03/11/2016,104,68,Neutral,"Katy, Texas (Merrell Center)",-,"2,306"
 2016,SFA,676,"%
                   A&M-Corpus Christi",26172,03/12/2016,82,60,Neutral,"Katy, Texas (Merrell Center)",-,"4,399"
+2016,SFA,676,"%
+                  West Virginia",768,03/18/2016,70,56,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,333"
+2016,SFA,676,"%
+                  Notre Dame",513,03/20/2016,75,76,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,401"
 2016,Shaw,636,"%
                   West Va. Wesleyan",9630,11/13/2015,82,85,Neutral,"Fairmont, W.Va. -- Joe Retton Arena",-,271
 2016,Shaw,636,"%
@@ -46699,6 +47079,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Manhattan",381,03/05/2016,89,76,Home,"",-,"6,978"
 2016,Siena,639,"%
                   Iona",310,03/06/2016,70,81,Home,"",-,"5,722"
+2016,Siena,639,"%
+                  Morehead St.",444,03/15/2016,80,84,Home,"",-,"2,061"
 2016,Simon Fraser,30127,"%
                   Central Wash.",1010,11/14/2015,82,94,Home,"",-,280
 2016,Simon Fraser,30127,"%
@@ -47208,7 +47590,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,South Ala.,646,"%
                   Texas St.",670,03/05/2016,57,68,Away,"",-,"2,001"
 2016,South Ala.,646,"%
-                  Ga. Southern",253,03/10/2016,67,61,Neutral,Lakefront Arena,-,0
+                  Ga. Southern",253,03/10/2016,67,61,Neutral,Lakefront Arena,-,703
 2016,South Ala.,646,"%
                   La.-Lafayette",671,03/11/2016,68,90,Neutral,Lakefront Arena,-,0
 2016,South Carolina,648,"%
@@ -47275,6 +47657,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Arkansas",31,03/05/2016,76,61,Away,"",-,"17,106"
 2016,South Carolina,648,"%
                   Georgia",257,03/11/2016,64,65,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"18,049"
+2016,South Carolina,648,"%
+                  High Point",19651,03/15/2016,88,66,Home,"",-,"2,566"
+2016,South Carolina,648,"%
+                  Georgia Tech",255,03/21/2016,66,83,Home,"",-,"2,856"
 2016,South Carolina St.,647,"%
                   Col. of Charleston",1014,11/13/2015,54,74,Away,"",-,"4,024"
 2016,South Carolina St.,647,"%
@@ -47341,6 +47727,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Norfolk St.",485,03/11/2016,67,65,Neutral,"The Scope - Norfolk, Va.",-,0
 2016,South Carolina St.,647,"%
                   Hampton",270,03/12/2016,69,81,Neutral,"The Scope - Norfolk, Va.",-,0
+2016,South Carolina St.,647,"%
+                  Grand Canyon",1104,03/14/2016,74,78,Away,"",-,"7,315"
 2016,South Dakota,650,"%
                   Wright St.",810,11/13/2015,69,77,Neutral,NIU Convocation Center,-,995
 2016,South Dakota,650,"%
@@ -47522,7 +47910,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,South Dakota St.,649,"%
                   Denver",183,03/07/2016,54,53,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"9,735"
 2016,South Dakota St.,649,"%
-                  North Dakota St.",493,08/03/2016,67,59,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"10,188"
+                  North Dakota St.",493,03/08/2016,67,59,Neutral,"Sioux Falls, S.D. (PREMIER Center)",-,"10,188"
+2016,South Dakota St.,649,"%
+                  Maryland",392,03/18/2016,74,79,Neutral,"Spokane Arena - Spokane, Washington",-,"11,109"
 2016,South Fla.,651,"%
                   Troy",716,11/13/2015,77,82,Home,"",-,"4,859"
 2016,South Fla.,651,"%
@@ -47897,6 +48287,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   UCLA",110,03/09/2016,95,71,Neutral,"MGM Grand Garden Arena (Las Vegas, NV)",-,"12,916"
 2016,Southern California,657,"%
                   Utah",732,03/10/2016,72,80,Neutral,"Las Vegas, Nev. (MGM Grand Garden Arena)",-,"12,916"
+2016,Southern California,657,"%
+                  Providence",556,03/17/2016,69,70,Neutral,"Raleigh, NC",-,"17,387"
 2016,Southern Conn. St.,658,"%
                   Dominican (NY)",8956,11/14/2015,99,69,Neutral,"Bridgeport, Conn.-Hubbell Gym",-,157
 2016,Southern Conn. St.,658,"%
@@ -48258,7 +48650,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern N.H.,468,"%
                   Holy Family",1126,03/12/2016,88,80,Away,"",-,456
 2016,Southern N.H.,468,"%
-                  Stonehill",682,03/13/2016,0,0,Neutral,"Philadelphia, PA",-,0
+                  Stonehill",682,03/13/2016,74,75,Neutral,"Philadelphia, Pa. - Campus Center Gym",1 OT,336
 2016,Southern Nazarene,30152,"%
                   Neb.-Kearney",1156,11/13/2015,80,95,Neutral,"Weatherford, Okla. (Pioneer Cellular EC)",-,124
 2016,Southern Nazarene,30152,"%
@@ -48385,6 +48777,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Texas Southern",699,03/11/2016,81,73,Neutral,"Houston, Texas (Toyota Center)",-,"2,008"
 2016,Southern U.,665,"%
                   Jackson St.",314,03/12/2016,54,53,Neutral,"Houston, Texas (Toyota Center)",-,"3,041"
+2016,Southern U.,665,"%
+                  Holy Cross",285,03/16/2016,55,59,Neutral,"University of Dayton Arena, Dayton, Ohio",-,"12,582"
 2016,Southern Utah,667,"%
                   Utah",732,11/13/2015,71,82,Away,"",-,"12,050"
 2016,Southern Utah,667,"%
@@ -49052,7 +49446,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Anselm,593,"%
                   Philadelphia U.",543,03/12/2016,83,71,Neutral,"Philadelphia, Pa. (Campus Center)",-,576
 2016,St. Anselm,593,"%
-                  St. Thomas Aquinas",1348,03/13/2016,77,73,Neutral,"Philadelphia, Pa. (Campus Center)",-,565
+                  St. Thomas Aquinas",1348,03/13/2016,77,73,Neutral,"Philadelphia, Pa. (Campus Center)",-,336
+2016,St. Anselm,593,"%
+                  Stonehill",682,03/15/2016,76,82,Neutral,"Philadelphia, Pa. (Campus Center)",1 OT,182
 2016,St. Bonaventure,596,"%
                   Binghamton",62,11/13/2015,63,53,Home,"",-,"4,277"
 2016,St. Bonaventure,596,"%
@@ -49113,6 +49509,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Saint Louis",609,03/05/2016,76,67,Away,"",-,"7,812"
 2016,St. Bonaventure,596,"%
                   Davidson",173,03/11/2016,86,90,Neutral,"Brooklyn, N.Y. (Barclays Center)",1 OT,"8,223"
+2016,St. Bonaventure,596,"%
+                  Wagner",748,03/16/2016,75,79,Home,"",-,"4,793"
 2016,St. Cloud St.,598,"%
                   Mo. Southern St.",9012,11/13/2015,79,95,Away,"",-,"1,678"
 2016,St. Cloud St.,598,"%
@@ -49743,6 +50141,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Pepperdine",541,03/07/2016,81,66,Neutral,"The Orleans Arena (Las Vegas, NV)",-,0
 2016,St. Mary's (CA),610,"%
                   Gonzaga",260,03/08/2016,75,85,Neutral,"Orleans Arena (Las Vegas, Nev.)",-,"7,418"
+2016,St. Mary's (CA),610,"%
+                  New Mexico St.",472,03/15/2016,58,56,Home,"",-,"1,154"
+2016,St. Mary's (CA),610,"%
+                  Georgia",257,03/20/2016,77,65,Home,"",-,"2,050"
+2016,St. Mary's (CA),610,"%
+                  Valparaiso",735,03/22/2016,0,0,Away,"",-,0
 2016,St. Mary's (MD),611,"%
                   Bridgewater (VA)",75,11/14/2015,68,63,Home,"",-,537
 2016,St. Mary's (MD),611,"%
@@ -50086,7 +50490,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Thomas (MN),620,"%
                   Augustana (IL)",40,03/12/2016,86,76,Away,"",-,"2,308"
 2016,St. Thomas (MN),620,"%
-                  Chris. Newport",139,03/18/2016,0,0,Neutral,"Salem, VA",-,0
+                  Chris. Newport",139,03/18/2016,66,62,Neutral,"Salem, Va. (Salem Civic Center)",-,"2,265"
+2016,St. Thomas (MN),620,"%
+                  Benedictine (IL)",296,03/19/2016,82,76,Neutral,"Salem Civic Center - Salem, VA",-,"2,708"
 2016,St. Thomas Aquinas,1348,"%
                   Saint Michael's",613,11/14/2015,77,61,Home,"",-,365
 2016,St. Thomas Aquinas,1348,"%
@@ -50150,7 +50556,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Thomas Aquinas,1348,"%
                   Southern Conn. St.",658,03/12/2016,92,90,Neutral,"Philadelphia, Pa. (Campus Center)",-,0
 2016,St. Thomas Aquinas,1348,"%
-                  St. Anselm",593,03/13/2016,73,77,Neutral,"Philadelphia, Pa. (Campus Center)",-,565
+                  St. Anselm",593,03/13/2016,73,77,Neutral,"Philadelphia, Pa. (Campus Center)",-,336
 2016,Stanford,674,"%
                   Green Bay",794,11/13/2015,93,89,Home,"",1 OT,"3,783"
 2016,Stanford,674,"%
@@ -50550,7 +50956,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stillman,680,"%
                   West Ga.",766,03/12/2016,85,79,Neutral,"Huntsville, Ala.",-,288
 2016,Stillman,680,"%
-                  Ala.-Huntsville",10,03/13/2016,0,0,Away,"",-,0
+                  Ala.-Huntsville",10,03/13/2016,71,81,Away,"",-,"2,034"
 2016,Stockton,681,"%
                   Staten Island",675,11/17/2015,68,72,Home,"",-,350
 2016,Stockton,681,"%
@@ -50668,7 +51074,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stonehill,682,"%
                   Bentley",56,03/12/2016,78,62,Neutral,"Philadelphia, Pa. (Campus Center)",-,456
 2016,Stonehill,682,"%
-                  Southern N.H.",468,03/13/2016,0,0,Neutral,"Philadelphia, PA",-,0
+                  Southern N.H.",468,03/13/2016,75,74,Neutral,"Philadelphia, Pa. - Campus Center Gym",1 OT,336
+2016,Stonehill,682,"%
+                  St. Anselm",593,03/15/2016,82,76,Neutral,"Philadelphia, Pa. (Campus Center)",1 OT,182
+2016,Stonehill,682,"%
+                  West Liberty",1438,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,Stony Brook,683,"%
                   Merchant Marine",724,11/14/2015,103,32,Home,"",-,"3,404"
 2016,Stony Brook,683,"%
@@ -50733,6 +51143,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Hartford",272,03/07/2016,80,64,Home,"",-,"4,109"
 2016,Stony Brook,683,"%
                   Vermont",738,03/12/2016,80,74,Home,"",-,"4,109"
+2016,Stony Brook,683,"%
+                  Kentucky",334,03/17/2016,57,85,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,774"
 2016,Suffolk,684,"%
                   UMass Boston",401,11/14/2015,61,72,Home,"",-,224
 2016,Suffolk,684,"%
@@ -51483,6 +51895,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Florida St.",234,03/05/2016,73,78,Away,"",-,"7,769"
 2016,Syracuse,688,"%
                   Pittsburgh",545,03/09/2016,71,72,Neutral,"Verizon Center, Washington, DC",-,"18,561"
+2016,Syracuse,688,"%
+                  Dayton",175,03/18/2016,70,51,Neutral,"Scottrade Center, St. Louis, Missouri",-,0
+2016,Syracuse,688,"%
+                  Middle Tenn.",419,03/20/2016,75,50,Neutral,"Scottrade Center, St. Louis, Missouri",-,0
+2016,Syracuse,688,"%
+                  Gonzaga",260,03/25/2016,0,0,Neutral,Chicago,-,0
 2016,Tampa,689,"%
                   Ala.-Huntsville",10,11/13/2015,61,82,Neutral,"Saint Leo, Fla. -- Bowman Center",-,0
 2016,Tampa,689,"%
@@ -51598,7 +52016,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tarleton St.,1395,"%
                   Colorado Mines",155,03/12/2016,83,61,Neutral,"Wichita Falls, Texas",-,"1,209"
 2016,Tarleton St.,1395,"%
-                  Lubbock Christian",30177,03/13/2016,0,0,Neutral,"Wichita Falls, TX",-,0
+                  Lubbock Christian",30177,03/13/2016,69,63,Neutral,"Wichita Falls, Texas",-,779
+2016,Tarleton St.,1395,"%
+                  Angelo St.",25,03/15/2016,77,72,Neutral,"Wichita Falls, Texas",-,"1,419"
+2016,Tarleton St.,1395,"%
+                  Augustana (SD)",41,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,TCNJ,712,"%
                   Salve Regina",623,11/13/2015,79,80,Neutral,"Norton, Mass.-Emerson Gymnasium",-,113
 2016,TCNJ,712,"%
@@ -51785,6 +52207,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   South Fla.",651,03/11/2016,79,62,Neutral,"Orlando, Fla. - Amway Center",-,"7,475"
 2016,Temple,690,"%
                   UConn",164,03/12/2016,62,77,Neutral,"Orlando, Fla. - Amway Center",-,"7,465"
+2016,Temple,690,"%
+                  Iowa",312,03/18/2016,70,72,Neutral,"Brooklyn, N.Y. (Barclays Center)",1 OT,"17,333"
 2016,Tennessee,694,"%
                   UNC Asheville",456,11/13/2015,82,78,Home,"",-,"11,564"
 2016,Tennessee,694,"%
@@ -51913,6 +52337,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Belmont",14927,02/28/2016,87,72,Home,"",-,"6,845"
 2016,Tennessee St.,691,"%
                   Austin Peay",43,03/03/2016,72,74,Neutral,"Nashville, Tenn. (Municipal Auditorium)",-,"1,545"
+2016,Tennessee St.,691,"%
+                  Ball St.",47,03/15/2016,73,78,Home,"",2 OT,"1,013"
 2016,Tennessee Tech,692,"%
                   Piedmont",21830,11/14/2015,110,72,Home,"",-,"1,615"
 2016,Tennessee Tech,692,"%
@@ -52261,6 +52687,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Oklahoma St.",521,03/04/2016,62,50,Away,"",-,"4,023"
 2016,Texas,703,"%
                   Baylor",51,03/10/2016,61,75,Neutral,"Kansas City, Mo. (Sprint Center)",-,0
+2016,Texas,703,"%
+                  UNI",504,03/18/2016,72,75,Neutral,Chesapeake Arena-Oklahoma City,-,"15,279"
 2016,Texas A&M,697,"%
                   USC Upstate",10411,11/13/2015,104,64,Home,"",-,"6,552"
 2016,Texas A&M,697,"%
@@ -52329,6 +52757,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   LSU",365,03/12/2016,71,38,Neutral,"2016 SEC Men's Basketball-Nashville, TN",-,0
 2016,Texas A&M,697,"%
                   Kentucky",334,03/13/2016,77,82,Neutral,"2016 SEC Men's Tournament-Nashville, TN",1 OT,"19,613"
+2016,Texas A&M,697,"%
+                  Green Bay",794,03/18/2016,92,65,Neutral,Chesapeake Arena-Oklahoma City,-,"15,279"
+2016,Texas A&M,697,"%
+                  UNI",504,03/20/2016,92,88,Neutral,Chesapeake Arena-Oklahoma City,2 OT,"16,088"
+2016,Texas A&M,697,"%
+                  Oklahoma",522,03/24/2016,0,0,Neutral,Anaheim,-,0
 2016,Texas Lutheran,1400,"%
                   Texas-Tyler",30028,11/15/2015,83,67,Home,"",-,540
 2016,Texas Lutheran,1400,"%
@@ -52400,7 +52834,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas Southern,699,"%
                   Mississippi St.",430,12/02/2015,73,86,Away,"",-,"6,239"
 2016,Texas Southern,699,"%
-                  Stephen F. Austin",676,12/05/2015,62,66,Away,"",-,"2,392"
+                  SFA",676,12/05/2015,62,66,Away,"",-,"2,392"
 2016,Texas Southern,699,"%
                   Central Mich.",129,12/12/2015,71,79,Away,"",-,"2,492"
 2016,Texas Southern,699,"%
@@ -52449,6 +52883,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Alabama A&M",6,03/09/2016,77,69,Neutral,"Houston, Texas (Toyota Center)",-,0
 2016,Texas Southern,699,"%
                   Southern U.",665,03/11/2016,73,81,Neutral,"Houston, Texas (Toyota Center)",-,"2,008"
+2016,Texas Southern,699,"%
+                  Valparaiso",735,03/15/2016,73,84,Away,"",-,"2,912"
 2016,Texas St.,670,"%
                   Texas-Tyler",30028,11/16/2015,84,49,Home,"",-,"2,196"
 2016,Texas St.,670,"%
@@ -52573,6 +53009,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Kansas St.",327,03/05/2016,80,71,Home,"",-,"12,359"
 2016,Texas Tech,700,"%
                   TCU",698,03/09/2016,62,67,Neutral,"Kansas City, Mo. (Sprint Center)",-,"18,972"
+2016,Texas Tech,700,"%
+                  Butler",87,03/17/2016,61,71,Neutral,"Raleigh, NC",-,0
 2016,Texas-Dallas,23121,"%
                   Centenary (LA)",125,11/14/2015,86,68,Home,"",-,"1,137"
 2016,Texas-Dallas,23121,"%
@@ -53681,6 +54119,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   South Fla.",651,03/05/2016,84,74,Home,"",-,"6,524"
 2016,Tulsa,719,"%
                   Memphis",404,03/11/2016,67,89,Neutral,"Orlando, Fla. - Amway Center",-,"7,218"
+2016,Tulsa,719,"%
+                  Michigan",418,03/16/2016,62,67,Neutral,"University of Dayton Arena; Dayton, Ohio",-,"12,582"
 2016,Tusculum,12830,"%
                   Lees-McRae",13302,11/13/2015,78,75,Neutral,"Bristol, Tenn. (Student Center Complex)",-,454
 2016,Tusculum,12830,"%
@@ -53872,7 +54312,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UAB,9,"%
                   Hiwassee",,12/22/2015,116,43,Home,"",-,"3,455"
 2016,UAB,9,"%
-                  Stephen F. Austin",676,12/29/2015,76,66,Home,"",-,"3,956"
+                  SFA",676,12/29/2015,76,66,Home,"",-,"3,956"
 2016,UAB,9,"%
                   Middle Tenn.",419,01/03/2016,78,67,Home,"",-,"4,279"
 2016,UAB,9,"%
@@ -53911,6 +54351,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Fla. Atlantic",229,03/05/2016,73,70,Away,"",-,729
 2016,UAB,9,"%
                   Western Ky.",772,03/10/2016,77,88,Neutral,"Birmingham, Ala. (Legacy Arena)",-,0
+2016,UAB,9,"%
+                  BYU",77,03/16/2016,79,97,Away,"",-,"8,420"
 2016,UC Davis,108,"%
                   North Dakota St.",493,11/13/2015,71,79,Home,"",1 OT,"3,366"
 2016,UC Davis,108,"%
@@ -54039,6 +54481,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Cal Poly",90,03/10/2016,84,64,Neutral,"Anaheim, CA",-,0
 2016,UC Irvine,109,"%
                   Long Beach St.",99,03/11/2016,72,77,Neutral,"Anaheim, Ca",-,"5,134"
+2016,UC Irvine,109,"%
+                  North Dakota",494,03/16/2016,89,86,Away,"",1 OT,"1,263"
+2016,UC Irvine,109,"%
+                  La.-Lafayette",671,03/23/2016,0,0,Away,"",-,0
 2016,UC Riverside,111,"%
                   William Jessup",,11/14/2015,100,68,Home,"",-,"2,247"
 2016,UC Riverside,111,"%
@@ -54168,7 +54614,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UC San Diego,112,"%
                   California Baptist",30135,03/12/2016,71,69,Neutral,"Monmouth, OR (New PE Building)",-,336
 2016,UC San Diego,112,"%
-                  Western Ore.",1446,03/14/2016,0,0,Away,"",-,0
+                  Western Ore.",1446,03/14/2016,55,60,Away,"",-,"1,569"
 2016,UC Santa Barbara,104,"%
                   Omaha",464,11/13/2015,60,59,Away,"",-,"3,538"
 2016,UC Santa Barbara,104,"%
@@ -54533,6 +54979,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Temple",690,03/12/2016,77,62,Neutral,"Orlando, Fla. - Amway Center",-,"7,465"
 2016,UConn,164,"%
                   Memphis",404,03/13/2016,72,58,Neutral,"Orlando, Fla. - Amway Center",-,"7,990"
+2016,UConn,164,"%
+                  Colorado",157,03/17/2016,74,67,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,628"
+2016,UConn,164,"%
+                  Kansas",328,03/19/2016,61,73,Neutral,"Wells Fargo Arena - Des Moines, Iowa",-,"16,824"
 2016,UIndy,309,"%
                   Lake Erie",2746,11/13/2015,72,69,Neutral,"Kates Gymnasium - Ashland, Ohio",-,211
 2016,UIndy,309,"%
@@ -54590,7 +55040,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UIndy,309,"%
                   Ashland",35,03/12/2016,77,60,Neutral,"Somers, WI (DeSimone Gymnasium)",-,250
 2016,UIndy,309,"%
-                  Ferris St.",224,03/13/2016,0,0,Neutral,"Somers, WI",-,0
+                  Ferris St.",224,03/13/2016,87,89,Neutral,"Somers, WI (DeSimone Gymnasium)",-,416
 2016,UMass Boston,401,"%
                   Suffolk",684,11/14/2015,72,61,Away,"",-,224
 2016,UMass Boston,401,"%
@@ -55011,6 +55461,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   High Point",19651,03/05/2016,80,69,Neutral,"Buies Creek, NC (Pope Center/Gore Arena)",-,0
 2016,UNC Asheville,456,"%
                   Winthrop",792,03/06/2016,77,68,Neutral,"Buies Creek, NC (Pope Center/Gore Arena)",-,"2,538"
+2016,UNC Asheville,456,"%
+                  Villanova",739,03/18/2016,56,86,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,333"
 2016,UNC Pembroke,537,"%
                   Lenoir-Rhyne",1170,11/13/2015,94,101,Neutral,"Florence, S.C./Smith University Center",-,133
 2016,UNC Pembroke,537,"%
@@ -55131,6 +55583,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Mercer",406,02/28/2016,69,65,Home,"",-,"3,156"
 2016,UNCG,459,"%
                   Furman",244,03/05/2016,64,80,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,"5,164"
+2016,UNCG,459,"%
+                  Houston Baptist",287,03/16/2016,69,65,Home,"",-,"1,031"
+2016,UNCG,459,"%
+                  Ohio",519,03/21/2016,67,72,Away,"",-,"3,567"
 2016,UNCW,460,"%
                   Milligan",,11/13/2015,100,62,Home,"",-,"3,520"
 2016,UNCW,460,"%
@@ -55195,6 +55651,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Northeastern",500,03/06/2016,73,70,Neutral,"Baltimore, Md - Royal Farms Arena",-,"3,643"
 2016,UNCW,460,"%
                   Hofstra",283,03/07/2016,80,73,Neutral,"Baltimore, Md - Royal Farms Arena",1 OT,"3,031"
+2016,UNCW,460,"%
+                  Duke",193,03/17/2016,85,93,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,0
 2016,UNI,504,"%
                   Colorado St.",156,11/14/2015,78,84,Home,"",-,"4,455"
 2016,UNI,504,"%
@@ -55263,6 +55721,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Wichita St.",782,03/05/2016,57,52,Neutral,"Scottrade Center, St. Louis, MO",1 OT,"14,299"
 2016,UNI,504,"%
                   Evansville",219,03/06/2016,56,54,Neutral,"Scottrade Center, St. Louis, MO",-,"9,765"
+2016,UNI,504,"%
+                  Texas",703,03/18/2016,75,72,Neutral,Chesapeake Arena-Oklahoma City,-,"15,279"
+2016,UNI,504,"%
+                  Texas A&M",697,03/20/2016,88,92,Neutral,Chesapeake Arena-Oklahoma City,2 OT,"16,088"
 2016,Union (NY),727,"%
                   Hartwick",273,11/14/2015,82,62,Home,"",-,384
 2016,Union (NY),727,"%
@@ -55376,7 +55838,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Union (TN),30153,"%
                   Eckerd",208,03/12/2016,88,85,Neutral,"Huntsville, Ala.",1 OT,333
 2016,Union (TN),30153,"%
-                  Barry",49,03/13/2016,65,74,Neutral,"Huntsville, Ala.",-,249
+                  Barry",49,03/13/2016,65,74,Neutral,"Huntsville, AL",-,249
 2016,UNLV,465,"%
                   Cal Poly",90,11/13/2015,74,72,Home,"",-,"12,201"
 2016,UNLV,465,"%
@@ -55803,6 +56265,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Texas St.",670,03/11/2016,72,63,Neutral,Lakefront Arena,-,907
 2016,UT Arlington,702,"%
                   La.-Monroe",498,03/12/2016,71,82,Neutral,Lakefront Arena,-,"1,629"
+2016,UT Arlington,702,"%
+                  Savannah St.",632,03/16/2016,75,59,Away,"",-,"1,192"
+2016,UT Arlington,702,"%
+                  NJIT",471,03/24/2016,0,0,Away,"",-,0
 2016,UT Martin,695,"%
                   Oklahoma St.",521,11/13/2015,57,91,Away,"",-,"4,972"
 2016,UT Martin,695,"%
@@ -55869,6 +56335,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Morehead St.",444,03/04/2016,83,70,Neutral,"Nashville, Tenn. (Municipal Auditorium)",-,"2,167"
 2016,UT Martin,695,"%
                   Austin Peay",43,03/05/2016,73,83,Neutral,"Nashville, Tenn. (Municipal Auditorium)",-,"2,068"
+2016,UT Martin,695,"%
+                  Central Mich.",129,03/16/2016,76,73,Away,"",-,832
+2016,UT Martin,695,"%
+                  Ball St.",47,03/20/2016,80,83,Away,"",1 OT,"1,203"
 2016,Utah,732,"%
                   Southern Utah",667,11/13/2015,82,71,Home,"",-,"12,050"
 2016,Utah,732,"%
@@ -55937,6 +56407,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   California",107,03/11/2016,82,78,Neutral,"Las Vegas, Nev. (MGM Grand Garden Arena)",1 OT,"12,916"
 2016,Utah,732,"%
                   Oregon",529,03/12/2016,57,88,Neutral,"MGM Grand Garden Arena, Las Vegas, Nev.",-,"12,916"
+2016,Utah,732,"%
+                  Fresno St.",96,03/17/2016,80,69,Neutral,"Denver, Colo. (Pepsi Center)",-,"19,500"
+2016,Utah,732,"%
+                  Gonzaga",260,03/19/2016,59,82,Neutral,"Pepsi Center, Denver, Colo.",-,"19,551"
 2016,Utah St.,731,"%
                   Weber St.",758,11/13/2015,73,70,Away,"",-,"8,964"
 2016,Utah St.,731,"%
@@ -56518,17 +56992,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Valley Forge,30166,"%
                   Crown (TN)",,02/25/2016,91,73,Neutral,"Louisville, KY",-,40
 2016,Valley Forge,30166,"%
-                  Ky. Christian",,02/26/2016,82,73,Neutral,"Louisville, KY",-,0
+                  Ky. Christian",,02/26/2016,82,73,Neutral,"Louisville, KY",-,40
 2016,Valley Forge,30166,"%
                   Johnson (TN)",,02/27/2016,90,71,Neutral,"Louisville, Ky",-,40
 2016,Valley Forge,30166,"%
-                  Grace Bible (MI)",,03/10/2016,0,0,Neutral,"Ankey, IA",-,0
+                  Grace Bible (MI)",,03/10/2016,62,78,Neutral,"Ankeny, IA",-,0
 2016,Valley Forge,30166,"%
-                  Grace Bible (MI)",,03/10/2016,62,78,Away,"",-,0
-2016,Valley Forge,30166,"%
-                  Pensacola Christian",,03/11/2016,0,0,Neutral,"Ankey, IA",-,0
-2016,Valley Forge,30166,"%
-                  Pensacola Christian",,03/11/2016,65,71,Home,"",-,0
+                  Pensacola Christian",,03/11/2016,65,71,Neutral,"Ankeny, IA",-,0
 2016,Valparaiso,735,"%
                   IPFW",308,11/13/2015,78,64,Home,"",-,"4,117"
 2016,Valparaiso,735,"%
@@ -56593,6 +57063,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Green Bay",794,02/28/2016,70,68,Away,"",-,"4,491"
 2016,Valparaiso,735,"%
                   Green Bay",794,03/07/2016,92,99,Neutral,"Joe Louis Arena (Detroit, Mich.)",1 OT,0
+2016,Valparaiso,735,"%
+                  Texas Southern",699,03/15/2016,84,73,Home,"",-,"2,912"
+2016,Valparaiso,735,"%
+                  Florida St.",234,03/17/2016,81,69,Home,"",-,"4,991"
+2016,Valparaiso,735,"%
+                  St. Mary's (CA)",610,03/22/2016,0,0,Home,"",-,0
 2016,Vanderbilt,736,"%
                   Austin Peay",43,11/13/2015,80,41,Home,"",-,"10,116"
 2016,Vanderbilt,736,"%
@@ -56657,6 +57133,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Texas A&M",697,03/05/2016,67,76,Away,"",-,"12,007"
 2016,Vanderbilt,736,"%
                   Tennessee",694,03/10/2016,65,67,Neutral,"2016 SEC Men's Tournament-Nashville, TN",-,"12,270"
+2016,Vanderbilt,736,"%
+                  Wichita St.",782,03/15/2016,50,70,Neutral,"University of Dayton Arena; Dayton, Ohio",-,"11,728"
 2016,Vassar,737,"%
                   SUNY New Paltz",475,11/13/2015,68,70,Away,"",-,550
 2016,Vassar,737,"%
@@ -56777,6 +57255,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Davidson",173,03/12/2016,76,54,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"10,439"
 2016,VCU,740,"%
                   Saint Joseph's",606,03/13/2016,74,87,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"8,413"
+2016,VCU,740,"%
+                  Oregon St.",528,03/18/2016,75,67,Neutral,Chesapeake Arena-Oklahoma City,-,0
+2016,VCU,740,"%
+                  Oklahoma",522,03/20/2016,81,85,Neutral,Chesapeake Arena-Oklahoma City,-,0
 2016,Vermont,738,"%
                   Eastern Mich.",204,11/13/2015,50,70,Away,"",-,"3,307"
 2016,Vermont,738,"%
@@ -56845,6 +57327,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   New Hampshire",469,03/07/2016,63,56,Home,"",-,"2,840"
 2016,Vermont,738,"%
                   Stony Brook",683,03/12/2016,74,80,Away,"",-,"4,109"
+2016,Vermont,738,"%
+                  Western Caro.",769,03/16/2016,79,74,Home,"",-,"1,486"
+2016,Vermont,738,"%
+                  Seattle",1356,03/21/2016,73,54,Away,"",-,999
+2016,Vermont,738,"%
+                  Nevada",466,03/23/2016,0,0,Away,"",-,0
 2016,Villanova,739,"%
                   Fairleigh Dickinson",222,11/13/2015,91,54,Home,"",-,"6,500"
 2016,Villanova,739,"%
@@ -56913,6 +57401,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Providence",556,03/11/2016,76,68,Neutral,"Madison Square Garden, New York, NY",-,"17,130"
 2016,Villanova,739,"%
                   Seton Hall",635,03/12/2016,67,69,Neutral,"Madison Square Garden, New York, NY",-,"19,812"
+2016,Villanova,739,"%
+                  UNC Asheville",456,03/18/2016,86,56,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,333"
+2016,Villanova,739,"%
+                  Iowa",312,03/20/2016,87,68,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,401"
+2016,Villanova,739,"%
+                  Miami (FL)",415,03/24/2016,0,0,Neutral,Louisville,-,0
 2016,Virginia,746,"%
                   Morgan St.",446,11/13/2015,86,48,Home,"",-,"14,034"
 2016,Virginia,746,"%
@@ -56979,6 +57473,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Miami (FL)",415,03/11/2016,73,68,Neutral,"Verizon Center, Washington, DC",-,"20,719"
 2016,Virginia,746,"%
                   North Carolina",457,03/12/2016,57,61,Neutral,"Verizon Center, Washington, DC",-,"20,719"
+2016,Virginia,746,"%
+                  Hampton",270,03/17/2016,81,45,Neutral,"Raleigh, NC",-,0
+2016,Virginia,746,"%
+                  Butler",87,03/19/2016,77,69,Neutral,"Raleigh, NC",-,0
+2016,Virginia,746,"%
+                  Iowa St.",311,03/25/2016,0,0,Neutral,Chicago,-,0
 2016,Virginia St.,743,"%
                   Slippery Rock",643,11/13/2015,59,65,Home,"",-,"1,679"
 2016,Virginia St.,743,"%
@@ -57038,9 +57538,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Virginia St.,743,"%
                   Fairmont St.",1076,03/12/2016,76,66,Neutral,"Wheeling, WV (McDonough Center)",-,0
 2016,Virginia St.,743,"%
-                  West Liberty",1438,03/13/2016,0,0,Neutral,"Wheeling, WV",-,0
-2016,Virginia St.,743,"%
-                  West Liberty",1438,03/13/2016,74,84,Away,"",-,"1,758"
+                  West Liberty",1438,03/13/2016,74,84,Neutral,"Wheeling, WV",-,"1,758"
 2016,Virginia Tech,742,"%
                   Alabama St.",7,11/14/2015,82,85,Home,"",-,"6,519"
 2016,Virginia Tech,742,"%
@@ -57107,6 +57605,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Florida St.",234,03/09/2016,96,85,Neutral,"Verizon Center, Washington, DC",-,"18,561"
 2016,Virginia Tech,742,"%
                   Miami (FL)",415,03/10/2016,82,88,Neutral,"Verizon Center, Washington, DC",-,"20,719"
+2016,Virginia Tech,742,"%
+                  Princeton",554,03/16/2016,86,81,Home,"",1 OT,"8,241"
+2016,Virginia Tech,742,"%
+                  BYU",77,03/18/2016,77,80,Away,"",-,"12,379"
 2016,Virginia Union,744,"%
                   Shepherd",10870,11/14/2015,76,87,Away,"",-,401
 2016,Virginia Union,744,"%
@@ -57343,6 +57845,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   LIU Brooklyn",361,03/05/2016,81,65,Home,"",-,"1,814"
 2016,Wagner,748,"%
                   Fairleigh Dickinson",222,03/08/2016,79,87,Home,"",-,"2,358"
+2016,Wagner,748,"%
+                  St. Bonaventure",596,03/16/2016,79,75,Away,"",-,"4,793"
+2016,Wagner,748,"%
+                  Creighton",169,03/19/2016,54,87,Away,"",-,"6,471"
 2016,Wake Forest,749,"%
                   UMBC",391,11/13/2015,78,73,Home,"",-,"6,904"
 2016,Wake Forest,749,"%
@@ -57741,6 +58247,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Stanford",674,03/09/2016,91,68,Neutral,"MGM Grand Garden Arena (Las Vegas, NV)",-,"12,916"
 2016,Washington,756,"%
                   Oregon",529,03/10/2016,77,83,Neutral,"MGM Grand Garden Arena, Las Vegas, Nev.",-,"12,916"
+2016,Washington,756,"%
+                  Long Beach St.",99,03/15/2016,107,102,Home,"",-,"3,505"
+2016,Washington,756,"%
+                  San Diego St.",626,03/21/2016,78,93,Away,"",-,"12,414"
 2016,Washington Col.,753,"%
                   Widener",783,11/13/2015,72,82,Away,"",-,343
 2016,Washington Col.,753,"%
@@ -58129,6 +58639,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   North Dakota",494,03/11/2016,83,78,Neutral,"Reno, Nev. (Reno Events Center)",1 OT,"2,362"
 2016,Weber St.,758,"%
                   Montana",441,03/12/2016,62,59,Neutral,"Reno, Nev. (Reno Events Center)",-,"2,516"
+2016,Weber St.,758,"%
+                  Xavier",812,03/18/2016,53,71,Neutral,"Scottrade Center, St. Louis, Missouri",-,"14,425"
 2016,Webster,759,"%
                   Central (IA)",126,11/14/2015,58,88,Away,"",-,400
 2016,Webster,759,"%
@@ -58676,9 +59188,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,West Liberty,1438,"%
                   Concord",1028,03/12/2016,90,69,Neutral,"Wheeling, WV (McDonough Center)",-,0
 2016,West Liberty,1438,"%
-                  Virginia St.",743,03/13/2016,0,0,Neutral,"Wheeling, WV",-,0
+                  Virginia St.",743,03/13/2016,84,74,Neutral,"Wheeling, WV",-,"1,758"
 2016,West Liberty,1438,"%
-                  Virginia St.",743,03/13/2016,84,74,Home,"",-,"1,758"
+                  Kutztown",339,03/15/2016,85,64,Neutral,"Wheeling, WV (McDonough Center)",-,"1,234"
+2016,West Liberty,1438,"%
+                  Stonehill",682,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,West Tex. A&M,767,"%
                   Fort Lewis",1083,11/13/2015,81,91,Away,"",-,"1,523"
 2016,West Tex. A&M,767,"%
@@ -58869,6 +59383,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Oklahoma",522,03/11/2016,69,67,Neutral,"Kansas City, Mo. (Sprint Center)",-,"18,972"
 2016,West Virginia,768,"%
                   Kansas",328,03/12/2016,71,81,Neutral,"Kansas City, Mo. (Sprint Center)",-,"19,046"
+2016,West Virginia,768,"%
+                  SFA",676,03/18/2016,56,70,Neutral,"Brooklyn, N.Y. (Barclays Center)",-,"17,333"
 2016,West Virginia St.,1439,"%
                   Chowan",8875,11/13/2015,75,71,Home,"",-,611
 2016,West Virginia St.,1439,"%
@@ -58991,6 +59507,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Wofford",2915,03/05/2016,88,83,Neutral,"Asheville, N.C. (U.S. Cellular Center)",2 OT,"5,667"
 2016,Western Caro.,769,"%
                   Chattanooga",693,03/06/2016,69,73,Neutral,"Asheville, N.C. (U.S. Cellular Center)",-,0
+2016,Western Caro.,769,"%
+                  Vermont",738,03/16/2016,74,79,Away,"",-,"1,486"
 2016,Western Conn. St.,770,"%
                   TCNJ",712,11/18/2015,82,83,Away,"",1 OT,250
 2016,Western Conn. St.,770,"%
@@ -59400,7 +59918,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Western Ore.,1446,"%
                   Azusa Pacific",30146,03/12/2016,81,69,Home,"",-,"1,061"
 2016,Western Ore.,1446,"%
-                  UC San Diego",112,03/14/2016,0,0,Home,"",-,0
+                  UC San Diego",112,03/14/2016,60,55,Home,"",-,"1,569"
+2016,Western Ore.,1446,"%
+                  Saginaw Valley",591,03/23/2016,0,0,Neutral,"Frisco, TX",-,0
 2016,Western St.,2759,"%
                   Ark.-Fort Smith",30105,11/13/2015,68,92,Away,"",-,"1,132"
 2016,Western St.,2759,"%
@@ -59901,8 +60421,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Notre Dame (OH)",30126,03/05/2016,68,76,Neutral,Charleston Civic Center Coliseum,-,0
 2016,Wheeling Jesuit,12799,"%
                   Mercyhurst",408,03/12/2016,65,66,Home,"",-,0
-2016,Wheeling Jesuit,12799,"%
-                  Mercyhurst",408,03/12/2016,65,66,Neutral,"Wheeling, WV",-,0
 2016,Wheelock,8896,"%
                   Wheaton (MA)",779,11/13/2015,75,93,Away,"",-,0
 2016,Wheelock,8896,"%
@@ -60179,6 +60697,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Loyola Chicago",371,03/04/2016,66,58,Neutral,"St. Louis, Mo./Scottrade Center",-,"10,560"
 2016,Wichita St.,782,"%
                   UNI",504,03/05/2016,52,57,Neutral,"Scottrade Center, St. Louis, MO",1 OT,"14,299"
+2016,Wichita St.,782,"%
+                  Vanderbilt",736,03/15/2016,70,50,Neutral,"University of Dayton Arena; Dayton, Ohio",-,"11,728"
+2016,Wichita St.,782,"%
+                  Arizona",29,03/17/2016,65,55,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,559"
+2016,Wichita St.,782,"%
+                  Miami (FL)",415,03/19/2016,57,65,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,679"
 2016,Widener,783,"%
                   Washington Col.",753,11/13/2015,82,72,Home,"",-,343
 2016,Widener,783,"%
@@ -60766,7 +61290,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wingate,1462,"%
                   Montevallo",1238,03/12/2016,89,88,Neutral,"Harrogate, Tenn.",1 OT,475
 2016,Wingate,1462,"%
-                  Lenoir-Rhyne",1170,03/13/2016,0,0,Neutral,"Harrogate, TN",-,0
+                  Lenoir-Rhyne",1170,03/13/2016,69,76,Neutral,"Harrogate, TN",-,575
 2016,Winona St.,790,"%
                   Wis. Lutheran",8911,11/14/2015,92,62,Home,"",-,"1,086"
 2016,Winona St.,790,"%
@@ -61220,7 +61744,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wis.-Parkside,799,"%
                   Ky. Wesleyan",333,03/12/2016,74,65,Home,"",-,908
 2016,Wis.-Parkside,799,"%
-                  Saginaw Valley",591,03/13/2016,0,0,Neutral,"Somers, WI",-,0
+                  Saginaw Valley",591,03/13/2016,77,92,Home,"",-,911
 2016,Wis.-Platteville,800,"%
                   Lake Forest",344,11/14/2015,76,73,Away,"",2 OT,358
 2016,Wis.-Platteville,800,"%
@@ -61599,6 +62123,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Purdue",559,03/06/2016,80,91,Away,"",-,"14,846"
 2016,Wisconsin,796,"%
                   Nebraska",463,03/10/2016,58,70,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"15,751"
+2016,Wisconsin,796,"%
+                  Pittsburgh",545,03/18/2016,47,43,Neutral,"Scottrade Center, St. Louis, Missouri",-,"14,425"
+2016,Wisconsin,796,"%
+                  Xavier",812,03/20/2016,66,63,Neutral,"Scottrade Center, St. Louis, Missouri",-,"15,169"
+2016,Wisconsin,796,"%
+                  Notre Dame",513,03/25/2016,0,0,Neutral,Philadelphia,-,0
 2016,Wittenberg,806,"%
                   Capital",117,11/14/2015,87,78,Neutral,"Westerville, Ohio -- Rike Center",-,588
 2016,Wittenberg,806,"%
@@ -62133,6 +62663,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Marquette",387,03/10/2016,90,72,Neutral,Madison Square Garden,-,0
 2016,Xavier,812,"%
                   Seton Hall",635,03/11/2016,83,87,Neutral,"Madison Square Garden, New York, NY",-,"17,130"
+2016,Xavier,812,"%
+                  Weber St.",758,03/18/2016,71,53,Neutral,"Scottrade Center, St. Louis, Missouri",-,"14,425"
+2016,Xavier,812,"%
+                  Wisconsin",796,03/20/2016,63,66,Neutral,"Scottrade Center, St. Louis, Missouri",-,"15,169"
 2016,Yale,813,"%
                   Fairfield",220,11/13/2015,70,57,Neutral,"New Britain, CT (Detrick Gymnasium)",-,"2,400"
 2016,Yale,813,"%
@@ -62189,6 +62723,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Cornell",167,03/04/2016,88,64,Away,"",-,"1,734"
 2016,Yale,813,"%
                   Columbia",158,03/05/2016,71,55,Away,"",-,"2,720"
+2016,Yale,813,"%
+                  Baylor",51,03/17/2016,79,75,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,656"
+2016,Yale,813,"%
+                  Duke",193,03/19/2016,64,71,Neutral,"Providence, R.I. (Dunkin' Donuts Center)",-,"11,679"
 2016,Yeshiva,814,"%
                   Gallaudet",245,11/15/2015,78,64,Home,"",-,223
 2016,Yeshiva,814,"%

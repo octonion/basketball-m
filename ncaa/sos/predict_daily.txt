@@ -1,9 +1,11 @@
 BEGIN
 SET
-     team     | h_div | site |              opp               | v_div | t_score | o_score 
---------------+-------+------+--------------------------------+-------+---------+---------
- Western Ore. |     2 | home | %                             +|     2 |    67.8 |    67.2
-              |       |      |                   UC San Diego |       |         | 
-(1 row)
+    team    | h_div | site |                opp                | v_div | t_score | o_score 
+------------+-------+------+-----------------------------------+-------+---------+---------
+ BYU        |     1 | home | %                                +|     1 |    83.2 |    79.0
+            |       |      |                   Creighton       |       |         | 
+ Valparaiso |     1 | home | %                                +|     1 |    64.2 |    63.3
+            |       |      |                   St. Mary's (CA) |       |         | 
+(2 rows)
 
 COMMIT
