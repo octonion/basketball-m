@@ -1,23 +1,11 @@
 BEGIN
   school_name   |   p    
 ----------------+--------
- Virginia       | 0.1942
- Kansas         | 0.1619
- North Carolina | 0.1331
- Villanova      | 0.1168
- Oklahoma       | 0.0648
- Indiana        | 0.0578
- Texas A&M      | 0.0437
- Gonzaga        | 0.0399
- Duke           | 0.0386
- Miami (FL)     | 0.0380
- Oregon         | 0.0345
- Iowa St.       | 0.0245
- Maryland       | 0.0172
- Syracuse       | 0.0129
- Notre Dame     | 0.0115
- Wisconsin      | 0.0105
-(16 rows)
+ North Carolina | 0.3728
+ Villanova      | 0.3444
+ Oklahoma       | 0.2058
+ Syracuse       | 0.0770
+(4 rows)
 
-COPY 16
+COPY 4
 COMMIT
