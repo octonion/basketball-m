@@ -1,15 +1,9 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  7 | North Carolina | 0.728
-  7 | Villanova      | 0.589
-  7 | Oklahoma       | 0.411
-  7 | Syracuse       | 0.272
-  8 | North Carolina | 0.373
-  8 | Villanova      | 0.344
-  8 | Oklahoma       | 0.206
-  8 | Syracuse       | 0.077
-(8 rows)
+  8 | Villanova      | 0.525
+  8 | North Carolina | 0.475
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT
