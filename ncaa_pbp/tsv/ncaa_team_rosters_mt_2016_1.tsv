@@ -320,19 +320,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	43	Austin Peay	2	1736933.0	Savage, Jared	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1736933.0	F	6-5	Fr	36	7
 2016	12260	43	Austin Peay	0	1736932.0	Thompson, Terrell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1736932.0	G	6-1	Jr	24	21
 2016	12260	77	BYU	10	1733563.0	Ainge, Cooper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733563.0	G	6-0	Fr	1	0
-2016	12260	77	BYU	33	1733570.0	Austin, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733570.0	F	6-11	Sr	36	12
+2016	12260	77	BYU	33	1733570.0	Austin, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733570.0	F	6-11	Sr	37	12
 2016	12260	77	BYU	40	1626439.0	Aytes, Jamal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626439.0	F	6-6	So	22	0
 2016	12260	77	BYU	3		Bryant, Elijah		G	6-5	So	0	0
 2016	12260	77	BYU	23	1733565.0	Calvert, Cory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733565.0	G	6-3	So	5	0
-2016	12260	77	BYU	25	1626440.0	Chatman, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626440.0	G	6-5	Fr	35	0
-2016	12260	77	BYU	5	1175962.0	Collinsworth, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1175962.0	G	6-6	Sr	36	35
-2016	12260	77	BYU	21	1626441.0	Davis, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626441.0	F	6-8	Jr	36	36
-2016	12260	77	BYU	4	1733566.0	Emery, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733566.0	G	6-2	Fr	35	31
-2016	12260	77	BYU	1	1513364.0	Fischer, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1513364.0	G	6-3	Sr	36	36
+2016	12260	77	BYU	25	1626440.0	Chatman, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626440.0	G	6-5	Fr	36	0
+2016	12260	77	BYU	5	1175962.0	Collinsworth, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1175962.0	G	6-6	Sr	37	36
+2016	12260	77	BYU	21	1626441.0	Davis, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626441.0	F	6-8	Jr	37	37
+2016	12260	77	BYU	4	1733566.0	Emery, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733566.0	G	6-2	Fr	36	32
+2016	12260	77	BYU	1	1513364.0	Fischer, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1513364.0	G	6-3	Sr	37	37
 2016	12260	77	BYU	24	1750670.0	Guinn, Davin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1750670.0	""	-	N/A	9	0
-2016	12260	77	BYU	34	1733567.0	Hartsock, Jakob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733567.0	F	6-8	Fr	23	2
-2016	12260	77	BYU	44	1626443.0	Kaufusi, Corbin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626443.0	C	6-10	So	35	22
-2016	12260	77	BYU	2	1733568.0	Seljaas, Zac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733568.0	G	6-7	Fr	34	1
+2016	12260	77	BYU	34	1733567.0	Hartsock, Jakob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733567.0	F	6-8	Fr	24	2
+2016	12260	77	BYU	44	1626443.0	Kaufusi, Corbin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626443.0	C	6-10	So	36	23
+2016	12260	77	BYU	2	1733568.0	Seljaas, Zac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733568.0	G	6-7	Fr	35	1
 2016	12260	77	BYU	31	1733569.0	Shaw, Braiden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733569.0	F	6-9	Fr	19	0
 2016	12260	77	BYU	15	1626446.0	Toolson, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626446.0	G	6-5	So	10	5
 2016	12260	47	Ball St.	5	1406925.0	Belcaster, Rocco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1406925.0	F	6-7	Jr	2	0
@@ -614,19 +614,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	97	Cal St. Fullerton	12		Smith, Jamal		G	6-3	Fr	0	0
 2016	12260	97	Cal St. Fullerton	23	1735178.0	Todd, Rashard	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735178.0	F	6-7	Jr	5	0
 2016	12260	107	California	23	1516245.0	Bird, Jabari	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516245.0	G	6-6	Jr	33	22
-2016	12260	107	California	0	1733589.0	Brown, Jaylen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733589.0	F	6-7	Fr	33	33
-2016	12260	107	California	10	1626087.0	Chauca, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626087.0	G	5-9	So	8	0
+2016	12260	107	California	0	1733589.0	Brown, Jaylen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733589.0	F	6-7	Fr	34	34
+2016	12260	107	California	10	1626087.0	Chauca, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626087.0	G	5-9	So	9	0
 2016	12260	107	California	25		Davis, Roman		F	6-7	Fr	0	0
-2016	12260	107	California	31	1626088.0	Domingo, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626088.0	G	6-7	Jr	29	0
+2016	12260	107	California	31	1626088.0	Domingo, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626088.0	G	6-7	Jr	30	0
 2016	12260	107	California	32	1634449.0	Glapion, Brenden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634449.0	G	6-3	Sr	8	0
 2016	12260	107	California	21	1626089.0	Hamilton, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626089.0	G	6-4	So	0	0
 2016	12260	107	California	20	1733590.0	Kerr, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733590.0	G	6-3	Sr	7	0
-2016	12260	107	California	24	1516246.0	Mathews, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516246.0	G	6-4	Jr	33	18
-2016	12260	107	California	12	1516247.0	Moute a Bidias, Roger	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516247.0	F	6-6	Jr	22	0
-2016	12260	107	California	22	1626090.0	Okoroh, Kingsley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626090.0	C	7-1	So	30	16
-2016	12260	107	California	1	1733591.0	Rabb, Ivan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733591.0	F	6-11	Fr	33	33
-2016	12260	107	California	44	1516248.0	Rooks, Kameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516248.0	C	7-0	So	32	10
-2016	12260	107	California	2	1516249.0	Singer, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516249.0	G	6-4	Jr	33	8
+2016	12260	107	California	24	1516246.0	Mathews, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516246.0	G	6-4	Jr	34	19
+2016	12260	107	California	12	1516247.0	Moute a Bidias, Roger	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516247.0	F	6-6	Jr	23	0
+2016	12260	107	California	22	1626090.0	Okoroh, Kingsley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626090.0	C	7-1	So	31	17
+2016	12260	107	California	1	1733591.0	Rabb, Ivan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733591.0	F	6-11	Fr	34	34
+2016	12260	107	California	44	1516248.0	Rooks, Kameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516248.0	C	7-0	So	33	10
+2016	12260	107	California	2	1516249.0	Singer, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516249.0	G	6-4	Jr	34	9
 2016	12260	107	California	3	1404910.0	Wallace, Tyrone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404910.0	G	6-5	Sr	28	25
 2016	12260	107	California	42	1626092.0	Welle, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626092.0	F	6-7	So	5	0
 2016	12260	115	Campbell	2		Allen, Tony		G	6-3	Fr	0	0
@@ -887,19 +887,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	158	Columbia	10	1734059.0	Adlesh, Quinton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734059.0	G	6-0	Fr	4	0
 2016	12260	158	Columbia	21	1734061.0	Barba, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734061.0	G	6-5	Fr	4	0
 2016	12260	158	Columbia	0	1622008.0	Castlin, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622008.0	G	6-4	So	31	15
-2016	12260	158	Columbia	1	1509470.0	Coby, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509470.0	F	6-8	Jr	34	7
-2016	12260	158	Columbia	2	1400997.0	Cohen, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400997.0	G	6-4	Sr	22	17
+2016	12260	158	Columbia	1	1509470.0	Coby, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509470.0	F	6-8	Jr	35	7
+2016	12260	158	Columbia	2	1400997.0	Cohen, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400997.0	G	6-4	Sr	23	18
 2016	12260	158	Columbia	5	1734058.0	Davis, CJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734058.0	G	6-2	Fr	32	0
 2016	12260	158	Columbia	44		Eberle, Shane		C	6-10	Fr	0	0
 2016	12260	158	Columbia	15	1622009.0	Hickman, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622009.0	G	6-4	So	31	0
 2016	12260	158	Columbia	4		Hunter, Rodney		F	6-5	Fr	0	0
-2016	12260	158	Columbia	14	1509471.0	Jackson, Kendall	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509471.0	G	5-8	Jr	9	0
-2016	12260	158	Columbia	12	1400999.0	Lo, Maodo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400999.0	G	6-3	Sr	34	34
-2016	12260	158	Columbia	32	1509473.0	McComber, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509473.0	F	6-8	Jr	22	3
-2016	12260	158	Columbia	11	1734060.0	Meisner, Lukas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734060.0	F	6-8	Fr	32	7
-2016	12260	158	Columbia	3	1400998.0	Mullins, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400998.0	G	6-3	Sr	34	34
-2016	12260	158	Columbia	33	1509472.0	Petrasek, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509472.0	F	6-10	Jr	34	27
-2016	12260	158	Columbia	13	1734064.0	Rosenberg, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734064.0	F	6-7	Sr	29	24
+2016	12260	158	Columbia	14	1509471.0	Jackson, Kendall	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509471.0	G	5-8	Jr	10	0
+2016	12260	158	Columbia	12	1400999.0	Lo, Maodo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400999.0	G	6-3	Sr	35	35
+2016	12260	158	Columbia	32	1509473.0	McComber, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509473.0	F	6-8	Jr	23	3
+2016	12260	158	Columbia	11	1734060.0	Meisner, Lukas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734060.0	F	6-8	Fr	33	7
+2016	12260	158	Columbia	3	1400998.0	Mullins, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400998.0	G	6-3	Sr	35	35
+2016	12260	158	Columbia	33	1509472.0	Petrasek, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509472.0	F	6-10	Jr	35	28
+2016	12260	158	Columbia	13	1734064.0	Rosenberg, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734064.0	F	6-7	Sr	30	25
 2016	12260	158	Columbia	24	1734062.0	Sica, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734062.0	G	6-5	Fr	11	0
 2016	12260	158	Columbia	52	1509474.0	Voss, Conor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509474.0	C	7-1	Jr	15	2
 2016	12260	165	Coppin St.	20	1744450.0	Armstrong, Derek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1744450.0	G	6-0	Fr	10	0
@@ -1138,22 +1138,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	194	Duquesne	20	1733717.0	Sanders, Nakye	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733717.0	F	6-8	Fr	30	0
 2016	12260	194	Duquesne	32	1733718.0	Snyder, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733718.0	F	6-5	Fr	1	0
 2016	12260	194	Duquesne	30	1733719.0	Steel, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733719.0	G	6-4	Fr	29	1
-2016	12260	198	ETSU	10	1512906.0	Banks, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512906.0	F	6-7	Jr	35	30
-2016	12260	198	ETSU	14	1742264.0	Bello, Deuce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742264.0	G	6-4	Sr	35	10
-2016	12260	198	ETSU	11	1622091.0	Bradford, Desonta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622091.0	G	6-4	So	35	0
-2016	12260	198	ETSU	00	1742260.0	Cromer, T.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742260.0	G	6-3	Jr	35	35
+2016	12260	198	ETSU	10	1512906.0	Banks, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512906.0	F	6-7	Jr	36	30
+2016	12260	198	ETSU	14	1742264.0	Bello, Deuce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742264.0	G	6-4	Sr	36	11
+2016	12260	198	ETSU	11	1622091.0	Bradford, Desonta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622091.0	G	6-4	So	36	0
+2016	12260	198	ETSU	00	1742260.0	Cromer, T.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742260.0	G	6-3	Jr	36	36
 2016	12260	198	ETSU	40		Glass, Tevin		F	6-8	Sr	0	0
-2016	12260	198	ETSU	3	1742262.0	Guyn, Ge'Lawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742262.0	G	6-2	Sr	34	34
+2016	12260	198	ETSU	3	1742262.0	Guyn, Ge'Lawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742262.0	G	6-2	Sr	35	35
 2016	12260	198	ETSU	21	1742265.0	Holley, Nigel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742265.0	F	6-8	Jr	19	2
 2016	12260	198	ETSU	2	1742261.0	Johnson, Shemar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742261.0	G	6-6	Fr	1	0
-2016	12260	198	ETSU	5	1622090.0	Jurkin, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622090.0	C	7-0	Jr	35	5
+2016	12260	198	ETSU	5	1622090.0	Jurkin, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622090.0	C	7-0	Jr	36	6
 2016	12260	198	ETSU	24	1742266.0	Lufile, Abednego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742266.0	F	6-7	Jr	29	8
-2016	12260	198	ETSU	1	1398821.0	McClain, Petey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1398821.0	G	6-0	Sr	35	30
-2016	12260	198	ETSU	13	1512907.0	Merriweather, A.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512907.0	G	6-2	Jr	19	12
-2016	12260	198	ETSU	30	1742267.0	Moore, Stetson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742267.0	G	6-0	Jr	9	0
+2016	12260	198	ETSU	1	1398821.0	McClain, Petey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1398821.0	G	6-0	Sr	36	31
+2016	12260	198	ETSU	13	1512907.0	Merriweather, A.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512907.0	G	6-2	Jr	20	12
+2016	12260	198	ETSU	30	1742267.0	Moore, Stetson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742267.0	G	6-0	Jr	10	0
 2016	12260	198	ETSU	12		Mosquera-Perea, Hanner		F	6-9	Sr	0	0
 2016	12260	198	ETSU	31	1742268.0	Stokes, Toriano	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742268.0	C	6-8	Fr	11	0
-2016	12260	198	ETSU	15	1288849.0	Wilson, Lester	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1288849.0	F	6-4	Sr	34	9
+2016	12260	198	ETSU	15	1288849.0	Wilson, Lester	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1288849.0	F	6-4	Sr	35	9
 2016	12260	196	East Carolina	44	1622015.0	Aja, Kanu	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622015.0	F	6-9	Sr	30	16
 2016	12260	196	East Carolina	15	1735776.0	Barkley, Kentrell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735776.0	G	6-5	Fr	31	11
 2016	12260	196	East Carolina	24	1735766.0	Bost, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735766.0	G	5-10	Sr	7	1
@@ -1477,19 +1477,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	248	George Mason	30	1406673.0	Rudy, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1406673.0	F	6-7	Sr	10	0
 2016	12260	248	George Mason	12	1513095.0	Tate, Myles	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1513095.0	G	5-7	Sr	16	0
 2016	12260	248	George Mason	14	1626383.0	Thompson, Shevon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626383.0	C	6-11	Sr	31	29
-2016	12260	249	George Washington	34	1622075.0	Cavanaugh, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622075.0	F	6-9	Jr	36	36
+2016	12260	249	George Washington	34	1622075.0	Cavanaugh, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622075.0	F	6-9	Jr	38	38
 2016	12260	249	George Washington	45	1622073.0	Cimino, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622073.0	F	6-10	So	3	0
-2016	12260	249	George Washington	13	1410944.0	Garino, Patricio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1410944.0	G	6-6	Sr	36	36
-2016	12260	249	George Washington	33	1738507.0	Goss, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738507.0	F	6-10	Fr	16	0
-2016	12260	249	George Washington	30	1622074.0	Hart, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622074.0	G	6-1	Jr	36	0
-2016	12260	249	George Washington	03	1622068.0	Jorgensen, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622068.0	G	6-2	So	36	2
-2016	12260	249	George Washington	21	1410945.0	Larsen, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1410945.0	F	6-10	Sr	36	36
-2016	12260	249	George Washington	22	1410946.0	McDonald, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1410946.0	G	6-1	Sr	34	34
-2016	12260	249	George Washington	01	1738508.0	Mitola, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738508.0	G	5-11	Sr	36	1
-2016	12260	249	George Washington	14	1738509.0	Roland, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738509.0	G	6-1	Fr	33	0
+2016	12260	249	George Washington	13	1410944.0	Garino, Patricio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1410944.0	G	6-6	Sr	38	38
+2016	12260	249	George Washington	33	1738507.0	Goss, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738507.0	F	6-10	Fr	18	0
+2016	12260	249	George Washington	30	1622074.0	Hart, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622074.0	G	6-1	Jr	38	0
+2016	12260	249	George Washington	03	1622068.0	Jorgensen, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622068.0	G	6-2	So	38	2
+2016	12260	249	George Washington	21	1410945.0	Larsen, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1410945.0	F	6-10	Sr	38	38
+2016	12260	249	George Washington	22	1410946.0	McDonald, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1410946.0	G	6-1	Sr	36	36
+2016	12260	249	George Washington	01	1738508.0	Mitola, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738508.0	G	5-11	Sr	38	1
+2016	12260	249	George Washington	14	1738509.0	Roland, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738509.0	G	6-1	Fr	35	0
 2016	12260	249	George Washington	23		Sina, Jaren		G	6-2	Jr	0	0
-2016	12260	249	George Washington	04	1622069.0	Swan, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622069.0	G	6-7	So	36	0
-2016	12260	249	George Washington	12	1622070.0	Watanabe, Yuta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622070.0	F	6-8	So	36	35
+2016	12260	249	George Washington	04	1622069.0	Swan, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622069.0	G	6-7	So	38	0
+2016	12260	249	George Washington	12	1622070.0	Watanabe, Yuta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622070.0	F	6-8	So	38	37
 2016	12260	251	Georgetown	10	1668218.0	Adams, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1668218.0	C	-	Fr	0	0
 2016	12260	251	Georgetown	12	1415905.0	Allen, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1415905.0	G	6-2	Sr	0	0
 2016	12260	251	Georgetown	01	1512667.0	Cameron, Reggie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512667.0	F	6-7	Jr	32	6
@@ -1565,23 +1565,23 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	260	Gonzaga	33	1636279.0	Wiltjer, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1636279.0	F	6-10	Sr	36	36
 2016	12260	261	Grambling	05	1635740.0	Agyeman-Budu, Jefkin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635740.0	""	-	Fr	3	0
 2016	12260	261	Grambling	11	1516039.0	Altheimer, Valerio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516039.0	G	6-2	Sr	0	0
-2016	12260	261	Grambling	32	1747647.0	Altheimer, Velario	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747647.0	""	-	N/A	25	0
-2016	12260	261	Grambling	01	1747643.0	Bethea, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747643.0	F	-	N/A	30	19
+2016	12260	261	Grambling	32	1747647.0	Altheimer, Velario	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747647.0	""	-	N/A	26	0
+2016	12260	261	Grambling	01	1747643.0	Bethea, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747643.0	F	-	N/A	31	20
 2016	12260	261	Grambling	04	1635738.0	Brown, Remond	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635738.0	G	-	Fr	15	13
-2016	12260	261	Grambling	10	1516038.0	Cormier, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516038.0	G	6-0	Jr	26	21
-2016	12260	261	Grambling	24	1635743.0	Gary, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635743.0	""	-	Fr	30	18
+2016	12260	261	Grambling	10	1516038.0	Cormier, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516038.0	G	6-0	Jr	27	22
+2016	12260	261	Grambling	24	1635743.0	Gary, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635743.0	""	-	Fr	31	19
 2016	12260	261	Grambling	33	1747648.0	Hortum, Ugur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747648.0	C	-	N/A	27	9
-2016	12260	261	Grambling	22	1635742.0	Lowe, Carlton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635742.0	""	-	Fr	28	1
+2016	12260	261	Grambling	22	1635742.0	Lowe, Carlton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635742.0	""	-	Fr	29	1
 2016	12260	261	Grambling	3	1626064.0	Marshall, Telvin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626064.0	G	6-6	Sr	0	0
 2016	12260	261	Grambling	04	1635739.0	McElwain, Lonnie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635739.0	F	-	Fr	0	0
-2016	12260	261	Grambling	00	1747642.0	Mitchell, Ervin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747642.0	""	-	N/A	26	17
-2016	12260	261	Grambling	21	1747646.0	Ocwieja, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747646.0	""	-	N/A	15	6
+2016	12260	261	Grambling	00	1747642.0	Mitchell, Ervin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747642.0	""	-	N/A	27	18
+2016	12260	261	Grambling	21	1747646.0	Ocwieja, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747646.0	""	-	N/A	16	6
 2016	12260	261	Grambling	23	1516041.0	Patterson, Isiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516041.0	G	6-0	Jr	0	0
-2016	12260	261	Grambling	02	1747644.0	Riberio, Nigel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747644.0	G	-	N/A	30	15
-2016	12260	261	Grambling	11	1747645.0	Richmond, Arnold	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747645.0	""	-	N/A	30	0
+2016	12260	261	Grambling	02	1747644.0	Riberio, Nigel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747644.0	G	-	N/A	31	15
+2016	12260	261	Grambling	11	1747645.0	Richmond, Arnold	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747645.0	""	-	N/A	31	0
 2016	12260	261	Grambling	21	1635741.0	Wiley, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635741.0	""	-	Fr	0	0
-2016	12260	261	Grambling	12	1626065.0	Williams, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626065.0	G	6-9	So	28	6
-2016	12260	261	Grambling	03	1750377.0	earns, Deonte       Y	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1750377.0	G	-	N/A	21	20
+2016	12260	261	Grambling	12	1626065.0	Williams, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626065.0	G	6-9	So	29	6
+2016	12260	261	Grambling	03	1750377.0	earns, Deonte       Y	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1750377.0	G	-	N/A	22	21
 2016	12260	1104	Grand Canyon	22	1622156.0	Armas, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622156.0	G	5-11	So	0	0
 2016	12260	1104	Grand Canyon	2	1516851.0	Braun, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1516851.0	G	6-4	So	34	33
 2016	12260	1104	Grand Canyon	11	1619781.0	Davis, De'Andre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1619781.0	G	6-1	So	33	0
@@ -1663,20 +1663,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	275	Harvard	23	1746418.0	Perez, Weisner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1746418.0	F	6-6	Fr	29	1
 2016	12260	275	Harvard	10	1396949.0	Steeves, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1396949.0	G	6-7	Sr	26	4
 2016	12260	275	Harvard	21	1620714.0	Yoshor, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620714.0	G	6-6	So	7	0
-2016	12260	277	Hawaii	5	1622476.0	Bobbitt, Roderick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622476.0	G	6-3	Sr	32	30
+2016	12260	277	Hawaii	5	1622476.0	Bobbitt, Roderick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622476.0	G	6-3	Sr	33	31
 2016	12260	277	Hawaii	24	1622480.0	Buscher, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622480.0	G	6-3	Fr	13	0
 2016	12260	277	Hawaii	13	1735296.0	Cornelissen, Jakob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735296.0	G	6-1	Fr	5	0
-2016	12260	277	Hawaii	22	1735301.0	Drammeh, Sheriff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735301.0	G	6-3	Fr	31	2
+2016	12260	277	Hawaii	22	1735301.0	Drammeh, Sheriff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735301.0	G	6-3	Fr	32	2
 2016	12260	277	Hawaii	10	1402600.0	Enos, Dyrbe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402600.0	G	5-9	Jr	14	0
 2016	12260	277	Hawaii	03	1511130.0	Filipovich, Niko	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511130.0	G	6-0	So	22	0
 2016	12260	277	Hawaii	00	1635759.0	Fleming, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635759.0	G	6-3	So	23	5
-2016	12260	277	Hawaii	33	1622481.0	Jankovic, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622481.0	F	6-11	Jr	32	32
-2016	12260	277	Hawaii	15	1511132.0	Jovanovic, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511132.0	C	6-11	Jr	33	0
-2016	12260	277	Hawaii	11	1511131.0	Smith, Quincy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511131.0	G	6-1	Sr	33	33
+2016	12260	277	Hawaii	33	1622481.0	Jankovic, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622481.0	F	6-11	Jr	33	33
+2016	12260	277	Hawaii	15	1511132.0	Jovanovic, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511132.0	C	6-11	Jr	34	0
+2016	12260	277	Hawaii	11	1511131.0	Smith, Quincy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511131.0	G	6-1	Sr	34	34
 2016	12260	277	Hawaii	21	1622479.0	Stepteau, Brocke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622479.0	G	5-9	Fr	18	0
-2016	12260	277	Hawaii	25	1511134.0	Thomas, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511134.0	F	6-7	Jr	33	33
-2016	12260	277	Hawaii	12	1735313.0	Tummala, Sai	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735313.0	F	6-6	Sr	33	2
-2016	12260	277	Hawaii	32	1402603.0	Valdes, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402603.0	G	6-5	Jr	29	28
+2016	12260	277	Hawaii	25	1511134.0	Thomas, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511134.0	F	6-7	Jr	34	34
+2016	12260	277	Hawaii	12	1735313.0	Tummala, Sai	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735313.0	F	6-6	Sr	34	2
+2016	12260	277	Hawaii	32	1402603.0	Valdes, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402603.0	G	6-5	Jr	30	29
 2016	12260	19651	High Point	5	1627948.0	Barber, Deandre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627948.0	G	6-2	So	20	0
 2016	12260	19651	High Point	33	1627950.0	Bowman Jr., Miles	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627950.0	F	6-6	Sr	15	4
 2016	12260	19651	High Point	0	1289601.0	Brown, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289601.0	F	6-8	Sr	28	28
@@ -2143,26 +2143,6 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	340	La Salle	1	1620676.0	Shuler, Johnnie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620676.0	G	5-11	So	31	30
 2016	12260	340	La Salle	2	1509825.0	Stukes, Amar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509825.0	G	6-2	So	31	28
 2016	12260	340	La Salle	5	1620677.0	Washington, Tony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620677.0	C	6-10	So	29	25
-2016	12260	671	La.-Lafayette	31		Bartley, Frank		G	6-3	Jr	0	0
-2016	12260	671	La.-Lafayette	42	1738624.0	Broussard, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738624.0	G	5-10	So	4	0
-2016	12260	671	La.-Lafayette	33		Capps, Garrett		F	6-6	Fr	0	0
-2016	12260	671	La.-Lafayette	44		Davis, Jerekius		F	6-6	Fr	0	0
-2016	12260	671	La.-Lafayette	15	1748074.0	Edgman, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1748074.0	""	-	N/A	1	0
-2016	12260	671	La.-Lafayette	25		Evans, Kadavion		G	5-11	Fr	0	0
-2016	12260	671	La.-Lafayette	15	1738620.0	Hedgeman, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738620.0	F	6-7	Jr	23	4
-2016	12260	671	La.-Lafayette	21	1412922.0	Long, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1412922.0	F	6-9	Sr	34	33
-2016	12260	671	La.-Lafayette	11	1738619.0	Marlin, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738619.0	G	6-0	Sr	9	0
-2016	12260	671	La.-Lafayette	25	1760746.0	McGuire, Elijah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1760746.0	""	-	N/A	16	0
-2016	12260	671	La.-Lafayette	55	1620180.0	Plaisance, Scott	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620180.0	F	6-9	Fr	18	0
-2016	12260	671	La.-Lafayette	13	1512151.0	Register, Hayward	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512151.0	G	6-2	Jr	34	5
-2016	12260	671	La.-Lafayette	5	1412919.0	Shepherd, Kasey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1412919.0	G	6-3	Sr	34	9
-2016	12260	671	La.-Lafayette	22	1620178.0	Stove, Johnathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620178.0	G	6-4	So	34	32
-2016	12260	671	La.-Lafayette	0	1620176.0	Walker, Devonta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620176.0	F	6-7	Sr	34	9
-2016	12260	671	La.-Lafayette	32	1620182.0	Washington, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620182.0	F	6-6	So	33	22
-2016	12260	671	La.-Lafayette	23	1620181.0	Williams, Tiremone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620181.0	G	6-0	Sr	29	3
-2016	12260	671	La.-Lafayette	3	1738618.0	Wooten, Tyrone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738618.0	G	6-4	Jr	24	1
-2016	12260	671	La.-Lafayette	1	1620177.0	Wright, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620177.0	G	6-1	Sr	33	32
-2016	12260	671	La.-Lafayette	4	1412911.0	Wronkoski, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1412911.0	G	6-5	Sr	34	20
 2016	12260	498	La.-Monroe	14	1627389.0	Cooper, Prince	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627389.0	G	6-4	Jr	18	0
 2016	12260	498	La.-Monroe	11	1514170.0	Coppola, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514170.0	G	5-11	Jr	34	34
 2016	12260	498	La.-Monroe	13	1627393.0	Deng, Majok	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627393.0	F	6-10	Sr	31	31
@@ -2641,23 +2621,23 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	430	Mississippi St.	20	1404466.0	Ware, Gavin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404466.0	F	6-9	Sr	30	27
 2016	12260	430	Mississippi St.	11	1733736.0	Weatherspoon, Quinndary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733736.0	G	6-4	Fr	31	17
 2016	12260	430	Mississippi St.	4	1625710.0	Zuppardo, Johnny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625710.0	F	6-9	Sr	31	1
-2016	12260	432	Mississippi Val.	13	1640346.0	Alex, Jabari	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1640346.0	C	4-0	Fr	34	8
+2016	12260	432	Mississippi Val.	13	1640346.0	Alex, Jabari	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1640346.0	C	4-0	Fr	35	8
 2016	12260	432	Mississippi Val.	32	1745881.0	Davis, Bennett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745881.0	C	6-9	Jr	10	2
-2016	12260	432	Mississippi Val.	10	1745876.0	Henry, Ta'Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745876.0	F	6-4	Jr	33	25
+2016	12260	432	Mississippi Val.	10	1745876.0	Henry, Ta'Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745876.0	F	6-4	Jr	34	25
 2016	12260	432	Mississippi Val.	20	1745878.0	Langura, Dusan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745878.0	G	6-3	So	16	1
-2016	12260	432	Mississippi Val.	23	1634402.0	Love, Latrell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634402.0	C	4-0	Fr	34	12
+2016	12260	432	Mississippi Val.	23	1634402.0	Love, Latrell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634402.0	C	4-0	Fr	35	13
 2016	12260	432	Mississippi Val.	22	1745879.0	Matlock, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745879.0	F	6-6	Jr	13	5
-2016	12260	432	Mississippi Val.	11	1745877.0	Phillips, Kylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745877.0	G	5-11	Fr	33	21
+2016	12260	432	Mississippi Val.	11	1745877.0	Phillips, Kylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745877.0	G	5-11	Fr	34	21
 2016	12260	432	Mississippi Val.	12		Portillo, Kevin		F	6-5	So	0	0
-2016	12260	432	Mississippi Val.	1	1745872.0	Romain, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745872.0	G	6-2	Jr	29	20
-2016	12260	432	Mississippi Val.	12	1759125.0	Sanders, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1759125.0	""	-	N/A	15	1
+2016	12260	432	Mississippi Val.	1	1745872.0	Romain, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745872.0	G	6-2	Jr	30	21
+2016	12260	432	Mississippi Val.	12	1759125.0	Sanders, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1759125.0	""	-	N/A	16	1
 2016	12260	432	Mississippi Val.	31	1745880.0	Savon, Amir	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745880.0	F	6-7	Fr	7	2
 2016	12260	432	Mississippi Val.	02	1745873.0	Strother, Jr., Ronald	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745873.0	F	6-5	Fr	24	4
-2016	12260	432	Mississippi Val.	5	1745875.0	Surles, Rashaan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745875.0	G	6-4	Jr	33	9
-2016	12260	432	Mississippi Val.	0	1512125.0	Vaughn, Vacha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512125.0	F	6-4	Jr	34	24
-2016	12260	432	Mississippi Val.	15	1634399.0	Whitfield, Dwain	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634399.0	F	-	Fr	32	8
-2016	12260	432	Mississippi Val.	24	1634401.0	Williams, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634401.0	G	4-0	Fr	34	12
-2016	12260	432	Mississippi Val.	3	1745874.0	Young, Damian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745874.0	F	6-3	Jr	33	16
+2016	12260	432	Mississippi Val.	5	1745875.0	Surles, Rashaan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745875.0	G	6-4	Jr	34	10
+2016	12260	432	Mississippi Val.	0	1512125.0	Vaughn, Vacha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512125.0	F	6-4	Jr	35	24
+2016	12260	432	Mississippi Val.	15	1634399.0	Whitfield, Dwain	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634399.0	F	-	Fr	33	9
+2016	12260	432	Mississippi Val.	24	1634401.0	Williams, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1634401.0	G	4-0	Fr	35	13
+2016	12260	432	Mississippi Val.	3	1745874.0	Young, Damian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1745874.0	F	6-3	Jr	34	16
 2016	12260	434	Missouri	05	1620960.0	Allen, D'Angelo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620960.0	F	6-7	So	22	0
 2016	12260	434	Missouri	42	1509972.0	Barnard, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509972.0	F	6-10	Jr	0	0
 2016	12260	434	Missouri	11	1620961.0	Barton, Jimmy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620961.0	G	5-9	Jr	13	0
@@ -2732,20 +2712,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	440	Montana St.	34	1405137.0	Robison, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1405137.0	F	6-8	Sr	31	18
 2016	12260	440	Montana St.	15		Worthy, Mandrell		G	6-2	Fr	0	0
 2016	12260	444	Morehead St.	11		Alexander, Keion		C	6-9	Jr	0	0
-2016	12260	444	Morehead St.	32	1400682.0	Arrington, Brent	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400682.0	G	6-3	Sr	35	35
-2016	12260	444	Morehead St.	25	1743989.0	Beamon, Ronnye	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743989.0	F	6-5	Jr	35	1
+2016	12260	444	Morehead St.	32	1400682.0	Arrington, Brent	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400682.0	G	6-3	Sr	37	37
+2016	12260	444	Morehead St.	25	1743989.0	Beamon, Ronnye	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743989.0	F	6-5	Jr	37	1
 2016	12260	444	Morehead St.	4	1743982.0	Bitting, Ty'Quan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743982.0	C	6-9	Jr	19	0
-2016	12260	444	Morehead St.	3	1511794.0	Collins, Corban	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511794.0	G	6-3	Jr	28	26
-2016	12260	444	Morehead St.	5	1627195.0	Dicent, Miguel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627195.0	G	6-3	So	29	15
-2016	12260	444	Morehead St.	10	1627196.0	Elechi, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627196.0	F	6-8	Sr	35	35
-2016	12260	444	Morehead St.	31	1511797.0	Gaines, Lyonell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511797.0	F	6-6	Sr	35	10
-2016	12260	444	Morehead St.	13	1743984.0	Harris, Lamontray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743984.0	F	6-7	Fr	32	0
-2016	12260	444	Morehead St.	1	1743981.0	Maitland, Malik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743981.0	G	5-11	Fr	25	8
-2016	12260	444	Morehead St.	15	1743985.0	Marrero, Dejuan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743985.0	F	6-6	Jr	35	25
-2016	12260	444	Morehead St.	22	1743987.0	Moon, Xavier	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743987.0	G	6-2	Jr	35	19
+2016	12260	444	Morehead St.	3	1511794.0	Collins, Corban	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511794.0	G	6-3	Jr	30	28
+2016	12260	444	Morehead St.	5	1627195.0	Dicent, Miguel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627195.0	G	6-3	So	31	15
+2016	12260	444	Morehead St.	10	1627196.0	Elechi, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627196.0	F	6-8	Sr	37	37
+2016	12260	444	Morehead St.	31	1511797.0	Gaines, Lyonell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511797.0	F	6-6	Sr	37	12
+2016	12260	444	Morehead St.	13	1743984.0	Harris, Lamontray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743984.0	F	6-7	Fr	34	0
+2016	12260	444	Morehead St.	1	1743981.0	Maitland, Malik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743981.0	G	5-11	Fr	27	8
+2016	12260	444	Morehead St.	15	1743985.0	Marrero, Dejuan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743985.0	F	6-6	Jr	37	25
+2016	12260	444	Morehead St.	22	1743987.0	Moon, Xavier	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743987.0	G	6-2	Jr	37	21
 2016	12260	444	Morehead St.	21	1743986.0	Noble, Wes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743986.0	F	6-5	Fr	7	0
 2016	12260	444	Morehead St.	14	1400677.0	Ravenscraft, Jared	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400677.0	G	6-2	Sr	7	1
-2016	12260	444	Morehead St.	23	1743988.0	Williams, Treshaad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743988.0	F	6-5	Jr	34	0
+2016	12260	444	Morehead St.	23	1743988.0	Williams, Treshaad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1743988.0	F	6-5	Jr	36	0
 2016	12260	446	Morgan St.	34	1398574.0	Blossom, Cedric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1398574.0	F	6-6	Sr	26	26
 2016	12260	446	Morgan St.	32	1739760.0	Cameron, Martez	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1739760.0	G	5-11	Fr	31	13
 2016	12260	446	Morgan St.	22	1739764.0	Carr, Phillip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1739764.0	F	6-8	So	31	30
@@ -2880,15 +2860,15 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	463	Nebraska	3	1627011.0	White III, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1627011.0	G	6-7	Sr	34	34
 2016	12260	466	Nevada	4	1733497.0	Anderson, Juwan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733497.0	G	6-0	Fr	23	0
 2016	12260	466	Nevada	11	1733498.0	Botteri, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733498.0	F	6-5	Fr	4	0
-2016	12260	466	Nevada	1	1396556.0	Coleman, Marqueze	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1396556.0	G	6-3	Sr	32	25
-2016	12260	466	Nevada	21	1622817.0	Cooper, Jr., Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622817.0	G	6-3	So	36	1
-2016	12260	466	Nevada	2	1622813.0	Criswell, Tyron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622813.0	G	6-3	Sr	36	16
+2016	12260	466	Nevada	1	1396556.0	Coleman, Marqueze	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1396556.0	G	6-3	Sr	34	25
+2016	12260	466	Nevada	21	1622817.0	Cooper, Jr., Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622817.0	G	6-3	So	38	1
+2016	12260	466	Nevada	2	1622813.0	Criswell, Tyron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622813.0	G	6-3	Sr	38	18
 2016	12260	466	Nevada	20	1747864.0	Cunningham, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747864.0	""	-	N/A	14	0
-2016	12260	466	Nevada	14	1733499.0	Drew, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733499.0	G	6-4	Fr	35	34
-2016	12260	466	Nevada	15	1511211.0	Fenner, D.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511211.0	G	6-6	Jr	36	34
-2016	12260	466	Nevada	12	1622815.0	Foster, Elijah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622815.0	F	6-7	So	34	30
-2016	12260	466	Nevada	0	1733496.0	Oliver, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733496.0	F	6-8	Fr	36	31
-2016	12260	466	Nevada	5	1622814.0	Rodriguez, Kaileb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622814.0	F	6-9	Jr	30	2
+2016	12260	466	Nevada	14	1733499.0	Drew, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733499.0	G	6-4	Fr	37	36
+2016	12260	466	Nevada	15	1511211.0	Fenner, D.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511211.0	G	6-6	Jr	38	36
+2016	12260	466	Nevada	12	1622815.0	Foster, Elijah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622815.0	F	6-7	So	36	32
+2016	12260	466	Nevada	0	1733496.0	Oliver, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733496.0	F	6-8	Fr	38	33
+2016	12260	466	Nevada	5	1622814.0	Rodriguez, Kaileb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1622814.0	F	6-9	Jr	31	2
 2016	12260	466	Nevada	34	1511214.0	Stivrins, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511214.0	F	6-11	Sr	10	1
 2016	12260	466	Nevada	3	1511207.0	West, AJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511207.0	F	6-9	Sr	10	6
 2016	12260	469	New Hampshire	3	1509847.0	Armstrong, Jacoby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509847.0	F	6-7	Jr	27	7
@@ -2999,22 +2979,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	485	Norfolk St.	4	1633984.0	Taylor, D'Shon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1633984.0	G	6-5	Sr	33	29
 2016	12260	485	Norfolk St.	32	1741617.0	Toriola, Moses	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1741617.0	F	6-10	Fr	23	0
 2016	12260	485	Norfolk St.	3	1741613.0	Wade, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1741613.0	G	6-4	Jr	33	2
-2016	12260	457	North Carolina	02	1621663.0	Berry II, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621663.0	G	6-0	So	38	37
-2016	12260	457	North Carolina	0	1512504.0	Britt, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512504.0	G	5-11	Jr	37	0
-2016	12260	457	North Carolina	13	1733820.0	Coker, Kanler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733820.0	G	6-4	Jr	12	0
+2016	12260	457	North Carolina	02	1621663.0	Berry II, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621663.0	G	6-0	So	40	39
+2016	12260	457	North Carolina	0	1512504.0	Britt, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512504.0	G	5-11	Jr	39	0
+2016	12260	457	North Carolina	13	1733820.0	Coker, Kanler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733820.0	G	6-4	Jr	13	0
 2016	12260	457	North Carolina	31	1635794.0	Coleman, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635794.0	G	6-1	Sr	14	1
-2016	12260	457	North Carolina	43	1665927.0	Dalton, Spenser	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1665927.0	G	6-3	Sr	17	1
-2016	12260	457	North Carolina	34	1747888.0	Egbuna, Toby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747888.0	""	-	N/A	15	0
-2016	12260	457	North Carolina	4	1512505.0	Hicks, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512505.0	F	6-8	Jr	38	3
-2016	12260	457	North Carolina	44	1621664.0	Jackson, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621664.0	F	6-8	So	38	36
-2016	12260	457	North Carolina	42	1402099.0	James, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402099.0	F	6-10	Sr	35	10
-2016	12260	457	North Carolina	11	1402100.0	Johnson, Brice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402100.0	F	6-9	Sr	38	37
-2016	12260	457	North Carolina	32	1733821.0	Maye, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733821.0	F	6-7	Fr	32	0
-2016	12260	457	North Carolina	3	1512506.0	Meeks, Kennedy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512506.0	F	6-10	Jr	31	26
-2016	12260	457	North Carolina	5	1402101.0	Paige, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402101.0	G	6-2	Sr	32	32
-2016	12260	457	North Carolina	1	1621662.0	Pinson, Theo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621662.0	G	6-6	So	38	7
-2016	12260	457	North Carolina	30	1621665.0	White, Stilman	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621665.0	G	6-0	Jr	17	0
-2016	12260	457	North Carolina	24	1733822.0	Williams, Kenny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733822.0	G	6-4	Fr	29	0
+2016	12260	457	North Carolina	43	1665927.0	Dalton, Spenser	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1665927.0	G	6-3	Sr	18	1
+2016	12260	457	North Carolina	34	1747888.0	Egbuna, Toby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747888.0	""	-	N/A	16	0
+2016	12260	457	North Carolina	4	1512505.0	Hicks, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512505.0	F	6-8	Jr	40	3
+2016	12260	457	North Carolina	44	1621664.0	Jackson, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621664.0	F	6-8	So	40	38
+2016	12260	457	North Carolina	42	1402099.0	James, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402099.0	F	6-10	Sr	37	10
+2016	12260	457	North Carolina	11	1402100.0	Johnson, Brice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402100.0	F	6-9	Sr	40	39
+2016	12260	457	North Carolina	32	1733821.0	Maye, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733821.0	F	6-7	Fr	33	0
+2016	12260	457	North Carolina	3	1512506.0	Meeks, Kennedy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512506.0	F	6-10	Jr	33	28
+2016	12260	457	North Carolina	5	1402101.0	Paige, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402101.0	G	6-2	Sr	34	34
+2016	12260	457	North Carolina	1	1621662.0	Pinson, Theo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621662.0	G	6-6	So	40	7
+2016	12260	457	North Carolina	30	1621665.0	White, Stilman	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621665.0	G	6-0	Jr	18	0
+2016	12260	457	North Carolina	24	1733822.0	Williams, Kenny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733822.0	G	6-4	Fr	30	0
 2016	12260	490	North Carolina St.	00	1624783.0	Abu, Abdul-Malik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624783.0	F	6-8	So	33	33
 2016	12260	490	North Carolina St.	21	1512231.0	Anya, Beejay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512231.0	F	6-9	Jr	33	17
 2016	12260	490	North Carolina St.	12	1512226.0	Barber, Anthony 'Cat'	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512226.0	G	6-2	Jr	33	33
@@ -3206,19 +3186,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	513	Notre Dame	4	1736169.0	Ryan, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1736169.0	F	6-8	Fr	36	4
 2016	12260	513	Notre Dame	1	1508739.0	Torres, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1508739.0	F	6-7	Jr	27	0
 2016	12260	513	Notre Dame	32	1508738.0	Vasturia, Steve	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1508738.0	G	6-5	Jr	36	36
-2016	12260	514	Oakland	13	1733684.0	Brechting, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733684.0	C	6-11	Fr	33	13
-2016	12260	514	Oakland	21	1733685.0	Cumberland, Jaevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733685.0	G	6-2	Fr	28	0
-2016	12260	514	Oakland	11	1512569.0	Daniels, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512569.0	G	6-1	So	33	22
-2016	12260	514	Oakland	30	1733686.0	Dorsey-Walker, Sherron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733686.0	G	6-4	Jr	33	29
-2016	12260	514	Oakland	20	1512571.0	Felder, Kahlil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512571.0	G	5-9	Jr	33	33
+2016	12260	514	Oakland	13	1733684.0	Brechting, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733684.0	C	6-11	Fr	34	13
+2016	12260	514	Oakland	21	1733685.0	Cumberland, Jaevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733685.0	G	6-2	Fr	30	0
+2016	12260	514	Oakland	11	1512569.0	Daniels, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512569.0	G	6-1	So	35	24
+2016	12260	514	Oakland	30	1733686.0	Dorsey-Walker, Sherron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733686.0	G	6-4	Jr	35	29
+2016	12260	514	Oakland	20	1512571.0	Felder, Kahlil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512571.0	G	5-9	Jr	35	35
 2016	12260	514	Oakland	22	1621649.0	Frascone, Alek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621649.0	G	6-2	So	0	0
-2016	12260	514	Oakland	24	1733687.0	Gibson, Percy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733687.0	C	6-9	Sr	33	21
-2016	12260	514	Oakland	4	1512568.0	Hayes, Jalen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512568.0	F	6-7	So	32	31
-2016	12260	514	Oakland	14	1733688.0	Hill-Mais, Xavier	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733688.0	F	6-7	Fr	30	0
-2016	12260	514	Oakland	10	1621651.0	Hooper, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621651.0	G	6-6	Sr	33	4
+2016	12260	514	Oakland	24	1733687.0	Gibson, Percy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733687.0	C	6-9	Sr	35	23
+2016	12260	514	Oakland	4	1512568.0	Hayes, Jalen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512568.0	F	6-7	So	34	33
+2016	12260	514	Oakland	14	1733688.0	Hill-Mais, Xavier	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733688.0	F	6-7	Fr	32	0
+2016	12260	514	Oakland	10	1621651.0	Hooper, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621651.0	G	6-6	Sr	35	4
 2016	12260	514	Oakland	23	1512572.0	McCune, Tommie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512572.0	F	6-8	Sr	0	0
-2016	12260	514	Oakland	25	1621652.0	Olujobi, Femi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621652.0	F	6-8	So	28	1
-2016	12260	514	Oakland	35	1733689.0	Walker, Martez	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733689.0	G	6-4	So	24	11
+2016	12260	514	Oakland	25	1621652.0	Olujobi, Femi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621652.0	F	6-8	So	30	1
+2016	12260	514	Oakland	35	1733689.0	Walker, Martez	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733689.0	G	6-4	So	26	13
 2016	12260	519	Ohio	22	1735200.0	Block, Gavin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1735200.0	G	6-6	Fr	34	2
 2016	12260	519	Ohio	33	1512007.0	Campbell, Antonio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512007.0	F	6-8	Jr	35	35
 2016	12260	519	Ohio	12	1525459.0	Crabtree, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1525459.0	G	6-1	Jr	9	0
@@ -3247,21 +3227,21 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	518	Ohio St.	01	1620949.0	Tate, Jae'Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620949.0	G	6-4	So	28	28
 2016	12260	518	Ohio St.	32	1733455.0	Thompson, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733455.0	C	6-11	So	34	27
 2016	12260	518	Ohio St.	15	1509504.0	Williams, Kam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509504.0	G	6-2	So	34	1
-2016	12260	522	Oklahoma	14	1624067.0	Alade, Bola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624067.0	G	6-4	So	6	0
-2016	12260	522	Oklahoma	21	1624068.0	Buford, Dante	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624068.0	F	6-7	So	35	0
-2016	12260	522	Oklahoma	25	1404591.0	Cole, C.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404591.0	F	6-7	Jr	10	0
-2016	12260	522	Oklahoma	11	1404588.0	Cousins, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404588.0	G	6-4	Sr	36	36
-2016	12260	522	Oklahoma	22	1514286.0	Harper, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514286.0	G	6-1	Jr	6	0
-2016	12260	522	Oklahoma	24	1404586.0	Hield, Buddy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404586.0	G	6-4	Sr	36	36
-2016	12260	522	Oklahoma	3	1738600.0	James, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738600.0	G	6-4	Fr	34	0
-2016	12260	522	Oklahoma	12	1624066.0	Lattin, Khadeem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624066.0	F	6-9	So	36	36
-2016	12260	522	Oklahoma	41	1514287.0	Mankin, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514287.0	F	6-7	Jr	7	0
+2016	12260	522	Oklahoma	14	1624067.0	Alade, Bola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624067.0	G	6-4	So	7	0
+2016	12260	522	Oklahoma	21	1624068.0	Buford, Dante	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624068.0	F	6-7	So	36	0
+2016	12260	522	Oklahoma	25	1404591.0	Cole, C.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404591.0	F	6-7	Jr	11	0
+2016	12260	522	Oklahoma	11	1404588.0	Cousins, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404588.0	G	6-4	Sr	37	37
+2016	12260	522	Oklahoma	22	1514286.0	Harper, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514286.0	G	6-1	Jr	7	0
+2016	12260	522	Oklahoma	24	1404586.0	Hield, Buddy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404586.0	G	6-4	Sr	37	37
+2016	12260	522	Oklahoma	3	1738600.0	James, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738600.0	G	6-4	Fr	35	0
+2016	12260	522	Oklahoma	12	1624066.0	Lattin, Khadeem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624066.0	F	6-9	So	37	37
+2016	12260	522	Oklahoma	41	1514287.0	Mankin, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514287.0	F	6-7	Jr	8	0
 2016	12260	522	Oklahoma	30	1738602.0	Manyang, Akolda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738602.0	C	7-0	Jr	25	0
-2016	12260	522	Oklahoma	4	1624065.0	McNeace, Jamuni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624065.0	C	6-10	So	26	0
-2016	12260	522	Oklahoma	1	1738601.0	Odomes, Rashard	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738601.0	G	6-6	Fr	17	0
-2016	12260	522	Oklahoma	00	1404585.0	Spangler, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404585.0	F	6-8	Sr	36	36
-2016	12260	522	Oklahoma	2	1624064.0	Walker, Dinjiyl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624064.0	G	6-1	Sr	36	0
-2016	12260	522	Oklahoma	10	1514285.0	Woodard, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514285.0	G	6-0	Jr	36	36
+2016	12260	522	Oklahoma	4	1624065.0	McNeace, Jamuni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624065.0	C	6-10	So	27	0
+2016	12260	522	Oklahoma	1	1738601.0	Odomes, Rashard	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738601.0	G	6-6	Fr	18	0
+2016	12260	522	Oklahoma	00	1404585.0	Spangler, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404585.0	F	6-8	Sr	37	37
+2016	12260	522	Oklahoma	2	1624064.0	Walker, Dinjiyl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1624064.0	G	6-1	Sr	37	0
+2016	12260	522	Oklahoma	10	1514285.0	Woodard, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514285.0	G	6-0	Jr	37	37
 2016	12260	521	Oklahoma St.	32	1620785.0	Allen, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620785.0	C	7-0	Sr	30	12
 2016	12260	521	Oklahoma St.	4	1620781.0	Burton, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620781.0	F	6-6	So	29	0
 2016	12260	521	Oklahoma St.	30	1510214.0	Carroll, Jeffrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1510214.0	G	6-6	So	29	20
@@ -3278,21 +3258,21 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	521	Oklahoma St.	5	1620782.0	Shine, Tavarius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620782.0	F	6-5	So	24	3
 2016	12260	521	Oklahoma St.	41	1620786.0	Solomon, Mitchell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620786.0	F	6-9	So	30	25
 2016	12260	521	Oklahoma St.	0	1401116.0	Stuen, Ford	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401116.0	G	6-2	Sr	4	1
-2016	12260	523	Old Dominion	1	1402846.0	Bacote, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402846.0	G	6-5	Sr	36	19
-2016	12260	523	Old Dominion	0	1511880.0	Baker, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511880.0	G	6-2	Jr	36	27
-2016	12260	523	Old Dominion	30	1623837.0	Biberaj, Nik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1623837.0	F	6-8	Sr	34	1
+2016	12260	523	Old Dominion	1	1402846.0	Bacote, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402846.0	G	6-5	Sr	38	21
+2016	12260	523	Old Dominion	0	1511880.0	Baker, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511880.0	G	6-2	Jr	38	27
+2016	12260	523	Old Dominion	30	1623837.0	Biberaj, Nik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1623837.0	F	6-8	Sr	36	1
 2016	12260	523	Old Dominion	13		Carver, Aaron		F	6-7	Fr	0	0
-2016	12260	523	Old Dominion	4	1734640.0	Caver, Ahmad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734640.0	G	6-2	Fr	36	0
+2016	12260	523	Old Dominion	4	1734640.0	Caver, Ahmad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734640.0	G	6-2	Fr	38	0
 2016	12260	523	Old Dominion	11		Colbert, Austin		F	6-8	Jr	0	0
-2016	12260	523	Old Dominion	20	1511882.0	Freeman, Trey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511882.0	G	6-2	Sr	36	36
+2016	12260	523	Old Dominion	20	1511882.0	Freeman, Trey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511882.0	G	6-2	Sr	38	38
 2016	12260	523	Old Dominion	22	1402849.0	Mosley, Ambrose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402849.0	G	6-1	Jr	5	0
 2016	12260	523	Old Dominion	12	1734642.0	Pervier, Payton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734642.0	C	7-1	Sr	3	0
 2016	12260	523	Old Dominion	15		Porter, Trey		F	6-10	So	0	0
 2016	12260	523	Old Dominion	2	1431917.0	Shaw, Martin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1431917.0	G	5-11	Sr	16	1
-2016	12260	523	Old Dominion	25	1623836.0	Stith, Brandan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1623836.0	F	6-7	Jr	30	29
+2016	12260	523	Old Dominion	25	1623836.0	Stith, Brandan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1623836.0	F	6-7	Jr	32	31
 2016	12260	523	Old Dominion	3		Stith, B.J.		G	6-5	So	0	0
-2016	12260	523	Old Dominion	24	1623835.0	Talley, Zoran	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1623835.0	F	6-7	So	33	29
-2016	12260	523	Old Dominion	21	1511883.0	Taylor, Denzell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511883.0	F	6-6	Jr	36	34
+2016	12260	523	Old Dominion	24	1623835.0	Talley, Zoran	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1623835.0	F	6-7	So	35	31
+2016	12260	523	Old Dominion	21	1511883.0	Taylor, Denzell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511883.0	F	6-6	Jr	38	36
 2016	12260	523	Old Dominion	23	1734646.0	Vassor, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734646.0	F	6-7	So	31	4
 2016	12260	433	Ole Miss	14	1740510.0	Brooks, Rasheed	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740510.0	G	6-5	Jr	32	22
 2016	12260	433	Ole Miss	25	1407479.0	Brutus, Terry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1407479.0	F	6-6	Jr	7	1
@@ -3851,22 +3831,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	627	San Diego	10	1404715.0	Sanadze, Duda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404715.0	G	6-5	Sr	29	20
 2016	12260	627	San Diego	21	1733126.0	Summy, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733126.0	G	6-4	Fr	14	0
 2016	12260	627	San Diego	1	1733123.0	Williams, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733123.0	G	6-5	Fr	30	3
-2016	12260	626	San Diego St.	4	1514342.0	Allen, Dakarai	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514342.0	G	6-5	Jr	37	16
-2016	12260	626	San Diego St.	14	1625355.0	Cheatham, Zylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625355.0	F	6-9	Fr	37	26
-2016	12260	626	San Diego St.	3	1625353.0	Chol, Angelo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625353.0	F	6-9	Sr	37	9
-2016	12260	626	San Diego St.	33	1527972.0	Federico, Niksha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1527972.0	F	6-7	Jr	6	0
+2016	12260	626	San Diego St.	4	1514342.0	Allen, Dakarai	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514342.0	G	6-5	Jr	38	17
+2016	12260	626	San Diego St.	14	1625355.0	Cheatham, Zylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625355.0	F	6-9	Fr	38	26
+2016	12260	626	San Diego St.	3	1625353.0	Chol, Angelo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625353.0	F	6-9	Sr	38	9
+2016	12260	626	San Diego St.	33	1527972.0	Federico, Niksha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1527972.0	F	6-7	Jr	7	0
 2016	12260	626	San Diego St.	23		Gill-Caesar, Montaque		G	6-6	So	0	0
-2016	12260	626	San Diego St.	42	1733432.0	Hemsley, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733432.0	G	6-3	Fr	36	25
+2016	12260	626	San Diego St.	42	1733432.0	Hemsley, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733432.0	G	6-3	Fr	37	25
 2016	12260	626	San Diego St.	10		Hoetzel, Max		F	6-9	So	0	0
-2016	12260	626	San Diego St.	12	1625354.0	Kell, Trey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625354.0	G	6-4	So	37	37
+2016	12260	626	San Diego St.	12	1625354.0	Kell, Trey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625354.0	G	6-4	So	38	38
 2016	12260	626	San Diego St.	24		Narain, Nolan		F	6-9	Fr	0	0
-2016	12260	626	San Diego St.	15	1733433.0	Perez, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733433.0	G	6-3	Fr	24	0
-2016	12260	626	San Diego St.	21	1625356.0	Pope, Malik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625356.0	F	6-10	So	37	15
-2016	12260	626	San Diego St.	13	1401048.0	Shepard, Winston	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401048.0	F	6-8	Sr	36	28
-2016	12260	626	San Diego St.	40	1401049.0	Shrigley, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401049.0	F	6-6	Jr	17	0
-2016	12260	626	San Diego St.	0	1401050.0	Spencer, Skylar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401050.0	F	6-10	Sr	37	29
-2016	12260	626	San Diego St.	22	1625362.0	U'u, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625362.0	G	6-5	Jr	8	0
-2016	12260	626	San Diego St.	11	1514345.0	Williams, D'Erryl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514345.0	G	6-3	Jr	18	0
+2016	12260	626	San Diego St.	15	1733433.0	Perez, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733433.0	G	6-3	Fr	25	0
+2016	12260	626	San Diego St.	21	1625356.0	Pope, Malik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625356.0	F	6-10	So	38	16
+2016	12260	626	San Diego St.	13	1401048.0	Shepard, Winston	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401048.0	F	6-8	Sr	37	29
+2016	12260	626	San Diego St.	40	1401049.0	Shrigley, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401049.0	F	6-6	Jr	18	0
+2016	12260	626	San Diego St.	0	1401050.0	Spencer, Skylar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401050.0	F	6-10	Sr	38	30
+2016	12260	626	San Diego St.	22	1625362.0	U'u, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625362.0	G	6-5	Jr	9	0
+2016	12260	626	San Diego St.	11	1514345.0	Williams, D'Erryl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1514345.0	G	6-3	Jr	19	0
 2016	12260	629	San Francisco	3	1744563.0	Boyce, Ronnie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1744563.0	G	6-3	Jr	28	14
 2016	12260	629	San Francisco	23	1744570.0	Chaffee, Stokley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1744570.0	F	6-5	Fr	7	0
 2016	12260	629	San Francisco	0	1626020.0	Clemons, Montray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626020.0	F	6-7	Sr	23	2
@@ -4272,18 +4252,18 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	688	Syracuse	34	1635861.0	Akintobi-Adeyeye, Doyin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635861.0	F	6-6	Jr	6	0
 2016	12260	688	Syracuse	11	1740564.0	Autry, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740564.0	G	6-0	Fr	4	0
 2016	12260	688	Syracuse	03	1740565.0	Belbey, Shaun	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740565.0	G	5-10	Fr	3	0
-2016	12260	688	Syracuse	32	1400537.0	Coleman, Dajuan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400537.0	F	6-9	Sr	36	36
-2016	12260	688	Syracuse	10	1289211.0	Cooney, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289211.0	G	6-4	Sr	36	36
+2016	12260	688	Syracuse	32	1400537.0	Coleman, Dajuan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400537.0	F	6-9	Jr	37	37
+2016	12260	688	Syracuse	10	1289211.0	Cooney, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289211.0	G	6-4	Sr	37	37
 2016	12260	688	Syracuse	25	1740566.0	Dourdas, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740566.0	G	6-0	Fr	3	0
 2016	12260	688	Syracuse	54	1740567.0	Feldman, Ky	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740567.0	G	5-10	Fr	2	0
-2016	12260	688	Syracuse	00	1400540.0	Gbinije, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400540.0	F	6-7	Sr	36	36
-2016	12260	688	Syracuse	1	1740568.0	Howard, Frank	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740568.0	G	6-4	Fr	31	0
+2016	12260	688	Syracuse	00	1400540.0	Gbinije, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400540.0	F	6-7	Sr	37	37
+2016	12260	688	Syracuse	1	1740568.0	Howard, Frank	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740568.0	G	6-4	Fr	32	0
 2016	12260	688	Syracuse	14	1620606.0	Joseph, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620606.0	G	6-3	So	19	0
-2016	12260	688	Syracuse	20	1740569.0	Lydon, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740569.0	F	6-8	Fr	36	0
+2016	12260	688	Syracuse	20	1740569.0	Lydon, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740569.0	F	6-8	Fr	37	0
 2016	12260	688	Syracuse	35	1513135.0	Obokoh, Chinonso	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1513135.0	C	6-9	Jr	11	0
 2016	12260	688	Syracuse	33	1740570.0	Radner, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740570.0	G	5-10	Fr	1	0
-2016	12260	688	Syracuse	23	1740571.0	Richardson, Malachi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740571.0	G	6-6	Fr	36	36
-2016	12260	688	Syracuse	21	1513137.0	Robinson, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1513137.0	F	6-8	Jr	36	36
+2016	12260	688	Syracuse	23	1740571.0	Richardson, Malachi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1740571.0	G	6-6	Fr	37	37
+2016	12260	688	Syracuse	21	1513137.0	Roberson, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1513137.0	F	6-8	Jr	37	37
 2016	12260	688	Syracuse	04	1620616.0	Sutton, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620616.0	G	6-2	So	3	0
 2016	12260	688	Syracuse	55	1620617.0	White, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620617.0	G	5-10	Sr	0	0
 2016	12260	698	TCU	23	1401110.0	Abron, Devonta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401110.0	F	6-8	Sr	26	6
@@ -4545,22 +4525,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	108	UC Davis	23	1734697.0	Printup, Rogers	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734697.0	G	6-4	Fr	22	0
 2016	12260	108	UC Davis	05	1734694.0	Schneider, Siler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734694.0	G	6-3	Fr	30	20
 2016	12260	108	UC Davis	01	1734693.0	White, Lawerence	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734693.0	G	6-4	Jr	28	13
-2016	12260	109	UC Irvine	33	1289265.0	Best, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289265.0	F	6-10	Sr	37	36
+2016	12260	109	UC Irvine	33	1289265.0	Best, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289265.0	F	6-10	Sr	38	37
 2016	12260	109	UC Irvine	03		Chehabi, Haitham		G	6-1	Fr	0	0
-2016	12260	109	UC Irvine	12	1512810.0	Dimakopoulos, Ioannis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512810.0	F	7-2	Jr	37	2
-2016	12260	109	UC Irvine	24	1512812.0	Dunning, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512812.0	G	6-4	Sr	34	28
-2016	12260	109	UC Irvine	05	1621533.0	Galloway, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621533.0	F	6-10	Fr	37	1
+2016	12260	109	UC Irvine	12	1512810.0	Dimakopoulos, Ioannis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512810.0	F	7-2	Jr	38	2
+2016	12260	109	UC Irvine	24	1512812.0	Dunning, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512812.0	G	6-4	Sr	35	29
+2016	12260	109	UC Irvine	05	1621533.0	Galloway, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621533.0	F	6-10	Fr	38	1
 2016	12260	109	UC Irvine	02		Hazzard, Max		G	5-10	Fr	0	0
-2016	12260	109	UC Irvine	00	1512808.0	Martin, Jaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512808.0	G	5-10	Jr	37	0
-2016	12260	109	UC Irvine	34	1512813.0	Ndiaye, Mamadou	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512813.0	C	7-6	Jr	36	35
-2016	12260	109	UC Irvine	10	1512809.0	Nelson, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512809.0	G	6-3	Jr	37	35
+2016	12260	109	UC Irvine	00	1512808.0	Martin, Jaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512808.0	G	5-10	Jr	38	0
+2016	12260	109	UC Irvine	34	1512813.0	Ndiaye, Mamadou	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512813.0	C	7-6	Jr	37	36
+2016	12260	109	UC Irvine	10	1512809.0	Nelson, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512809.0	G	6-3	Jr	38	36
 2016	12260	109	UC Irvine	20	1512811.0	Ray, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512811.0	F	6-8	Sr	16	2
 2016	12260	109	UC Irvine	25	1621535.0	Rivers, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621535.0	G	6-2	Fr	10	0
 2016	12260	109	UC Irvine	11	1621534.0	Saprykinas, Haroldas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1621534.0	G	6-1	So	29	0
-2016	12260	109	UC Irvine	13	1734634.0	Smith, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734634.0	F	6-5	Fr	35	6
+2016	12260	109	UC Irvine	13	1734634.0	Smith, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734634.0	F	6-5	Fr	36	6
 2016	12260	109	UC Irvine	23		Traylor, Darrian		G	6-4	Fr	0	0
-2016	12260	109	UC Irvine	32	1289264.0	Wright, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289264.0	G	6-3	Sr	34	4
-2016	12260	109	UC Irvine	01	1401101.0	Young, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401101.0	G	6-2	Sr	36	36
+2016	12260	109	UC Irvine	32	1289264.0	Wright, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289264.0	G	6-3	Sr	35	4
+2016	12260	109	UC Irvine	01	1401101.0	Young, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1401101.0	G	6-2	Sr	37	37
 2016	12260	111	UC Riverside	15		Anderson, Brady		F	6-9	So	0	0
 2016	12260	111	UC Riverside	01	1625373.0	Bland, Jaylen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625373.0	G	6-3	Sr	33	33
 2016	12260	111	UC Riverside	12	1625375.0	Boezeman, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625375.0	F	6-7	So	28	9
@@ -4576,23 +4556,23 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	111	UC Riverside	11	1738582.0	Sylvester, DJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738582.0	G	6-3	Fr	22	0
 2016	12260	111	UC Riverside	22	1738583.0	Thames, Malik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738583.0	G	6-2	Jr	31	17
 2016	12260	111	UC Riverside	0	1738584.0	Thomas, Gentrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738584.0	G	6-4	Jr	29	8
-2016	12260	104	UC Santa Barbara	44	1402142.0	Beeler, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402142.0	F	6-10	Sr	32	32
-2016	12260	104	UC Santa Barbara	0	1748067.0	Blackmon, Jarriesse	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1748067.0	""	-	N/A	23	7
-2016	12260	104	UC Santa Barbara	21	1402140.0	Brewe, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402140.0	F	6-8	Sr	32	0
-2016	12260	104	UC Santa Barbara	24	1402141.0	Bryson, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402141.0	G	6-4	Sr	31	31
+2016	12260	104	UC Santa Barbara	44	1402142.0	Beeler, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402142.0	F	6-10	Sr	33	33
+2016	12260	104	UC Santa Barbara	0	1748067.0	Blackmon, Jarriesse	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1748067.0	""	-	N/A	24	8
+2016	12260	104	UC Santa Barbara	21	1402140.0	Brewe, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402140.0	F	6-8	Sr	33	0
+2016	12260	104	UC Santa Barbara	24	1402141.0	Bryson, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402141.0	G	6-4	Sr	32	32
 2016	12260	104	UC Santa Barbara	25	1626796.0	Burks, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626796.0	F	6-6	So	3	0
-2016	12260	104	UC Santa Barbara	01	1509764.0	Childress, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509764.0	G	6-0	Jr	32	32
+2016	12260	104	UC Santa Barbara	01	1509764.0	Childress, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509764.0	G	6-0	Jr	33	33
 2016	12260	104	UC Santa Barbara	00	1509763.0	Ford, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509763.0	G	6-3	Jr	0	0
 2016	12260	104	UC Santa Barbara	31	1287784.0	Green, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1287784.0	G	6-5	Sr	25	8
 2016	12260	104	UC Santa Barbara	12	1509767.0	Hart, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509767.0	F	6-10	So	25	0
-2016	12260	104	UC Santa Barbara	10	1747530.0	Kupchak, Maxwell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747530.0	""	-	N/A	32	17
+2016	12260	104	UC Santa Barbara	10	1747530.0	Kupchak, Maxwell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747530.0	""	-	N/A	33	17
 2016	12260	104	UC Santa Barbara	14	1626795.0	Lakoju, Ami	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626795.0	F	6-8	So	15	0
 2016	12260	104	UC Santa Barbara	20	1509765.0	Louks, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1509765.0	G	6-2	Sr	0	0
 2016	12260	104	UC Santa Barbara	05	1777250.0	Osifeso, Tide	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1777250.0	""	-	N/A	5	0
-2016	12260	104	UC Santa Barbara	13	1626794.0	Smith, Dajuan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626794.0	G	6-3	Sr	31	2
-2016	12260	104	UC Santa Barbara	11	1747531.0	Taylor, T.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747531.0	""	-	N/A	32	0
+2016	12260	104	UC Santa Barbara	13	1626794.0	Smith, Dajuan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626794.0	G	6-3	Sr	32	2
+2016	12260	104	UC Santa Barbara	11	1747531.0	Taylor, T.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747531.0	""	-	N/A	33	0
 2016	12260	104	UC Santa Barbara	03	1748516.0	Troutt, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1748516.0	""	-	N/A	11	0
-2016	12260	104	UC Santa Barbara	02	1626793.0	Vincent, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626793.0	G	6-3	So	32	31
+2016	12260	104	UC Santa Barbara	02	1626793.0	Vincent, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1626793.0	G	6-3	So	33	32
 2016	12260	104	UC Santa Barbara	04	1402138.0	Walker, Aamahd	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1402138.0	G	6-2	Jr	0	0
 2016	12260	104	UC Santa Barbara	23	1748069.0	Walters, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1748069.0	""	-	N/A	9	0
 2016	12260	128	UCF	52	1403003.0	Blair, Staphon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1403003.0	F	6-9	Sr	28	1
@@ -4639,6 +4619,26 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	164	UConn	00	1400758.0	Nolan, Phillip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400758.0	F	6-10	Sr	32	13
 2016	12260	164	UConn	31	1747881.0	Noyes, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1747881.0	""	-	N/A	10	0
 2016	12260	164	UConn	44	1619261.0	Purvis, Rodney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1619261.0	G	6-4	Jr	36	21
+2016	12260	671	UL Lafayette	31		Bartley, Frank		G	6-3	Jr	0	0
+2016	12260	671	UL Lafayette	42	1738624.0	Broussard, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738624.0	G	5-10	So	4	0
+2016	12260	671	UL Lafayette	33		Capps, Garrett		F	6-6	Fr	0	0
+2016	12260	671	UL Lafayette	44		Davis, Jerekius		F	6-6	Fr	0	0
+2016	12260	671	UL Lafayette	15	1748074.0	Edgman, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1748074.0	""	-	N/A	1	0
+2016	12260	671	UL Lafayette	25		Evans, Kadavion		G	5-11	Fr	0	0
+2016	12260	671	UL Lafayette	15	1738620.0	Hedgeman, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738620.0	F	6-7	Jr	23	4
+2016	12260	671	UL Lafayette	21	1412922.0	Long, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1412922.0	F	6-9	Sr	34	33
+2016	12260	671	UL Lafayette	11	1738619.0	Marlin, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738619.0	G	6-0	Sr	9	0
+2016	12260	671	UL Lafayette	25	1760746.0	McGuire, Elijah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1760746.0	""	-	N/A	16	0
+2016	12260	671	UL Lafayette	55	1620180.0	Plaisance, Scott	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620180.0	F	6-9	Fr	18	0
+2016	12260	671	UL Lafayette	13	1512151.0	Register, Hayward	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512151.0	G	6-2	Jr	34	5
+2016	12260	671	UL Lafayette	5	1412919.0	Shepherd, Kasey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1412919.0	G	6-3	Sr	34	9
+2016	12260	671	UL Lafayette	22	1620178.0	Stove, Johnathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620178.0	G	6-4	So	34	32
+2016	12260	671	UL Lafayette	0	1620176.0	Walker, Devonta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620176.0	F	6-7	Sr	34	9
+2016	12260	671	UL Lafayette	32	1620182.0	Washington, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620182.0	F	6-6	So	33	22
+2016	12260	671	UL Lafayette	23	1620181.0	Williams, Tiremone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620181.0	G	6-0	Sr	29	3
+2016	12260	671	UL Lafayette	3	1738618.0	Wooten, Tyrone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738618.0	G	6-4	Jr	24	1
+2016	12260	671	UL Lafayette	1	1620177.0	Wright, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620177.0	G	6-1	Sr	33	32
+2016	12260	671	UL Lafayette	4	1412911.0	Wronkoski, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1412911.0	G	6-5	Sr	34	20
 2016	12260	391	UMBC	55	1619977.0	Brent, Malcolm L.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1619977.0	F	6-5	So	20	6
 2016	12260	391	UMBC	12	1512930.0	Darley, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512930.0	G	6-8	Jr	30	26
 2016	12260	391	UMBC	1	1512927.0	Elliott, Rodney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512927.0	G	6-0	So	28	26
@@ -4953,20 +4953,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	741	VMI	0	1742435.0	Vereen, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742435.0	G	6-4	Fr	27	8
 2016	12260	741	VMI	14	1742440.0	Weethee, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1742440.0	F	6-6	Fr	6	0
 2016	12260	741	VMI	40	1290939.0	Weethee, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1290939.0	F	6-6	Sr	28	4
-2016	12260	735	Valparaiso	23	1512917.0	Adekoya, Jubril	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512917.0	F	6-7	Jr	35	1
-2016	12260	735	Valparaiso	0	1512912.0	Carter, Keith	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512912.0	G	6-1	Sr	34	34
-2016	12260	735	Valparaiso	22	1512916.0	Davidson, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512916.0	G	6-4	Jr	14	0
-2016	12260	735	Valparaiso	14	1738168.0	Fernandez, Vashil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738168.0	C	6-10	Sr	34	34
-2016	12260	735	Valparaiso	11	1628595.0	Hammink, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628595.0	G	6-7	Jr	33	8
-2016	12260	735	Valparaiso	3	1628592.0	Joseph, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628592.0	G	6-1	So	23	1
-2016	12260	735	Valparaiso	30	1738170.0	Levingston Simon, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738170.0	F	6-7	So	11	0
-2016	12260	735	Valparaiso	01	1628590.0	Nickerson, E. Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628590.0	F	6-8	Sr	30	7
-2016	12260	735	Valparaiso	25	1512918.0	Peters, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512918.0	F	6-9	Jr	35	35
-2016	12260	735	Valparaiso	10	1628594.0	Skara, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628594.0	F	6-8	So	27	13
+2016	12260	735	Valparaiso	23	1512917.0	Adekoya, Jubril	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512917.0	F	6-7	Jr	37	1
+2016	12260	735	Valparaiso	0	1512912.0	Carter, Keith	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512912.0	G	6-1	Sr	36	36
+2016	12260	735	Valparaiso	22	1512916.0	Davidson, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512916.0	G	6-4	Jr	15	0
+2016	12260	735	Valparaiso	14	1738168.0	Fernandez, Vashil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738168.0	C	6-10	Sr	36	36
+2016	12260	735	Valparaiso	11	1628595.0	Hammink, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628595.0	G	6-7	Jr	35	10
+2016	12260	735	Valparaiso	3	1628592.0	Joseph, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628592.0	G	6-1	So	24	1
+2016	12260	735	Valparaiso	30	1738170.0	Levingston Simon, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1738170.0	F	6-7	So	12	0
+2016	12260	735	Valparaiso	01	1628590.0	Nickerson, E. Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628590.0	F	6-8	Sr	32	7
+2016	12260	735	Valparaiso	25	1512918.0	Peters, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512918.0	F	6-9	Jr	37	37
+2016	12260	735	Valparaiso	10	1628594.0	Skara, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628594.0	F	6-8	So	29	13
 2016	12260	735	Valparaiso	21		Smits, Derrik		C	7-1	Fr	0	0
-2016	12260	735	Valparaiso	5	1628593.0	Walker, Darien	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628593.0	G	6-3	Sr	34	16
-2016	12260	735	Valparaiso	2	1628591.0	Walker, Tevonn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628591.0	G	6-2	So	29	26
-2016	12260	735	Valparaiso	15	1512915.0	Williams, Lexus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512915.0	G	6-0	So	15	0
+2016	12260	735	Valparaiso	5	1628593.0	Walker, Darien	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628593.0	G	6-3	Sr	36	18
+2016	12260	735	Valparaiso	2	1628591.0	Walker, Tevonn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1628591.0	G	6-2	So	31	26
+2016	12260	735	Valparaiso	15	1512915.0	Williams, Lexus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1512915.0	G	6-0	So	16	0
 2016	12260	736	Vanderbilt	04	1620658.0	Baldwin IV, Wade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620658.0	G	6-3	So	33	30
 2016	12260	736	Vanderbilt	12		Baptiste, Djery		C	6-10	Fr	0	0
 2016	12260	736	Vanderbilt	42	1620662.0	Cressler, Nolan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620662.0	G	6-4	Jr	30	2
@@ -4997,20 +4997,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2016	12260	738	Vermont	4	1625877.0	Urso, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625877.0	G	6-2	So	7	0
 2016	12260	738	Vermont	14	1625879.0	Ward, Cam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1625879.0	G	6-2	So	37	3
 2016	12260	738	Vermont	24	1515965.0	Wills, Dre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1515965.0	G	6-1	Jr	24	6
-2016	12260	739	Villanova	15	1400576.0	Arcidiacono, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400576.0	G	6-3	Sr	38	38
-2016	12260	739	Villanova	5	1620586.0	Booth, Phil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620586.0	G	6-3	So	38	3
-2016	12260	739	Villanova	25	1620587.0	Bridges, Mikal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620587.0	F	6-7	Fr	38	0
-2016	12260	739	Villanova	1	1733748.0	Brunson, Jalen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733748.0	G	6-3	Fr	38	37
-2016	12260	739	Villanova	34		Delaney, Tim		F	6-9	Fr	0	0
+2016	12260	739	Villanova	15	1400576.0	Arcidiacono, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400576.0	G	6-3	Sr	40	40
+2016	12260	739	Villanova	5	1620586.0	Booth, Phil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620586.0	G	6-3	So	40	3
+2016	12260	739	Villanova	25	1620587.0	Bridges, Mikal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1620587.0	F	6-7	Fr	40	0
+2016	12260	739	Villanova	1	1733748.0	Brunson, Jalen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733748.0	G	6-3	Fr	40	39
+2016	12260	739	Villanova	34	1733749.0	Delaney, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733749.0	F	6-9	Fr	0	0
 2016	12260	739	Villanova	10	1733750.0	DiVincenzo, Donte	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733750.0	G	6-5	Fr	8	0
-2016	12260	739	Villanova	20	1400579.0	Farrell, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400579.0	F	6-5	Sr	15	0
-2016	12260	739	Villanova	3	1511919.0	Hart, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511919.0	G	6-5	Jr	38	38
-2016	12260	739	Villanova	2	1511918.0	Jenkins, Kris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511918.0	F	6-6	Jr	38	36
-2016	12260	739	Villanova	0	1400580.0	Lowe, Henry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400580.0	G	5-11	Sr	14	0
-2016	12260	739	Villanova	23	1400581.0	Ochefu, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400581.0	F	6-11	Sr	35	32
-2016	12260	739	Villanova	4		Paschall, Eric		F	6-7	Fr	0	0
-2016	12260	739	Villanova	52	1635935.0	Rafferty, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635935.0	F	6-8	Sr	14	0
-2016	12260	739	Villanova	45	1511920.0	Reynolds, Darryl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511920.0	F	6-8	Jr	38	6
+2016	12260	739	Villanova	20	1400579.0	Farrell, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400579.0	F	6-5	Sr	16	0
+2016	12260	739	Villanova	3	1511919.0	Hart, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511919.0	G	6-5	Jr	40	40
+2016	12260	739	Villanova	2	1511918.0	Jenkins, Kris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511918.0	F	6-6	Jr	40	38
+2016	12260	739	Villanova	0	1400580.0	Lowe, Henry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400580.0	G	5-11	Sr	15	0
+2016	12260	739	Villanova	23	1400581.0	Ochefu, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1400581.0	F	6-11	Sr	37	34
+2016	12260	739	Villanova	4	1733751.0	Paschall, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1733751.0	F	6-7	Fr	0	0
+2016	12260	739	Villanova	52	1635935.0	Rafferty, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1635935.0	F	6-8	Sr	15	0
+2016	12260	739	Villanova	45	1511920.0	Reynolds, Darryl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1511920.0	F	6-8	Jr	40	6
 2016	12260	746	Virginia	2	1734253.0	Bartley, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1734253.0	G	6-5	Fr	8	0
 2016	12260	746	Virginia	15	1289348.0	Brogdon, Malcolm	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1289348.0	G	6-5	Sr	37	37
 2016	12260	746	Virginia	13	1404768.0	Gill, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12260&stats_player_seq=1404768.0	F	6-8	Sr	37	37

@@ -138,7 +138,6 @@ year	year_id	team_id	team_name	team_url
 2016	12260	361	LIU Brooklyn	http://stats.ncaa.org/team/361/12260
 2016	12260	365	LSU	http://stats.ncaa.org/team/365/12260
 2016	12260	340	La Salle	http://stats.ncaa.org/team/340/12260
-2016	12260	671	La.-Lafayette	http://stats.ncaa.org/team/671/12260
 2016	12260	498	La.-Monroe	http://stats.ncaa.org/team/498/12260
 2016	12260	342	Lafayette	http://stats.ncaa.org/team/342/12260
 2016	12260	346	Lamar	http://stats.ncaa.org/team/346/12260
@@ -304,6 +303,7 @@ year	year_id	team_id	team_name	team_url
 2016	12260	128	UCF	http://stats.ncaa.org/team/128/12260
 2016	12260	110	UCLA	http://stats.ncaa.org/team/110/12260
 2016	12260	164	UConn	http://stats.ncaa.org/team/164/12260
+2016	12260	671	UL Lafayette	http://stats.ncaa.org/team/671/12260
 2016	12260	391	UMBC	http://stats.ncaa.org/team/391/12260
 2016	12260	393	UMES	http://stats.ncaa.org/team/393/12260
 2016	12260	2707	UMKC	http://stats.ncaa.org/team/2707/12260
