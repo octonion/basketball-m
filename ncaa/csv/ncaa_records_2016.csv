@@ -50,7 +50,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,38,Augsburg,15,11,0,26
 2016,39,Augusta,18,11,0,29
 2016,40,Augustana (IL),29,2,0,31
-2016,41,Augustana (SD),31,2,1,34
+2016,41,Augustana (SD),34,2,0,36
 2016,30093,AUM,0,5,0,5
 2016,42,Aurora,20,6,0,26
 2016,953,Austin,16,11,0,27
@@ -59,14 +59,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30146,Azusa Pacific,23,9,0,32
 2016,45,Babson,23,6,0,29
 2016,46,Baldwin Wallace,16,11,0,27
-2016,47,Ball St.,21,13,1,35
+2016,47,Ball St.,21,14,0,35
 2016,962,Bard,9,16,0,25
-2016,49,Barry,26,6,1,33
+2016,49,Barry,26,7,0,33
 2016,15646,Barton,20,11,0,31
 2016,58,Baruch,17,14,0,31
 2016,50,Bates,10,14,0,24
 2016,51,Baylor,22,12,0,34
 2016,26107,Becker,17,11,0,28
+2016,30197,Belhaven,2,23,0,25
 2016,52,Bellarmine,23,7,0,30
 2016,14927,Belmont,20,12,0,32
 2016,2683,Belmont Abbey,9,19,0,28
@@ -106,12 +107,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,80,Brown,8,20,0,28
 2016,81,Bryant,8,23,0,31
 2016,30188,Bryn Athyn,5,17,0,22
-2016,83,Bucknell,17,14,1,32
+2016,83,Bucknell,17,14,0,31
 2016,84,Buena Vista,11,16,0,27
 2016,86,Buffalo,20,15,0,35
 2016,85,Buffalo St.,15,11,0,26
 2016,87,Butler,22,11,0,33
-2016,77,BYU,25,10,1,36
+2016,77,BYU,26,11,0,37
 2016,2685,BYU-Hawaii,15,12,0,27
 2016,88,Cabrini,16,11,0,27
 2016,1305,Cairn,10,16,0,26
@@ -126,7 +127,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,93,Cal St. San B'dino,9,15,0,24
 2016,30198,Cal St. San Marcos,15,12,0,27
 2016,995,Caldwell,9,17,0,26
-2016,107,California,23,10,0,33
+2016,107,California,23,11,0,34
 2016,106,California (PA),7,21,0,28
 2016,30135,California Baptist,28,7,0,35
 2016,89,Caltech,9,16,0,25
@@ -179,12 +180,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,143,Clarion,14,16,0,30
 2016,145,Clark (MA),6,19,0,25
 2016,144,Clark Atlanta,9,20,0,29
+2016,958,Clarks Summit,3,22,0,25
 2016,146,Clarkson,9,16,0,25
 2016,20576,Clayton St.,14,12,0,26
 2016,147,Clemson,17,14,0,31
 2016,148,Cleveland St.,9,23,0,32
 2016,722,Coast Guard,10,14,0,24
-2016,149,Coastal Caro.,20,11,1,32
+2016,149,Coastal Caro.,21,12,0,33
 2016,30083,Cobleskill St.,3,22,0,25
 2016,150,Coe,10,15,0,25
 2016,1023,Coker,9,18,0,27
@@ -199,7 +201,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,155,Colorado Mines,24,8,0,32
 2016,156,Colorado St.,18,16,0,34
 2016,2720,Colorado St.-Pueblo,16,13,0,29
-2016,158,Columbia,22,10,1,33
+2016,158,Columbia,25,10,0,35
 2016,159,Columbus St.,21,8,0,29
 2016,1028,Concord,22,10,0,32
 2016,30199,Concordia (CA),22,6,0,28
@@ -215,7 +217,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,167,Cornell,10,18,0,28
 2016,166,Cornell College,8,15,0,23
 2016,30111,Covenant,18,10,0,28
-2016,169,Creighton,20,14,1,35
+2016,169,Creighton,20,15,0,35
 2016,30035,Crown (MN),5,22,0,27
 2016,94,CSU Bakersfield,24,9,0,33
 2016,101,CSUN,10,20,0,30
@@ -240,7 +242,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,176,DePaul,9,22,0,31
 2016,177,DePauw,8,17,0,25
 2016,20,DeSales,20,8,0,28
-2016,184,Detroit,16,15,0,31
+2016,184,Detroit Mercy,16,15,0,31
 2016,185,Dickinson,13,13,0,26
 2016,186,Dist. Columbia,14,14,0,28
 2016,30095,Dixie St.,18,9,0,27
@@ -253,7 +255,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,191,Drexel,6,25,0,31
 2016,1057,Drury,19,8,0,27
 2016,192,Dubuque,18,8,0,26
-2016,193,Duke,25,10,1,36
+2016,193,Duke,25,11,0,36
 2016,194,Duquesne,17,17,0,34
 2016,195,Earlham,2,23,0,25
 2016,196,East Carolina,12,20,0,32
@@ -287,7 +289,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1071,Emporia St.,13,16,0,29
 2016,8981,Endicott,19,11,0,30
 2016,1072,Erskine,12,15,0,27
-2016,198,ETSU,23,11,0,34
+2016,198,ETSU,24,12,0,36
 2016,218,Eureka,12,13,0,25
 2016,219,Evansville,25,9,0,34
 2016,220,Fairfield,19,14,0,33
@@ -307,7 +309,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,229,Fla. Atlantic,8,25,0,33
 2016,233,Fla. Southern,10,19,0,29
 2016,30092,Flagler,8,20,0,28
-2016,235,Florida,21,14,1,36
+2016,235,Florida,21,15,0,36
 2016,228,Florida A&M,8,21,0,29
 2016,234,Florida St.,20,14,0,34
 2016,230,Florida Tech,14,15,0,29
@@ -316,6 +318,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,9011,Fort Hays St.,20,11,0,31
 2016,1083,Fort Lewis,28,4,0,32
 2016,237,Fort Valley St.,6,23,0,29
+2016,308,Fort Wayne,24,10,0,34
 2016,238,Framingham St.,5,21,0,26
 2016,1085,Francis Marion,17,12,0,29
 2016,30069,Franciscan,1,23,0,24
@@ -335,21 +338,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30084,Geneva,5,21,0,26
 2016,1094,George Fox,7,18,0,25
 2016,248,George Mason,11,21,0,32
-2016,249,George Washington,25,10,0,35
+2016,249,George Washington,28,10,0,38
 2016,251,Georgetown,15,18,0,33
 2016,257,Georgia,20,14,0,34
 2016,1096,Georgia College,18,11,0,29
 2016,254,Georgia St.,16,14,0,30
-2016,255,Georgia Tech,21,14,1,36
+2016,255,Georgia Tech,21,15,0,36
 2016,9004,Georgian Court,5,21,0,26
 2016,258,Gettysburg,18,9,0,27
 2016,1098,Glenville St.,11,19,0,30
 2016,8366,Goldey-Beacom,10,18,0,28
-2016,260,Gonzaga,28,7,1,36
+2016,260,Gonzaga,28,8,0,36
 2016,1099,Gordon,12,14,0,26
 2016,1467,Goucher,10,15,0,25
 2016,261,Grambling,7,24,0,31
-2016,1104,Grand Canyon,27,6,1,34
+2016,1104,Grand Canyon,27,7,0,34
 2016,262,Grand Valley St.,18,11,0,29
 2016,794,Green Bay,23,13,0,36
 2016,11062,Green Mountain,21,4,0,25
@@ -371,7 +374,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,273,Hartwick,19,9,0,28
 2016,275,Harvard,14,16,0,30
 2016,276,Haverford,4,21,0,25
-2016,277,Hawaii,27,6,0,33
+2016,277,Hawaii,28,6,0,34
 2016,2697,Hawaii Hilo,9,16,0,25
 2016,2696,Hawaii Pacific,19,9,0,28
 2016,278,Heidelberg,14,12,0,26
@@ -381,7 +384,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,8398,Hilbert,22,5,0,27
 2016,280,Hillsdale,18,10,0,28
 2016,281,Hiram,19,8,0,27
-2016,282,Hobart and William Colleges,12,13,0,25
+2016,282,Hobart and William Smith Colleges,12,13,0,25
 2016,283,Hofstra,24,10,0,34
 2016,285,Holy Cross,15,20,0,35
 2016,1126,Holy Family,26,6,0,32
@@ -399,6 +402,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1133,Husson,21,7,0,28
 2016,295,Idaho,21,13,0,34
 2016,294,Idaho St.,16,15,0,31
+2016,30172,IIT,3,21,0,24
 2016,300,Ill. Wesleyan,13,13,0,26
 2016,302,Ill.-Chicago,5,25,0,30
 2016,30050,Ill.-Springfield,11,19,0,30
@@ -407,14 +411,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,299,Illinois St.,18,14,0,32
 2016,303,Immaculata,10,16,0,26
 2016,2743,Incarnate Word,17,12,0,29
-2016,306,Indiana,27,7,1,35
+2016,306,Indiana,27,8,0,35
 2016,307,Indiana (PA),21,8,0,29
 2016,305,Indiana St.,15,17,0,32
 2016,310,Iona,22,11,0,33
 2016,312,Iowa,22,11,0,33
-2016,311,Iowa St.,23,11,1,35
+2016,311,Iowa St.,23,12,0,35
 2016,30173,Iowa Wesleyan,12,12,0,24
-2016,308,IPFW,24,10,0,34
 2016,313,Ithaca,15,13,0,28
 2016,2699,IUPUI,13,19,0,32
 2016,314,Jackson St.,20,16,0,36
@@ -429,7 +432,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,324,Johnson St.,10,17,0,27
 2016,325,Juniata,16,11,0,27
 2016,326,Kalamazoo,3,22,0,25
-2016,328,Kansas,32,4,1,37
+2016,328,Kansas,33,5,0,38
 2016,327,Kansas St.,17,16,0,33
 2016,329,Kean,4,20,0,24
 2016,330,Keene St.,20,11,0,31
@@ -448,7 +451,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1163,La Roche,12,14,0,26
 2016,340,La Salle,9,22,0,31
 2016,341,La Verne,9,16,0,25
-2016,671,La.-Lafayette,19,14,1,34
 2016,498,La.-Monroe,20,14,0,34
 2016,342,Lafayette,6,24,0,30
 2016,1162,LaGrange,20,9,0,29
@@ -456,7 +458,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,344,Lake Forest,12,11,0,23
 2016,345,Lake Superior St.,19,10,0,29
 2016,1164,Lakeland,13,12,0,25
-2016,346,Lamar,11,19,0,30
+2016,346,Lamar University,11,19,0,30
 2016,30085,Lancaster Bible,27,1,0,28
 2016,1167,Lander,22,10,0,32
 2016,347,Lane,18,13,0,31
@@ -478,7 +480,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1174,Limestone,12,18,0,30
 2016,356,Lincoln (MO),16,14,0,30
 2016,357,Lincoln (PA),9,20,0,29
-2016,1176,Lincoln Memorial,32,2,1,35
+2016,1176,Lincoln Memorial,34,3,0,37
 2016,30136,Lindenwood (MO),16,14,0,30
 2016,1179,Linfield,11,14,0,25
 2016,28600,Lipscomb,12,21,0,33
@@ -491,7 +493,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,363,Longwood,10,23,0,33
 2016,364,Loras,13,13,0,26
 2016,1182,Louisiana Col.,14,13,0,27
-2016,366,Louisiana Tech,23,9,0,32
+2016,366,Louisiana Tech,23,10,0,33
 2016,367,Louisville,23,8,0,31
 2016,371,Loyola Chicago,15,17,0,32
 2016,369,Loyola Maryland,9,21,0,30
@@ -523,7 +525,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30075,Mary,19,12,0,31
 2016,1203,Mary Hardin-Baylor,10,16,0,26
 2016,390,Mary Washington,15,12,0,27
-2016,392,Maryland,27,8,1,36
+2016,392,Maryland,27,9,0,36
 2016,394,Marymount (VA),10,15,0,25
 2016,395,Maryville (MO),10,18,0,28
 2016,396,Maryville (TN),14,11,0,25
@@ -533,7 +535,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30138,McKendree,13,14,0,27
 2016,486,MCLA,6,19,0,25
 2016,8530,McMurry,3,22,0,25
-2016,402,McNeese St.,9,20,0,29
+2016,402,McNeese,9,20,0,29
 2016,379,Me.-Farmington,3,22,0,25
 2016,30040,Me.-Presque Isle,7,12,0,19
 2016,23725,Medaille,11,15,0,26
@@ -546,7 +548,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,410,Merrimack,15,12,0,27
 2016,411,Messiah,6,19,0,25
 2016,412,Methodist,7,16,0,23
-2016,415,Miami (FL),27,7,1,35
+2016,415,Miami (FL),27,8,0,35
 2016,414,Miami (OH),13,20,0,33
 2016,418,Michigan,23,13,0,36
 2016,416,Michigan St.,29,6,0,35
@@ -560,10 +562,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,426,Millsaps,5,21,0,26
 2016,797,Milwaukee,20,13,0,33
 2016,427,Minn. Duluth,15,14,0,29
-2016,383,Minn. St. Mankato,22,10,0,32
 2016,27854,Minn.-Crookston,3,24,0,27
 2016,1226,Minn.-Morris,13,14,0,27
 2016,428,Minnesota,8,23,0,31
+2016,383,Minnesota St.,22,10,0,32
 2016,30125,Minot St.,15,14,0,29
 2016,16142,Misericordia,15,11,0,26
 2016,429,Mississippi Col.,8,16,0,24
@@ -586,7 +588,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,442,Montclair St.,11,14,0,25
 2016,1238,Montevallo,19,10,0,29
 2016,443,Moravian,11,14,0,25
-2016,444,Morehead St.,21,12,1,34
+2016,444,Morehead St.,23,14,0,37
 2016,445,Morehouse,15,10,0,25
 2016,446,Morgan St.,9,22,0,31
 2016,30067,Morrisville St.,19,8,0,27
@@ -614,7 +616,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1156,Neb.-Kearney,21,12,0,33
 2016,463,Nebraska,16,18,0,34
 2016,1254,Neumann,22,8,0,30
-2016,466,Nevada,21,13,1,35
+2016,466,Nevada,24,14,0,38
 2016,467,New England Col.,7,18,0,25
 2016,469,New Hampshire,20,13,0,33
 2016,470,New Haven,8,18,0,26
@@ -628,13 +630,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,482,Niagara,7,25,0,32
 2016,483,Nicholls St.,11,23,0,34
 2016,484,Nichols,25,4,0,29
-2016,471,NJIT,19,14,1,34
+2016,471,NJIT,20,15,0,35
 2016,485,Norfolk St.,17,17,0,34
 2016,487,North Ala.,16,13,0,29
-2016,457,North Carolina,30,6,1,37
+2016,457,North Carolina,33,7,0,40
 2016,490,North Carolina St.,16,17,0,33
 2016,492,North Central (IL),19,8,0,27
-2016,30039,North Central (MN),15,14,3,32
+2016,30039,North Central (MN),16,16,0,32
 2016,494,North Dakota,17,16,0,33
 2016,493,North Dakota St.,20,13,0,33
 2016,2711,North Florida,22,12,0,34
@@ -646,7 +648,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,12810,Northeastern St.,8,18,0,26
 2016,501,Northern Ariz.,5,25,0,30
 2016,502,Northern Colo.,10,21,0,31
-2016,503,Northern Ill.,21,12,0,33
+2016,503,Northern Ill.,21,13,0,34
 2016,505,Northern Ky.,9,21,0,30
 2016,506,Northern Mich.,7,20,0,27
 2016,1266,Northern St.,18,12,0,30
@@ -657,21 +659,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30178,Northwestern Okla.,9,18,0,27
 2016,508,Northwestern St.,8,20,0,28
 2016,30031,Northwestern-St. Paul,22,6,0,28
-2016,510,Northwood (MI),15,13,0,28
+2016,510,Northwood,15,13,0,28
 2016,511,Norwich,7,18,0,25
-2016,513,Notre Dame,23,11,1,35
+2016,513,Notre Dame,24,12,0,36
 2016,30126,Notre Dame (OH),21,11,0,32
 2016,30056,Notre Dame de Namur,3,25,0,28
 2016,24639,Nova Southeastern,11,16,0,27
 2016,1277,Nyack,11,15,0,26
 2016,477,NYIT,3,23,0,26
 2016,479,NYU,21,6,0,27
-2016,514,Oakland,21,11,0,32
+2016,514,Oakland,23,12,0,35
 2016,1278,Oakland City,16,5,0,21
 2016,515,Oberlin,12,14,0,26
 2016,516,Occidental,9,13,0,22
 2016,2713,Oglethorpe,11,15,0,26
-2016,519,Ohio,23,11,1,35
+2016,519,Ohio,23,12,0,35
 2016,30119,Ohio Dominican,11,17,0,28
 2016,517,Ohio Northern,12,14,0,26
 2016,518,Ohio St.,21,14,0,35
@@ -680,15 +682,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30202,Okla. Baptist,7,19,0,26
 2016,30179,Okla. Christian,7,21,0,28
 2016,24342,Okla. Panhandle,8,20,0,28
-2016,522,Oklahoma,27,7,1,35
+2016,522,Oklahoma,29,8,0,37
 2016,521,Oklahoma St.,12,20,0,32
-2016,523,Old Dominion,22,13,0,35
+2016,523,Old Dominion,25,13,0,38
 2016,524,Old Westbury,19,9,0,28
 2016,433,Ole Miss,20,12,0,32
 2016,525,Olivet,3,22,0,25
 2016,464,Omaha,18,14,0,32
 2016,527,Oral Roberts,14,17,0,31
-2016,529,Oregon,30,6,1,37
+2016,529,Oregon,31,7,0,38
 2016,528,Oregon St.,19,13,0,32
 2016,530,Oswego St.,22,9,0,31
 2016,531,Otterbein,4,21,0,25
@@ -777,7 +779,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,102,Sacramento St.,14,17,0,31
 2016,590,Sacred Heart,12,18,0,30
 2016,11036,Sage Colleges,16,10,0,26
-2016,591,Saginaw Valley,25,7,1,33
+2016,591,Saginaw Valley,25,8,0,33
 2016,594,Saint Augustine's,11,16,0,27
 2016,600,Saint Francis (PA),13,17,0,30
 2016,602,Saint John's (MN),19,8,0,27
@@ -797,7 +799,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,624,Sam Houston St.,18,16,0,34
 2016,625,Samford,14,19,0,33
 2016,627,San Diego,9,21,0,30
-2016,626,San Diego St.,27,9,1,37
+2016,626,San Diego St.,28,10,0,38
 2016,628,San Fran. St.,16,11,0,27
 2016,629,San Francisco,15,15,0,30
 2016,630,San Jose St.,9,22,0,31
@@ -806,8 +808,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,632,Savannah St.,16,16,0,32
 2016,1355,Schreiner,10,16,0,26
 2016,633,Scranton,19,8,0,27
-2016,1356,Seattle,15,17,0,32
 2016,634,Seattle Pacific,22,9,0,31
+2016,1356,Seattle U,15,17,0,32
 2016,635,Seton Hall,25,9,0,34
 2016,30063,Seton Hill,13,14,0,27
 2016,652,Sewanee,20,8,0,28
@@ -869,7 +871,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1340,St. Joseph's (L.I.),10,15,0,25
 2016,605,St. Joseph's (ME),8,18,0,26
 2016,607,St. Lawrence,14,12,0,26
-2016,610,St. Mary's (CA),29,5,1,35
+2016,610,St. Mary's (CA),29,6,0,35
 2016,611,St. Mary's (MD),13,14,0,27
 2016,1346,St. Mary's (TX),10,19,0,29
 2016,614,St. Norbert,25,3,0,28
@@ -885,11 +887,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,21852,Stevenson,11,15,0,26
 2016,680,Stillman,27,6,0,33
 2016,681,Stockton,21,7,0,28
-2016,682,Stonehill,24,8,1,33
+2016,682,Stonehill,24,9,0,33
 2016,683,Stony Brook,26,7,0,33
 2016,684,Suffolk,8,18,0,26
 2016,1390,Sul Ross St.,16,12,0,28
-2016,958,Summit,3,22,0,25
 2016,30165,SUNY Canton,20,4,0,24
 2016,168,SUNY Cortland,21,8,0,29
 2016,247,SUNY Geneseo,17,9,0,26
@@ -900,21 +901,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,552,SUNY Potsdam,1,24,0,25
 2016,685,Susquehanna,24,5,0,29
 2016,686,Swarthmore,22,8,0,30
-2016,688,Syracuse,21,13,1,35
+2016,688,Syracuse,23,14,0,37
 2016,689,Tampa,9,18,0,27
-2016,1395,Tarleton St.,24,8,1,33
+2016,1395,Tarleton St.,24,9,0,33
 2016,712,TCNJ,16,12,0,28
 2016,698,TCU,12,21,0,33
 2016,690,Temple,21,12,0,33
 2016,694,Tennessee,15,19,0,34
 2016,691,Tennessee St.,20,11,0,31
-2016,692,Tennessee Tech,19,11,0,30
+2016,692,Tennessee Tech,19,12,0,31
 2016,30090,Tex. A&M Int'l,18,11,0,29
 2016,199,Tex. A&M-Commerce,17,11,0,28
 2016,696,Tex. A&M-Kingsville,11,15,0,26
 2016,30088,Tex. Permian Basin,15,14,0,29
 2016,703,Texas,20,13,0,33
-2016,697,Texas A&M,28,8,1,37
+2016,697,Texas A&M,28,9,0,37
 2016,1400,Texas Lutheran,21,7,0,28
 2016,699,Texas Southern,18,15,0,33
 2016,670,Texas St.,15,16,0,31
@@ -927,7 +928,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1402,Thomas More,17,11,0,28
 2016,1403,Tiffin,11,19,0,30
 2016,709,Toledo,17,15,0,32
-2016,711,Towson,20,12,0,32
+2016,711,Towson,20,13,0,33
 2016,28749,Transylvania,11,16,0,27
 2016,30002,Trevecca Nazarene,16,16,0,32
 2016,30037,Trine,18,9,0,27
@@ -943,16 +944,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1255,U New England,14,13,0,27
 2016,9,UAB,26,7,0,33
 2016,108,UC Davis,11,19,0,30
-2016,109,UC Irvine,26,9,1,36
+2016,109,UC Irvine,28,10,0,38
 2016,111,UC Riverside,14,19,0,33
-2016,112,UC San Diego,24,8,0,32
-2016,104,UC Santa Barbara,18,13,0,31
+2016,112,UC San Diego,24,9,0,33
+2016,104,UC Santa Barbara,19,14,0,33
 2016,113,UC Santa Cruz,10,15,0,25
 2016,9754,UC-Colo. Springs,17,13,0,30
 2016,128,UCF,12,18,0,30
 2016,110,UCLA,15,17,0,32
 2016,164,UConn,25,11,0,36
 2016,309,UIndy,21,8,0,29
+2016,671,UL Lafayette,19,15,0,34
 2016,401,UMass Boston,6,19,0,25
 2016,656,UMass Dartmouth,17,11,0,28
 2016,368,UMass Lowell,11,18,0,29
@@ -972,7 +974,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,730,Ursinus,11,14,0,25
 2016,10411,USC Upstate,10,22,0,32
 2016,28594,USciences,17,12,0,29
-2016,702,UT Arlington,24,10,1,35
+2016,702,UT Arlington,24,11,0,35
 2016,695,UT Martin,20,15,0,35
 2016,732,Utah,27,9,0,36
 2016,731,Utah St.,16,15,0,31
@@ -985,13 +987,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,745,Va. Wesleyan,18,9,0,27
 2016,734,Valdosta St.,17,11,0,28
 2016,30166,Valley Forge,8,21,0,29
-2016,735,Valparaiso,28,6,1,35
+2016,735,Valparaiso,30,7,0,37
 2016,736,Vanderbilt,19,14,0,33
 2016,737,Vassar,12,14,0,26
 2016,740,VCU,25,11,0,36
-2016,738,Vermont,23,13,1,37
-2016,739,Villanova,31,5,1,37
-2016,746,Virginia,28,7,1,36
+2016,738,Vermont,23,14,0,37
+2016,739,Villanova,35,5,0,40
+2016,746,Virginia,29,8,0,37
 2016,743,Virginia St.,24,6,0,30
 2016,742,Virginia Tech,20,15,0,35
 2016,744,Virginia Union,16,14,0,30
@@ -1021,7 +1023,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,765,West Chester,23,7,0,30
 2016,11740,West Florida,7,19,0,26
 2016,766,West Ga.,22,9,0,31
-2016,1438,West Liberty,30,3,1,34
+2016,1438,West Liberty,31,4,0,35
 2016,767,West Tex. A&M,21,10,0,31
 2016,9630,West Va. Wesleyan,17,13,0,30
 2016,768,West Virginia,26,9,0,35
@@ -1033,7 +1035,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,774,Western Mich.,13,19,0,32
 2016,1445,Western N.M.,1,26,0,27
 2016,775,Western New Eng.,8,18,0,26
-2016,1446,Western Ore.,30,3,1,34
+2016,1446,Western Ore.,32,4,0,36
 2016,2759,Western St.,6,23,0,29
 2016,1448,Western Wash.,16,15,0,31
 2016,777,Westfield St.,11,16,0,27
@@ -1073,7 +1075,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,803,Wis.-Stout,4,20,0,24
 2016,804,Wis.-Superior,12,16,0,28
 2016,805,Wis.-Whitewater,16,10,0,26
-2016,796,Wisconsin,22,12,1,35
+2016,796,Wisconsin,22,13,0,35
 2016,806,Wittenberg,14,12,0,26
 2016,787,Wm. Paterson,13,13,0,26
 2016,2915,Wofford,15,17,0,32

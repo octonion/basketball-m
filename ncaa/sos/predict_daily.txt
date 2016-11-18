@@ -1,11 +1,87 @@
 BEGIN
 SET
-    team    | h_div | site |                opp                | v_div | t_score | o_score 
-------------+-------+------+-----------------------------------+-------+---------+---------
- BYU        |     1 | home | %                                +|     1 |    83.2 |    79.0
-            |       |      |                   Creighton       |       |         | 
- Valparaiso |     1 | home | %                                +|     1 |    64.2 |    63.3
-            |       |      |                   St. Mary's (CA) |       |         | 
-(2 rows)
+        team        | h_div |  site   |        opp         | v_div | t_score | o_score 
+--------------------+-------+---------+--------------------+-------+---------+---------
+ Akron              |     1 | home    | American           |     1 |    73.3 |    65.6
+ Arizona St.        |     1 | neutral | UNI                |     1 |    65.3 |    75.7
+ Auburn             |     1 | home    | Eastern Ky.        |     1 |    83.4 |    67.8
+ Augusta            |     2 | home    | Claflin            |     2 |    88.6 |    71.4
+ AUM                |     2 | home    | Union (TN)         |     2 |    61.0 |    69.6
+ Babson             |     3 | home    | Lasell             |     3 |    88.4 |    73.5
+ Buffalo            |     1 | home    | Nazareth           |     3 |    84.9 |    45.7
+ BYU                |     1 | home    | Coppin St.         |     1 |    91.0 |    61.0
+ Cal Poly           |     1 | home    | Cal St. Dom. Hills |     2 |    83.8 |    69.3
+ Carnegie Mellon    |     3 | home    | La Roche           |     3 |    69.5 |    70.1
+ Cedarville         |     2 | home    | Walsh              |     2 |    71.9 |    79.6
+ Charlotte          |     1 | home    | East Carolina      |     1 |    78.8 |    71.0
+ Clayton St.        |     2 | home    | LeMoyne-Owen       |     2 |    89.6 |    80.1
+ Clemson            |     1 | neutral | Davidson           |     1 |    85.6 |    73.7
+ Col. of Charleston |     1 | home    | Boise St.          |     1 |    69.0 |    55.9
+ Colorado           |     1 | home    | La.-Monroe         |     1 |    81.9 |    65.1
+ Concordia-St. Paul |     2 | home    | Bemidji St.        |     2 |    70.5 |    59.9
+ Davidson           |     1 | neutral | Clemson            |     1 |    73.7 |    85.6
+ DePaul             |     1 | home    | Rutgers            |     1 |    65.3 |    73.0
+ Dominican (IL)     |     3 | home    | Eureka             |     3 |    77.2 |    87.9
+ Florida            |     1 | neutral | St. Bonaventure    |     1 |    77.6 |    66.9
+ Georgetown         |     1 | home    | Arkansas St.       |     1 |    78.2 |    73.3
+ George Washington  |     1 | home    | Ark.-Pine Bluff    |     1 |    72.1 |    54.9
+ Georgia            |     1 | home    | Furman             |     1 |    75.9 |    71.4
+ Grambling          |     1 | home    | N.C. A&T           |     1 |    63.6 |    60.1
+ Hampton            |     1 | home    | Chowan             |     2 |    68.8 |    63.7
+ Harding            |     2 | home    | Northwestern Okla. |     2 |    83.0 |    75.0
+ Hardin-Simmons     |     3 | home    | Schreiner          |     3 |    86.3 |    76.1
+ Henderson St.      |     2 | home    | Southern Nazarene  |     2 |    81.3 |    78.0
+ Iowa               |     1 | home    | Seton Hall         |     1 |    79.7 |    87.5
+ Lafayette          |     1 | home    | NJIT               |     1 |    68.9 |    76.0
+ Louisville         |     1 | home    | Long Beach St.     |     1 |    86.6 |    59.3
+ Loyola Marymount   |     1 | home    | UConn              |     1 |    69.1 |    64.3
+ Lubbock Christian  |     2 | home    | West Tex. A&M      |     2 |    84.3 |    84.6
+ Marquette          |     1 | neutral | Michigan           |     1 |    69.7 |    71.7
+ Maryland           |     1 | home    | St. Mary's (MD)    |     3 |    93.1 |    51.3
+ Massachusetts      |     1 | home    | Temple             |     1 |    81.8 |    68.2
+ Michigan           |     1 | neutral | Marquette          |     1 |    71.7 |    69.7
+ Mississippi St.    |     1 | neutral | UCF                |     1 |    66.6 |    77.9
+ Missouri           |     1 | neutral | Xavier             |     1 |    74.5 |    70.3
+ Morgan St.         |     1 | home    | Wilmington (DE)    |     2 |    78.4 |    70.0
+ N.C. A&T           |     1 | home    | Grambling          |     1 |    62.9 |    60.7
+ New Hampshire      |     1 | home    | Abilene Christian  |     1 |    63.0 |    63.1
+ Northwest Mo. St.  |     2 | home    | Augustana (SD)     |     2 |    78.3 |    66.0
+ Ohio St.           |     1 | home    | Providence         |     1 |    70.9 |    69.3
+ Oklahoma           |     1 | neutral | Tulane             |     1 |    87.9 |    74.7
+ Oregon             |     1 | home    | Valparaiso         |     1 |    73.7 |    61.7
+ Pittsburgh         |     1 | neutral | SMU                |     1 |    66.8 |    79.9
+ Plymouth St.       |     3 | home    | Norwich            |     3 |    74.0 |    65.3
+ Saginaw Valley     |     2 | home    | Lewis              |     2 |    78.6 |    71.3
+ Saint Louis        |     1 | home    | Eastern Ill.       |     1 |    75.7 |    72.1
+ Sam Houston St.    |     1 | home    | Southern U.        |     1 |    83.3 |    78.4
+ San Jose St.       |     1 | home    | Denver             |     1 |    73.9 |    75.6
+ Shorter            |     2 | home    | Fort Valley St.    |     2 |    76.0 |    61.3
+ SMU                |     1 | neutral | Pittsburgh         |     1 |    79.9 |    66.8
+ Southern Ark.      |     2 | home    | East Central       |     2 |    77.0 |    67.6
+ South Fla.         |     1 | home    | Elon               |     1 |    71.8 |    77.6
+ Stanford           |     1 | home    | Weber St.          |     1 |    76.9 |    61.1
+ St. Bonaventure    |     1 | neutral | Florida            |     1 |    66.9 |    77.6
+ St. Edward's       |     2 | home    | Southwestern (TX)  |     3 |    97.0 |    73.7
+ Tennessee Tech     |     1 | home    | Alabama A&M        |     1 |    87.1 |    61.7
+ Texas              |     1 | home    | Eastern Wash.      |     1 |    80.0 |    58.7
+ Tulane             |     1 | neutral | Oklahoma           |     1 |    74.7 |    87.9
+ UAB                |     1 | home    | Troy               |     1 |    76.7 |    61.6
+ UC Davis           |     1 | home    | Holy Names         |     2 |    88.3 |    68.3
+ UCF                |     1 | neutral | Mississippi St.    |     1 |    77.9 |    66.6
+ UCLA               |     1 | home    | San Diego          |     1 |   100.4 |    69.3
+ UL Lafayette       |     1 | home    | Okla. Panhandle    |     2 |    93.5 |    70.4
+ UNI                |     1 | neutral | Arizona St.        |     1 |    75.7 |    65.3
+ USC Upstate        |     1 | home    | UNC Asheville      |     1 |    67.5 |    70.2
+ UTEP               |     1 | neutral | Wake Forest        |     1 |    75.1 |    90.0
+ Villanova          |     1 | neutral | Western Mich.      |     1 |    79.8 |    62.9
+ Wake Forest        |     1 | neutral | UTEP               |     1 |    90.0 |    75.1
+ Washington         |     1 | home    | Cal St. Fullerton  |     1 |    76.2 |    78.2
+ Western Mich.      |     1 | neutral | Villanova          |     1 |    62.9 |    79.8
+ William Jewell     |     2 | home    | Pittsburg St.      |     2 |    84.1 |    67.5
+ Wisconsin          |     1 | home    | Chicago St.        |     1 |    76.2 |    56.2
+ Wis.-Parkside      |     2 | home    | Northwood          |     2 |    76.9 |    59.8
+ Xavier             |     1 | neutral | Missouri           |     1 |    70.3 |    74.5
+ Yale               |     1 | home    | Lehigh             |     1 |    81.3 |    77.5
+(80 rows)
 
 COMMIT

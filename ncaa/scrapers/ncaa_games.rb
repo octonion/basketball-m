@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# encoding: UTF-8
+
 require 'csv'
 require 'mechanize'
 
@@ -58,7 +60,10 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
     page.parser.xpath("//table/tr[3]/td/form/table[2]/tr").each do |row|
       r = []
       row.xpath("td").each do |d|
-        r += [d.text.strip,d.inner_html.strip]
+        #in `strip': invalid byte sequence in UTF-8 (ArgumentError)
+        text = d.text.encode('UTF-8', :invalid => :replace, :undef => :replace).strip
+        html = d.inner_html.encode('UTF-8', :invalid => :replace, :undef => :replace).strip
+        r += [text,html]
       end
       if (r[0]=="Opponent")
         next

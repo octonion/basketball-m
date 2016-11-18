@@ -82,6 +82,7 @@
 26520,Bay Path
 51,Baylor
 26107,Becker
+30197,Belhaven
 52,Bellarmine
 14927,Belmont
 2683,Belmont Abbey
@@ -214,14 +215,15 @@
 140,Cincinnati
 30087,Cincinnati-Clermont
 8580,City Tech
-500990,Claflin
 30058,Claflin
+500990,Claflin
 506447,Claremont McKenna
 142,Claremont-M-S
 143,Clarion
 145,Clark (MA)
 144,Clark Atlanta
 1020,Clarke
+958,Clarks Summit
 146,Clarkson
 20576,Clayton St.
 147,Clemson
@@ -283,6 +285,7 @@
 506005,Dana
 2691,Daniel Webster
 172,Dartmouth
+30221,Davenport
 173,Davidson
 174,Davis & Elkins
 175,Dayton
@@ -302,8 +305,8 @@
 501365,Dillard
 186,Dist. Columbia
 30095,Dixie St.
-30082,Doane
 506020,Doane
+30082,Doane
 30118,Dominican (CA)
 1332,Dominican (IL)
 8956,Dominican (NY)
@@ -383,6 +386,7 @@
 9011,Fort Hays St.
 1083,Fort Lewis
 237,Fort Valley St.
+308,Fort Wayne
 238,Framingham St.
 1085,Francis Marion
 30069,Franciscan
@@ -481,6 +485,7 @@
 502215,Huston-Tillotson
 295,Idaho
 294,Idaho St.
+30172,IIT
 502260,IIT
 502239,Ill. Central
 300,Ill. Wesleyan
@@ -501,7 +506,6 @@
 311,Iowa St.
 506037,Iowa Wesleyan
 30173,Iowa Wesleyan
-308,IPFW
 313,Ithaca
 2699,IUPUI
 314,Jackson St.
@@ -541,7 +545,6 @@
 340,La Salle
 30043,La Sierra
 341,La Verne
-671,La.-Lafayette
 498,La.-Monroe
 342,Lafayette
 1162,LaGrange
@@ -549,7 +552,7 @@
 344,Lake Forest
 345,Lake Superior St.
 1164,Lakeland
-346,Lamar
+346,Lamar University
 1165,Lambuth
 30085,Lancaster Bible
 1167,Lander
@@ -640,7 +643,7 @@
 30138,McKendree
 486,MCLA
 8530,McMurry
-402,McNeese St.
+402,McNeese
 506039,McPherson
 379,Me.-Farmington
 30040,Me.-Presque Isle
@@ -677,10 +680,10 @@
 426,Millsaps
 797,Milwaukee
 427,Minn. Duluth
-383,Minn. St. Mankato
 27854,Minn.-Crookston
 1226,Minn.-Morris
 428,Minnesota
+383,Minnesota St.
 30125,Minot St.
 16142,Misericordia
 503245,Miss. Industrial
@@ -791,7 +794,7 @@
 30178,Northwestern Okla.
 508,Northwestern St.
 30031,Northwestern-St.Paul
-510,Northwood (MI)
+510,Northwood
 511,Norwich
 513,Notre Dame
 8600,Notre Dame (MD)
@@ -891,7 +894,7 @@
 557,Puget Sound
 30029,Purchase
 559,Purdue
-504255,Purdue-Calumet
+504255,Purdue Northwest
 506441,Quantico Marines
 11504,Queens (NC)
 560,Queens (NY)
@@ -974,11 +977,11 @@
 16006,SCAD
 1355,Schreiner
 633,Scranton
-1356,Seattle
 634,Seattle Pacific
+1356,Seattle U
 635,Seton Hall
-504752,Seton Hill
 30063,Seton Hill
+504752,Seton Hill
 652,Sewanee
 676,SFA
 636,Shaw
@@ -1036,8 +1039,8 @@
 506063,Southwestern (KS)
 8746,Southwestern (TX)
 8744,Southwestern Okla.
-505038,Spalding
 23260,Spalding
+505038,Spalding
 26973,Spelman
 505040,Spring Arbor
 506256,Spring Garden
@@ -1094,7 +1097,6 @@
 683,Stony Brook
 684,Suffolk
 1390,Sul Ross St.
-958,Summit
 30165,SUNY Canton
 168,SUNY Cortland
 247,SUNY Geneseo
@@ -1172,6 +1174,7 @@
 110,UCLA
 164,UConn
 309,UIndy
+671,UL Lafayette
 401,UMass Boston
 656,UMass Dartmouth
 368,UMass Lowell
