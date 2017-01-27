@@ -1,1086 +1,1096 @@
-          team_name          | avg_height 
------------------------------+------------
- Florida St.                 |       79.5
- Duke                        |       79.2
- Southern California         |       78.9
- San Jose St.                |       78.8
- UCF                         |       78.8
- Oregon St.                  |       78.6
- Virginia                    |       78.6
- San Diego St.               |       78.6
- Northwestern                |       78.5
- UConn                       |       78.5
- Georgetown                  |       78.5
- Penn St.                    |       78.4
- Notre Dame                  |       78.3
- New Mexico St.              |       78.3
- Pittsburgh                  |       78.3
- Wake Forest                 |       78.2
- Michigan                    |       78.1
- Xavier                      |       78.1
- Temple                      |       78.1
- Seattle                     |       78.1
- Northeastern                |       78.1
- LSU                         |       78.1
- Kansas                      |       78.1
- Virginia Tech               |       78.1
- Toledo                      |       78.0
- North Carolina St.          |       78.0
- Iowa                        |       78.0
- California                  |       78.0
- Ohio                        |       78.0
- New Mexico                  |       78.0
- Louisville                  |       78.0
- Wisconsin                   |       77.9
- Ohio St.                    |       77.9
- Kansas St.                  |       77.9
- Belmont                     |       77.9
- Florida                     |       77.9
- FIU                         |       77.9
- Purdue                      |       77.9
- William & Mary              |       77.9
- Utah                        |       77.9
- Gonzaga                     |       77.9
- BYU                         |       77.9
- DePaul                      |       77.9
- Southeastern Okla.          |       77.9
- Louisiana Tech              |       77.8
- UCLA                        |       77.8
- UTEP                        |       77.8
- Cincinnati                  |       77.8
- St. John's (NY)             |       77.7
- Stony Brook                 |       77.7
- Valparaiso                  |       77.7
- Iowa St.                    |       77.7
- Miami (FL)                  |       77.7
- Bradley                     |       77.7
- Nevada                      |       77.7
- UNLV                        |       77.7
- Georgia Tech                |       77.7
- Texas Tech                  |       77.7
- Drake                       |       77.6
- TCU                         |       77.6
- Lafayette                   |       77.6
- Old Dominion                |       77.6
- Arizona                     |       77.6
- Illinois St.                |       77.6
- Tulane                      |       77.6
- Seton Hall                  |       77.6
- Oklahoma                    |       77.6
- Villanova                   |       77.6
- Mercer                      |       77.6
- Youngstown St.              |       77.6
- North Dakota St.            |       77.6
- UNCW                        |       77.6
- Oregon                      |       77.5
- Texas                       |       77.5
- Harvard                     |       77.5
- Boston College              |       77.5
- Marist                      |       77.5
- Washington                  |       77.5
- Yale                        |       77.5
- St. Mary's (CA)             |       77.5
- NYU                         |       77.5
- Fla. Atlantic               |       77.5
- Washington St.              |       77.5
- Mississippi St.             |       77.4
- Cal St. East Bay            |       77.4
- Texas St.                   |       77.4
- Indiana                     |       77.4
- Santa Clara                 |       77.4
- Illinois                    |       77.4
- Shaw                        |       77.4
- James Madison               |       77.4
- Elon                        |       77.4
- Quinnipiac                  |       77.4
- Ark.-Pine Bluff             |       77.4
- Wichita St.                 |       77.4
- CSUN                        |       77.4
- South Carolina              |       77.4
- Stanford                    |       77.4
- UNI                         |       77.4
- Memphis                     |       77.4
- Western Ky.                 |       77.4
- ETSU                        |       77.3
- Columbia                    |       77.3
- Sacred Heart                |       77.3
- Wright St.                  |       77.3
- Duquesne                    |       77.3
- Vermont                     |       77.3
- North Dakota                |       77.3
- Kentucky                    |       77.3
- Evansville                  |       77.3
- Boise St.                   |       77.3
- Butler                      |       77.3
- Towson                      |       77.3
- Lipscomb                    |       77.3
- Drexel                      |       77.2
- South Fla.                  |       77.2
- Southern Ind.               |       77.2
- Siena                       |       77.2
- Michigan St.                |       77.2
- Akron                       |       77.2
- Cal St. L.A.                |       77.2
- Army West Point             |       77.2
- Loyola Chicago              |       77.2
- Green Bay                   |       77.2
- Massachusetts               |       77.2
- Providence                  |       77.2
- Albany (NY)                 |       77.2
- Georgia                     |       77.2
- Vanderbilt                  |       77.2
- Portland                    |       77.1
- Oklahoma St.                |       77.1
- Chico St.                   |       77.1
- Rider                       |       77.1
- Oakland                     |       77.1
- Western Mich.               |       77.1
- Maryville (MO)              |       77.1
- Cal Poly                    |       77.1
- Marshall                    |       77.1
- Milwaukee                   |       77.1
- San Diego                   |       77.1
- Creighton                   |       77.1
- Alas. Anchorage             |       77.1
- UC Riverside                |       77.1
- East Carolina               |       77.1
- Maryland                    |       77.1
- St. Bonaventure             |       77.1
- Amherst                     |       77.1
- UAB                         |       77.1
- Ark.-Fort Smith             |       77.1
- George Washington           |       77.1
- West Virginia               |       77.1
- UC Irvine                   |       77.1
- Houston                     |       77.1
- Col. of Charleston          |       77.1
- Pacific                     |       77.0
- American                    |       77.0
- Morehouse                   |       77.0
- Saint Louis                 |       77.0
- Florida Tech                |       77.0
- MSU Moorhead                |       77.0
- Miami (OH)                  |       77.0
- Davidson                    |       77.0
- Hofstra                     |       77.0
- Hawaii Pacific              |       77.0
- Central Ark.                |       77.0
- Ball St.                    |       77.0
- George Mason                |       77.0
- Minnesota                   |       77.0
- Winona St.                  |       77.0
- Charlotte                   |       77.0
- UC-Colo. Springs            |       76.9
- Clemson                     |       76.9
- Ferris St.                  |       76.9
- Utah St.                    |       76.9
- Nebraska                    |       76.9
- Alabama                     |       76.9
- Hillsdale                   |       76.9
- Virginia Union              |       76.9
- Bowling Green               |       76.9
- Carnegie Mellon             |       76.9
- SIUE                        |       76.9
- Brown                       |       76.9
- UC Davis                    |       76.9
- Michigan Tech               |       76.9
- Idaho                       |       76.9
- Samford                     |       76.9
- Saint Joseph's              |       76.9
- Fresno St.                  |       76.9
- Western Ill.                |       76.9
- Colorado                    |       76.9
- UC Santa Barbara            |       76.9
- Eastern Wash.               |       76.9
- Southeast Mo. St.           |       76.9
- N.C. A&T                    |       76.9
- North Florida               |       76.9
- Chattanooga                 |       76.9
- South Dakota                |       76.9
- Utah Valley                 |       76.9
- USC Upstate                 |       76.9
- Auburn                      |       76.9
- Coppin St.                  |       76.9
- Morehead St.                |       76.8
- Texas A&M                   |       76.8
- Weber St.                   |       76.8
- Detroit                     |       76.8
- South Dakota St.            |       76.8
- Pepperdine                  |       76.8
- Rhode Island                |       76.8
- Tennessee St.               |       76.8
- Wagner                      |       76.8
- Flagler                     |       76.8
- Rice                        |       76.8
- FGCU                        |       76.8
- Arkansas St.                |       76.8
- Mont. St. Billings          |       76.8
- Lehigh                      |       76.8
- Central Mich.               |       76.8
- IUPUI                       |       76.8
- Alabama St.                 |       76.8
- Arkansas                    |       76.8
- Ill.-Chicago                |       76.8
- UMKC                        |       76.8
- Carson-Newman               |       76.8
- Seattle Pacific             |       76.8
- Belmont Abbey               |       76.8
- Air Force                   |       76.7
- Arizona St.                 |       76.7
- Kennesaw St.                |       76.7
- Eastern Mich.               |       76.7
- Coastal Caro.               |       76.7
- Ole Miss                    |       76.7
- North Carolina              |       76.7
- Indiana St.                 |       76.7
- UT Arlington                |       76.7
- North Georgia               |       76.7
- Houston Baptist             |       76.7
- Baylor                      |       76.7
- St. Cloud St.               |       76.7
- Colorado Mines              |       76.7
- Fairfield                   |       76.7
- MIT                         |       76.7
- Florida A&M                 |       76.7
- Dartmouth                   |       76.7
- UNC Asheville               |       76.7
- Emporia St.                 |       76.7
- South Ala.                  |       76.7
- Marquette                   |       76.6
- Bucknell                    |       76.6
- Tennessee Tech              |       76.6
- Wyoming                     |       76.6
- Penn                        |       76.6
- A&M-Corpus Chris            |       76.6
- Notre Dame (OH)             |       76.6
- South Carolina St.          |       76.6
- Southern U.                 |       76.6
- Augustana (SD)              |       76.6
- Cleveland St.               |       76.6
- UTSA                        |       76.6
- Dixie St.                   |       76.6
- Boston U.                   |       76.6
- Cameron                     |       76.6
- Fort Lewis                  |       76.6
- Montana St.                 |       76.6
- Eastern Ill.                |       76.6
- Holy Family                 |       76.6
- Grand Canyon                |       76.6
- Sacramento St.              |       76.6
- Delaware                    |       76.6
- San Fran. St.               |       76.6
- Tiffin                      |       76.6
- Ga. Southern                |       76.6
- UT Martin                   |       76.6
- Harding                     |       76.5
- Richmond                    |       76.5
- Missouri                    |       76.5
- Fort Valley St.             |       76.5
- Cal St. Fullerton           |       76.5
- Tulsa                       |       76.5
- Iona                        |       76.5
- Hartford                    |       76.5
- La.-Monroe                  |       76.5
- Southern Utah               |       76.5
- Simon Fraser                |       76.5
- UTRGV                       |       76.5
- Lees-McRae                  |       76.5
- Augusta                     |       76.5
- UMBC                        |       76.5
- Claremont-M-S               |       76.5
- Wofford                     |       76.5
- Missouri St.                |       76.5
- UNCG                        |       76.5
- Idaho St.                   |       76.5
- Mary                        |       76.5
- Ashland                     |       76.4
- Alcorn                      |       76.4
- Johns Hopkins               |       76.4
- Little Rock                 |       76.4
- Hamilton                    |       76.4
- Southern Ark.               |       76.4
- Lewis                       |       76.4
- Cal Poly Pomona             |       76.4
- McKendree                   |       76.4
- Western Caro.               |       76.4
- Longwood                    |       76.4
- Binghamton                  |       76.4
- Jacksonville St.            |       76.4
- Washington-St. Louis        |       76.4
- Minn. St. Mankato           |       76.4
- Concordia-St. Paul          |       76.4
- Holy Cross                  |       76.4
- Seton Hill                  |       76.4
- Oswego St.                  |       76.4
- Westminster (UT)            |       76.4
- Southern Nazarene           |       76.4
- Northwestern St.            |       76.4
- Mt. St. Mary's              |       76.4
- Denver                      |       76.4
- Central Conn. St.           |       76.4
- Trinity (TX)                |       76.4
- Portland St.                |       76.3
- Middle Tenn.                |       76.3
- SMU                         |       76.3
- Prairie View                |       76.3
- Alabama A&M                 |       76.3
- Nicholls St.                |       76.3
- Delaware St.                |       76.3
- LeMoyne-Owen                |       76.3
- Mississippi Val.            |       76.3
- Ohio Dominican              |       76.3
- Pitt.-Johnstown             |       76.3
- Southern Ill.               |       76.3
- Southwest Minn. St.         |       76.3
- West Chester                |       76.3
- Gettysburg                  |       76.3
- Regis (CO)                  |       76.3
- Wis.-Superior               |       76.3
- Mo.-St. Louis               |       76.3
- Wesleyan (CT)               |       76.3
- St. Olaf                    |       76.3
- Rutgers                     |       76.3
- Western Ore.                |       76.3
- San Francisco               |       76.3
- Bryant                      |       76.3
- Midwestern St.              |       76.3
- Saint Leo                   |       76.3
- Lamar                       |       76.3
- Armstrong St.               |       76.3
- Princeton                   |       76.3
- Incarnate Word              |       76.3
- Monmouth                    |       76.3
- Furman                      |       76.3
- IPFW                        |       76.3
- Pfeiffer                    |       76.2
- Point Loma                  |       76.2
- Mo. Western St.             |       76.2
- Saint Michael's             |       76.2
- Angelo St.                  |       76.2
- Appalachian St.             |       76.2
- Troy                        |       76.2
- Minn. Duluth                |       76.2
- Black Hills St.             |       76.2
- Gardner-Webb                |       76.2
- Rollins                     |       76.2
- Lee                         |       76.2
- Tampa                       |       76.2
- Anderson (SC)               |       76.2
- Northwest Nazarene          |       76.2
- Oral Roberts                |       76.2
- UC San Diego                |       76.2
- Stetson                     |       76.2
- South Dakota Mines          |       76.2
- Wis.-Eau Claire             |       76.2
- California Baptist          |       76.2
- Eckerd                      |       76.2
- Murray St.                  |       76.2
- Colorado St.                |       76.2
- Williams                    |       76.2
- New Hampshire               |       76.2
- Young Harris                |       76.2
- Kent St.                    |       76.2
- Stillman                    |       76.1
- Concordia-M'head            |       76.1
- Wis.-Stevens Point          |       76.1
- Bowie St.                   |       76.1
- Randolph-Macon              |       76.1
- St. Francis Brooklyn        |       76.1
- Buffalo                     |       76.1
- LIU Brooklyn                |       76.1
- Omaha                       |       76.1
- Saint Peter's               |       76.1
- Carleton                    |       76.1
- Southern Miss.              |       76.1
- Norfolk St.                 |       76.1
- N.M. Highlands              |       76.1
- Washburn                    |       76.1
- Southern Conn. St.          |       76.1
- UMES                        |       76.1
- Colgate                     |       76.1
- Pace                        |       76.1
- Stonehill                   |       76.1
- Christian Bros.             |       76.1
- Drury                       |       76.1
- Clark Atlanta               |       76.1
- Western Wash.               |       76.1
- Georgia St.                 |       76.1
- Loyola Marymount            |       76.1
- VCU                         |       76.1
- Chicago St.                 |       76.1
- Colorado Mesa               |       76.1
- Ill. Wesleyan               |       76.1
- Northern Ky.                |       76.1
- Whitman                     |       76.1
- Hampton                     |       76.1
- Canisius                    |       76.0
- Capital                     |       76.0
- Minn.-Morris                |       76.0
- St. Mary's (TX)             |       76.0
- Delta St.                   |       76.0
- Chicago                     |       76.0
- North Texas                 |       76.0
- Morgan St.                  |       76.0
- Tarleton St.                |       76.0
- N.C. Central                |       76.0
- Cal St. San B'dino          |       76.0
- Jacksonville                |       76.0
- Northern Colo.              |       76.0
- St. Edward's                |       76.0
- Bemidji St.                 |       76.0
- Northwood (MI)              |       76.0
- Embry-Riddle (FL)           |       76.0
- Southern N.H.               |       76.0
- Colo. Christian             |       76.0
- Stephen F. Austin           |       76.0
- New Haven                   |       76.0
- Charleston So.              |       76.0
- Virginia St.                |       76.0
- Manhattan                   |       75.9
- Northern Mich.              |       75.9
- La Salle                    |       75.9
- Mo. Southern St.            |       75.9
- Ursinus                     |       75.9
- Montana                     |       75.9
- Pomona-Pitzer               |       75.9
- Dayton                      |       75.9
- Tennessee                   |       75.9
- Lubbock Christian           |       75.9
- Saint Francis (PA)          |       75.9
- High Point                  |       75.9
- Bellarmine                  |       75.9
- Palm Beach Atl.             |       75.9
- Wingate                     |       75.9
- Humboldt St.                |       75.9
- Navy                        |       75.9
- Dickinson                   |       75.9
- Winthrop                    |       75.9
- Alas. Fairbanks             |       75.9
- Sioux Falls                 |       75.9
- Indiana (PA)                |       75.9
- Wis.-Parkside               |       75.9
- East Central                |       75.9
- Sam Houston St.             |       75.9
- McNeese St.                 |       75.9
- Western N.M.                |       75.9
- UIndy                       |       75.9
- Trevecca Nazarene           |       75.9
- Lake Erie                   |       75.9
- Arkansas Tech               |       75.9
- East Stroudsburg            |       75.9
- Austin Peay                 |       75.8
- St. Norbert                 |       75.8
- Northeastern St.            |       75.8
- Long Beach St.              |       75.8
- Grand Valley St.            |       75.8
- North Greenville            |       75.8
- Northwestern Okla.          |       75.8
- Benedict                    |       75.8
- Texas Southern              |       75.8
- MSU Denver                  |       75.8
- Western St.                 |       75.8
- Francis Marion              |       75.8
- Montclair St.               |       75.8
- Robert Morris               |       75.8
- La.-Lafayette               |       75.8
- St. Anselm                  |       75.8
- UNC Pembroke                |       75.8
- St. Thomas (MN)             |       75.8
- Lindenwood (MO)             |       75.8
- Wis.-Oshkosh                |       75.8
- Chapman                     |       75.8
- Winston-Salem               |       75.8
- Niagara                     |       75.7
- Lynn                        |       75.7
- Chowan                      |       75.7
- Ky. Wesleyan                |       75.7
- CSU Bakersfield             |       75.7
- Frank. & Marsh.             |       75.7
- New Orleans                 |       75.7
- Upper Iowa                  |       75.7
- Fairleigh Dickinson         |       75.7
- Caltech                     |       75.7
- Spalding                    |       75.7
- Fayetteville St.            |       75.7
- Abilene Christian           |       75.7
- Nova Southeastern           |       75.7
- Wheaton (IL)                |       75.7
- Redlands                    |       75.7
- WPI                         |       75.7
- Davis & Elkins              |       75.7
- Chaminade                   |       75.7
- Wabash                      |       75.7
- Tusculum                    |       75.7
- Middlebury                  |       75.7
- Whitworth                   |       75.7
- The Citadel                 |       75.6
- St. Mary's (MD)             |       75.6
- Alma                        |       75.6
- Queens (NC)                 |       75.6
- West Ga.                    |       75.6
- Missouri S&T                |       75.6
- Adams St.                   |       75.6
- Saint Martin's              |       75.6
- Clayton St.                 |       75.6
- Cal St. Monterey Bay        |       75.6
- Northern St.                |       75.6
- Northern Ariz.              |       75.6
- Edinboro                    |       75.6
- Bentley                     |       75.6
- California (PA)             |       75.6
- Concordia (CA)              |       75.6
- King (TN)                   |       75.6
- Chadron St.                 |       75.6
- Rogers St.                  |       75.6
- Saint John's (MN)           |       75.6
- VMI                         |       75.6
- Gannon                      |       75.6
- Saint Augustine's           |       75.6
- Kenyon                      |       75.6
- Eastern Ky.                 |       75.6
- Merrimack                   |       75.6
- Union (TN)                  |       75.6
- Southwestern Okla.          |       75.5
- West Liberty                |       75.5
- Fordham                     |       75.5
- LeTourneau                  |       75.5
- Concordia Portland          |       75.5
- Rochester (NY)              |       75.5
- Neb.-Kearney                |       75.5
- Hardin-Simmons              |       75.5
- Bethune-Cookman             |       75.5
- Marymount (VA)              |       75.5
- Holy Names                  |       75.5
- Alderson Broaddus           |       75.5
- Stanislaus St.              |       75.5
- Shepherd                    |       75.5
- Wis.-Platteville            |       75.5
- Post                        |       75.5
- St. Thomas Aquinas          |       75.5
- Elmhurst                    |       75.5
- Henderson St.               |       75.5
- Livingstone                 |       75.5
- Coker                       |       75.5
- Transylvania                |       75.5
- Hartwick                    |       75.5
- Barton                      |       75.5
- Limestone                   |       75.4
- DePauw                      |       75.4
- Caldwell                    |       75.4
- Albright                    |       75.4
- Thiel                       |       75.4
- Wis.-Whitewater             |       75.4
- Minot St.                   |       75.4
- Loyola Maryland             |       75.4
- Calvin                      |       75.4
- Hawaii                      |       75.4
- West Ala.                   |       75.4
- Urbana                      |       75.4
- Oberlin                     |       75.4
- Syracuse                    |       75.4
- Dist. Columbia              |       75.4
- Vassar                      |       75.4
- Colby                       |       75.4
- Spring Hill                 |       75.4
- S.C. Aiken                  |       75.4
- Grambling                   |       75.4
- Shippensburg                |       75.4
- Minn.-Crookston             |       75.4
- Kalamazoo                   |       75.4
- Findlay                     |       75.4
- St. Joseph's (IN)           |       75.4
- Mars Hill                   |       75.4
- Millersville                |       75.4
- Colorado St.-Pueblo         |       75.3
- Northwest Mo. St.           |       75.3
- Okla. Christian             |       75.3
- Carroll (WI)                |       75.3
- Cedarville                  |       75.3
- West Tex. A&M               |       75.3
- Goldey-Beacom               |       75.3
- Daniel Webster              |       75.3
- Tufts                       |       75.3
- Birmingham-So.              |       75.3
- Wooster                     |       75.3
- Ohio Northern               |       75.3
- UMass Lowell                |       75.3
- USciences                   |       75.3
- Dominican (CA)              |       75.3
- Tex. A&M Int'l              |       75.3
- Elmira                      |       75.3
- Gust. Adolphus              |       75.3
- Claflin                     |       75.3
- Maine                       |       75.3
- Guilford                    |       75.3
- N.C. Wesleyan               |       75.3
- Southwest Baptist           |       75.3
- Paine                       |       75.3
- Truman                      |       75.3
- Rockhurst                   |       75.3
- Brevard                     |       75.3
- Fla. Southern               |       75.3
- Northern Ill.               |       75.3
- Rutgers-Newark              |       75.3
- Oglethorpe                  |       75.3
- Radford                     |       75.3
- Queens (NY)                 |       75.3
- Molloy                      |       75.2
- Elizabeth City St.          |       75.2
- Ripon                       |       75.2
- Connecticut Col.            |       75.2
- UVa-Wise                    |       75.2
- Lynchburg                   |       75.2
- West Florida                |       75.2
- Randolph                    |       75.2
- Clarion                     |       75.2
- Bethany (WV)                |       75.2
- Saint Rose                  |       75.2
- Howard                      |       75.2
- Central Okla.               |       75.2
- Cornell                     |       75.2
- Mount Union                 |       75.2
- Hampden-Sydney              |       75.2
- Charleston (WV)             |       75.2
- Central Mo.                 |       75.2
- Wis.-River Falls            |       75.2
- Brandeis                    |       75.2
- Emerson                     |       75.2
- Swarthmore                  |       75.2
- Otterbein                   |       75.2
- Concordia (NY)              |       75.2
- Fresno Pacific              |       75.2
- Hilbert                     |       75.2
- Cal St. Dom. Hills          |       75.2
- Colorado Col.               |       75.2
- SUNY Geneseo                |       75.1
- Franklin Pierce             |       75.1
- Grove City                  |       75.1
- West Va. Wesleyan           |       75.1
- Pittsburg St.               |       75.1
- West Virginia St.           |       75.1
- La Verne                    |       75.1
- Mount Olive                 |       75.1
- Gallaudet                   |       75.1
- U New England               |       75.1
- Liberty                     |       75.1
- Malone                      |       75.1
- Lock Haven                  |       75.1
- Emmanuel (GA)               |       75.1
- Sonoma St.                  |       75.1
- Chris. Newport              |       75.1
- Slippery Rock               |       75.1
- Tuskegee                    |       75.1
- Cornell College             |       75.1
- Le Moyne                    |       75.1
- Dallas Baptist              |       75.1
- Ouachita Baptist            |       75.1
- Denison                     |       75.1
- Pacific Lutheran            |       75.1
- Marywood                    |       75.1
- Anderson (IN)               |       75.1
- Tex. Permian Basin          |       75.1
- North Ala.                  |       75.1
- Ill.-Springfield            |       75.1
- NJIT                        |       75.1
- Central (IA)                |       75.1
- Augustana (IL)              |       75.1
- Methodist                   |       75.1
- Farmingdale St.             |       75.1
- Dominican (NY)              |       75.1
- Southern Me.                |       75.1
- SUNY Oneonta                |       75.1
- Tex. A&M-Commerce           |       75.1
- Va. Wesleyan                |       75.1
- Ala.-Huntsville             |       75.1
- Southern Wesleyan           |       75.1
- Houghton                    |       75.0
- Azusa Pacific               |       75.0
- York (PA)                   |       75.0
- Ark.-Monticello             |       75.0
- Mercyhurst                  |       75.0
- SUNY Canton                 |       75.0
- Cal Lutheran                |       75.0
- Emory & Henry               |       75.0
- Fairmont St.                |       75.0
- Kutztown                    |       75.0
- Rose-Hulman                 |       75.0
- Buena Vista                 |       75.0
- Bloomfield                  |       75.0
- Cal St. San Marcos          |       75.0
- Albany St. (GA)             |       75.0
- Wayne St. (NE)              |       75.0
- Mercy                       |       75.0
- Wis.-La Crosse              |       74.9
- Muhlenberg                  |       74.9
- Lewis & Clark               |       74.9
- Roanoke                     |       74.9
- Edgewood                    |       74.9
- Old Westbury                |       74.9
- Roger Williams              |       74.9
- Wayne St. (MI)              |       74.9
- Loras                       |       74.9
- Philadelphia U.             |       74.9
- Georgian Court              |       74.9
- Wilmington (DE)             |       74.9
- Catholic                    |       74.9
- RIT                         |       74.9
- Columbus St.                |       74.9
- Occidental                  |       74.9
- Northwestern-St. Paul       |       74.9
- Okla. Panhandle             |       74.9
- Daemen                      |       74.9
- Juniata                     |       74.9
- Catawba                     |       74.9
- Lander                      |       74.9
- Roberts Wesleyan            |       74.9
- Ferrum                      |       74.9
- Wis.-Stout                  |       74.8
- Plymouth St.                |       74.8
- North Central (IL)          |       74.8
- Adrian                      |       74.8
- Lake Superior St.           |       74.8
- Bloomsburg                  |       74.8
- Lake Forest                 |       74.8
- Simpson                     |       74.8
- Springfield                 |       74.8
- Millikin                    |       74.8
- Lincoln Memorial            |       74.8
- Texas Lutheran              |       74.8
- Montevallo                  |       74.8
- Bethany Lutheran            |       74.8
- Assumption                  |       74.8
- Washington Col.             |       74.8
- William Jewell              |       74.8
- Hanover                     |       74.8
- Ramapo                      |       74.8
- Mary Washington             |       74.8
- Bridgewater St.             |       74.8
- Southeastern La.            |       74.8
- Hamline                     |       74.8
- Presbyterian                |       74.8
- Bluefield St.               |       74.8
- Campbell                    |       74.8
- Nyack                       |       74.8
- Oakland City                |       74.8
- Wittenberg                  |       74.8
- Okla. Baptist               |       74.8
- Plattsburgh St.             |       74.8
- Ga. Southwestern            |       74.8
- Glenville St.               |       74.8
- York (NY)                   |       74.8
- Newman                      |       74.7
- NYIT                        |       74.7
- Coast Guard                 |       74.7
- Carthage                    |       74.7
- Union (NY)                  |       74.7
- Eastern Conn. St.           |       74.7
- CCNY                        |       74.7
- Saginaw Valley              |       74.7
- Wash. & Lee                 |       74.7
- Hobart and William Colleges |       74.7
- Frostburg St.               |       74.7
- Jackson St.                 |       74.7
- Bethel (MN)                 |       74.7
- Clarkson                    |       74.7
- East. Mennonite             |       74.7
- Willamette                  |       74.7
- Sul Ross St.                |       74.7
- Texas-Tyler                 |       74.7
- Wentworth                   |       74.7
- Mississippi Col.            |       74.7
- Emory                       |       74.7
- Hunter                      |       74.6
- Barry                       |       74.6
- Johnson C. Smith            |       74.6
- Nazareth                    |       74.6
- Drew                        |       74.6
- King's (PA)                 |       74.6
- Berry                       |       74.6
- Valdosta St.                |       74.6
- Maryville (TN)              |       74.6
- Hope                        |       74.6
- Keene St.                   |       74.6
- Tex. A&M-Kingsville         |       74.6
- Lincoln (PA)                |       74.6
- John Carroll                |       74.6
- Scranton                    |       74.6
- Westminster (MO)            |       74.6
- Ohio Wesleyan               |       74.6
- SUNY New Paltz              |       74.6
- Eastern N.M.                |       74.6
- Ithaca                      |       74.6
- Concord                     |       74.6
- Centre                      |       74.6
- BYU-Hawaii                  |       74.6
- Manchester                  |       74.6
- Eastern                     |       74.6
- American Int'l              |       74.6
- Lakeland                    |       74.6
- Chestnut Hill               |       74.6
- Sewanee                     |       74.6
- CWRU                        |       74.6
- Linfield                    |       74.6
- Keuka                       |       74.6
- Marietta                    |       74.6
- UC Santa Cruz               |       74.6
- Skidmore                    |       74.6
- Salve Regina                |       74.5
- Lincoln (MO)                |       74.5
- Southwestern (TX)           |       74.5
- Bowdoin                     |       74.5
- Albion                      |       74.5
- Puget Sound                 |       74.5
- Piedmont                    |       74.5
- UMass Dartmouth             |       74.5
- Rust                        |       74.5
- Ozarks (AR)                 |       74.5
- Principia                   |       74.5
- Centenary (LA)              |       74.5
- Augsburg                    |       74.5
- Sage Colleges               |       74.5
- SUNY Potsdam                |       74.5
- Georgia College             |       74.5
- Bard                        |       74.5
- Academy of Art              |       74.5
- FDU-Florham                 |       74.5
- Wheaton (MA)                |       74.5
- Blackburn                   |       74.5
- Trine                       |       74.5
- Coe                         |       74.5
- Cheyney                     |       74.5
- Central Wash.               |       74.5
- Babson                      |       74.5
- Fort Hays St.               |       74.4
- MSOE                        |       74.4
- Westminster (PA)            |       74.4
- Widener                     |       74.4
- Austin                      |       74.4
- Schreiner                   |       74.4
- Dowling                     |       74.4
- Westfield St.               |       74.4
- Quincy                      |       74.4
- Millsaps                    |       74.4
- D'Youville                  |       74.4
- Walsh                       |       74.4
- Norwich                     |       74.4
- LIU Post                    |       74.4
- Lasell                      |       74.4
- East Tex. Baptist           |       74.4
- Concordia (TX)              |       74.4
- Lenoir-Rhyne                |       74.4
- Buffalo St.                 |       74.4
- Adelphi                     |       74.4
- Susquehanna                 |       74.3
- Mary Hardin-Baylor          |       74.3
- Baldwin Wallace             |       74.3
- Husson                      |       74.3
- Stockton                    |       74.3
- Waynesburg                  |       74.3
- Knox                        |       74.3
- Cabrini                     |       74.3
- Shorter                     |       74.3
- Muskingum                   |       74.3
- Mount Aloysius              |       74.3
- Stevenson                   |       74.3
- Sarah Lawrence              |       74.3
- Olivet                      |       74.3
- Penn St. Harrisburg         |       74.3
- Southern Va.                |       74.3
- Merchant Marine             |       74.3
- Haverford                   |       74.3
- St. Scholastica             |       74.3
- Franciscan                  |       74.3
- Rowan                       |       74.3
- St. Lawrence                |       74.3
- Rensselaer                  |       74.2
- Lycoming                    |       74.2
- Salem Int'l                 |       74.2
- Macalester                  |       74.2
- Benedictine (IL)            |       74.2
- Erskine                     |       74.2
- Gordon                      |       74.2
- Illinois Col.               |       74.2
- Hendrix                     |       74.2
- Wheeling Jesuit             |       74.2
- La Roche                    |       74.2
- Heidelberg                  |       74.2
- Bridgeport                  |       74.2
- New Jersey City             |       74.2
- Franklin                    |       74.2
- Maranatha Baptist           |       74.2
- George Fox                  |       74.2
- Luther                      |       74.1
- Whittier                    |       74.1
- Johnson & Wales (RI)        |       74.1
- Grinnell                    |       74.1
- Misericordia                |       74.1
- Fredonia                    |       74.1
- Saint Mary's (MN)           |       74.1
- Brockport                   |       74.1
- Manhattanville              |       74.1
- SUNY Cortland               |       74.1
- Northland                   |       74.1
- St. John Fisher             |       74.1
- Notre Dame de Namur         |       74.1
- Trinity (CT)                |       74.1
- Bridgewater (VA)            |       74.1
- Emmanuel (MA)               |       74.1
- Ohio Valley                 |       74.1
- Brooklyn                    |       74.1
- Nichols                     |       74.1
- Dominican (IL)              |       74.1
- Albertus Magnus             |       74.1
- McDaniel                    |       74.1
- Mt. St. Mary (NY)           |       74.1
- Shenandoah                  |       74.1
- Wash. & Jeff.               |       74.1
- Endicott                    |       74.1
- Geneva                      |       74.1
- Mount Ida                   |       74.0
- Rhodes                      |       74.0
- Messiah                     |       74.0
- Louisiana Col.              |       74.0
- Arcadia                     |       74.0
- Goucher                     |       74.0
- Lehman                      |       74.0
- Wis. Lutheran               |       74.0
- Earlham                     |       74.0
- Lesley                      |       74.0
- Monmouth (IL)               |       74.0
- Castleton                   |       73.9
- Central St. (OH)            |       73.9
- Wm. Paterson                |       73.9
- Gwynedd Mercy               |       73.9
- Saint Vincent               |       73.9
- Hiram                       |       73.9
- Cazenovia                   |       73.9
- DeSales                     |       73.9
- Neb. Wesleyan               |       73.9
- Yeshiva                     |       73.9
- LaGrange                    |       73.9
- Dallas                      |       73.9
- Staten Island               |       73.9
- Aurora                      |       73.9
- Alvernia                    |       73.9
- Penn St.-Altoona            |       73.9
- William Peace               |       73.9
- Thomas (ME)                 |       73.9
- Texas-Dallas                |       73.9
- Centenary (NJ)              |       73.8
- St. Joseph's (L.I.)         |       73.8
- Alfred                      |       73.8
- SUNY Maritime               |       73.8
- Green Mountain              |       73.8
- MacMurray                   |       73.8
- Howard Payne                |       73.8
- Rockford                    |       73.8
- Salisbury                   |       73.8
- Colby-Sawyer                |       73.8
- Greensboro                  |       73.7
- Bates                       |       73.7
- Finlandia                   |       73.7
- Webster                     |       73.7
- Purchase                    |       73.7
- Pitt.-Greensburg            |       73.7
- Western Conn. St.           |       73.7
- Dubuque                     |       73.7
- Utica                       |       73.7
- SUNY Poly                   |       73.7
- Wilmington (OH)             |       73.7
- Rosemont                    |       73.7
- Fontbonne                   |       73.6
- Regis (MA)                  |       73.6
- Penn St.-Berks              |       73.6
- TCNJ                        |       73.6
- Thomas More                 |       73.6
- Lane                        |       73.6
- Hood                        |       73.6
- Keystone                    |       73.6
- Newberry                    |       73.6
- Rivier                      |       73.6
- Allegheny                   |       73.6
- Delaware Valley             |       73.6
- Maine Maritime              |       73.6
- Suffolk                     |       73.6
- Mansfield                   |       73.6
- Rhode Island Col.           |       73.6
- Savannah St.                |       73.6
- Averett                     |       73.6
- Western New Eng.            |       73.6
- Pine Manor                  |       73.5
- Salem St.                   |       73.5
- Me.-Farmington              |       73.5
- Lawrence                    |       73.5
- Martin Luther               |       73.5
- Rutgers-Camden              |       73.5
- Neumann                     |       73.5
- Pacific (OR)                |       73.5
- Penn St.-Behrend            |       73.5
- Felician                    |       73.5
- Framingham St.              |       73.4
- Wilkes                      |       73.4
- Lancaster Bible             |       73.4
- Mt. St. Joseph              |       73.4
- North Central (MN)          |       73.4
- Medgar Evers                |       73.4
- Southern Vt.                |       73.4
- Cairn                       |       73.4
- Fitchburg St.               |       73.3
- Wheelock                    |       73.3
- Covenant                    |       73.3
- Elizabethtown               |       73.3
- Lyndon St.                  |       73.3
- New England Col.            |       73.3
- Concordia Wisconsin         |       73.3
- Penn St.-Abington           |       73.3
- Kean                        |       73.3
- Kentucky St.                |       73.3
- Huntingdon                  |       73.3
- Baruch                      |       73.3
- Hawaii Hilo                 |       73.3
- Cobleskill St.              |       73.2
- Anna Maria                  |       73.2
- Worcester St.               |       73.2
- Stevens                     |       73.2
- Greenville                  |       73.1
- Becker                      |       73.1
- Morrisville St.             |       73.1
- Elms                        |       73.1
- Immaculata                  |       73.1
- John Jay                    |       73.1
- Me.-Presque Isle            |       73.1
- Moravian                    |       73.1
- Chatham                     |       73.1
- McMurry                     |       73.0
- Newbury                     |       73.0
- Mitchell                    |       73.0
- Medaille                    |       72.9
- Wells                       |       72.9
- Defiance                    |       72.9
- Lebanon Valley              |       72.9
- St. Joseph's (Brkln)        |       72.8
- Eureka                      |       72.8
- MCLA                        |       72.8
- St. Joseph's (ME)           |       72.8
- Wesley                      |       72.8
- Mt. St. Vincent             |       72.8
- Valley Forge                |       72.8
- Miles                       |       72.8
- P.R.-Mayaguez               |       72.8
- Summit                      |       72.7
- Beloit                      |       72.7
- Bluffton                    |       72.6
- Clark (MA)                  |       72.6
- Concordia Chicago           |       72.5
- Wartburg                    |       72.5
- Pitt.-Bradford              |       72.5
- Marian (WI)                 |       72.4
- North Park                  |       72.3
- Crown (MN)                  |       72.3
- Eastern Nazarene            |       72.3
- Curry                       |       72.2
- UMass Boston                |       72.1
- Johnson St.                 |       72.0
- Wilson                      |       71.6
-(1082 rows)
+             team_name             | avg_height 
+-----------------------------------+------------
+ Belhaven                          |       81.0
+ Duke                              |       79.4
+ UNLV                              |       79.3
+ Oregon St.                        |       79.1
+ Georgetown                        |       78.7
+ Florida                           |       78.6
+ Notre Dame                        |       78.6
+ Southern California               |       78.6
+ Gonzaga                           |       78.5
+ Oregon                            |       78.4
+ LSU                               |       78.4
+ Florida St.                       |       78.4
+ Belmont                           |       78.3
+ Utah St.                          |       78.3
+ Louisville                        |       78.3
+ Miami (FL)                        |       78.2
+ Northeastern                      |       78.2
+ Utah                              |       78.2
+ Virginia                          |       78.2
+ James Madison                     |       78.2
+ Iowa                              |       78.2
+ Pittsburgh                        |       78.2
+ Ohio                              |       78.1
+ Wisconsin                         |       78.1
+ North Carolina St.                |       78.1
+ UConn                             |       78.1
+ FIU                               |       78.1
+ Minnesota                         |       78.1
+ St. Mary's (CA)                   |       78.0
+ UCLA                              |       78.0
+ Boise St.                         |       78.0
+ Northwestern                      |       78.0
+ San Diego St.                     |       78.0
+ BYU                               |       78.0
+ UCF                               |       77.9
+ Wake Forest                       |       77.9
+ Massachusetts                     |       77.9
+ Siena                             |       77.9
+ St. John's (NY)                   |       77.9
+ Temple                            |       77.9
+ Southeastern Okla.                |       77.9
+ Michigan                          |       77.9
+ Xavier                            |       77.9
+ Alabama                           |       77.9
+ Texas Tech                        |       77.8
+ San Jose St.                      |       77.8
+ Western Ky.                       |       77.8
+ George Washington                 |       77.8
+ Eastern Mich.                     |       77.8
+ SMU                               |       77.8
+ New Mexico                        |       77.8
+ East Carolina                     |       77.8
+ Ohio St.                          |       77.8
+ Wyoming                           |       77.8
+ Houston                           |       77.8
+ Georgia Tech                      |       77.7
+ William & Mary                    |       77.7
+ Colorado                          |       77.7
+ Loyola Marymount                  |       77.7
+ Kansas St.                        |       77.7
+ Brown                             |       77.7
+ West Virginia                     |       77.6
+ San Francisco                     |       77.6
+ Illinois St.                      |       77.6
+ Kansas                            |       77.6
+ Miami (OH)                        |       77.6
+ Charlotte                         |       77.6
+ Arizona St.                       |       77.6
+ Louisiana Tech                    |       77.6
+ Kennesaw St.                      |       77.6
+ Kentucky                          |       77.6
+ Seattle U                         |       77.6
+ Boston College                    |       77.6
+ Arizona                           |       77.6
+ Virginia Tech                     |       77.6
+ Ark.-Pine Bluff                   |       77.6
+ Santa Clara                       |       77.6
+ Central Ark.                      |       77.5
+ South Fla.                        |       77.5
+ Ole Miss                          |       77.5
+ Towson                            |       77.5
+ Villanova                         |       77.5
+ Mississippi St.                   |       77.5
+ Wesleyan (CT)                     |       77.5
+ Marist                            |       77.5
+ Baylor                            |       77.5
+ Iowa St.                          |       77.5
+ Missouri                          |       77.5
+ Cal St. East Bay                  |       77.5
+ TCU                               |       77.5
+ Toledo                            |       77.5
+ CSUN                              |       77.4
+ Cincinnati                        |       77.4
+ Fresno St.                        |       77.4
+ Indiana                           |       77.4
+ UC Riverside                      |       77.4
+ California                        |       77.4
+ Northern Ill.                     |       77.4
+ Valparaiso                        |       77.4
+ Stanford                          |       77.4
+ Fla. Atlantic                     |       77.4
+ Rhode Island                      |       77.4
+ DePaul                            |       77.4
+ Maryland                          |       77.4
+ St. Bonaventure                   |       77.4
+ Memphis                           |       77.4
+ Columbia                          |       77.4
+ North Dakota St.                  |       77.3
+ Alas. Anchorage                   |       77.3
+ New Mexico St.                    |       77.3
+ Oklahoma                          |       77.3
+ Rice                              |       77.3
+ SIUE                              |       77.3
+ Cal St. Fullerton                 |       77.3
+ Hillsdale                         |       77.3
+ Hartford                          |       77.3
+ Nebraska                          |       77.3
+ Seton Hall                        |       77.3
+ Buffalo                           |       77.2
+ Arkansas                          |       77.2
+ La Salle                          |       77.2
+ SFA                               |       77.2
+ USC Upstate                       |       77.2
+ Penn St.                          |       77.2
+ Wichita St.                       |       77.2
+ UAB                               |       77.2
+ West Florida                      |       77.2
+ Drake                             |       77.2
+ Quinnipiac                        |       77.2
+ Vanderbilt                        |       77.2
+ Evansville                        |       77.2
+ Nova Southeastern                 |       77.1
+ Bemidji St.                       |       77.1
+ Dartmouth                         |       77.1
+ Indiana St.                       |       77.1
+ Illinois                          |       77.1
+ Stony Brook                       |       77.1
+ Detroit Mercy                     |       77.1
+ Creighton                         |       77.1
+ Weber St.                         |       77.1
+ Lehigh                            |       77.1
+ UNI                               |       77.1
+ North Georgia                     |       77.1
+ Washington                        |       77.1
+ Mercer                            |       77.1
+ North Texas                       |       77.1
+ Delaware                          |       77.1
+ Lafayette                         |       77.1
+ Norfolk St.                       |       77.1
+ Saint Louis                       |       77.1
+ UT Martin                         |       77.1
+ UTEP                              |       77.1
+ Yale                              |       77.1
+ Tulsa                             |       77.1
+ Col. of Charleston                |       77.1
+ Western Wash.                     |       77.1
+ Boston U.                         |       77.1
+ Clemson                           |       77.0
+ Eastern Wash.                     |       77.0
+ Northwood                         |       77.0
+ Western Caro.                     |       77.0
+ MSU Moorhead                      |       77.0
+ Ursinus                           |       77.0
+ Vermont                           |       77.0
+ Providence                        |       77.0
+ Harvard                           |       77.0
+ Washington St.                    |       77.0
+ Texas                             |       77.0
+ Elon                              |       77.0
+ Eckerd                            |       77.0
+ Amherst                           |       77.0
+ Oklahoma St.                      |       77.0
+ American                          |       77.0
+ Dixie St.                         |       76.9
+ Western Ill.                      |       76.9
+ Nevada                            |       76.9
+ Hofstra                           |       76.9
+ Ill.-Chicago                      |       76.9
+ Princeton                         |       76.9
+ UC Irvine                         |       76.9
+ Southern Ind.                     |       76.9
+ Canisius                          |       76.9
+ Tennessee St.                     |       76.9
+ Houston Baptist                   |       76.9
+ North Carolina                    |       76.9
+ Saint Leo                         |       76.9
+ Winona St.                        |       76.9
+ Black Hills St.                   |       76.9
+ Morgan St.                        |       76.9
+ Green Bay                         |       76.9
+ Appalachian St.                   |       76.9
+ Colorado Mines                    |       76.9
+ Young Harris                      |       76.9
+ Alabama St.                       |       76.9
+ Troy                              |       76.9
+ Florida A&M                       |       76.9
+ Lipscomb                          |       76.9
+ Butler                            |       76.9
+ IUPUI                             |       76.9
+ Incarnate Word                    |       76.9
+ Bradley                           |       76.9
+ North Dakota                      |       76.8
+ Duquesne                          |       76.8
+ Alcorn                            |       76.8
+ Stetson                           |       76.8
+ West Ala.                         |       76.8
+ Georgia St.                       |       76.8
+ Harding                           |       76.8
+ Portland St.                      |       76.8
+ St. Mary's (TX)                   |       76.8
+ Dayton                            |       76.8
+ Belmont Abbey                     |       76.8
+ San Diego                         |       76.8
+ Morehead St.                      |       76.8
+ Rutgers                           |       76.8
+ Portland                          |       76.8
+ CSU Bakersfield                   |       76.8
+ Cal St. San B'dino                |       76.8
+ Ball St.                          |       76.8
+ Georgia                           |       76.8
+ Northwestern St.                  |       76.8
+ Tuskegee                          |       76.8
+ Holy Family                       |       76.8
+ Coppin St.                        |       76.8
+ Augustana (SD)                    |       76.8
+ Utah Valley                       |       76.8
+ Tennessee Tech                    |       76.8
+ FGCU                              |       76.8
+ Northwest Nazarene                |       76.8
+ Cleveland St.                     |       76.8
+ Chico St.                         |       76.8
+ Wright St.                        |       76.8
+ Bowling Green                     |       76.7
+ UNCG                              |       76.7
+ Montana St.                       |       76.7
+ Air Force                         |       76.7
+ Carnegie Mellon                   |       76.7
+ Western Mich.                     |       76.7
+ Samford                           |       76.7
+ South Carolina                    |       76.7
+ Murray St.                        |       76.7
+ Iona                              |       76.7
+ UC San Diego                      |       76.7
+ Saint Augustine's                 |       76.7
+ South Ala.                        |       76.7
+ Oral Roberts                      |       76.7
+ South Dakota                      |       76.7
+ Marshall                          |       76.7
+ Missouri St.                      |       76.7
+ Coastal Caro.                     |       76.7
+ Cal St. Dom. Hills                |       76.7
+ MIT                               |       76.7
+ Loyola Chicago                    |       76.7
+ St. Cloud St.                     |       76.7
+ Penn                              |       76.7
+ UTSA                              |       76.7
+ Northern St.                      |       76.6
+ Denver                            |       76.6
+ Army West Point                   |       76.6
+ Southern Ark.                     |       76.6
+ Northern Colo.                    |       76.6
+ UC Santa Barbara                  |       76.6
+ Point Loma                        |       76.6
+ NYU                               |       76.6
+ Chaminade                         |       76.6
+ Ark.-Fort Smith                   |       76.6
+ Middle Tenn.                      |       76.6
+ Holy Cross                        |       76.6
+ Grand Canyon                      |       76.6
+ UT Arlington                      |       76.6
+ Westminster (UT)                  |       76.6
+ Virginia Union                    |       76.6
+ Shaw                              |       76.6
+ Wagner                            |       76.6
+ Austin Peay                       |       76.6
+ Sioux Falls                       |       76.6
+ Sacred Heart                      |       76.6
+ Southern U.                       |       76.6
+ Manhattan                         |       76.6
+ Colorado St.                      |       76.6
+ West Chester                      |       76.6
+ California Baptist                |       76.6
+ Pacific                           |       76.6
+ Florida Tech                      |       76.6
+ UC-Colo. Springs                  |       76.5
+ A&M-Corpus Chris                  |       76.5
+ Drexel                            |       76.5
+ Texas A&M                         |       76.5
+ South Dakota Mines                |       76.5
+ South Dakota St.                  |       76.5
+ Cal Poly                          |       76.5
+ Emporia St.                       |       76.5
+ Chicago St.                       |       76.5
+ Augustana (IL)                    |       76.5
+ Minn. Duluth                      |       76.5
+ Cornell                           |       76.5
+ Charleston So.                    |       76.5
+ Purdue                            |       76.5
+ Southern Ill.                     |       76.5
+ Monmouth                          |       76.5
+ Loyola Maryland                   |       76.5
+ Williams                          |       76.5
+ Oakland                           |       76.5
+ Richmond                          |       76.5
+ Old Dominion                      |       76.5
+ Carson-Newman                     |       76.5
+ UNC Asheville                     |       76.4
+ Wooster                           |       76.4
+ Azusa Pacific                     |       76.4
+ Hawaii                            |       76.4
+ Christian Bros.                   |       76.4
+ Michigan St.                      |       76.4
+ Colorado St.-Pueblo               |       76.4
+ Jacksonville                      |       76.4
+ Spring Hill                       |       76.4
+ La.-Monroe                        |       76.4
+ Wis.-Parkside                     |       76.4
+ Davidson                          |       76.4
+ Minnesota St.                     |       76.4
+ Abilene Christian                 |       76.4
+ Southwest Minn. St.               |       76.4
+ Rider                             |       76.4
+ Colgate                           |       76.4
+ Albany (NY)                       |       76.4
+ Bucknell                          |       76.4
+ UTRGV                             |       76.4
+ Montclair St.                     |       76.4
+ Lees-McRae                        |       76.4
+ Idaho St.                         |       76.4
+ Concordia-St. Paul                |       76.4
+ ETSU                              |       76.3
+ Montana                           |       76.3
+ Mississippi Val.                  |       76.3
+ Rollins                           |       76.3
+ Jackson St.                       |       76.3
+ Pace                              |       76.3
+ Henderson St.                     |       76.3
+ Northwest Mo. St.                 |       76.3
+ San Fran. St.                     |       76.3
+ George Mason                      |       76.3
+ Milwaukee                         |       76.3
+ Chowan                            |       76.3
+ Saint Joseph's                    |       76.3
+ Fort Wayne                        |       76.3
+ UC Davis                          |       76.3
+ Maryville (MO)                    |       76.3
+ Grand Valley St.                  |       76.3
+ Fairfield                         |       76.3
+ Kent St.                          |       76.3
+ Central Conn. St.                 |       76.3
+ Savannah St.                      |       76.3
+ Youngstown St.                    |       76.3
+ Gardner-Webb                      |       76.3
+ Sam Houston St.                   |       76.3
+ Rochester (NY)                    |       76.3
+ Washington-St. Louis              |       76.3
+ Longwood                          |       76.3
+ Dallas Baptist                    |       76.3
+ Union (TN)                        |       76.3
+ Pepperdine                        |       76.2
+ Oswego St.                        |       76.2
+ UNCW                              |       76.2
+ Navy                              |       76.2
+ Sonoma St.                        |       76.2
+ VCU                               |       76.2
+ Howard                            |       76.2
+ Texas St.                         |       76.2
+ Angelo St.                        |       76.2
+ Idaho                             |       76.2
+ Central Mich.                     |       76.2
+ Northern Ariz.                    |       76.2
+ Hampton                           |       76.2
+ Louisiana                         |       76.2
+ Ill. Wesleyan                     |       76.2
+ Washburn                          |       76.2
+ Carleton                          |       76.2
+ Rockhurst                         |       76.2
+ Auburn                            |       76.2
+ Omaha                             |       76.2
+ Coker                             |       76.2
+ Wofford                           |       76.2
+ Virginia St.                      |       76.2
+ Sacramento St.                    |       76.2
+ High Point                        |       76.2
+ Arkansas St.                      |       76.2
+ Benedict                          |       76.2
+ Marquette                         |       76.2
+ Cal St. L.A.                      |       76.1
+ Molloy                            |       76.1
+ McKendree                         |       76.1
+ MSU Denver                        |       76.1
+ Syracuse                          |       76.1
+ Eastern Ill.                      |       76.1
+ Saint Martin's                    |       76.1
+ Jacksonville St.                  |       76.1
+ Ashland                           |       76.1
+ Ferris St.                        |       76.1
+ Francis Marion                    |       76.1
+ Miles                             |       76.1
+ Notre Dame (OH)                   |       76.1
+ New Hampshire                     |       76.1
+ Fordham                           |       76.1
+ Fairleigh Dickinson               |       76.1
+ NJIT                              |       76.1
+ Binghamton                        |       76.1
+ Embry-Riddle (FL)                 |       76.1
+ Randolph-Macon                    |       76.1
+ Michigan Tech                     |       76.1
+ Chicago                           |       76.1
+ Clayton St.                       |       76.1
+ Southwestern Okla.                |       76.0
+ Western Ore.                      |       76.0
+ St. Mary's (MD)                   |       76.0
+ Midwestern St.                    |       76.0
+ Wis.-Oshkosh                      |       76.0
+ Bowie St.                         |       76.0
+ Trevecca Nazarene                 |       76.0
+ Fort Valley St.                   |       76.0
+ UMES                              |       76.0
+ VMI                               |       76.0
+ Western St.                       |       76.0
+ Lake Erie                         |       76.0
+ Whitworth                         |       76.0
+ Simon Fraser                      |       76.0
+ Tulane                            |       76.0
+ LeMoyne-Owen                      |       76.0
+ Bard                              |       76.0
+ St. Edward's                      |       76.0
+ Wis.-Whitewater                   |       76.0
+ Mont. St. Billings                |       76.0
+ Tampa                             |       75.9
+ Johnson C. Smith                  |       75.9
+ Minn.-Crookston                   |       75.9
+ Mo.-St. Louis                     |       75.9
+ Minot St.                         |       75.9
+ N.C. A&T                          |       75.9
+ Prairie View                      |       75.9
+ The Citadel                       |       75.9
+ Central Mo.                       |       75.9
+ Colorado Mesa                     |       75.9
+ Morehouse                         |       75.9
+ Seattle Pacific                   |       75.9
+ Lee                               |       75.9
+ Western N.M.                      |       75.9
+ Southern Nazarene                 |       75.9
+ St. Olaf                          |       75.9
+ Ga. Southern                      |       75.9
+ Caldwell                          |       75.9
+ Wabash                            |       75.9
+ Queens (NC)                       |       75.9
+ Bryant                            |       75.9
+ Eastern N.M.                      |       75.9
+ East Stroudsburg                  |       75.9
+ Lewis                             |       75.9
+ Northern Mich.                    |       75.9
+ Dominican (CA)                    |       75.9
+ Regis (CO)                        |       75.9
+ Missouri S&T                      |       75.9
+ North Florida                     |       75.9
+ Colo. Christian                   |       75.9
+ Tarleton St.                      |       75.9
+ Stevenson                         |       75.9
+ Delaware St.                      |       75.9
+ Wingate                           |       75.9
+ Anderson (SC)                     |       75.9
+ Delta St.                         |       75.8
+ Calvin                            |       75.8
+ Valdosta St.                      |       75.8
+ Northwestern Okla.                |       75.8
+ UMBC                              |       75.8
+ Bloomsburg                        |       75.8
+ Akron                             |       75.8
+ Fayetteville St.                  |       75.8
+ Fla. Southern                     |       75.8
+ Saint Michael's                   |       75.8
+ N.M. Highlands                    |       75.8
+ Flagler                           |       75.8
+ Gannon                            |       75.8
+ Mary                              |       75.8
+ S.C. Aiken                        |       75.8
+ Assumption                        |       75.8
+ Saint Francis (PA)                |       75.8
+ Southern Utah                     |       75.8
+ Swarthmore                        |       75.8
+ North Central (IL)                |       75.8
+ Radford                           |       75.8
+ Trinity (TX)                      |       75.7
+ Slippery Rock                     |       75.7
+ Concordia Portland                |       75.7
+ Southeast Mo. St.                 |       75.7
+ Bellarmine                        |       75.7
+ Northern Ky.                      |       75.7
+ Campbell                          |       75.7
+ Davis & Elkins                    |       75.7
+ New Haven                         |       75.7
+ Tusculum                          |       75.7
+ Middlebury                        |       75.7
+ Claremont-M-S                     |       75.7
+ Mt. St. Mary's                    |       75.7
+ Johns Hopkins                     |       75.7
+ UMKC                              |       75.7
+ Chattanooga                       |       75.7
+ Whitman                           |       75.7
+ UIndy                             |       75.7
+ Mary Washington                   |       75.7
+ AUM                               |       75.7
+ Seton Hill                        |       75.7
+ Frank. & Marsh.                   |       75.7
+ Bluefield St.                     |       75.7
+ Eastern Ky.                       |       75.7
+ Mo. Southern St.                  |       75.6
+ Lamar University                  |       75.6
+ Little Rock                       |       75.6
+ Tex. Permian Basin                |       75.6
+ Merrimack                         |       75.6
+ Gettysburg                        |       75.6
+ Edinboro                          |       75.6
+ Millikin                          |       75.6
+ Ill.-Springfield                  |       75.6
+ East Central                      |       75.6
+ Arkansas Tech                     |       75.6
+ Ohio Valley                       |       75.6
+ California (PA)                   |       75.6
+ Montevallo                        |       75.6
+ Alas. Fairbanks                   |       75.6
+ Wis.-Stevens Point                |       75.6
+ Cal St. Monterey Bay              |       75.6
+ N.C. Central                      |       75.6
+ Hawaii Pacific                    |       75.6
+ Lynn                              |       75.6
+ Niagara                           |       75.6
+ Lander                            |       75.6
+ Palm Beach Atl.                   |       75.6
+ Wheaton (IL)                      |       75.6
+ Post                              |       75.6
+ Armstrong St.                     |       75.6
+ Drury                             |       75.6
+ Rogers St.                        |       75.6
+ Adams St.                         |       75.6
+ Northeastern St.                  |       75.6
+ Furman                            |       75.6
+ Stonehill                         |       75.6
+ Denison                           |       75.6
+ Robert Morris                     |       75.6
+ Babson                            |       75.6
+ Ohio Dominican                    |       75.6
+ West Ga.                          |       75.6
+ Cedarville                        |       75.6
+ BYU-Hawaii                        |       75.5
+ Adelphi                           |       75.5
+ Cal Poly Pomona                   |       75.5
+ Concordia (CA)                    |       75.5
+ Mary Hardin-Baylor                |       75.5
+ LIU Brooklyn                      |       75.5
+ Winthrop                          |       75.5
+ Transylvania                      |       75.5
+ Daniel Webster                    |       75.5
+ Whittier                          |       75.5
+ Colby                             |       75.5
+ Central Wash.                     |       75.5
+ Tufts                             |       75.5
+ Holy Names                        |       75.5
+ UNC Pembroke                      |       75.5
+ Chapman                           |       75.5
+ Scranton                          |       75.5
+ Notre Dame de Namur               |       75.5
+ Southern Conn. St.                |       75.5
+ Augusta                           |       75.5
+ Bethune-Cookman                   |       75.5
+ Nyack                             |       75.5
+ Wis.-Superior                     |       75.5
+ Concordia-M'head                  |       75.5
+ St. Thomas (MN)                   |       75.5
+ Upper Iowa                        |       75.5
+ Emmanuel (GA)                     |       75.5
+ Lewis & Clark                     |       75.5
+ Saint Peter's                     |       75.5
+ Mississippi Col.                  |       75.5
+ Emory                             |       75.5
+ Lake Forest                       |       75.5
+ Hampden-Sydney                    |       75.4
+ Liberty                           |       75.4
+ Okla. Panhandle                   |       75.4
+ Colorado Col.                     |       75.4
+ Wis.-Platteville                  |       75.4
+ Le Moyne                          |       75.4
+ Wis.-La Crosse                    |       75.4
+ N.C. Wesleyan                     |       75.4
+ Tennessee                         |       75.4
+ Tiffin                            |       75.4
+ North Greenville                  |       75.4
+ Cameron                           |       75.4
+ UC Santa Cruz                     |       75.4
+ Plattsburgh St.                   |       75.4
+ Southern Miss.                    |       75.4
+ UMass Lowell                      |       75.4
+ Northwestern-St. Paul             |       75.4
+ Ohio Northern                     |       75.4
+ Lake Superior St.                 |       75.4
+ St. Anselm                        |       75.4
+ Saint Rose                        |       75.4
+ Kutztown                          |       75.4
+ Lincoln Memorial                  |       75.4
+ Limestone                         |       75.4
+ Franklin Pierce                   |       75.4
+ New Orleans                       |       75.4
+ Elmira                            |       75.4
+ St. Francis Brooklyn              |       75.4
+ Albertus Magnus                   |       75.4
+ Long Beach St.                    |       75.4
+ Wash. & Lee                       |       75.4
+ Livingstone                       |       75.4
+ Kalamazoo                         |       75.4
+ Capital                           |       75.4
+ Southern N.H.                     |       75.4
+ Shenandoah                        |       75.4
+ UVa-Wise                          |       75.4
+ Chestnut Hill                     |       75.4
+ Dickinson                         |       75.4
+ St. Norbert                       |       75.3
+ Southwest Baptist                 |       75.3
+ Georgian Court                    |       75.3
+ Minn.-Morris                      |       75.3
+ Wis.-Eau Claire                   |       75.3
+ Indiana (PA)                      |       75.3
+ Pitt.-Johnstown                   |       75.3
+ Mo. Western St.                   |       75.3
+ Rust                              |       75.3
+ Saint John's (MN)                 |       75.3
+ Vassar                            |       75.3
+ Coe                               |       75.3
+ Quincy                            |       75.3
+ Sul Ross St.                      |       75.3
+ Malone                            |       75.3
+ Salisbury                         |       75.3
+ Caltech                           |       75.3
+ Geneva                            |       75.3
+ Kenyon                            |       75.3
+ Columbus St.                      |       75.3
+ Neb.-Kearney                      |       75.3
+ Anderson (IN)                     |       75.3
+ Lincoln (PA)                      |       75.3
+ Haverford                         |       75.3
+ Lynchburg                         |       75.3
+ Concordia (NY)                    |       75.3
+ Lubbock Christian                 |       75.3
+ York (PA)                         |       75.3
+ Central (IA)                      |       75.2
+ Tex. A&M-Kingsville               |       75.2
+ Husson                            |       75.2
+ Lock Haven                        |       75.2
+ NYIT                              |       75.2
+ Ky. Wesleyan                      |       75.2
+ Centre                            |       75.2
+ Charleston (WV)                   |       75.2
+ Truman                            |       75.2
+ Thiel                             |       75.2
+ Bentley                           |       75.2
+ West Va. Wesleyan                 |       75.2
+ Salem Int'l                       |       75.2
+ Fort Lewis                        |       75.2
+ Clarion                           |       75.2
+ Claflin                           |       75.2
+ Carthage                          |       75.2
+ Berry                             |       75.2
+ Pomona-Pitzer                     |       75.2
+ Oglethorpe                        |       75.2
+ Gust. Adolphus                    |       75.2
+ Chadron St.                       |       75.2
+ Pitt.-Greensburg                  |       75.2
+ Cal Lutheran                      |       75.2
+ Fresno Pacific                    |       75.2
+ Clark Atlanta                     |       75.2
+ South Carolina St.                |       75.2
+ Okla. Christian                   |       75.2
+ Shepherd                          |       75.2
+ Hartwick                          |       75.1
+ Urbana                            |       75.1
+ Bates                             |       75.1
+ Bridgeport                        |       75.1
+ Ala.-Huntsville                   |       75.1
+ Dominican (NY)                    |       75.1
+ Albright                          |       75.1
+ Wis.-Stout                        |       75.1
+ West Tex. A&M                     |       75.1
+ King (TN)                         |       75.1
+ Fort Hays St.                     |       75.1
+ Norwich                           |       75.1
+ Allegheny                         |       75.1
+ Barry                             |       75.1
+ Puget Sound                       |       75.1
+ McMurry                           |       75.1
+ Brevard                           |       75.1
+ Lane                              |       75.1
+ Berea                             |       75.1
+ Hanover                           |       75.1
+ Alabama A&M                       |       75.1
+ Widener                           |       75.1
+ Findlay                           |       75.1
+ Baldwin Wallace                   |       75.1
+ SUNY New Paltz                    |       75.1
+ Shorter                           |       75.1
+ Ark.-Monticello                   |       75.1
+ USciences                         |       75.1
+ West Liberty                      |       75.1
+ DePauw                            |       75.1
+ Presbyterian                      |       75.1
+ Keuka                             |       75.1
+ Hood                              |       75.0
+ Nicholls St.                      |       75.0
+ Bloomfield                        |       75.0
+ North Ala.                        |       75.0
+ Grambling                         |       75.0
+ Maine                             |       75.0
+ Lincoln (MO)                      |       75.0
+ Franklin                          |       75.0
+ Pittsburg St.                     |       75.0
+ Texas Lutheran                    |       75.0
+ Penn St.-Altoona                  |       75.0
+ Elmhurst                          |       75.0
+ Goldey-Beacom                     |       75.0
+ LIU Post                          |       75.0
+ Juniata                           |       75.0
+ Ripon                             |       75.0
+ St. Joseph's (IN)                 |       75.0
+ Wittenberg                        |       75.0
+ Lesley                            |       75.0
+ Drew                              |       75.0
+ Walsh                             |       75.0
+ Hardin-Simmons                    |       75.0
+ Saginaw Valley                    |       75.0
+ Skidmore                          |       75.0
+ Stanislaus St.                    |       75.0
+ Wartburg                          |       74.9
+ Lenoir-Rhyne                      |       74.9
+ Loras                             |       74.9
+ Cornell College                   |       74.9
+ Dist. Columbia                    |       74.9
+ Tex. A&M Int'l                    |       74.9
+ Cal St. San Marcos                |       74.9
+ William Jewell                    |       74.9
+ CWRU                              |       74.9
+ Birmingham-So.                    |       74.9
+ Ozarks (AR)                       |       74.9
+ St. Joseph's (ME)                 |       74.9
+ Hawaii Hilo                       |       74.9
+ Southern Me.                      |       74.9
+ Gallaudet                         |       74.9
+ SUNY Oneonta                      |       74.9
+ Emory & Henry                     |       74.9
+ Bridgewater St.                   |       74.9
+ St. John Fisher                   |       74.9
+ WPI                               |       74.9
+ Wayne St. (MI)                    |       74.9
+ Willamette                        |       74.9
+ Lindenwood (MO)                   |       74.9
+ Catholic                          |       74.9
+ Cheyney                           |       74.9
+ Mercy                             |       74.9
+ Daemen                            |       74.8
+ Texas-Tyler                       |       74.8
+ SUNY Cortland                     |       74.8
+ Wheaton (MA)                      |       74.8
+ McNeese                           |       74.8
+ Bowdoin                           |       74.8
+ Kentucky St.                      |       74.8
+ Okla. Baptist                     |       74.8
+ IIT                               |       74.8
+ Hilbert                           |       74.8
+ Ohio Wesleyan                     |       74.8
+ Va. Wesleyan                      |       74.8
+ Monmouth (IL)                     |       74.8
+ Salem St.                         |       74.8
+ Emerson                           |       74.8
+ Old Westbury                      |       74.8
+ UMass Dartmouth                   |       74.8
+ Spalding                          |       74.8
+ Southern Wesleyan                 |       74.8
+ Southwestern (TX)                 |       74.8
+ John Carroll                      |       74.8
+ Springfield                       |       74.8
+ Maine Maritime                    |       74.8
+ Texas Southern                    |       74.8
+ Southern Va.                      |       74.8
+ Clarkson                          |       74.8
+ East. Mennonite                   |       74.8
+ Mars Hill                         |       74.8
+ Albany St. (GA)                   |       74.8
+ Connecticut Col.                  |       74.7
+ Fairmont St.                      |       74.7
+ Principia                         |       74.7
+ Roanoke                           |       74.7
+ Misericordia                      |       74.7
+ Glenville St.                     |       74.7
+ Alvernia                          |       74.7
+ Westminster (MO)                  |       74.7
+ Winston-Salem                     |       74.7
+ Shippensburg                      |       74.7
+ Waynesburg                        |       74.7
+ La Verne                          |       74.7
+ Barton                            |       74.7
+ Keystone                          |       74.7
+ Mount Union                       |       74.6
+ SUNY Geneseo                      |       74.6
+ U New England                     |       74.6
+ Centenary (NJ)                    |       74.6
+ Hamline                           |       74.6
+ Wayne St. (NE)                    |       74.6
+ SUNY Canton                       |       74.6
+ SUNY Potsdam                      |       74.6
+ Arcadia                           |       74.6
+ Bethel (MN)                       |       74.6
+ Georgia College                   |       74.6
+ Lasell                            |       74.6
+ Gwynedd Mercy                     |       74.6
+ Mount Olive                       |       74.6
+ Alma                              |       74.6
+ Ga. Southwestern                  |       74.6
+ Adrian                            |       74.6
+ Erskine                           |       74.6
+ Marymount (VA)                    |       74.6
+ Piedmont                          |       74.6
+ Pacific Lutheran                  |       74.6
+ Stockton                          |       74.6
+ Lawrence                          |       74.6
+ Trine                             |       74.5
+ Blackburn                         |       74.5
+ Brockport                         |       74.5
+ Oberlin                           |       74.5
+ Staten Island                     |       74.5
+ Wis.-River Falls                  |       74.5
+ Methodist                         |       74.5
+ Millsaps                          |       74.5
+ Ouachita Baptist                  |       74.5
+ Baruch                            |       74.5
+ Alderson Broaddus                 |       74.5
+ Hobart and William Smith Colleges |       74.5
+ Rose-Hulman                       |       74.5
+ Pacific (OR)                      |       74.5
+ P.R.-Rio Piedras                  |       74.5
+ West Virginia St.                 |       74.5
+ Roger Williams                    |       74.5
+ William Peace                     |       74.5
+ Mercyhurst                        |       74.5
+ Saint Vincent                     |       74.5
+ Coast Guard                       |       74.5
+ Linfield                          |       74.5
+ Alfred St.                        |       74.5
+ Manchester                        |       74.5
+ Plymouth St.                      |       74.5
+ Wis. Lutheran                     |       74.5
+ Muskingum                         |       74.5
+ Augsburg                          |       74.5
+ Edgewood                          |       74.5
+ Trinity (CT)                      |       74.5
+ Philadelphia U.                   |       74.5
+ Redlands                          |       74.4
+ Gordon                            |       74.4
+ George Fox                        |       74.4
+ Yeshiva                           |       74.4
+ Centenary (LA)                    |       74.4
+ Rensselaer                        |       74.4
+ Humboldt St.                      |       74.4
+ Buffalo St.                       |       74.4
+ RIT                               |       74.4
+ Wentworth                         |       74.4
+ Catawba                           |       74.4
+ DeSales                           |       74.4
+ CCNY                              |       74.4
+ Bethany Lutheran                  |       74.4
+ Me.-Presque Isle                  |       74.4
+ Central Okla.                     |       74.4
+ Buena Vista                       |       74.4
+ Simpson                           |       74.4
+ Austin                            |       74.4
+ Farmingdale St.                   |       74.4
+ American Int'l                    |       74.4
+ Concord                           |       74.4
+ St. Lawrence                      |       74.4
+ Mansfield                         |       74.3
+ Rowan                             |       74.3
+ Texas-Dallas                      |       74.3
+ Southeastern La.                  |       74.3
+ Oakland City                      |       74.3
+ Dubuque                           |       74.3
+ Lakeland                          |       74.3
+ Roberts Wesleyan                  |       74.3
+ Millersville                      |       74.3
+ Chris. Newport                    |       74.3
+ Salve Regina                      |       74.3
+ Susquehanna                       |       74.3
+ Marywood                          |       74.3
+ Central St. (OH)                  |       74.3
+ MSOE                              |       74.3
+ Wilmington (OH)                   |       74.3
+ LeTourneau                        |       74.3
+ Benedictine (IL)                  |       74.3
+ Westminster (PA)                  |       74.3
+ Northland                         |       74.3
+ Western Conn. St.                 |       74.3
+ Wheeling Jesuit                   |       74.3
+ Emmanuel (MA)                     |       74.3
+ Eastern Conn. St.                 |       74.2
+ Occidental                        |       74.2
+ Keene St.                         |       74.2
+ Ramapo                            |       74.2
+ Utica                             |       74.2
+ Newman                            |       74.2
+ Marietta                          |       74.2
+ Olivet                            |       74.2
+ Mount Ida                         |       74.2
+ Rhode Island Col.                 |       74.2
+ Sarah Lawrence                    |       74.2
+ SUNY Poly                         |       74.2
+ LaGrange                          |       74.2
+ Thomas (ME)                       |       74.2
+ Union (NY)                        |       74.2
+ Huntingdon                        |       74.2
+ St. Thomas Aquinas                |       74.2
+ TCNJ                              |       74.2
+ Wm. Paterson                      |       74.1
+ Rhodes                            |       74.1
+ Muhlenberg                        |       74.1
+ Wilkes                            |       74.1
+ Albion                            |       74.1
+ Luther                            |       74.1
+ Westfield St.                     |       74.1
+ Frostburg St.                     |       74.1
+ Ithaca                            |       74.1
+ Hamilton                          |       74.1
+ Grove City                        |       74.1
+ Academy of Art                    |       74.1
+ Schreiner                         |       74.1
+ Johnson & Wales (RI)              |       74.1
+ Rutgers-Newark                    |       74.1
+ Hope                              |       74.1
+ Eastern Nazarene                  |       74.1
+ Penn St. Harrisburg               |       74.1
+ Felician                          |       74.1
+ Medaille                          |       74.1
+ Worcester St.                     |       74.0
+ D'Youville                        |       74.0
+ Fredonia                          |       74.0
+ Paine                             |       74.0
+ Carroll (WI)                      |       74.0
+ Thomas More                       |       74.0
+ Eastern                           |       74.0
+ Ferrum                            |       74.0
+ Cabrini                           |       74.0
+ SUNY Maritime                     |       74.0
+ Neumann                           |       74.0
+ Mt. St. Vincent                   |       74.0
+ Queens (NY)                       |       74.0
+ Concordia Wisconsin               |       74.0
+ Morrisville St.                   |       74.0
+ New Jersey City                   |       74.0
+ MacMurray                         |       74.0
+ Maryville (TN)                    |       73.9
+ Hiram                             |       73.9
+ Bridgewater (VA)                  |       73.9
+ Purchase                          |       73.9
+ Rosemont                          |       73.9
+ Curry                             |       73.9
+ Endicott                          |       73.9
+ St. Scholastica                   |       73.9
+ Houghton                          |       73.9
+ Crown (MN)                        |       73.9
+ Concordia Chicago                 |       73.9
+ Manhattanville                    |       73.9
+ Hendrix                           |       73.9
+ Louisiana Col.                    |       73.9
+ Brandeis                          |       73.9
+ Lyndon St.                        |       73.9
+ Maranatha Baptist                 |       73.9
+ Nazareth                          |       73.9
+ Fontbonne                         |       73.8
+ Iowa Wesleyan                     |       73.8
+ Defiance                          |       73.8
+ Medgar Evers                      |       73.8
+ York (NY)                         |       73.8
+ Guilford                          |       73.8
+ Saint Mary's (MN)                 |       73.8
+ Mount Aloysius                    |       73.8
+ Castleton                         |       73.8
+ Webster                           |       73.8
+ Wilmington (DE)                   |       73.8
+ Elizabeth City St.                |       73.8
+ Illinois Col.                     |       73.8
+ Cazenovia                         |       73.8
+ Bethany (WV)                      |       73.8
+ Randolph                          |       73.8
+ Neb. Wesleyan                     |       73.8
+ Cairn                             |       73.7
+ Merchant Marine                   |       73.7
+ Averett                           |       73.7
+ Dallas                            |       73.7
+ New Rochelle                      |       73.7
+ Macalester                        |       73.7
+ King's (PA)                       |       73.7
+ La Roche                          |       73.7
+ Mitchell                          |       73.7
+ Heidelberg                        |       73.7
+ Washington Col.                   |       73.7
+ Sage Colleges                     |       73.7
+ Lycoming                          |       73.7
+ Green Mountain                    |       73.7
+ FDU-Florham                       |       73.6
+ Sewanee                           |       73.6
+ Otterbein                         |       73.6
+ Penn St.-Berks                    |       73.6
+ Grinnell                          |       73.6
+ John Jay                          |       73.6
+ Beloit                            |       73.6
+ Becker                            |       73.6
+ St. Joseph's (Brkln)              |       73.6
+ Lehman                            |       73.6
+ Lancaster Bible                   |       73.5
+ St. Elizabeth                     |       73.5
+ Nichols                           |       73.5
+ Newbury                           |       73.5
+ Dominican (IL)                    |       73.5
+ Brooklyn                          |       73.5
+ Marian (WI)                       |       73.5
+ Delaware Valley                   |       73.5
+ East Tex. Baptist                 |       73.5
+ Greenville                        |       73.4
+ Regis (MA)                        |       73.4
+ Bryn Athyn                        |       73.4
+ Valley Forge                      |       73.4
+ Southern Vt.                      |       73.4
+ Tex. A&M-Commerce                 |       73.4
+ Messiah                           |       73.4
+ Rockford                          |       73.4
+ Pine Manor                        |       73.4
+ Framingham St.                    |       73.4
+ Wesley                            |       73.4
+ Suffolk                           |       73.4
+ Me.-Farmington                    |       73.4
+ Alfred                            |       73.4
+ Howard Payne                      |       73.4
+ Martin Luther                     |       73.3
+ Wash. & Jeff.                     |       73.3
+ Western New Eng.                  |       73.3
+ Rivier                            |       73.3
+ New England Col.                  |       73.3
+ Pitt.-Bradford                    |       73.3
+ Earlham                           |       73.3
+ Goucher                           |       73.3
+ McDaniel                          |       73.3
+ Cobleskill St.                    |       73.2
+ Wheelock                          |       73.2
+ Franciscan                        |       73.2
+ Penn St.-Behrend                  |       73.2
+ Covenant                          |       73.2
+ Wells                             |       73.2
+ Mt. St. Mary (NY)                 |       73.2
+ Lebanon Valley                    |       73.2
+ Moravian                          |       73.1
+ Colby-Sawyer                      |       73.1
+ Mt. St. Joseph                    |       73.1
+ Greensboro                        |       73.1
+ Johnson St.                       |       73.1
+ Clark (MA)                        |       73.1
+ Pfeiffer                          |       73.0
+ Fitchburg St.                     |       73.0
+ Finlandia                         |       73.0
+ Elizabethtown                     |       73.0
+ Knox                              |       73.0
+ Penn St.-Abington                 |       73.0
+ Rutgers-Camden                    |       72.9
+ Bluffton                          |       72.9
+ St. Joseph's (L.I.)               |       72.9
+ Immaculata                        |       72.8
+ Chatham                           |       72.8
+ Stevens                           |       72.8
+ Kean                              |       72.7
+ Newberry                          |       72.7
+ North Park                        |       72.7
+ Hunter                            |       72.6
+ Concordia (TX)                    |       72.6
+ Elms                              |       72.5
+ Penn College                      |       72.5
+ P.R.-Bayamon                      |       72.4
+ UMass Boston                      |       72.4
+ Clarks Summit                     |       72.4
+ Aurora                            |       72.4
+ Eureka                            |       72.4
+ North Central (MN)                |       72.3
+ P.R.-Mayaguez                     |       72.0
+ Anna Maria                        |       71.9
+ MCLA                              |       71.8
+ Wilson                            |       71.4
+(1092 rows)
 
