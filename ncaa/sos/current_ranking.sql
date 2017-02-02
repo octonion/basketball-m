@@ -42,8 +42,21 @@ where sf.year in (2017)
 order by str desc);
 
 select
-rk,school,div_id as div,str,ofs,dfs,sos
+rk,
+school,
+'D'||div_id as div,
+str,ofs,dfs,sos
 from r
 order by rk asc;
+
+copy (
+select
+rk,
+school,
+'D'||div_id as div,
+str,ofs,dfs,sos
+from r
+order by rk asc
+) to '/tmp/current_ranking.csv' csv header;
 
 commit;
