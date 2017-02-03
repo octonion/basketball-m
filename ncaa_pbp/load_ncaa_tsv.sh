@@ -37,7 +37,16 @@ rm /tmp/ncaa_games_periods.tsv
 
 cp tsv/ncaa_games_play_by_play_mt_*.tsv.gz /tmp
 pigz -d /tmp/ncaa_games_play_by_play_mt_*.tsv.gz
-tail -q -n+2 /tmp/ncaa_games_play_by_play_mt_*.tsv >> /tmp/ncaa_games_play_by_play.tsv
+#tail -q -n+2 /tmp/ncaa_games_play_by_play_mt_200?_?.tsv >> /tmp/ncaa_games_play_by_play.tsv
+tail -q -n+2 /tmp/ncaa_games_play_by_play_mt_201[0123456]_?.tsv >> /tmp/ncaa_games_play_by_play.tsv
+tail -q -n+2 /tmp/ncaa_games_play_by_play_mt_2017_1.tsv >> /tmp/ncaa_games_play_by_play.tsv
+tail -q -n+2 /tmp/ncaa_games_play_by_play_mt_2017_3.tsv >> /tmp/ncaa_games_play_by_play.tsv
+
+# One bad row
+
+grep -v "11:94" /tmp/ncaa_games_play_by_play_mt_2017_2.tsv | tail -q -n+2 >> /tmp/ncaa_games_play_by_play.tsv
+>> /tmp/ncaa_games_play_by_play.tsv
+
 psql basketball-m -f loaders_tsv/load_ncaa_games_play_by_play.sql
 rm /tmp/ncaa_games_play_by_play*.tsv
 
