@@ -5,12 +5,13 @@
 require 'csv'
 require 'mechanize'
 
+bad = '%'
+
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
-url = "http://web1.ncaa.org/stats/exec/records"
+search_url = "http://web1.ncaa.org/stats/exec/records"
 schools = CSV.read("csv/ncaa_schools.csv")
-#schools = CSV.read("schools.csv")
 
 first_year = ARGV[0].to_i
 last_year = ARGV[1].to_i
@@ -21,6 +22,9 @@ games_header = ["year","team_name","team_id","opponent_name","opponent_id",
 
 records_header = ["year","team_id","team_name","wins","losses","ties",
                   "total_games"]
+
+game_xpath = "//table/tr[3]/td/form/table[2]/tr"
+record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
 
 (first_year..last_year).each do |year|
 
@@ -38,40 +42,75 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
     school_name = school[1]
     print "#{year}/#{school_name} (#{team_count}/#{game_count})\n"
     begin
-      page = agent.post(url, {"academicYear" => "#{year}", "orgId" => school_id,
-                             "sportCode" => "MBB"})
+      page = agent.post(search_url, {"academicYear" => "#{year}",
+                                     "orgId" => school_id,
+                                     "sportCode" => "MBB"})
     rescue
       print "  -> error, retrying\n"
       retry
     end
 
     begin
-      page.parser.xpath("//table/tr[3]/td/form/table[1]/tr[2]").each do |row|
-        r = []
-        row.xpath("td").each do |d|
-          r += [d.text.strip]
+      page.parser.xpath(record_xpath).each do |tr|
+        row = [year,school_id]
+        tr.xpath("td").each do |d|
+          row += [d.text.strip]
         end
         team_count += 1
-        records << [year,school_id]+r
+        records << row
       end
       records.flush
     end
 
-    page.parser.xpath("//table/tr[3]/td/form/table[2]/tr").each do |row|
-      r = []
-      row.xpath("td").each do |d|
+    page.parser.xpath(game_xpath).each do |tr|
+      
+      row = []
+      
+      tr.xpath("td").each do |td|
+        
         #in `strip': invalid byte sequence in UTF-8 (ArgumentError)
-        text = d.text.encode('UTF-8', :invalid => :replace, :undef => :replace).strip
-        html = d.inner_html.encode('UTF-8', :invalid => :replace, :undef => :replace).strip
-        r += [text,html]
+
+        a = td.xpath("a").first
+        if not(a==nil)
+          text = a.inner_text.encode('UTF-8',
+                                     :invalid => :replace, :undef => :replace)
+          clean_text = text.gsub(bad,"").strip
+          
+          href = a.attributes["href"].value
+          url = href.encode('UTF-8',
+                            :invalid => :replace, :undef => :replace)
+          clean_url = url.strip
+        else
+          text = td.text.encode('UTF-8',
+                                :invalid => :replace, :undef => :replace)
+          clean_text = text.gsub(bad,"").strip
+          clean_url = nil
+        end
+        row += [clean_text, clean_url]
+
       end
-      if (r[0]=="Opponent")
+        
+#
+
+#r += [text,html]
+
+      if (row[0]=="Opponent")
         next
       end
-      opponent_id = r[1][/(\d+)/]
+      if not(row[1]==nil)
+        opponent_id = row[1][/(\d+)/]
+      else
+        opponent_id=nil
+      end
+      
       game_count += 1
-      games << [year,school_name,school_id,r[0],opponent_id,r[2],r[4],
-                r[6],r[8],r[10],r[12],r[14]]
+
+      rr = [year, school_name, school_id, row[0], opponent_id,
+            row[2],row[4],row[6],row[8],row[10],row[12],row[14]]
+      
+      rr.map!{ |e| e=='' ? nil : e }
+      
+      games << rr
     end
     games.flush
   end

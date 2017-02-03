@@ -21,7 +21,10 @@ psql basketball-m -f sos/schedule_factors.sql
 psql basketball-m -c "vacuum analyze ncaa._schedule_factors;"
 
 psql basketball-m -f sos/connectivity.sql > sos/connectivity.txt
+
 psql basketball-m -f sos/current_ranking.sql > sos/current_ranking.txt
+cp /tmp/current_ranking.csv sos/current_ranking.csv
+
 psql basketball-m -f sos/division_ranking.sql > sos/division_ranking.txt
 
 psql basketball-m -f sos/test_predictions.sql > sos/test_predictions.txt
