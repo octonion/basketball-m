@@ -39,7 +39,7 @@ join ncaa._factors o
 join ncaa._factors d
   on (d.parameter,d.level::integer)=('d_div',sd.div_id)
 where sf.year in (2017)
-order by str desc);
+order by (sf.strength*o.exp_factor/d.exp_factor) desc);
 
 select
 rk,
