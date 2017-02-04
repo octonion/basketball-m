@@ -59,4 +59,44 @@ from r
 order by rk asc
 ) to '/tmp/current_ranking.csv' csv header;
 
+create temporary table r_d1 (
+       rk	 serial,
+       school 	 text,
+       school_id integer,
+       div_id	 integer,
+       year	 integer,
+       str	 numeric(4,3),
+       ofs	 numeric(4,3),
+       dfs	 numeric(4,3),
+       sos	 numeric(4,3)
+);
+
+insert into r_d1
+(school,school_id,div_id,year,str,ofs,dfs,sos)
+(
+select
+school,school_id,div_id,year,str,ofs,dfs,sos
+from r
+where r.div_id=1
+order by str desc
+);
+
+select
+rk,
+school,
+'D'||div_id as div,
+str,ofs,dfs,sos
+from r_d1
+order by rk asc;
+
+copy (
+select
+rk,
+school,
+'D'||div_id as div,
+str,ofs,dfs,sos
+from r_d1
+order by rk asc
+) to '/tmp/current_ranking_d1.csv' csv header;
+
 commit;

@@ -24,6 +24,7 @@ psql basketball-m -f sos/connectivity.sql > sos/connectivity.txt
 
 psql basketball-m -f sos/current_ranking.sql > sos/current_ranking.txt
 cp /tmp/current_ranking.csv sos/current_ranking.csv
+cp /tmp/current_ranking_d1.csv sos/current_ranking_d1.csv
 
 psql basketball-m -f sos/division_ranking.sql > sos/division_ranking.txt
 
