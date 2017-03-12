@@ -1,59 +1,19 @@
 BEGIN
 SET
-        team         | h_div |  site   |         opp         | v_div | t_score | o_score 
----------------------+-------+---------+---------------------+-------+---------+---------
- Akron               |     1 | home    | Miami (OH)          |     1 |    80.9 |    64.1
- Ala.-Huntsville     |     2 | home    | Union (TN)          |     2 |    86.7 |    74.5
- Albany St. (GA)     |     2 | neutral | Miles               |     2 |    71.3 |    76.5
- Army West Point     |     1 | home    | American            |     1 |    71.8 |    63.6
- Barton              |     2 | home    | Mount Olive         |     2 |    79.3 |    70.2
- Benedict            |     2 | neutral | Central St. (OH)    |     2 |    71.6 |    65.5
- Boise St.           |     1 | home    | Fresno St.          |     1 |    75.2 |    70.6
- Bowling Green       |     1 | home    | Kent St.            |     1 |    72.7 |    75.2
- Campbell            |     1 | home    | Presbyterian        |     1 |    72.2 |    57.7
- Central Mich.       |     1 | home    | Eastern Mich.       |     1 |    85.3 |    88.7
- Central St. (OH)    |     2 | neutral | Benedict            |     2 |    65.5 |    71.6
- Charleston So.      |     1 | home    | Longwood            |     1 |    83.9 |    71.0
- Chico St.           |     2 | home    | Cal St. Dom. Hills  |     2 |    74.2 |    63.5
- Christian Bros.     |     2 | home    | West Florida        |     2 |    75.2 |    72.2
- Colorado Mines      |     2 | home    | Adams St.           |     2 |    84.8 |    66.8
- Colorado St.        |     1 | home    | Wyoming             |     1 |    76.6 |    69.5
- Colorado St.-Pueblo |     2 | home    | Colo. Christian     |     2 |    90.4 |    78.7
- Creighton           |     1 | home    | St. John's (NY)     |     1 |    89.2 |    75.3
- Davidson            |     1 | home    | St. Bonaventure     |     1 |    77.7 |    73.6
- Delta St.           |     2 | home    | Shorter             |     2 |    83.5 |    75.3
- Duke                |     1 | home    | Florida St.         |     1 |    80.9 |    75.2
- Ferris St.          |     2 | home    | Hillsdale           |     2 |    83.5 |    70.6
- Findlay             |     2 | home    | Grand Valley St.    |     2 |    75.9 |    67.2
- Fort Lewis          |     2 | home    | UC-Colo. Springs    |     2 |    91.6 |    77.5
- Georgia Tech        |     1 | home    | Pittsburgh          |     1 |    66.9 |    64.7
- Hartwick            |     3 | home    | Elmira              |     3 |    82.0 |    63.5
- Iowa St.            |     1 | home    | Oklahoma St.        |     1 |    84.8 |    80.2
- Kentucky            |     1 | home    | Vanderbilt          |     1 |    83.8 |    69.6
- King (TN)           |     2 | home    | Belmont Abbey       |     2 |    86.9 |    73.1
- Lake Superior St.   |     2 | home    | Ashland             |     2 |    83.7 |    76.6
- Limestone           |     2 | home    | Lees-McRae          |     2 |    82.4 |    68.3
- Loyola Maryland     |     1 | home    | Lafayette           |     1 |    73.8 |    64.0
- Michigan Tech       |     2 | home    | Wayne St. (MI)      |     2 |    68.8 |    65.9
- Miles               |     2 | neutral | Albany St. (GA)     |     2 |    76.5 |    71.3
- Missouri            |     1 | home    | Texas A&M           |     1 |    62.8 |    67.4
- Northern Ill.       |     1 | home    | Western Mich.       |     1 |    69.0 |    69.0
- Ohio                |     1 | home    | Buffalo             |     1 |    78.1 |    72.1
- Penn St.            |     1 | home    | Ohio St.            |     1 |    72.0 |    71.7
- Pfeiffer            |     2 | home    | Erskine             |     2 |    99.4 |    77.2
- Providence          |     1 | home    | DePaul              |     1 |    74.5 |    61.9
- Purdue              |     1 | home    | Indiana             |     1 |    80.8 |    70.4
- Regis (CO)          |     2 | home    | MSU Denver          |     2 |    75.9 |    73.0
- Rutgers             |     1 | home    | Maryland            |     1 |    65.0 |    70.0
- San Fran. St.       |     2 | home    | Cal St. L.A.        |     2 |    85.0 |    72.3
- Seton Hall          |     1 | home    | Georgetown          |     1 |    72.6 |    70.1
- Sonoma St.          |     2 | home    | Cal Poly Pomona     |     2 |    60.0 |    51.2
- South Carolina      |     1 | home    | Mississippi St.     |     1 |    73.2 |    61.3
- Southwest Minn. St. |     2 | neutral | Upper Iowa          |     2 |    81.0 |    75.9
- Toledo              |     1 | home    | Ball St.            |     1 |    79.6 |    73.5
- UC San Diego        |     2 | home    | Humboldt St.        |     2 |    80.5 |    65.4
- Upper Iowa          |     2 | neutral | Southwest Minn. St. |     2 |    75.9 |    81.0
- Valdosta St.        |     2 | home    | North Ala.          |     2 |    92.6 |    78.0
-(52 rows)
+     team     | h_div |  site   |     opp      | v_div | t_score | o_score 
+--------------+-------+---------+--------------+-------+---------+---------
+ Arkansas     |     1 | neutral | Kentucky     |     1 |    77.4 |    87.8
+ Cincinnati   |     1 | neutral | SMU          |     1 |    63.6 |    64.4
+ Kentucky     |     1 | neutral | Arkansas     |     1 |    87.8 |    77.4
+ Michigan     |     1 | neutral | Wisconsin    |     1 |    63.1 |    64.2
+ Princeton    |     1 | neutral | Yale         |     1 |    70.2 |    62.7
+ Rhode Island |     1 | neutral | VCU          |     1 |    68.6 |    67.9
+ SMU          |     1 | neutral | Cincinnati   |     1 |    64.4 |    63.6
+ Texas St.    |     1 | neutral | Troy         |     1 |    66.2 |    67.3
+ Troy         |     1 | neutral | Texas St.    |     1 |    67.3 |    66.2
+ VCU          |     1 | neutral | Rhode Island |     1 |    67.9 |    68.6
+ Wisconsin    |     1 | neutral | Michigan     |     1 |    64.2 |    63.1
+ Yale         |     1 | neutral | Princeton    |     1 |    62.7 |    70.2
+(12 rows)
 
 COMMIT
