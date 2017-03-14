@@ -1,9 +1,75 @@
 BEGIN
-  school_name   |   p    
-----------------+--------
- Villanova      | 0.5246
- North Carolina | 0.4754
-(2 rows)
+     school_name     |   p    
+---------------------+--------
+ Gonzaga             | 0.1791
+ North Carolina      | 0.1171
+ Villanova           | 0.0881
+ West Virginia       | 0.0683
+ Louisville          | 0.0683
+ Virginia            | 0.0621
+ Kentucky            | 0.0471
+ Kansas              | 0.0443
+ Wichita St.         | 0.0403
+ Duke                | 0.0378
+ Purdue              | 0.0277
+ Florida             | 0.0264
+ Oregon              | 0.0227
+ St. Marys (CA)      | 0.0203
+ Baylor              | 0.0200
+ SMU                 | 0.0161
+ Florida St.         | 0.0158
+ Iowa St.            | 0.0144
+ Cincinnati          | 0.0117
+ Butler              | 0.0106
+ Arizona             | 0.0102
+ UCLA                | 0.0100
+ Wisconsin           | 0.0096
+ Michigan            | 0.0073
+ Notre Dame          | 0.0050
+ Creighton           | 0.0038
+ Oklahoma St.        | 0.0034
+ Miami (FL)          | 0.0021
+ Minnesota           | 0.0016
+ South Carolina      | 0.0011
+ Marquette           | 0.0011
+ Xavier              | 0.0009
+ Arkansas            | 0.0006
+ Kansas St.          | 0.0006
+ Michigan St.        | 0.0005
+ Maryland            | 0.0005
+ Rhode Island        | 0.0005
+ Vanderbilt          | 0.0004
+ Wake Forest         | 0.0004
+ Northwestern        | 0.0004
+ VCU                 | 0.0003
+ Seton Hall          | 0.0003
+ Dayton              | 0.0003
+ Middle Tenn.        | 0.0003
+ Vermont             | 0.0002
+ Virginia Tech       | 0.0001
+ Nevada              | 0.0001
+ Providence          | 0.0001
+ Princeton           | 0.0001
+ Jacksonville St.    | 0.0000
+ Iona                | 0.0000
+ East Tenn. St.      | 0.0000
+ Winthrop            | 0.0000
+ UC Davis            | 0.0000
+ Bucknell            | 0.0000
+ North Dakota        | 0.0000
+ N.C. Central        | 0.0000
+ Northern Ky.        | 0.0000
+ New Orleans         | 0.0000
+ New Mexico St.      | 0.0000
+ UNC Wilmington      | 0.0000
+ Fla. Gulf Coast     | 0.0000
+ Mt. St. Marys       | 0.0000
+ South Dakota St.    | 0.0000
+ Southern California | 0.0000
+ Kent St.            | 0.0000
+ Texas Southern      | 0.0000
+ Troy                | 0.0000
+(68 rows)
 
-COPY 2
+COPY 68
 COMMIT
