@@ -75,12 +75,12 @@ team_name,
 team_predicted_p::numeric(4,3),
 team_moneyline,
 team_implied_p::numeric(4,3),
-team_kelly::numeric(4,3),
+team_kelly::numeric(6,5),
 opponent_name,
 opponent_predicted_p::numeric(4,3),
 opponent_moneyline,
 opponent_implied_p::numeric(4,3),
-opponent_kelly::numeric(4,3)
+opponent_kelly::numeric(6,5)
 from kelly)
 to '/tmp/daily.csv' csv header;
 
