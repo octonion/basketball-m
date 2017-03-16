@@ -1,0 +1,44 @@
+ team_key |       team_name        | team_id |    team_name     
+----------+------------------------+---------+------------------
+          |                        |     733 | Middle Tenn St
+          |                        |     753 | NC Asheville
+          |                        |     750 | Albany NY
+          |                        |     756 | Texas State
+          |                        |     749 | St. Peter's
+          |                        |     760 | Illinois Chicago
+          |                        |     754 | Tenn Martin
+          |                        |     759 | Stony Brook
+          |                        |     737 | South Dakota St
+          |                        |     758 | CS Fullerton
+          |                        |     721 | NC Wilmington
+          |                        |     713 | Mount St Marys
+          |                        |     743 | Va Commonwealth
+          |                        |     744 | Saint Mary's Ca
+          |                        |     723 | E Tennessee St
+          |                        |     734 | Minnesota U
+          |                        |     840 | Miami Florida
+          |                        |     755 | Lamar
+          |                        |     751 | Furman
+          |                        |     757 | Weber State
+          |                        |     752 | USC Upstate
+ MINN     | Minnesota              |         | 
+ ETSU     | East Tennessee State   |         | 
+ USC      | USC                    |         | 
+ SMU      | SMU                    |         | 
+ UCD      | UC Davis               |         | 
+ NCCU     | North Carolina Central |         | 
+ SDST     | South Dakota State     |         | 
+ UNCW     | UNC Wilmington         |         | 
+ KU       | Kansas                 |         | 
+ MSM      | Mount St Mary's        |         | 
+ UNO      | New Orleans            |         | 
+ MTSU     | Middle Tennessee       |         | 
+ PROV     | Providence             |         | 
+ SMC      | Saint Mary's           |         | 
+ URI      | Rhode Island           |         | 
+ WAKE     | Wake Forest            |         | 
+ VCU      | VCU                    |         | 
+ MIA      | Miami                  |         | 
+ CREI     | Creighton              |         | 
+(40 rows)
+
