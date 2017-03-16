@@ -1,19 +1,42 @@
 BEGIN
 SET
-     team     | h_div |  site   |     opp      | v_div | t_score | o_score 
---------------+-------+---------+--------------+-------+---------+---------
- Arkansas     |     1 | neutral | Kentucky     |     1 |    77.4 |    87.8
- Cincinnati   |     1 | neutral | SMU          |     1 |    63.6 |    64.4
- Kentucky     |     1 | neutral | Arkansas     |     1 |    87.8 |    77.4
- Michigan     |     1 | neutral | Wisconsin    |     1 |    63.1 |    64.2
- Princeton    |     1 | neutral | Yale         |     1 |    70.2 |    62.7
- Rhode Island |     1 | neutral | VCU          |     1 |    68.6 |    67.9
- SMU          |     1 | neutral | Cincinnati   |     1 |    64.4 |    63.6
- Texas St.    |     1 | neutral | Troy         |     1 |    66.2 |    67.3
- Troy         |     1 | neutral | Texas St.    |     1 |    67.3 |    66.2
- VCU          |     1 | neutral | Rhode Island |     1 |    67.9 |    68.6
- Wisconsin    |     1 | neutral | Michigan     |     1 |    64.2 |    63.1
- Yale         |     1 | neutral | Princeton    |     1 |    62.7 |    70.2
-(12 rows)
+       team        | h_div |  site   |        opp        | v_div | t_score | o_score 
+-------------------+-------+---------+-------------------+-------+---------+---------
+ Alabama           |     1 | neutral | Vanderbilt        |     1 |    62.1 |    64.2
+ Albany (NY)       |     1 | home    | Saint Peter's     |     1 |    61.2 |    58.9
+ Arizona           |     1 | neutral | North Dakota      |     1 |    81.4 |    64.6
+ Bucknell          |     1 | neutral | West Virginia     |     1 |    67.4 |    83.4
+ Butler            |     1 | neutral | Winthrop          |     1 |    81.5 |    67.4
+ Cal St. Fullerton |     1 | home    | Weber St.         |     1 |    70.5 |    72.1
+ ETSU              |     1 | neutral | Florida           |     1 |    66.1 |    79.4
+ FGCU              |     1 | neutral | Florida St.       |     1 |    67.9 |    81.9
+ Florida           |     1 | neutral | ETSU              |     1 |    79.4 |    66.1
+ Florida St.       |     1 | neutral | FGCU              |     1 |    81.9 |    67.9
+ Gonzaga           |     1 | neutral | South Dakota St.  |     1 |    91.9 |    63.9
+ Ill.-Chicago      |     1 | home    | Stony Brook       |     1 |    73.1 |    72.4
+ Maryland          |     1 | neutral | Xavier            |     1 |    72.1 |    73.1
+ Middle Tenn.      |     1 | neutral | Minnesota         |     1 |    66.0 |    68.4
+ Minnesota         |     1 | neutral | Middle Tenn.      |     1 |    68.4 |    66.0
+ Mt. St. Mary's    |     1 | neutral | Villanova         |     1 |    55.4 |    79.1
+ North Dakota      |     1 | neutral | Arizona           |     1 |    64.6 |    81.4
+ Northwestern      |     1 | neutral | Vanderbilt        |     1 |    66.2 |    66.3
+ Notre Dame        |     1 | neutral | Princeton         |     1 |    71.1 |    64.7
+ Princeton         |     1 | neutral | Notre Dame        |     1 |    64.7 |    71.1
+ South Dakota St.  |     1 | neutral | Gonzaga           |     1 |    63.9 |    91.9
+ St. Mary's (CA)   |     1 | neutral | VCU               |     1 |    66.6 |    59.9
+ Texas St.         |     1 | home    | Lamar University  |     1 |    68.5 |    61.5
+ UNCW              |     1 | neutral | Virginia          |     1 |    59.7 |    73.1
+ USC Upstate       |     1 | home    | Furman            |     1 |    69.3 |    74.2
+ UT Martin         |     1 | home    | UNC Asheville     |     1 |    72.8 |    75.3
+ Vanderbilt        |     1 | neutral | Northwestern      |     1 |    66.3 |    66.2
+ VCU               |     1 | neutral | Saint Mary's (CA) |     1 |    59.9 |    66.6
+ Villanova         |     1 | neutral | Mt. St. Mary's    |     1 |    79.1 |    55.4
+ Virginia          |     1 | neutral | UNCW              |     1 |    73.1 |    59.7
+ Virginia Tech     |     1 | neutral | Wisconsin         |     1 |    65.4 |    72.4
+ West Virginia     |     1 | neutral | Bucknell          |     1 |    83.4 |    67.4
+ Winthrop          |     1 | neutral | Butler            |     1 |    67.4 |    81.5
+ Wisconsin         |     1 | neutral | Virginia Tech     |     1 |    72.4 |    65.4
+ Xavier            |     1 | neutral | Maryland          |     1 |    73.1 |    72.1
+(35 rows)
 
 COMMIT
