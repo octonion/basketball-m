@@ -81,8 +81,7 @@ opponent_predicted_p::numeric(4,3),
 opponent_moneyline,
 opponent_implied_p::numeric(4,3),
 opponent_kelly::numeric(4,3)
-from kelly
-where team_name='Notre Dame')
+from kelly)
 to '/tmp/daily.csv' csv header;
 
 commit;
