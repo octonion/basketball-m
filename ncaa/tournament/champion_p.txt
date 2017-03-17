@@ -1,75 +1,55 @@
 BEGIN
      school_name     |   p    
 ---------------------+--------
- Gonzaga             | 0.1794
- North Carolina      | 0.1170
- Villanova           | 0.0881
- West Virginia       | 0.0692
- Louisville          | 0.0683
- Virginia            | 0.0620
- Kentucky            | 0.0453
- Kansas              | 0.0445
- Wichita St.         | 0.0413
- Duke                | 0.0378
- Purdue              | 0.0276
- Florida             | 0.0259
- Oregon              | 0.0222
- St. Marys (CA)      | 0.0202
- Baylor              | 0.0201
+ Gonzaga             | 0.1769
+ North Carolina      | 0.1158
+ Villanova           | 0.0818
+ West Virginia       | 0.0696
+ Louisville          | 0.0672
+ Virginia            | 0.0642
+ Kentucky            | 0.0451
+ Kansas              | 0.0423
+ Wichita St.         | 0.0411
+ Duke                | 0.0374
+ Purdue              | 0.0322
+ Florida             | 0.0262
+ St. Marys (CA)      | 0.0244
+ Oregon              | 0.0217
+ Baylor              | 0.0199
+ Iowa St.            | 0.0167
+ Florida St.         | 0.0165
  SMU                 | 0.0161
- Florida St.         | 0.0159
- Iowa St.            | 0.0146
- Cincinnati          | 0.0116
- Butler              | 0.0105
- Arizona             | 0.0102
- UCLA                | 0.0101
- Wisconsin           | 0.0097
- Michigan            | 0.0074
- Notre Dame          | 0.0052
- Creighton           | 0.0039
- Oklahoma St.        | 0.0035
- Miami (FL)          | 0.0021
- Minnesota           | 0.0016
- South Carolina      | 0.0011
+ Butler              | 0.0128
+ Wisconsin           | 0.0118
+ Cincinnati          | 0.0113
+ UCLA                | 0.0099
+ Arizona             | 0.0091
+ Michigan            | 0.0072
+ Notre Dame          | 0.0057
+ Creighton           | 0.0038
+ Oklahoma St.        | 0.0034
+ Miami (FL)          | 0.0019
+ Xavier              | 0.0013
+ Kansas St.          | 0.0012
  Marquette           | 0.0011
- Xavier              | 0.0009
+ South Carolina      | 0.0010
+ Middle Tenn.        | 0.0006
+ Northwestern        | 0.0006
  Arkansas            | 0.0006
- Kansas St.          | 0.0006
- Michigan St.        | 0.0005
- Maryland            | 0.0005
  Rhode Island        | 0.0005
- Vanderbilt          | 0.0004
- Wake Forest         | 0.0004
- Northwestern        | 0.0004
- VCU                 | 0.0003
- Seton Hall          | 0.0003
+ Michigan St.        | 0.0004
  Dayton              | 0.0003
- Middle Tenn.        | 0.0003
- Vermont             | 0.0002
- Virginia Tech       | 0.0001
- Nevada              | 0.0001
- Providence          | 0.0001
- Princeton           | 0.0001
- Jacksonville St.    | 0.0000
+ Seton Hall          | 0.0003
+ Southern California | 0.0001
  Iona                | 0.0000
- East Tenn. St.      | 0.0000
- Winthrop            | 0.0000
- UC Davis            | 0.0000
- Bucknell            | 0.0000
- North Dakota        | 0.0000
- N.C. Central        | 0.0000
- Northern Ky.        | 0.0000
- New Orleans         | 0.0000
  New Mexico St.      | 0.0000
- UNC Wilmington      | 0.0000
- Fla. Gulf Coast     | 0.0000
- Mt. St. Marys       | 0.0000
- South Dakota St.    | 0.0000
- Southern California | 0.0000
- Kent St.            | 0.0000
- Texas Southern      | 0.0000
+ UC Davis            | 0.0000
  Troy                | 0.0000
-(68 rows)
+ Northern Ky.        | 0.0000
+ Jacksonville St.    | 0.0000
+ Texas Southern      | 0.0000
+ Kent St.            | 0.0000
+(48 rows)
 
-COPY 68
+COPY 48
 COMMIT
