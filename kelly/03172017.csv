@@ -1,0 +1,16 @@
+team_name,team_predicted_p,team_moneyline,team_implied_p,team_kelly,opponent_name,opponent_predicted_p,opponent_moneyline,opponent_implied_p,opponent_kelly
+Michigan,0.677,-134.0,0.573,0.24418,Oklahoma State,0.323,119.0,0.457,-0.24591
+Baylor,0.909,-850.0,0.895,0.13550,New Mexico State,0.091,644.0,0.134,-0.05015
+Arkansas,0.531,-114.0,0.533,-0.00366,Seton Hall,0.469,101.0,0.498,-0.05674
+Oregon,0.955,-1400.0,0.933,0.32500,Iona,0.045,944.0,0.096,-0.05617
+Louisville,0.976,-4000.0,0.976,0.01600,Jacksonville State,0.024,1769.0,0.054,-0.03117
+SMU,0.858,-270.0,0.730,0.47460,USC,0.142,234.0,0.299,-0.22467
+North Carolina,0.984,-10000.0,0.990,-0.61600,Texas Southern,0.016,2462.0,0.039,-0.02397
+Kansas,0.983,-10000.0,0.990,-0.71700,UC Davis,0.017,2462.0,0.039,-0.02293
+Dayton,0.271,230.0,0.303,-0.04596,Wichita State,0.729,-265.0,0.726,0.01085
+Duke,0.958,-4000.0,0.976,-0.72200,Troy,0.042,1769.0,0.054,-0.01215
+Cincinnati,0.701,-167.0,0.625,0.20167,Kansas State,0.299,148.0,0.403,-0.17465
+Miami,0.571,-135.0,0.574,-0.00815,Michigan State,0.429,120.0,0.455,-0.04683
+Kentucky,0.969,-6000.0,0.984,-0.89100,Northern Kentucky,0.031,2097.0,0.046,-0.01521
+South Carolina,0.443,-115.0,0.535,-0.19755,Marquette,0.557,102.0,0.495,0.12269
+UCLA,0.954,-4000.0,0.976,-0.88600,Kent State,0.046,1769.0,0.054,-0.00793
