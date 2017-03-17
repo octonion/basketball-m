@@ -1,0 +1,37 @@
+game_date,date_time,away_name,away_abbr,away_score,away_pred_diff,away_win_prob,matchup_quality,away_game_score,home_name,home_abbr,home_score,home_pred_diff,home_win_prob,home_game_score
+2017-03-14,,Kansas State,KSU,95,,,92.0,88.4,Wake Forest,WAKE,88,1.6,56.3,45.3
+2017-03-14,,Mount St Mary's,MSM,67,1.2,54.9,52.6,54.9,New Orleans,UNO,66,,,36.0
+2017-03-15,,USC,USC,75,,,85.9,85.3,Providence,PROV,71,2.2,58.6,44.5
+2017-03-15,,North Carolina Central,NCCU,63,5.5,70.6,48.8,21.9,UC Davis,UCD,67,,,77.0
+2017-03-16,,Xavier,XAV,76,1.7,56.4,90.8,88.9,Maryland,MD,65,,,43.1
+2017-03-16,,Vanderbilt,VAN,66,,,90.6,51.4,Northwestern,NW,68,0.5,52.1,81.0
+2017-03-16,,Middle Tennessee,MTSU,81,,,89.7,89.5,Minnesota,MINN,72,1.1,54.3,42.9
+2017-03-16,,Virginia Tech,VT,,,,82.6,,Wisconsin,WIS,,6.5,74.5,
+2017-03-16,,VCU,VCU,77,,,81.6,,Saint Mary's,SMC,85,8.6,82.1,
+2017-03-16,,Nevada,NEV,,,,81.1,,Iowa State,ISU,,7.8,76.7,
+2017-03-16,,Vermont,UVM,70,,,80.1,56.5,Purdue,PUR,80,10.2,83.8,77.5
+2017-03-16,,Princeton,PRIN,58,,,79.5,64.1,Notre Dame,ND,60,8.2,80.3,69.5
+2017-03-16,,UNC Wilmington,UNCW,71,,,78.6,67.4,Virginia,UVA,76,12.3,88.8,65.7
+2017-03-16,,East Tennessee State,ETSU,65,,,75.5,59.2,Florida,FLA,80,17.3,93.1,72.0
+2017-03-16,,Florida Gulf Coast,FGCU,,,,75.3,,Florida State,FSU,,12.2,86.4,
+2017-03-16,,Bucknell,BUCK,80,,,74.7,69.7,West Virginia,WVU,86,18.9,94.1,60.0
+2017-03-16,,Winthrop,WIN,64,,,72.3,59.3,Butler,BUT,76,12.8,87.8,67.3
+2017-03-16,,North Dakota,UND,,,,67.6,,Arizona,ARIZ,,16.7,92.9,
+2017-03-16,,South Dakota State,SDST,46,,,65.9,66.0,Gonzaga,GONZ,66,27.1,98.4,51.2
+2017-03-16,,Mount St Mary's,MSM,56,,,65.8,65.6,Villanova,NOVA,76,26.8,98.8,49.0
+2017-03-17,2017-03-18T01:50Z,Marquette,MARQ,,1.5,55.7,92.0,,South Carolina,SC,,,,
+2017-03-17,2017-03-18T01:20Z,Michigan State,MSU,,,,91.0,,Miami,MIA,,1.7,57.1,
+2017-03-17,2017-03-17T20:30Z,Rhode Island,URI,,,,90.6,,Creighton,CREI,,3.1,61.6,
+2017-03-17,2017-03-17T17:30Z,Seton Hall,HALL,,,,89.6,,Arkansas,ARK,,0.8,53.1,
+2017-03-17,2017-03-17T16:15Z,Oklahoma State,OKST,,,,86.5,,Michigan,MICH,,4.7,67.7,
+2017-03-17,2017-03-17T23:27Z,Kansas State,KSU,,,,85.9,,Cincinnati,CIN,,5.1,70.1,
+2017-03-17,2017-03-17T23:10Z,Wichita State,WICH,,6.6,72.9,85.0,,Dayton,DAY,,,,
+2017-03-17,2017-03-17T19:10Z,USC,USC,,,,77.5,,SMU,SMU,,11.0,85.8,
+2017-03-17,2017-03-17T16:40Z,New Mexico State,NMSU,,,,73.1,,Baylor,BAY,,13.8,90.9,
+2017-03-17,2017-03-17T23:20Z,Troy,TROY,,,,69.9,,Duke,DUKE,,20.6,95.8,
+2017-03-17,2017-03-17T18:00Z,Iona,IONA,,,,68.8,,Oregon,ORE,,19.8,95.5,
+2017-03-17,2017-03-18T01:57Z,Kent State,KENT,,,,68.4,,UCLA,UCLA,,21.2,95.4,
+2017-03-17,2017-03-17T18:45Z,Jacksonville State,JVST,,,,67.4,,Louisville,LOU,,22.5,97.6,
+2017-03-17,2017-03-17T20:00Z,Texas Southern,TXSO,,,,67.0,,North Carolina,UNC,,27.9,98.4,
+2017-03-17,2017-03-18T01:40Z,Northern Kentucky,NKU,,,,66.5,,Kentucky,UK,,24.1,96.9,
+2017-03-17,2017-03-17T22:50Z,UC Davis,UCD,,,,62.8,,Kansas,KU,,27.2,98.3,
