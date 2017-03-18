@@ -24,14 +24,14 @@ select
 p.game_date,
 p.home_name as team_name,
 coalesce((p.home_win_prob::float)/100.0,1.0-(p.away_win_prob::float)/100.0) as team_predicted_p,
-(case when t2.pinnacle_id=l.team_id then l.team_moneyline
-      when t2.pinnacle_id=l.opponent_id then l.opponent_moneyline
+(case when t2.pinnacle_name=l.team_name then l.team_moneyline
+      when t2.pinnacle_name=l.opponent_name then l.opponent_moneyline
       else null
 end) as team_moneyline,
 p.away_name as opponent_name,
 coalesce((p.away_win_prob::float)/100.0,1.0-(p.home_win_prob::float)/100.0) as opponent_predicted_p,
-(case when t1.pinnacle_id=l.team_id then l.team_moneyline
-      when t1.pinnacle_id=l.opponent_id then l.opponent_moneyline
+(case when t1.pinnacle_name=l.team_name then l.team_moneyline
+      when t1.pinnacle_name=l.opponent_name then l.opponent_moneyline
       else null
 end) as opponent_moneyline
 from
