@@ -42,10 +42,10 @@ join alias.teams t2
 on (t2.espn_key)=(p.home_abbr)
 join pinnacle.lines l
 on (
-   (l.team_id,l.opponent_id)=(t1.pinnacle_id,t2.pinnacle_id)
-or (l.team_id,l.opponent_id)=(t2.pinnacle_id,t1.pinnacle_id)
+   (l.team_name,l.opponent_name)=(t1.pinnacle_name,t2.pinnacle_name)
+or (l.team_name,l.opponent_name)=(t2.pinnacle_name,t1.pinnacle_name)
 )
-where p.game_date='03/17/2017'::date
+where p.game_date='03/18/2017'::date
 );
 
 --set team_kelly=((1/team_implied_p-1)*team_predicted_p-(1-team_predicted_p))/(1/team_implied_p)
