@@ -1,273 +1,161 @@
 rd,name,p
-3,North Carolina,0.970
-3,Kansas,0.962
-3,Louisville,0.957
-3,Kentucky,0.942
-3,Duke,0.939
-3,Oregon,0.897
-3,UCLA,0.893
-3,Baylor,0.870
-3,SMU,0.789
-3,Wichita St.,0.787
-3,Cincinnati,0.640
-3,Creighton,0.620
-3,Miami (FL),0.582
-3,Michigan,0.549
-3,Arkansas,0.538
-3,Marquette,0.501
-3,South Carolina,0.499
-3,Seton Hall,0.462
-3,Oklahoma St.,0.451
-3,Michigan St.,0.418
-3,Rhode Island,0.380
-3,Kansas St.,0.360
-3,Dayton,0.213
-3,Southern California,0.211
-3,New Mexico St.,0.130
-3,Kent St.,0.107
-3,Iona,0.103
-3,Troy,0.061
-3,Northern Ky.,0.058
-3,Jacksonville St.,0.043
-3,UC Davis,0.038
-3,Texas Southern,0.030
 4,Gonzaga,0.861
-4,North Carolina,0.807
+4,North Carolina,0.822
+4,Baylor,0.794
+4,Kansas,0.757
+4,Oregon,0.714
+4,Duke,0.712
 4,West Virginia,0.695
 4,Butler,0.692
-4,Kansas,0.691
-4,Duke,0.668
 4,Florida St.,0.668
 4,Villanova,0.662
-4,Louisville,0.634
-4,Oregon,0.580
+4,Louisville,0.643
 4,Virginia,0.580
 4,St. Marys (CA),0.576
 4,Purdue,0.554
-4,Kentucky,0.516
-4,Baylor,0.494
-4,UCLA,0.459
+4,Cincinnati,0.538
+4,Wichita St.,0.515
+4,Kentucky,0.485
+4,UCLA,0.462
 4,Iowa St.,0.446
-4,SMU,0.427
-4,Wichita St.,0.425
 4,Arizona,0.424
 4,Florida,0.420
-4,Cincinnati,0.370
+4,Michigan,0.357
 4,Wisconsin,0.338
 4,Xavier,0.332
 4,Middle Tenn.,0.308
 4,Notre Dame,0.305
-4,Creighton,0.274
-4,Michigan,0.210
-4,Miami (FL),0.194
-4,Marquette,0.163
-4,South Carolina,0.161
-4,Kansas St.,0.159
-4,Oklahoma St.,0.153
+4,South Carolina,0.288
+4,Rhode Island,0.286
+4,Michigan St.,0.243
+4,Southern California,0.206
+4,Arkansas,0.178
 4,Northwestern,0.139
-4,Rhode Island,0.128
-4,Michigan St.,0.112
-4,Arkansas,0.107
-4,Seton Hall,0.082
-4,Dayton,0.055
-4,Southern California,0.055
-4,New Mexico St.,0.024
-4,Iona,0.018
-4,Kent St.,0.012
-4,Troy,0.008
-4,Northern Ky.,0.005
-4,Jacksonville St.,0.004
-4,Texas Southern,0.004
-4,UC Davis,0.004
-5,North Carolina,0.603
+5,North Carolina,0.615
 5,Gonzaga,0.556
-5,Louisville,0.421
-5,Duke,0.379
-5,Kansas,0.371
+5,Louisville,0.426
+5,Duke,0.426
+5,Baylor,0.414
+5,Kansas,0.407
 5,Villanova,0.365
 5,St. Marys (CA),0.346
-5,Kentucky,0.330
 5,Florida St.,0.325
+5,Wichita St.,0.324
 5,West Virginia,0.323
+5,Oregon,0.316
 5,Virginia,0.311
-5,Purdue,0.307
-5,Wichita St.,0.278
-5,Baylor,0.263
-5,Oregon,0.262
-5,Butler,0.255
-5,Iowa St.,0.225
-5,SMU,0.225
+5,Purdue,0.304
+5,Kentucky,0.299
+5,Butler,0.249
 5,Arizona,0.223
+5,Iowa St.,0.223
+5,Cincinnati,0.211
 5,Florida,0.193
-5,UCLA,0.173
-5,Cincinnati,0.153
+5,Michigan,0.188
+5,UCLA,0.165
 5,Wisconsin,0.131
-5,Michigan,0.111
+5,South Carolina,0.112
 5,Xavier,0.107
-5,Creighton,0.097
 5,Notre Dame,0.088
-5,Oklahoma St.,0.074
-5,Middle Tenn.,0.068
-5,Miami (FL),0.066
-5,Marquette,0.058
-5,South Carolina,0.057
-5,Kansas St.,0.046
-5,Arkansas,0.043
+5,Arkansas,0.071
+5,Rhode Island,0.070
+5,Michigan St.,0.066
+5,Middle Tenn.,0.065
+5,Southern California,0.047
 5,Northwestern,0.033
-5,Rhode Island,0.033
-5,Michigan St.,0.031
-5,Seton Hall,0.030
-5,Dayton,0.019
-5,Southern California,0.013
-5,New Mexico St.,0.004
-5,Iona,0.002
-5,Kent St.,0.001
-5,Troy,0.001
-5,Texas Southern,0.000
-5,Northern Ky.,0.000
-5,UC Davis,0.000
-5,Jacksonville St.,0.000
 6,Gonzaga,0.416
 6,North Carolina,0.368
-6,Louisville,0.251
-6,Villanova,0.240
+6,Louisville,0.252
+6,Villanova,0.241
 6,West Virginia,0.217
-6,Virginia,0.200
-6,Kansas,0.198
-6,Kentucky,0.179
-6,Duke,0.165
-6,Purdue,0.160
-6,Wichita St.,0.155
-6,Oregon,0.128
+6,Kansas,0.214
+6,Virginia,0.201
+6,Duke,0.185
+6,Wichita St.,0.179
+6,Baylor,0.163
+6,Kentucky,0.161
+6,Purdue,0.156
+6,Oregon,0.153
 6,St. Marys (CA),0.124
-6,Florida,0.109
-6,Iowa St.,0.105
-6,Baylor,0.104
+6,Florida,0.110
 6,Florida St.,0.104
-6,Butler,0.102
-6,SMU,0.087
-6,UCLA,0.072
-6,Cincinnati,0.069
+6,Iowa St.,0.103
+6,Butler,0.096
+6,Cincinnati,0.095
+6,Michigan,0.084
+6,UCLA,0.068
+6,Wisconsin,0.066
 6,Arizona,0.066
-6,Wisconsin,0.065
-6,Michigan,0.050
 6,Notre Dame,0.042
-6,Creighton,0.037
-6,Oklahoma St.,0.030
-6,Miami (FL),0.023
+6,South Carolina,0.027
 6,Xavier,0.021
-6,Middle Tenn.,0.016
-6,Kansas St.,0.015
-6,South Carolina,0.014
-6,Marquette,0.014
+6,Rhode Island,0.019
+6,Michigan St.,0.018
+6,Arkansas,0.018
+6,Middle Tenn.,0.014
 6,Northwestern,0.011
-6,Arkansas,0.011
-6,Rhode Island,0.009
-6,Michigan St.,0.008
-6,Seton Hall,0.007
-6,Dayton,0.005
-6,Southern California,0.002
-6,New Mexico St.,0.000
-6,Jacksonville St.,0.000
-6,Iona,0.000
-6,Kent St.,0.000
-6,Northern Ky.,0.000
-6,Texas Southern,0.000
-6,Troy,0.000
-6,UC Davis,0.000
+6,Southern California,0.007
 7,Gonzaga,0.265
-7,North Carolina,0.225
+7,North Carolina,0.223
 7,Louisville,0.138
-7,Villanova,0.133
+7,Villanova,0.134
 7,West Virginia,0.119
 7,Virginia,0.108
-7,Kentucky,0.099
-7,Kansas,0.098
-7,Wichita St.,0.087
-7,Purdue,0.077
-7,Duke,0.074
-7,Oregon,0.057
+7,Kansas,0.105
+7,Wichita St.,0.101
+7,Kentucky,0.088
+7,Duke,0.083
+7,Purdue,0.075
+7,Oregon,0.067
+7,Baylor,0.067
 7,St. Marys (CA),0.053
 7,Florida,0.051
-7,Iowa St.,0.045
-7,Baylor,0.043
-7,Butler,0.041
+7,Iowa St.,0.044
+7,Cincinnati,0.042
 7,Florida St.,0.040
-7,SMU,0.035
-7,Cincinnati,0.031
-7,UCLA,0.030
+7,Butler,0.038
+7,Michigan,0.034
+7,UCLA,0.028
 7,Wisconsin,0.026
 7,Arizona,0.023
-7,Michigan,0.021
 7,Notre Dame,0.015
-7,Creighton,0.013
-7,Oklahoma St.,0.011
-7,Miami (FL),0.007
-7,Kansas St.,0.005
+7,South Carolina,0.007
 7,Xavier,0.005
-7,Marquette,0.004
-7,Middle Tenn.,0.004
-7,South Carolina,0.004
-7,Arkansas,0.003
-7,Rhode Island,0.002
-7,Michigan St.,0.002
-7,Seton Hall,0.002
+7,Arkansas,0.005
+7,Rhode Island,0.005
+7,Michigan St.,0.004
+7,Middle Tenn.,0.003
 7,Northwestern,0.002
-7,Dayton,0.001
-7,UC Davis,0.000
-7,Iona,0.000
-7,Jacksonville St.,0.000
-7,Kent St.,0.000
-7,New Mexico St.,0.000
-7,Northern Ky.,0.000
-7,Southern California,0.000
-7,Texas Southern,0.000
-7,Troy,0.000
-8,Gonzaga,0.177
-8,North Carolina,0.116
+7,Southern California,0.001
+8,Gonzaga,0.176
+8,North Carolina,0.115
 8,Villanova,0.082
-8,West Virginia,0.070
+8,West Virginia,0.069
 8,Louisville,0.067
 8,Virginia,0.064
-8,Kentucky,0.045
-8,Kansas,0.042
-8,Wichita St.,0.041
-8,Duke,0.037
-8,Purdue,0.032
+8,Wichita St.,0.047
+8,Kansas,0.045
+8,Duke,0.042
+8,Kentucky,0.040
+8,Baylor,0.031
+8,Purdue,0.031
 8,Florida,0.026
+8,Oregon,0.026
 8,St. Marys (CA),0.024
-8,Oregon,0.022
-8,Baylor,0.020
-8,Iowa St.,0.017
-8,Florida St.,0.017
-8,SMU,0.016
-8,Butler,0.013
+8,Iowa St.,0.016
+8,Florida St.,0.016
+8,Cincinnati,0.015
+8,Michigan,0.012
+8,Butler,0.012
 8,Wisconsin,0.012
-8,Cincinnati,0.011
-8,UCLA,0.010
+8,UCLA,0.009
 8,Arizona,0.009
-8,Michigan,0.007
 8,Notre Dame,0.006
-8,Creighton,0.004
-8,Oklahoma St.,0.003
-8,Miami (FL),0.002
+8,South Carolina,0.002
 8,Xavier,0.001
-8,Marquette,0.001
+8,Arkansas,0.001
+8,Michigan St.,0.001
 8,Middle Tenn.,0.001
 8,Northwestern,0.001
-8,South Carolina,0.001
-8,Arkansas,0.001
-8,Kansas St.,0.001
-8,Dayton,0.000
-8,Seton Hall,0.000
-8,Jacksonville St.,0.000
+8,Rhode Island,0.001
 8,Southern California,0.000
-8,Michigan St.,0.000
-8,Texas Southern,0.000
-8,Troy,0.000
-8,UC Davis,0.000
-8,Iona,0.000
-8,Kent St.,0.000
-8,Northern Ky.,0.000
-8,New Mexico St.,0.000
-8,Rhode Island,0.000
