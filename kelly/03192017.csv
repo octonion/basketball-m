@@ -1,0 +1,9 @@
+team_name,team_predicted_p,team_moneyline,team_implied_p,team_kelly,opponent_name,opponent_predicted_p,opponent_moneyline,opponent_implied_p,opponent_kelly
+Louisville,0.636,-150.0,0.600,0.09000,Michigan,0.364,133.0,0.429,-0.11420
+Kentucky,0.587,-195.0,0.661,-0.21835,Wichita State,0.413,172.0,0.368,0.07172
+Kansas,0.829,-370.0,0.787,0.19630,Michigan State,0.171,313.0,0.242,-0.09386
+North Carolina,0.897,-600.0,0.857,0.27900,Arkansas,0.103,481.0,0.172,-0.08349
+Oregon,0.791,-225.0,0.692,0.32075,Rhode Island,0.209,197.0,0.337,-0.19252
+Baylor,0.856,-279.0,0.736,0.45424,USC,0.144,241.0,0.293,-0.21119
+Duke,0.828,-340.0,0.773,0.24320,South Carolina,0.172,290.0,0.256,-0.11352
+UCLA,0.604,-198.0,0.664,-0.18008,Cincinnati,0.396,174.0,0.365,0.04887

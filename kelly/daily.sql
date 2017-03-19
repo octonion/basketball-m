@@ -45,7 +45,7 @@ on (
    (l.team_name,l.opponent_name)=(t1.pinnacle_name,t2.pinnacle_name)
 or (l.team_name,l.opponent_name)=(t2.pinnacle_name,t1.pinnacle_name)
 )
-where p.game_date='03/18/2017'::date
+where p.game_date='03/19/2017'::date
 );
 
 --set team_kelly=((1/team_implied_p-1)*team_predicted_p-(1-team_predicted_p))/(1/team_implied_p)
