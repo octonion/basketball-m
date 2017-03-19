@@ -1,167 +1,119 @@
 BEGIN
  rd |        name         |   p   
 ----+---------------------+-------
-  4 | Gonzaga             | 0.861
   4 | North Carolina      | 0.822
   4 | Baylor              | 0.794
   4 | Kansas              | 0.757
   4 | Oregon              | 0.714
   4 | Duke                | 0.712
-  4 | West Virginia       | 0.695
-  4 | Butler              | 0.692
-  4 | Florida St.         | 0.668
-  4 | Villanova           | 0.662
   4 | Louisville          | 0.643
-  4 | Virginia            | 0.580
-  4 | St. Marys (CA)      | 0.576
-  4 | Purdue              | 0.554
   4 | Cincinnati          | 0.538
   4 | Wichita St.         | 0.515
   4 | Kentucky            | 0.485
   4 | UCLA                | 0.462
-  4 | Iowa St.            | 0.446
-  4 | Arizona             | 0.424
-  4 | Florida             | 0.420
   4 | Michigan            | 0.357
-  4 | Wisconsin           | 0.338
-  4 | Xavier              | 0.332
-  4 | Middle Tenn.        | 0.308
-  4 | Notre Dame          | 0.305
   4 | South Carolina      | 0.288
   4 | Rhode Island        | 0.286
   4 | Michigan St.        | 0.243
   4 | Southern California | 0.206
   4 | Arkansas            | 0.178
-  4 | Northwestern        | 0.139
-  5 | North Carolina      | 0.615
-  5 | Gonzaga             | 0.556
+  5 | Arizona             | 0.640
+  5 | Gonzaga             | 0.592
+  5 | North Carolina      | 0.580
+  5 | Florida             | 0.569
+  5 | Purdue              | 0.550
+  5 | Wisconsin           | 0.431
   5 | Louisville          | 0.426
   5 | Duke                | 0.426
   5 | Baylor              | 0.414
-  5 | Kansas              | 0.407
-  5 | Villanova           | 0.365
-  5 | St. Marys (CA)      | 0.346
-  5 | Florida St.         | 0.325
+  5 | West Virginia       | 0.408
+  5 | Kansas              | 0.389
+  5 | Xavier              | 0.360
+  5 | Butler              | 0.359
   5 | Wichita St.         | 0.324
-  5 | West Virginia       | 0.323
   5 | Oregon              | 0.316
-  5 | Virginia            | 0.311
-  5 | Purdue              | 0.304
   5 | Kentucky            | 0.299
-  5 | Butler              | 0.249
-  5 | Arizona             | 0.223
-  5 | Iowa St.            | 0.223
   5 | Cincinnati          | 0.211
-  5 | Florida             | 0.193
   5 | Michigan            | 0.188
   5 | UCLA                | 0.165
-  5 | Wisconsin           | 0.131
   5 | South Carolina      | 0.112
-  5 | Xavier              | 0.107
-  5 | Notre Dame          | 0.088
-  5 | Arkansas            | 0.071
   5 | Rhode Island        | 0.070
-  5 | Michigan St.        | 0.066
-  5 | Middle Tenn.        | 0.065
+  5 | Michigan St.        | 0.062
+  5 | Arkansas            | 0.061
   5 | Southern California | 0.047
-  5 | Northwestern        | 0.033
-  6 | Gonzaga             | 0.416
-  6 | North Carolina      | 0.368
-  6 | Louisville          | 0.252
-  6 | Villanova           | 0.241
-  6 | West Virginia       | 0.217
-  6 | Kansas              | 0.214
-  6 | Virginia            | 0.201
-  6 | Duke                | 0.185
-  6 | Wichita St.         | 0.179
-  6 | Baylor              | 0.163
-  6 | Kentucky            | 0.161
-  6 | Purdue              | 0.156
-  6 | Oregon              | 0.153
-  6 | St. Marys (CA)      | 0.124
-  6 | Florida             | 0.110
-  6 | Florida St.         | 0.104
-  6 | Iowa St.            | 0.103
-  6 | Butler              | 0.096
-  6 | Cincinnati          | 0.095
-  6 | Michigan            | 0.084
-  6 | UCLA                | 0.068
-  6 | Wisconsin           | 0.066
-  6 | Arizona             | 0.066
-  6 | Notre Dame          | 0.042
-  6 | South Carolina      | 0.027
-  6 | Xavier              | 0.021
+  6 | Gonzaga             | 0.472
+  6 | North Carolina      | 0.347
+  6 | Florida             | 0.324
+  6 | West Virginia       | 0.299
+  6 | Purdue              | 0.282
+  6 | Louisville          | 0.247
+  6 | Duke                | 0.219
+  6 | Wisconsin           | 0.217
+  6 | Kansas              | 0.205
+  6 | Baylor              | 0.196
+  6 | Wichita St.         | 0.178
+  6 | Arizona             | 0.169
+  6 | Kentucky            | 0.160
+  6 | Oregon              | 0.149
+  6 | Butler              | 0.139
+  6 | Cincinnati          | 0.093
+  6 | Michigan            | 0.082
+  6 | UCLA                | 0.067
+  6 | Xavier              | 0.060
+  6 | South Carolina      | 0.034
   6 | Rhode Island        | 0.019
-  6 | Michigan St.        | 0.018
-  6 | Arkansas            | 0.018
-  6 | Middle Tenn.        | 0.014
-  6 | Northwestern        | 0.011
-  6 | Southern California | 0.007
-  7 | Gonzaga             | 0.265
-  7 | North Carolina      | 0.223
-  7 | Louisville          | 0.138
-  7 | Villanova           | 0.134
-  7 | West Virginia       | 0.119
-  7 | Virginia            | 0.108
-  7 | Kansas              | 0.105
-  7 | Wichita St.         | 0.101
-  7 | Kentucky            | 0.088
-  7 | Duke                | 0.083
-  7 | Purdue              | 0.075
-  7 | Oregon              | 0.067
-  7 | Baylor              | 0.067
-  7 | St. Marys (CA)      | 0.053
-  7 | Florida             | 0.051
-  7 | Iowa St.            | 0.044
-  7 | Cincinnati          | 0.042
-  7 | Florida St.         | 0.040
-  7 | Butler              | 0.038
-  7 | Michigan            | 0.034
-  7 | UCLA                | 0.028
-  7 | Wisconsin           | 0.026
-  7 | Arizona             | 0.023
-  7 | Notre Dame          | 0.015
-  7 | South Carolina      | 0.007
-  7 | Xavier              | 0.005
-  7 | Arkansas            | 0.005
+  6 | Michigan St.        | 0.017
+  6 | Arkansas            | 0.015
+  6 | Southern California | 0.009
+  7 | Gonzaga             | 0.324
+  7 | North Carolina      | 0.208
+  7 | West Virginia       | 0.180
+  7 | Florida             | 0.145
+  7 | Purdue              | 0.136
+  7 | Louisville          | 0.136
+  7 | Kansas              | 0.101
+  7 | Wichita St.         | 0.099
+  7 | Duke                | 0.095
+  7 | Kentucky            | 0.086
+  7 | Wisconsin           | 0.083
+  7 | Baylor              | 0.078
+  7 | Arizona             | 0.068
+  7 | Oregon              | 0.066
+  7 | Butler              | 0.054
+  7 | Cincinnati          | 0.041
+  7 | Michigan            | 0.033
+  7 | UCLA                | 0.027
+  7 | Xavier              | 0.017
+  7 | South Carolina      | 0.008
   7 | Rhode Island        | 0.005
   7 | Michigan St.        | 0.004
-  7 | Middle Tenn.        | 0.003
-  7 | Northwestern        | 0.002
+  7 | Arkansas            | 0.004
   7 | Southern California | 0.001
-  8 | Gonzaga             | 0.176
-  8 | North Carolina      | 0.115
-  8 | Villanova           | 0.082
-  8 | West Virginia       | 0.069
+  8 | Gonzaga             | 0.216
+  8 | North Carolina      | 0.110
+  8 | West Virginia       | 0.105
+  8 | Florida             | 0.075
   8 | Louisville          | 0.067
-  8 | Virginia            | 0.064
-  8 | Wichita St.         | 0.047
+  8 | Purdue              | 0.058
+  8 | Duke                | 0.048
+  8 | Wichita St.         | 0.048
   8 | Kansas              | 0.045
-  8 | Duke                | 0.042
   8 | Kentucky            | 0.040
-  8 | Baylor              | 0.031
-  8 | Purdue              | 0.031
-  8 | Florida             | 0.026
+  8 | Wisconsin           | 0.037
+  8 | Baylor              | 0.036
+  8 | Arizona             | 0.026
   8 | Oregon              | 0.026
-  8 | St. Marys (CA)      | 0.024
-  8 | Iowa St.            | 0.016
-  8 | Florida St.         | 0.016
+  8 | Butler              | 0.018
   8 | Cincinnati          | 0.015
   8 | Michigan            | 0.012
-  8 | Butler              | 0.012
-  8 | Wisconsin           | 0.012
   8 | UCLA                | 0.009
-  8 | Arizona             | 0.009
-  8 | Notre Dame          | 0.006
+  8 | Xavier              | 0.004
   8 | South Carolina      | 0.002
-  8 | Xavier              | 0.001
   8 | Arkansas            | 0.001
-  8 | Michigan St.        | 0.001
-  8 | Middle Tenn.        | 0.001
-  8 | Northwestern        | 0.001
   8 | Rhode Island        | 0.001
+  8 | Michigan St.        | 0.001
   8 | Southern California | 0.000
-(160 rows)
+(112 rows)
 
-COPY 160
+COPY 112
 COMMIT

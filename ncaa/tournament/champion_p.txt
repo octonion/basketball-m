@@ -1,39 +1,31 @@
 BEGIN
      school_name     |   p    
 ---------------------+--------
- Gonzaga             | 0.1760
- North Carolina      | 0.1149
- Villanova           | 0.0818
- West Virginia       | 0.0692
- Louisville          | 0.0668
- Virginia            | 0.0642
- Wichita St.         | 0.0472
- Kansas              | 0.0453
- Duke                | 0.0417
- Kentucky            | 0.0401
- Purdue              | 0.0312
- Baylor              | 0.0310
- Florida             | 0.0263
- Oregon              | 0.0256
- St. Marys (CA)      | 0.0242
- Florida St.         | 0.0164
- Iowa St.            | 0.0161
- Cincinnati          | 0.0153
- Michigan            | 0.0120
- Butler              | 0.0119
- Wisconsin           | 0.0118
- UCLA                | 0.0092
- Arizona             | 0.0090
- Notre Dame          | 0.0057
- South Carolina      | 0.0020
- Xavier              | 0.0013
+ Gonzaga             | 0.2159
+ North Carolina      | 0.1099
+ West Virginia       | 0.1046
+ Florida             | 0.0746
+ Louisville          | 0.0674
+ Purdue              | 0.0582
+ Wichita St.         | 0.0476
+ Duke                | 0.0476
+ Kansas              | 0.0447
+ Kentucky            | 0.0404
+ Wisconsin           | 0.0373
+ Baylor              | 0.0357
+ Arizona             | 0.0262
+ Oregon              | 0.0258
+ Butler              | 0.0176
+ Cincinnati          | 0.0154
+ Michigan            | 0.0121
+ UCLA                | 0.0093
+ Xavier              | 0.0044
+ South Carolina      | 0.0025
  Rhode Island        | 0.0010
  Michigan St.        | 0.0009
- Arkansas            | 0.0009
- Northwestern        | 0.0006
- Middle Tenn.        | 0.0006
- Southern California | 0.0002
-(32 rows)
+ Arkansas            | 0.0008
+ Southern California | 0.0003
+(24 rows)
 
-COPY 32
+COPY 24
 COMMIT
