@@ -1,0 +1,5 @@
+team_name,team_predicted_p,team_moneyline,team_implied_p,team_kelly,opponent_name,opponent_predicted_p,opponent_moneyline,opponent_implied_p,opponent_kelly
+Kansas,0.564,-185.0,0.649,-0.24260,Purdue,0.436,163.0,0.380,0.08999
+Gonzaga,0.631,-150.0,0.600,0.07750,West Virginia,0.369,133.0,0.429,-0.10544
+Arizona,0.710,-320.0,0.762,-0.21800,Xavier,0.290,274.0,0.267,0.03088
+Florida,0.659,-123.0,0.552,0.23957,Wisconsin,0.341,109.0,0.478,-0.26359
