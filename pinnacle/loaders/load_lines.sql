@@ -6,6 +6,7 @@ create table pinnacle.lines (
 	league_id	      integer,
 	event_id	      integer,
 	date_time	      timestamp,
+	period_number	      integer,
 	team_id		      integer,
 	team_name	      text,
 	team_type	      text,

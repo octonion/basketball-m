@@ -29,7 +29,8 @@ lines["Leagues"].each do |league|
     event_id = event["EventId"]
     league_id = event["LeagueId"]
     date_time = event["DateAndTime"]
-    row = [league_id,event_id,date_time]
+    period_number = event["PeriodNumber"]
+    row = [league_id,event_id,date_time,period_number]
     event["Participants"].each do |participant|
       participant.each do |pair|
         if (pair[0]=="Handicap")

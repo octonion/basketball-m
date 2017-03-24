@@ -1,63 +1,63 @@
 game_date,date_time,away_name,away_abbr,away_score,away_pred_diff,away_win_prob,matchup_quality,away_game_score,home_name,home_abbr,home_score,home_pred_diff,home_win_prob,home_game_score
-2017-03-14,,Kansas State,KSU,95,,,92.0,88.2,Wake Forest,WAKE,88,1.6,56.3,45.5
+2017-03-14,,Kansas State,KSU,95,,,92.0,88.1,Wake Forest,WAKE,88,1.6,56.3,45.5
 2017-03-14,,Mount St Mary's,MSM,67,1.2,54.9,52.6,55.0,New Orleans,UNO,66,,,36.0
 2017-03-15,,USC,USC,75,,,85.9,84.8,Providence,PROV,71,2.2,58.6,45.4
 2017-03-15,,North Carolina Central,NCCU,63,5.5,70.6,48.8,20.4,UC Davis,UCD,67,,,77.5
-2017-03-16,,Xavier,XAV,76,1.7,56.4,90.8,87.2,Maryland,MD,65,,,45.6
-2017-03-16,,Vanderbilt,VAN,66,,,90.6,51.7,Northwestern,NW,68,0.6,52.3,81.0
-2017-03-16,,Middle Tennessee,MTSU,81,,,89.7,89.8,Minnesota,MINN,72,1.1,54.3,42.6
-2017-03-16,,Virginia Tech,VT,74,,,82.6,54.0,Wisconsin,WIS,84,6.5,74.5,80.2
+2017-03-16,,Xavier,XAV,76,1.7,56.4,90.8,87.1,Maryland,MD,65,,,45.6
+2017-03-16,,Vanderbilt,VAN,66,,,90.6,51.6,Northwestern,NW,68,0.6,52.3,81.1
+2017-03-16,,Middle Tennessee,MTSU,81,,,89.7,89.7,Minnesota,MINN,72,1.1,54.3,42.6
+2017-03-16,,Virginia Tech,VT,74,,,82.6,53.9,Wisconsin,WIS,84,6.5,74.5,80.2
 2017-03-16,,VCU,VCU,77,,,81.6,62.0,Saint Mary's,SMC,85,8.6,82.1,73.7
-2017-03-16,,Nevada,NEV,73,,,81.1,54.7,Iowa State,ISU,84,7.8,76.7,80.3
-2017-03-16,,Vermont,UVM,70,,,80.1,58.7,Purdue,PUR,80,10.2,83.8,76.0
+2017-03-16,,Nevada,NEV,73,,,81.1,54.8,Iowa State,ISU,84,7.8,76.7,80.2
+2017-03-16,,Vermont,UVM,70,,,80.1,57.5,Purdue,PUR,80,10.2,83.8,77.1
 2017-03-16,,Princeton,PRIN,58,,,79.5,63.8,Notre Dame,ND,60,8.2,80.3,69.5
 2017-03-16,,UNC Wilmington,UNCW,71,,,78.6,66.4,Virginia,UVA,76,12.3,88.8,66.7
 2017-03-16,,East Tennessee State,ETSU,65,,,75.5,60.5,Florida,FLA,80,17.3,93.1,70.8
 2017-03-16,,Florida Gulf Coast,FGCU,80,,,75.3,64.9,Florida State,FSU,86,12.2,86.4,64.7
-2017-03-16,,Bucknell,BUCK,80,,,74.7,69.5,West Virginia,WVU,86,18.9,94.1,60.0
+2017-03-16,,Bucknell,BUCK,80,,,74.7,69.6,West Virginia,WVU,86,18.9,94.1,59.9
 2017-03-16,,Winthrop,WIN,64,,,72.3,59.5,Butler,BUT,76,12.8,87.8,67.2
 2017-03-16,,North Dakota,UND,82,,,67.6,58.7,Arizona,ARIZ,100,16.7,92.9,63.2
-2017-03-16,,South Dakota State,SDST,46,,,65.9,66.6,Gonzaga,GONZ,66,27.1,98.4,50.3
+2017-03-16,,South Dakota State,SDST,46,,,65.9,66.6,Gonzaga,GONZ,66,27.1,98.4,50.4
 2017-03-16,,Mount St Mary's,MSM,56,,,65.8,67.1,Villanova,NOVA,76,26.8,98.8,47.9
 2017-03-17,,Marquette,MARQ,73,1.5,55.7,92.0,37.3,South Carolina,SC,93,,,96.2
 2017-03-17,,Michigan State,MSU,78,,,90.9,97.1,Miami,MIA,58,1.7,57.3,35.8
 2017-03-17,,Rhode Island,URI,84,,,90.6,95.1,Creighton,CREI,72,3.1,61.7,39.5
-2017-03-17,,Seton Hall,HALL,71,,,89.7,49.6,Arkansas,ARK,77,0.8,53.1,81.8
-2017-03-17,,Oklahoma State,OKST,91,,,86.8,63.2,Michigan,MICH,92,4.6,67.5,73.4
+2017-03-17,,Seton Hall,HALL,71,,,89.7,49.7,Arkansas,ARK,77,0.8,53.1,81.8
+2017-03-17,,Oklahoma State,OKST,91,,,86.8,63.1,Michigan,MICH,92,4.6,67.5,73.4
 2017-03-17,,Kansas State,KSU,61,,,86.1,43.7,Cincinnati,CIN,75,5.0,69.7,91.4
-2017-03-17,,Wichita State,WICH,64,6.7,73.0,84.9,77.5,Dayton,DAY,58,,,57.9
-2017-03-17,,USC,USC,66,,,77.6,94.1,SMU,SMU,65,11.0,85.8,39.1
+2017-03-17,,Wichita State,WICH,64,6.7,73.0,84.9,77.6,Dayton,DAY,58,,,57.9
+2017-03-17,,USC,USC,66,,,77.6,94.1,SMU,SMU,65,11.0,85.8,39.2
 2017-03-17,,New Mexico State,NMSU,73,,,73.0,55.5,Baylor,BAY,91,13.9,91.0,71.9
 2017-03-17,,Troy,TROY,65,,,69.9,55.6,Duke,DUKE,87,20.6,95.9,68.0
-2017-03-17,,Iona,IONA,77,,,68.8,66.3,Oregon,ORE,93,19.8,95.5,56.7
-2017-03-17,,Kent State,KENT,80,,,68.5,64.6,UCLA,UCLA,97,21.3,95.5,59.0
+2017-03-17,,Iona,IONA,77,,,68.8,66.2,Oregon,ORE,93,19.8,95.5,56.8
+2017-03-17,,Kent State,KENT,80,,,68.5,64.6,UCLA,UCLA,97,21.3,95.5,58.9
 2017-03-17,,Jacksonville State,JVST,63,,,67.4,66.5,Louisville,LOU,78,22.5,97.6,52.2
-2017-03-17,,Texas Southern,TXSO,64,,,67.1,47.1,North Carolina,UNC,103,27.9,98.4,70.1
+2017-03-17,,Texas Southern,TXSO,64,,,67.1,47.1,North Carolina,UNC,103,27.9,98.4,70.2
 2017-03-17,,Northern Kentucky,NKU,70,,,66.6,71.8,Kentucky,UK,79,24.2,97.0,46.6
-2017-03-17,,UC Davis,UCD,62,,,62.8,48.3,Kansas,KU,100,27.3,98.3,65.0
+2017-03-17,,UC Davis,UCD,62,,,62.8,49.3,Kansas,KU,100,27.3,98.3,64.1
 2017-03-18,,Virginia,UVA,39,,,98.5,37.7,Florida,FLA,65,0.5,52.1,99.5
-2017-03-18,,Iowa State,ISU,76,,,93.6,57.0,Purdue,PUR,80,3.1,61.5,80.4
+2017-03-18,,Iowa State,ISU,76,,,93.6,55.6,Purdue,PUR,80,3.1,61.5,81.6
 2017-03-18,,Saint Mary's,SMC,60,2.8,62.5,92.6,42.9,Arizona,ARIZ,69,,,94.2
-2017-03-18,,Notre Dame,ND,71,,,90.1,49.0,West Virginia,WVU,83,4.9,67.7,88.2
+2017-03-18,,Notre Dame,ND,71,,,90.1,49.2,West Virginia,WVU,83,4.9,67.7,88.0
 2017-03-18,,Wisconsin,WIS,65,,,86.3,93.0,Villanova,NOVA,62,6.9,76.9,44.4
-2017-03-18,,Xavier,XAV,91,,,85.6,99.2,Florida State,FSU,66,6.1,71.2,35.9
-2017-03-18,,Middle Tennessee,MTSU,65,,,85.2,52.6,Butler,BUT,74,4.7,69.1,81.8
-2017-03-18,,Northwestern,NW,73,,,79.4,68.8,Gonzaga,GONZ,79,14.4,90.2,66.1
+2017-03-18,,Xavier,XAV,91,,,85.6,99.1,Florida State,FSU,66,6.1,71.2,35.9
+2017-03-18,,Middle Tennessee,MTSU,65,,,85.2,52.5,Butler,BUT,74,4.7,69.1,81.8
+2017-03-18,,Northwestern,NW,73,,,79.4,68.9,Gonzaga,GONZ,79,14.4,90.2,66.1
 2017-03-19,,Wichita State,WICH,62,,,95.9,57.3,Kentucky,UK,65,2.6,58.9,80.4
 2017-03-19,,Cincinnati,CIN,67,,,94.1,47.1,UCLA,UCLA,79,2.8,60.6,91.1
-2017-03-19,,Michigan,MICH,73,,,93.1,89.4,Louisville,LOU,69,3.3,63.4,48.1
-2017-03-19,,Rhode Island,URI,72,,,83.4,67.1,Oregon,ORE,75,8.1,79.2,70.1
+2017-03-19,,Michigan,MICH,73,,,93.1,89.1,Louisville,LOU,69,3.3,63.4,48.3
+2017-03-19,,Rhode Island,URI,72,,,83.4,66.8,Oregon,ORE,75,8.1,79.2,70.4
 2017-03-19,,South Carolina,SC,88,,,81.8,96.5,Duke,DUKE,81,10.1,82.6,38.8
-2017-03-19,,Michigan State,MSU,70,,,81.7,47.0,Kansas,KU,90,10.2,82.8,88.3
-2017-03-19,,Arkansas,ARK,65,,,79.8,67.0,North Carolina,UNC,72,14.9,89.5,68.1
-2017-03-19,,USC,USC,78,,,78.3,66.8,Baylor,BAY,82,10.8,85.5,66.6
-2017-03-23,,Purdue,PUR,66,,,97.5,,Kansas,KU,98,1.7,56.3,
-2017-03-23,,Michigan,MICH,68,,,96.9,58.3,Oregon,ORE,69,1.3,55.7,79.6
-2017-03-23,,West Virginia,WVU,58,,,94.8,58.9,Gonzaga,GONZ,61,3.7,63.1,79.4
+2017-03-19,,Michigan State,MSU,70,,,81.7,47.9,Kansas,KU,90,10.2,82.8,87.3
+2017-03-19,,Arkansas,ARK,65,,,79.8,66.9,North Carolina,UNC,72,14.9,89.5,68.2
+2017-03-19,,USC,USC,78,,,78.3,66.8,Baylor,BAY,82,10.8,85.5,66.5
+2017-03-23,,Purdue,PUR,66,,,97.5,37.6,Kansas,KU,98,1.7,56.3,99.5
+2017-03-23,,Michigan,MICH,68,,,96.9,58.4,Oregon,ORE,69,1.3,55.7,79.5
+2017-03-23,,West Virginia,WVU,58,,,94.8,60.8,Gonzaga,GONZ,61,3.7,63.1,78.0
 2017-03-23,,Xavier,XAV,73,,,85.9,,Arizona,ARIZ,71,5.6,71.4,
-2017-03-24,2017-03-25T01:39Z,UCLA,UCLA,,,,97.4,,Kentucky,UK,,1.5,55.1,
-2017-03-24,2017-03-25T01:59Z,Wisconsin,WIS,,,,91.7,,Florida,FLA,,4.0,65.7,
+2017-03-24,2017-03-25T01:39Z,UCLA,UCLA,,,,97.3,,Kentucky,UK,,1.5,55.2,
+2017-03-24,2017-03-25T01:59Z,Wisconsin,WIS,,,,91.6,,Florida,FLA,,4.0,65.9,
 2017-03-24,2017-03-24T23:09Z,Butler,BUT,,,,86.0,,North Carolina,UNC,,7.6,76.0,
-2017-03-24,2017-03-24T23:29Z,South Carolina,SC,,,,85.2,,Baylor,BAY,,5.3,70.3,
-2017-03-25,2017-03-26T00:49Z,Oregon,ORE,,,,97.8,,Kansas,KU,,1.7,56.6,
-2017-03-25,2017-03-25T22:09Z,Xavier,XAV,,,,,,Gonzaga,GONZ,,,,
+2017-03-24,2017-03-24T23:29Z,South Carolina,SC,,,,85.1,,Baylor,BAY,,5.3,70.6,
+2017-03-25,2017-03-26T00:49Z,Oregon,ORE,,,,96.2,,Kansas,KU,,2.6,60.0,
+2017-03-25,2017-03-25T22:09Z,Xavier,XAV,,,,81.7,,Gonzaga,GONZ,,13.1,88.1,
