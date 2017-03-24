@@ -23,7 +23,7 @@ predictions << ["game_date","date_time",
                 "home_game_score"]
 
 start_date = Date.new(2017,3,14)
-end_date = Date.new(2017,3,27)
+end_date = Date.new(2017,3,31)
 
 (start_date..end_date).each do |pull_date|
   
