@@ -1,0 +1,9 @@
+team_name,team_predicted_p,team_moneyline,team_implied_p,team_kelly,opponent_name,opponent_predicted_p,opponent_moneyline,opponent_implied_p,opponent_kelly
+North Carolina,0.760,-300.0,0.750,0.04000,Butler,0.240,258.0,0.279,-0.05457
+North Carolina,0.760,-224.0,0.691,0.22240,Butler,0.240,188.0,0.347,-0.16426
+Baylor,0.703,-155.0,0.608,0.24265,South Carolina,0.297,137.0,0.422,-0.21614
+Baylor,0.703,-138.0,0.580,0.29314,South Carolina,0.297,118.0,0.459,-0.29876
+Kentucky,0.551,104.0,0.490,0.11927,UCLA,0.449,-117.0,0.539,-0.19567
+Florida,0.657,-114.0,0.533,0.26598,Wisconsin,0.343,101.0,0.498,-0.30750
+Gonzaga,,-413.0,0.805,,Xavier,,346.0,0.224,
+Kansas,0.566,-287.0,0.742,-0.67958,Oregon,0.434,248.0,0.287,0.20577
