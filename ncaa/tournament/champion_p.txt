@@ -1,23 +1,19 @@
 BEGIN
   school_name   |   p    
 ----------------+--------
- Gonzaga        | 0.2220
- North Carolina | 0.1415
- West Virginia  | 0.1085
- Kentucky       | 0.0840
- Florida        | 0.0808
- Kansas         | 0.0632
- Baylor         | 0.0592
- Purdue         | 0.0552
- Oregon         | 0.0416
- Wisconsin      | 0.0409
- Michigan       | 0.0282
- Arizona        | 0.0277
- UCLA           | 0.0198
- Butler         | 0.0157
- South Carolina | 0.0072
- Xavier         | 0.0047
-(16 rows)
+ Gonzaga        | 0.3998
+ North Carolina | 0.1302
+ Kansas         | 0.1106
+ Kentucky       | 0.0766
+ Florida        | 0.0731
+ Oregon         | 0.0705
+ Baylor         | 0.0532
+ Wisconsin      | 0.0368
+ UCLA           | 0.0177
+ Butler         | 0.0140
+ Xavier         | 0.0112
+ South Carolina | 0.0064
+(12 rows)
 
-COPY 16
+COPY 12
 COMMIT
