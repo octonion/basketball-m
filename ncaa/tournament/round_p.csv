@@ -1,45 +1,25 @@
 rd,name,p
-5,North Carolina,0.698
-5,Baylor,0.648
-5,Kentucky,0.623
-5,Florida,0.604
-5,Wisconsin,0.396
-5,UCLA,0.377
-5,South Carolina,0.352
-5,Butler,0.302
 6,Gonzaga,0.831
+6,Florida,0.730
 6,Kansas,0.605
-6,North Carolina,0.419
+6,North Carolina,0.556
+6,Kentucky,0.444
 6,Oregon,0.395
-6,Florida,0.388
-6,Kentucky,0.315
-6,Baylor,0.289
-6,Wisconsin,0.215
+6,South Carolina,0.270
 6,Xavier,0.169
-6,UCLA,0.146
-6,Butler,0.120
-6,South Carolina,0.108
-7,Gonzaga,0.560
-7,Kansas,0.323
-7,North Carolina,0.240
-7,Florida,0.177
-7,Oregon,0.171
-7,Kentucky,0.163
-7,Baylor,0.107
-7,Wisconsin,0.078
-7,UCLA,0.058
-7,Xavier,0.052
-7,Butler,0.044
-7,South Carolina,0.027
-8,Gonzaga,0.363
-8,Kansas,0.150
-8,North Carolina,0.119
-8,Florida,0.096
-8,Kentucky,0.072
-8,Oregon,0.062
-8,Baylor,0.048
-8,Wisconsin,0.034
-8,UCLA,0.019
-8,Xavier,0.014
-8,Butler,0.014
-8,South Carolina,0.008
+7,Gonzaga,0.549
+7,Florida,0.332
+7,North Carolina,0.319
+7,Kansas,0.297
+7,Kentucky,0.230
+7,Oregon,0.153
+7,South Carolina,0.068
+7,Xavier,0.051
+8,Gonzaga,0.347
+8,Florida,0.175
+8,North Carolina,0.155
+8,Kansas,0.135
+8,Kentucky,0.100
+8,Oregon,0.055
+8,South Carolina,0.020
+8,Xavier,0.013
