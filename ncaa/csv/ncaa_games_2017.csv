@@ -32,6 +32,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,A&M-Corpus Christi,26172,New Orleans,474,03/11/2017,65,68,Neutral,Merrell Center - Katy Texas,1 OT,"2,068"
 2017,A&M-Corpus Christi,26172,Georgia St.,254,03/15/2017,80,64,Home,,-,897
 2017,A&M-Corpus Christi,26172,Weber St.,758,03/20/2017,82,73,Home,,-,"1,116"
+2017,A&M-Corpus Christi,26172,Fort Wayne,308,03/26/2017,0,0,Home,,-,0
 2017,Abilene Christian,2,Schreiner,1355,11/11/2016,73,59,Home,,-,"1,750"
 2017,Abilene Christian,2,New Hampshire,469,11/17/2016,65,57,Away,,-,473
 2017,Abilene Christian,2,Charleston So.,48,11/22/2016,65,66,Home,,-,"1,585"
@@ -1975,7 +1976,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Baylor,51,Kansas St.,327,03/09/2017,64,70,Neutral,"Kansas City, Mo. (Sprint Center)",-,"18,972"
 2017,Baylor,51,New Mexico St.,472,03/17/2017,91,73,Neutral,"Tulsa, Okla. (BOK Center)",-,"13,571"
 2017,Baylor,51,Southern California,657,03/19/2017,82,78,Neutral,"Tulsa, Okla. (BOK Center)",-,"15,299"
-2017,Baylor,51,South Carolina,648,03/24/2017,0,0,Neutral,,-,0
+2017,Baylor,51,South Carolina,648,03/24/2017,50,70,Neutral,"Madison Square Garden, New York, NY",-,0
 2017,Becker,26107,Anna Maria,26,11/15/2016,83,72,Away,,-,317
 2017,Becker,26107,Bridgewater St.,76,11/18/2016,70,72,Away,,-,650
 2017,Becker,26107,Dean,30219,11/19/2016,81,83,Neutral,"Bridgewater, Mass.",-,50
@@ -3292,7 +3293,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Butler,87,Xavier,812,03/09/2017,57,62,Neutral,"Madison Square Garden, New York, NY",-,"16,003"
 2017,Butler,87,Winthrop,792,03/16/2017,76,64,Neutral,"Milwaukee, Wis. (BMO Harris Bradley Ctr)",-,0
 2017,Butler,87,Middle Tenn.,419,03/18/2017,74,65,Neutral,"Milwaukee, Wis. (BMO Harris Bradley Ctr)",-,0
-2017,Butler,87,North Carolina,457,03/24/2017,0,0,Neutral,,-,0
+2017,Butler,87,North Carolina,457,03/24/2017,80,92,Neutral,"Memphis, Tenn.",-,"17,532"
 2017,BYU,77,Princeton,554,11/14/2016,82,73,Home,,-,"15,926"
 2017,BYU,77,Coppin St.,165,11/17/2016,96,59,Home,,-,"12,444"
 2017,BYU,77,Coastal Caro.,149,11/19/2016,81,65,Home,,-,"15,003"
@@ -3924,6 +3925,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Campbell,115,Winthrop,792,03/05/2017,59,76,Away,,-,"5,109"
 2017,Campbell,115,Houston Baptist,287,03/14/2017,98,79,Home,,-,"1,735"
 2017,Campbell,115,UT Martin,695,03/20/2017,73,56,Home,,-,"2,031"
+2017,Campbell,115,Furman,244,03/25/2017,0,0,Home,,-,0
 2017,Canisius,116,Kentucky,334,11/13/2016,69,93,Away,,-,"22,009"
 2017,Canisius,116,Cleveland St.,148,11/15/2016,64,67,Away,,-,"1,149"
 2017,Canisius,116,Duquesne,194,11/18/2016,78,77,Away,,-,786
@@ -5433,6 +5435,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Coastal Caro.,149,Hampton,270,03/15/2017,83,67,Home,,-,937
 2017,Coastal Caro.,149,Loyola Maryland,369,03/20/2017,72,63,Home,,-,948
 2017,Coastal Caro.,149,Ill.-Chicago,302,03/22/2017,89,78,Home,,-,0
+2017,Coastal Caro.,149,Wyoming,811,03/27/2017,0,0,Home,,-,0
+2017,Coastal Caro.,149,Wyoming,811,03/29/2017,0,0,Away,,-,0
 2017,Cobleskill St.,30083,Rensselaer,570,11/15/2016,53,84,Away,,-,72
 2017,Cobleskill St.,30083,SUNY Oneonta,526,11/18/2016,73,94,Neutral,"Oneonta, NY - Lambros Arena",-,175
 2017,Cobleskill St.,30083,Hartwick,273,11/19/2016,81,90,Away,,-,275
@@ -6378,6 +6382,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,CSU Bakersfield,94,California,107,03/14/2017,73,66,Away,,-,"1,778"
 2017,CSU Bakersfield,94,Colorado St.,156,03/20/2017,81,63,Away,,-,"4,203"
 2017,CSU Bakersfield,94,UT Arlington,702,03/22/2017,80,76,Away,,-,"6,336"
+2017,CSU Bakersfield,94,Georgia Tech,255,03/28/2017,0,0,Neutral,,-,0
 2017,CSUN,101,Pomona-Pitzer,549,11/11/2016,96,72,Home,,-,"1,006"
 2017,CSUN,101,UCLA,110,11/13/2016,87,102,Away,,-,"7,149"
 2017,CSUN,101,Stanford,674,11/15/2016,69,96,Away,,-,"2,801"
@@ -8929,7 +8934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Florida,235,Vanderbilt,736,03/10/2017,62,72,Neutral,"2017 SEC Men's Tournament-Nashville, TN",1 OT,0
 2017,Florida,235,ETSU,198,03/16/2017,80,65,Neutral,"Orlando, Fla. (Amway Center)",-,"15,037"
 2017,Florida,235,Virginia,746,03/18/2017,65,39,Neutral,"Orlando, Fla. (Amway Center)",-,"17,308"
-2017,Florida,235,Wisconsin,796,03/24/2017,0,0,Neutral,,-,0
+2017,Florida,235,Wisconsin,796,03/24/2017,84,83,Neutral,"Madison Square Garden, New York, NY",1 OT,"20,047"
 2017,Florida A&M,228,South Fla.,651,11/11/2016,73,84,Away,,-,"3,106"
 2017,Florida A&M,228,Trinity Baptist,,11/15/2016,94,62,Home,,-,897
 2017,Florida A&M,228,Johnson (FL),,11/17/2016,100,91,Home,,-,0
@@ -9206,6 +9211,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Fort Wayne,308,Western Ill.,771,02/25/2017,96,92,Away,,1 OT,803
 2017,Fort Wayne,308,Omaha,464,03/05/2017,80,84,Neutral,"Sioux Falls, S.D. Sanford PREMIER Center",-,"9,837"
 2017,Fort Wayne,308,Ball St.,47,03/15/2017,88,80,Home,,-,"1,479"
+2017,Fort Wayne,308,A&M-Corpus Christi,26172,03/26/2017,0,0,Away,,-,0
 2017,Framingham St.,238,Newbury,21772,11/15/2016,75,72,Away,,-,200
 2017,Framingham St.,238,Maine Maritime,378,11/18/2016,53,57,Neutral,"Williamstown, Ma",-,0
 2017,Framingham St.,238,Manhattanville,382,11/19/2016,64,69,Neutral,"Williamstown, MA",-,0
@@ -9506,6 +9512,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Furman,244,Wofford,2915,02/25/2017,78,69,Home,,-,"2,582"
 2017,Furman,244,Samford,625,03/04/2017,63,67,Neutral,"Asheville, N.C. (US Cellular Center)",-,0
 2017,Furman,244,USC Upstate,10411,03/16/2017,79,57,Away,,-,662
+2017,Furman,244,Campbell,115,03/25/2017,0,0,Away,,-,0
 2017,Ga. Southern,253,North Carolina St.,490,11/11/2016,79,81,Away,,-,"16,226"
 2017,Ga. Southern,253,Coastal Ga.,,11/14/2016,92,43,Home,,-,"1,628"
 2017,Ga. Southern,253,Mercer,406,11/20/2016,67,80,Away,,-,"3,508"
@@ -9936,6 +9943,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Georgia Tech,255,Indiana,306,03/14/2017,75,63,Home,,-,"5,533"
 2017,Georgia Tech,255,Belmont,14927,03/19/2017,71,57,Home,,-,"7,176"
 2017,Georgia Tech,255,Ole Miss,433,03/21/2017,74,66,Away,,-,"9,091"
+2017,Georgia Tech,255,CSU Bakersfield,94,03/28/2017,0,0,Neutral,,-,0
 2017,Georgian Court,9004,Pace,533,11/11/2016,63,71,Away,,-,420
 2017,Georgian Court,9004,Adelphi,3,11/12/2016,78,95,Neutral,"Pleasantville, NY (Goldstein Fit. Ctr.)",-,150
 2017,Georgian Court,9004,Chestnut Hill,21323,11/16/2016,62,72,Away,,-,203
@@ -10080,6 +10088,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Gonzaga,260,South Dakota St.,649,03/16/2017,66,46,Neutral,"Salt Lake City, Utah (Vivint Arena)",-,0
 2017,Gonzaga,260,Northwestern,509,03/18/2017,79,73,Neutral,"Salt Lake City, Utah (Vivint Arena)",-,0
 2017,Gonzaga,260,West Virginia,768,03/23/2017,61,58,Neutral,"SAP Center (San Jose, Calif.)",-,"16,884"
+2017,Gonzaga,260,Xavier,812,03/25/2017,0,0,Neutral,,-,0
 2017,Gordon,1099,Elms,532,11/15/2016,83,69,Home,,-,425
 2017,Gordon,1099,SUNY Potsdam,552,11/18/2016,87,72,Neutral,"Potsdam, NY (Alumni Gymnasium)",-,180
 2017,Gordon,1099,Clarkson,146,11/19/2016,67,78,Away,,-,250
@@ -12495,6 +12504,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Kansas,328,UC Davis,108,03/17/2017,100,62,Neutral,"Tulsa, Okla. (BOK Center)",-,"14,715"
 2017,Kansas,328,Michigan St.,416,03/19/2017,90,70,Neutral,"Tulsa, OK (BOK Center)",-,"15,299"
 2017,Kansas,328,Purdue,559,03/23/2017,98,66,Neutral,"Kansas City, MO (Sprint Center)",-,"18,475"
+2017,Kansas,328,Oregon,529,03/25/2017,0,0,Neutral,,-,0
 2017,Kansas St.,327,Western Ill.,771,11/11/2016,82,55,Home,,-,"11,644"
 2017,Kansas St.,327,Omaha,464,11/15/2016,81,68,Home,,-,"10,751"
 2017,Kansas St.,327,Hampton,270,11/20/2016,89,67,Home,,-,"11,316"
@@ -12691,7 +12701,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Kentucky,334,Arkansas,31,03/12/2017,82,65,Neutral,"2017 SEC Men's Tournament-Nashville, TN",-,"19,953"
 2017,Kentucky,334,Northern Ky.,505,03/17/2017,79,70,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"18,269"
 2017,Kentucky,334,Wichita St.,782,03/19/2017,65,62,Neutral,"Bankers Life Fieldhouse-Indianapolis, IN",-,"18,293"
-2017,Kentucky,334,UCLA,110,03/24/2017,0,0,Neutral,,-,0
+2017,Kentucky,334,UCLA,110,03/24/2017,86,75,Neutral,"Memphis, Tenn.",-,"17,532"
+2017,Kentucky,334,North Carolina,457,03/26/2017,0,0,Neutral,,-,0
 2017,Kentucky St.,332,Cumberlands (KY),,11/15/2016,67,84,Home,,-,351
 2017,Kentucky St.,332,Ill.-Springfield,30050,11/19/2016,112,89,Away,,-,75
 2017,Kentucky St.,332,Ky. Wesleyan,333,11/22/2016,81,120,Away,,-,850
@@ -13754,6 +13765,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Liberty,355,Radford,563,03/02/2017,52,56,Neutral,"Rock Hill, SC -- Winthrop Coliseum",-,729
 2017,Liberty,355,Norfolk St.,485,03/13/2017,73,64,Home,,-,574
 2017,Liberty,355,Samford,625,03/20/2017,66,58,Home,,-,"1,388"
+2017,Liberty,355,UMBC,391,03/26/2017,0,0,Home,,-,0
 2017,Limestone,1174,Wingate,1462,11/11/2016,69,77,Neutral,"Mars Hill, N.C.",-,225
 2017,Limestone,1174,Mars Hill,1199,11/12/2016,85,71,Away,,-,171
 2017,Limestone,1174,Coker,1023,11/16/2016,76,75,Home,,-,409
@@ -18341,7 +18353,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,North Carolina,457,Duke,193,03/10/2017,83,93,Neutral,"Barclays Center (Brooklyn, N.Y.)",-,"17,732"
 2017,North Carolina,457,Texas Southern,699,03/17/2017,103,64,Neutral,"Bon Secours Wellness Arena,Greenville SC",-,"14,179"
 2017,North Carolina,457,Arkansas,31,03/19/2017,72,65,Neutral,"Bon Secours Wellness Arena,Greenville SC",-,0
-2017,North Carolina,457,Butler,87,03/24/2017,0,0,Neutral,,-,0
+2017,North Carolina,457,Butler,87,03/24/2017,92,80,Neutral,"Memphis, Tenn.",-,"17,532"
+2017,North Carolina,457,Kentucky,334,03/26/2017,0,0,Neutral,,-,0
 2017,North Carolina St.,490,Ga. Southern,253,11/11/2016,81,79,Home,,-,"16,226"
 2017,North Carolina St.,490,St. Francis Brooklyn,599,11/13/2016,86,61,Home,,-,"14,792"
 2017,North Carolina St.,490,Montana,441,11/18/2016,85,72,Neutral,"St. Thomas, U.S. Virgin Islands",-,0
@@ -19997,6 +20010,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Oregon,529,Iona,310,03/17/2017,93,77,Neutral,Golden 1 Center,-,0
 2017,Oregon,529,Rhode Island,572,03/19/2017,75,72,Neutral,"Sacramento, Calif. (Golden 1 Center)",-,0
 2017,Oregon,529,Michigan,418,03/23/2017,69,68,Neutral,"Sprint Center; Kansas City, Mo.",-,"18,475"
+2017,Oregon,529,Kansas,328,03/25/2017,0,0,Neutral,,-,0
 2017,Oregon St.,528,Prairie View,553,11/11/2016,78,58,Home,,-,"4,765"
 2017,Oregon St.,528,UTSA,706,11/13/2016,72,64,Home,,-,"4,070"
 2017,Oregon St.,528,Lamar University,346,11/16/2016,60,63,Home,,-,"4,182"
@@ -22750,6 +22764,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Saint Peter's,617,Canisius,116,03/03/2017,61,58,Neutral,"Times Union Center - Albany, NY",-,"2,298"
 2017,Saint Peter's,617,Iona,310,03/05/2017,65,73,Neutral,"Times Union Center - Albany, NY",-,0
 2017,Saint Peter's,617,Albany (NY),14,03/16/2017,59,55,Away,,-,641
+2017,Saint Peter's,617,Texas St.,670,03/25/2017,0,0,Away,,-,0
 2017,Saint Rose,1347,Molloy,437,11/12/2016,74,68,Home,,-,333
 2017,Saint Rose,1347,Concordia (NY),162,11/13/2016,97,69,Home,,-,252
 2017,Saint Rose,1347,American Int'l,22,11/16/2016,73,59,Away,,-,486
@@ -23947,7 +23962,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,South Carolina,648,Alabama,8,03/10/2017,53,64,Neutral,"2017 SEC Men's Tournament-Nashville, TN",-,"18,130"
 2017,South Carolina,648,Marquette,387,03/17/2017,93,73,Neutral,"Bon Secours Wellness Arena,Greenville SC",-,"14,180"
 2017,South Carolina,648,Duke,193,03/19/2017,88,81,Neutral,"Bon Secours Wellness Arena,Greenville SC",-,"14,216"
-2017,South Carolina,648,Baylor,51,03/24/2017,0,0,Neutral,,-,0
+2017,South Carolina,648,Baylor,51,03/24/2017,70,50,Neutral,"Madison Square Garden, New York, NY",-,0
 2017,South Carolina St.,647,Wichita St.,782,11/11/2016,39,85,Away,,-,"10,506"
 2017,South Carolina St.,647,St. Andrews,,11/14/2016,93,76,Home,,-,392
 2017,South Carolina St.,647,South Carolina,648,11/18/2016,50,92,Away,,-,"10,159"
@@ -26156,6 +26171,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,TCU,698,Fresno St.,96,03/15/2017,66,59,Home,,-,"4,271"
 2017,TCU,698,Iowa,312,03/19/2017,94,92,Away,,1 OT,"15,400"
 2017,TCU,698,Richmond,575,03/21/2017,86,68,Home,,-,"5,946"
+2017,TCU,698,UCF,128,03/28/2017,0,0,Neutral,,-,0
 2017,Temple,690,La Salle,340,11/11/2016,97,92,Home,,1 OT,"7,768"
 2017,Temple,690,New Hampshire,469,11/14/2016,52,57,Home,,-,"4,893"
 2017,Temple,690,Massachusetts,400,11/17/2016,67,70,Away,,-,"3,732"
@@ -26569,6 +26585,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Texas St.,670,Troy,716,03/12/2017,53,59,Neutral,"Lakefront Arena - New Orleans, La.",-,"1,083"
 2017,Texas St.,670,Lamar University,346,03/16/2017,70,60,Home,,-,"1,255"
 2017,Texas St.,670,Idaho,295,03/22/2017,64,55,Home,,-,"3,086"
+2017,Texas St.,670,Saint Peter's,617,03/25/2017,0,0,Home,,-,0
 2017,Texas Tech,700,Houston Baptist,287,11/11/2016,93,67,Home,,-,"9,774"
 2017,Texas Tech,700,North Texas,497,11/15/2016,70,43,Home,,-,"6,065"
 2017,Texas Tech,700,Eastern Ky.,202,11/19/2016,90,71,Home,,-,"5,898"
@@ -27522,6 +27539,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,UCF,128,Colorado,157,03/15/2017,79,74,Home,,-,"3,675"
 2017,UCF,128,Illinois St.,299,03/20/2017,63,62,Away,,-,"7,984"
 2017,UCF,128,Illinois,301,03/22/2017,68,58,Home,,-,"10,011"
+2017,UCF,128,TCU,698,03/28/2017,0,0,Neutral,,-,0
 2017,UCLA,110,Pacific,534,11/11/2016,119,80,Home,,-,"8,743"
 2017,UCLA,110,CSUN,101,11/13/2016,102,87,Home,,-,"7,149"
 2017,UCLA,110,San Diego,627,11/17/2016,88,68,Home,,-,"6,893"
@@ -27557,7 +27575,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,UCLA,110,Arizona,29,03/10/2017,75,86,Neutral,"T-Mobile Arena (Las Vegas, Nev.)",-,"19,224"
 2017,UCLA,110,Kent St.,331,03/17/2017,97,80,Neutral,"Sacramento, Calif. (Golden 1 Center)",-,"16,514"
 2017,UCLA,110,Cincinnati,140,03/19/2017,79,67,Neutral,"Sacramento, Calif. (Golden 1 Center)",-,"16,774"
-2017,UCLA,110,Kentucky,334,03/24/2017,0,0,Neutral,,-,0
+2017,UCLA,110,Kentucky,334,03/24/2017,75,86,Neutral,"Memphis, Tenn.",-,"17,532"
 2017,UConn,164,Wagner,748,11/11/2016,58,67,Home,,-,"9,523"
 2017,UConn,164,Northeastern,500,11/14/2016,61,64,Home,,-,"7,573"
 2017,UConn,164,Loyola Marymount,370,11/17/2016,65,62,Away,,-,"3,421"
@@ -27769,6 +27787,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,UMBC,391,New Hampshire,469,03/01/2017,65,74,Away,,-,"1,473"
 2017,UMBC,391,Fairfield,220,03/15/2017,88,83,Home,,-,688
 2017,UMBC,391,Saint Francis (PA),600,03/18/2017,87,79,Home,,-,904
+2017,UMBC,391,Liberty,355,03/26/2017,0,0,Away,,-,0
 2017,UMES,393,George Washington,249,11/11/2016,71,75,Away,,-,"3,256"
 2017,UMES,393,UMBC,391,11/13/2016,73,77,Home,,-,"1,364"
 2017,UMES,393,Boston College,67,11/15/2016,57,73,Away,,-,"2,051"
@@ -31217,7 +31236,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Wisconsin,796,Michigan,418,03/12/2017,56,71,Neutral,"Verizon Center (Washington, DC)",-,"12,902"
 2017,Wisconsin,796,Virginia Tech,742,03/16/2017,84,74,Neutral,"KeyBank Center (Buffalo, N.Y.)",-,"17,619"
 2017,Wisconsin,796,Villanova,739,03/18/2017,65,62,Neutral,"KeyBank Center (Buffalo, N.Y.)",-,"19,261"
-2017,Wisconsin,796,Florida,235,03/24/2017,0,0,Neutral,,-,0
+2017,Wisconsin,796,Florida,235,03/24/2017,83,84,Neutral,"Madison Square Garden, New York, NY",1 OT,"20,047"
 2017,Wittenberg,806,Alvernia,938,11/18/2016,66,67,Neutral,"Gettysburg, Pa. - Bream Gym",-,118
 2017,Wittenberg,806,Gettysburg,258,11/19/2016,74,51,Away,,-,212
 2017,Wittenberg,806,Otterbein,531,11/22/2016,56,49,Neutral,"Branch Rickey Arena; Delaware, Ohio, USA",-,300
@@ -31453,6 +31472,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Wyoming,811,Eastern Wash.,207,03/15/2017,91,81,Home,,-,"1,803"
 2017,Wyoming,811,UMKC,2707,03/20/2017,72,61,Home,,-,"2,311"
 2017,Wyoming,811,Utah Valley,30024,03/22/2017,74,68,Home,,-,"2,577"
+2017,Wyoming,811,Coastal Caro.,149,03/27/2017,0,0,Away,,-,0
+2017,Wyoming,811,Coastal Caro.,149,03/29/2017,0,0,Home,,-,0
 2017,Xavier,812,Lehigh,352,11/11/2016,84,81,Home,,-,"10,250"
 2017,Xavier,812,Buffalo,86,11/14/2016,86,53,Home,,-,"10,116"
 2017,Xavier,812,Missouri,434,11/17/2016,83,82,Neutral,"Orlando, Fla. (HP Field House)",1 OT,"1,991"
@@ -31490,6 +31511,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2017,Xavier,812,Maryland,392,03/16/2017,76,65,Neutral,"Orlando, Fla. (Amway Center)",-,"15,869"
 2017,Xavier,812,Florida St.,234,03/18/2017,91,66,Neutral,"Orlando, Fla. (Amway Center)",-,"17,308"
 2017,Xavier,812,Arizona,29,03/23/2017,73,71,Neutral,"SAP Center (San Jose, Calif.)",-,"16,884"
+2017,Xavier,812,Gonzaga,260,03/25/2017,0,0,Neutral,,-,0
 2017,Yale,813,Washington,756,11/13/2016,98,90,Away,,-,"7,456"
 2017,Yale,813,Lehigh,352,11/17/2016,89,81,Home,,1 OT,"1,062"
 2017,Yale,813,Virginia,746,11/20/2016,38,62,Away,,-,"14,242"
