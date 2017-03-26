@@ -1,15 +1,13 @@
 BEGIN
   school_name   |   p    
 ----------------+--------
- Gonzaga        | 0.3471
- Florida        | 0.1750
- North Carolina | 0.1548
- Kansas         | 0.1352
- Kentucky       | 0.0997
- Oregon         | 0.0549
- South Carolina | 0.0199
- Xavier         | 0.0133
-(8 rows)
+ Gonzaga        | 0.4279
+ North Carolina | 0.1639
+ Florida        | 0.1529
+ Oregon         | 0.1251
+ Kentucky       | 0.1091
+ South Carolina | 0.0210
+(6 rows)
 
-COPY 8
+COPY 6
 COMMIT
