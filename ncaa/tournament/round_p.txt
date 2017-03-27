@@ -1,23 +1,15 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  6 | Florida        | 0.707
-  6 | North Carolina | 0.553
-  6 | Kentucky       | 0.447
-  6 | South Carolina | 0.293
-  7 | Gonzaga        | 0.659
-  7 | Oregon         | 0.381
-  7 | North Carolina | 0.354
-  7 | Florida        | 0.279
-  7 | Kentucky       | 0.265
-  7 | South Carolina | 0.062
-  8 | Gonzaga        | 0.428
-  8 | North Carolina | 0.164
-  8 | Florida        | 0.153
+  7 | Gonzaga        | 0.788
+  7 | North Carolina | 0.641
+  7 | Oregon         | 0.359
+  7 | South Carolina | 0.212
+  8 | Gonzaga        | 0.499
+  8 | North Carolina | 0.308
   8 | Oregon         | 0.125
-  8 | Kentucky       | 0.109
-  8 | South Carolina | 0.021
-(16 rows)
+  8 | South Carolina | 0.069
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT
