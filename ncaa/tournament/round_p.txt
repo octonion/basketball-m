@@ -1,15 +1,9 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  7 | Gonzaga        | 0.788
-  7 | North Carolina | 0.641
-  7 | Oregon         | 0.359
-  7 | South Carolina | 0.212
-  8 | Gonzaga        | 0.499
-  8 | North Carolina | 0.308
-  8 | Oregon         | 0.125
-  8 | South Carolina | 0.069
-(8 rows)
+  8 | Gonzaga        | 0.586
+  8 | North Carolina | 0.414
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

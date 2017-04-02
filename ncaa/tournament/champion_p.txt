@@ -1,11 +1,9 @@
 BEGIN
   school_name   |   p    
 ----------------+--------
- Gonzaga        | 0.4988
- North Carolina | 0.3075
- Oregon         | 0.1251
- South Carolina | 0.0686
-(4 rows)
+ Gonzaga        | 0.5864
+ North Carolina | 0.4136
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT
