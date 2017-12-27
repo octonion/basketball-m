@@ -1,13 +1,7 @@
 BEGIN
 SET
-   team    | h_div |  site   |      opp      | v_div | t_score | o_score 
------------+-------+---------+---------------+-------+---------+---------
- Campbell  |     1 | home    | Furman        |     1 |    63.1 |    71.3
- Gonzaga   |     1 | neutral | Xavier        |     1 |    78.7 |    67.4
- Kansas    |     1 | neutral | Oregon        |     1 |    78.1 |    75.0
- Oregon    |     1 | neutral | Kansas        |     1 |    75.0 |    78.1
- Texas St. |     1 | home    | Saint Peter's |     1 |    55.6 |    55.4
- Xavier    |     1 | neutral | Gonzaga       |     1 |    67.4 |    78.7
-(6 rows)
+ team | h_div | site | opp | v_div | t_score | o_score 
+------+-------+------+-----+-------+---------+---------
+(0 rows)
 
 COMMIT

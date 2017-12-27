@@ -1,106 +1,197 @@
-[1] 877198      9
+[1] 898670      9
 [1] TRUE
-[1] 877198      8
+[1] 898670      8
+iteration: 1
+	f(x) = -981041.733508
+iteration: 2
+	f(x) = -852842.999832
+iteration: 3
+	f(x) = -971713.200609
+iteration: 4
+	f(x) = -972684.141634
+iteration: 5
+	f(x) = -934758.721016
+iteration: 6
+	f(x) = -906545.086276
+iteration: 7
+	f(x) = -894957.597695
+iteration: 8
+	f(x) = -982729.610861
+iteration: 9
+	f(x) = -983812.374306
+iteration: 10
+	f(x) = -984432.584369
+iteration: 11
+	f(x) = -984930.473435
+iteration: 12
+	f(x) = -985331.905307
+iteration: 13
+	f(x) = -985292.165424
+iteration: 14
+	f(x) = -986200.480875
+iteration: 15
+	f(x) = -986816.447002
+iteration: 16
+	f(x) = -986677.088662
+iteration: 17
+	f(x) = -984476.402857
+iteration: 18
+	f(x) = -988074.794308
+iteration: 19
+	f(x) = -989195.436788
+iteration: 20
+	f(x) = -989431.709361
+iteration: 21
+	f(x) = -989388.210667
+iteration: 22
+	f(x) = -987667.828090
+iteration: 23
+	f(x) = -990257.138853
+iteration: 24
+	f(x) = -990516.652715
+iteration: 25
+	f(x) = -990495.039198
+iteration: 26
+	f(x) = -990609.565968
+iteration: 27
+	f(x) = -990661.698084
+iteration: 28
+	f(x) = -990737.596770
+iteration: 29
+	f(x) = -990792.235839
+iteration: 30
+	f(x) = -990835.269894
+iteration: 31
+	f(x) = -990839.604470
+iteration: 32
+	f(x) = -990815.862613
+iteration: 33
+	f(x) = -990846.031059
+iteration: 34
+	f(x) = -990847.295391
+iteration: 35
+	f(x) = -990843.387379
+iteration: 36
+	f(x) = -990847.407568
+iteration: 37
+	f(x) = -990847.287566
+iteration: 38
+	f(x) = -990847.471459
+iteration: 39
+	f(x) = -990847.487974
+iteration: 40
+	f(x) = -990847.430601
+iteration: 41
+	f(x) = -990847.463494
+iteration: 42
+	f(x) = -990847.492410
+iteration: 43
+	f(x) = -990847.491955
+iteration: 44
+	f(x) = -990847.492360
+iteration: 45
+	f(x) = -990847.491265
+iteration: 46
+	f(x) = -990847.492127
+iteration: 47
+	f(x) = -990847.492442
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
-REML criterion at convergence: -966417
+REML criterion at convergence: -990847.5
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.08444 
- defense  (Intercept) 0.08969 
- offense  (Intercept) 0.09424 
- Residual             0.10739 
-Number of obs: 877194, groups:  game_id, 438597; defense, 16236; offense, 16236
+ game_id  (Intercept) 0.08420 
+ defense  (Intercept) 0.08964 
+ offense  (Intercept) 0.09438 
+ Residual             0.10723 
+Number of obs: 898666, groups:  game_id, 449333; defense, 17306; offense, 17306
 Fixed Effects:
       (Intercept)           year2003           year2004           year2005  
-         4.220931          -0.007890          -0.013812          -0.018667  
+         4.221283          -0.007894          -0.013815          -0.018674  
          year2006           year2007           year2008           year2009  
-        -0.019001          -0.022925          -0.024188          -0.030887  
+        -0.019018          -0.022941          -0.024208          -0.030903  
          year2010           year2011           year2012           year2013  
-        -0.028978          -0.029930          -0.041247          -0.048200  
+        -0.028996          -0.029945          -0.041253          -0.048200  
          year2014           year2015           year2016           year2017  
-         0.002653          -0.035201           0.027230           0.031313  
-fielddefense_home  fieldoffense_home             d_div2             d_div3  
-        -0.015480           0.030185           0.149967           0.240558  
-           o_div2             o_div3    game_length1 OT    game_length2 OT  
-        -0.093514          -0.202334           0.106767           0.208583  
-  game_length3 OT    game_length4 OT    game_length5 OT    game_length6 OT  
-         0.308196           0.367030           0.475811           0.508304  
-  game_length7 OT  
-         0.500662  
-convergence code 0; 1 optimizer warnings; 0 lme4 warnings 
+         0.002655          -0.035197           0.027236           0.031316  
+         year2018  fielddefense_home  fieldoffense_home             d_div2  
+         0.039715          -0.015474           0.030135           0.149611  
+           d_div3             o_div2             o_div3    game_length1 OT  
+         0.241034          -0.094344          -0.202788           0.106795  
+  game_length2 OT    game_length3 OT    game_length4 OT    game_length5 OT  
+         0.209056           0.307491           0.364748           0.475815  
+  game_length6 OT    game_length7 OT  
+         0.508251           0.500617  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
 Control: lmerControl(optimizer = "nloptwrap")
 
-REML criterion at convergence: -966417
+REML criterion at convergence: -990847.5
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--6.2849 -0.5190  0.0389  0.5646  4.5624 
+-6.2977 -0.5188  0.0387  0.5642  4.5721 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.007129 0.08444 
- defense  (Intercept) 0.008045 0.08969 
- offense  (Intercept) 0.008881 0.09424 
- Residual             0.011533 0.10739 
-Number of obs: 877194, groups:  game_id, 438597; defense, 16236; offense, 16236
+ game_id  (Intercept) 0.007090 0.08420 
+ defense  (Intercept) 0.008036 0.08964 
+ offense  (Intercept) 0.008907 0.09438 
+ Residual             0.011499 0.10723 
+Number of obs: 898666, groups:  game_id, 449333; defense, 17306; offense, 17306
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)        4.2209312  0.0045393   929.9
-year2003          -0.0078898  0.0060270    -1.3
-year2004          -0.0138119  0.0060209    -2.3
-year2005          -0.0186672  0.0060226    -3.1
-year2006          -0.0190011  0.0060020    -3.2
-year2007          -0.0229250  0.0059849    -3.8
-year2008          -0.0241882  0.0059803    -4.0
-year2009          -0.0308867  0.0059574    -5.2
-year2010          -0.0289783  0.0059478    -4.9
-year2011          -0.0299303  0.0059280    -5.0
-year2012          -0.0412472  0.0059198    -7.0
-year2013          -0.0482000  0.0059095    -8.2
-year2014           0.0026528  0.0058982     0.4
-year2015          -0.0352011  0.0058874    -6.0
-year2016           0.0272302  0.0058728     4.6
-year2017           0.0313127  0.0058641     5.3
-fielddefense_home -0.0154802  0.0006280   -24.7
-fieldoffense_home  0.0301846  0.0006280    48.1
-d_div2             0.1499674  0.0022247    67.4
-d_div3             0.2405583  0.0022077   109.0
-o_div2            -0.0935140  0.0022986   -40.7
-o_div3            -0.2023340  0.0022722   -89.0
-game_length1 OT    0.1067667  0.0008261   129.2
-game_length2 OT    0.2085832  0.0019669   106.0
-game_length3 OT    0.3081963  0.0047059    65.5
-game_length4 OT    0.3670300  0.0105077    34.9
-game_length5 OT    0.4758113  0.0293961    16.2
-game_length6 OT    0.5083042  0.0824409     6.2
-game_length7 OT    0.5006621  0.0833991     6.0
-convergence code: 0
-Model failed to converge with max|grad| = 0.00205596 (tol = 0.002, component 1)
-
+(Intercept)        4.2212830  0.0045263   932.6
+year2003          -0.0078940  0.0060294    -1.3
+year2004          -0.0138149  0.0060233    -2.3
+year2005          -0.0186741  0.0060250    -3.1
+year2006          -0.0190177  0.0060043    -3.2
+year2007          -0.0229410  0.0059872    -3.8
+year2008          -0.0242078  0.0059827    -4.0
+year2009          -0.0309031  0.0059598    -5.2
+year2010          -0.0289957  0.0059501    -4.9
+year2011          -0.0299452  0.0059304    -5.0
+year2012          -0.0412529  0.0059222    -7.0
+year2013          -0.0482001  0.0059118    -8.2
+year2014           0.0026546  0.0059006     0.4
+year2015          -0.0351973  0.0058898    -6.0
+year2016           0.0272365  0.0058752     4.6
+year2017           0.0313158  0.0058665     5.3
+year2018           0.0397149  0.0059454     6.7
+fielddefense_home -0.0154744  0.0006169   -25.1
+fieldoffense_home  0.0301347  0.0006168    48.9
+d_div2             0.1496107  0.0021661    69.1
+d_div3             0.2410343  0.0021441   112.4
+o_div2            -0.0943437  0.0022403   -42.1
+o_div3            -0.2027877  0.0022090   -91.8
+game_length1 OT    0.1067954  0.0008162   130.9
+game_length2 OT    0.2090559  0.0019439   107.5
+game_length3 OT    0.3074905  0.0046433    66.2
+game_length4 OT    0.3647484  0.0103361    35.3
+game_length5 OT    0.4758146  0.0293318    16.2
+game_length6 OT    0.5082505  0.0822600     6.2
+game_length7 OT    0.5006169  0.0832167     6.0
 Analysis of Variance Table
             Df Sum Sq Mean Sq   F value
-year        15   5.35   0.357    30.949
-field        2 435.84 217.920 18895.704
-d_div        2  78.29  39.147  3394.445
-o_div        2  91.83  45.913  3981.053
-game_length  7 379.84  54.262  4705.030
+year        16   7.26   0.454    39.449
+field        2 444.78 222.392 19340.686
+d_div        2  83.00  41.500  3609.087
+o_div        2  97.25  48.627  4228.932
+game_length  7 388.37  55.481  4825.017
 [1] TRUE
-[1] 4.47507e-09
-[1] 1.126576e-13
-[1] 9.792691e-08
+[1] 1.042366e-08
+[1] 1.562818e-13
+[1] 1.860807e-07
           0%           5%          10%          15%          20%          25% 
-9.701034e-22 3.393524e-17 1.648338e-16 4.164223e-16 9.363777e-16 2.496443e-15 
+3.210251e-21 2.711899e-17 1.659192e-16 6.005100e-16 2.133801e-15 5.434042e-15 
          30%          35%          40%          45%          50%          55% 
-5.682521e-15 1.408303e-14 2.736735e-14 5.812510e-14 1.126576e-13 2.145379e-13 
+1.181505e-14 2.323509e-14 4.277687e-14 7.315302e-14 1.562818e-13 3.226128e-13 
          60%          65%          70%          75%          80%          85% 
-4.057832e-13 8.601250e-13 1.920363e-12 4.885037e-12 1.043231e-11 2.844868e-11 
+5.741218e-13 1.067336e-12 1.785389e-12 3.458127e-12 8.357887e-12 2.421057e-11 
          90%          95%         100% 
-8.465967e-11 4.382925e-10 3.017669e-06 
+9.967607e-11 3.697083e-10 4.633923e-06 

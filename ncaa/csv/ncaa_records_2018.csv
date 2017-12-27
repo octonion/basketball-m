@@ -1,0 +1,1087 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2018,26172,A&M-Corpus Christi,3,7,18,28
+2018,2,Abilene Christian,8,5,18,31
+2018,30123,Academy of Art,3,8,15,26
+2018,929,Adams St.,6,8,16,30
+2018,3,Adelphi,5,8,15,28
+2018,4,Adrian,7,2,16,25
+2018,721,Air Force,6,6,18,30
+2018,5,Akron,6,5,19,30
+2018,10,Ala.-Huntsville,8,3,17,28
+2018,8,Alabama,8,4,19,31
+2018,6,Alabama A&M,0,13,18,31
+2018,7,Alabama St.,0,12,18,30
+2018,11,Alas. Anchorage,7,5,16,28
+2018,12,Alas. Fairbanks,4,6,16,26
+2018,14,Albany (NY),11,3,17,31
+2018,13,Albany St. (GA),0,12,15,27
+2018,2798,Albertus Magnus,5,3,16,24
+2018,15,Albion,2,7,16,25
+2018,16,Albright,8,1,15,24
+2018,17,Alcorn,4,9,18,31
+2018,934,Alderson Broaddus,7,4,17,28
+2018,18,Alfred,6,1,18,25
+2018,30170,Alfred St.,6,3,16,25
+2018,19,Allegheny,5,7,14,26
+2018,21,Alma,3,6,16,25
+2018,938,Alvernia,2,6,17,25
+2018,23,American,3,8,18,29
+2018,22,American Int'l,6,6,16,28
+2018,24,Amherst,7,1,16,24
+2018,939,Anderson (IN),4,5,16,25
+2018,13028,Anderson (SC),4,8,16,28
+2018,25,Angelo St.,9,2,17,28
+2018,26,Anna Maria,2,6,17,25
+2018,27,Appalachian St.,5,8,18,31
+2018,966,Arcadia,6,5,14,25
+2018,29,Arizona,10,3,18,31
+2018,28,Arizona St.,12,0,18,30
+2018,30105,Ark.-Fort Smith,12,0,16,28
+2018,8411,Ark.-Monticello,7,2,19,28
+2018,2678,Ark.-Pine Bluff,0,14,18,32
+2018,31,Arkansas,9,2,20,31
+2018,30,Arkansas St.,5,8,18,31
+2018,947,Arkansas Tech,8,1,19,28
+2018,725,Army West Point,7,4,18,29
+2018,35,Ashland,9,3,16,28
+2018,36,Assumption,2,9,15,26
+2018,37,Auburn,11,1,19,31
+2018,38,Augsburg,6,2,17,25
+2018,39,Augusta,6,3,19,28
+2018,40,Augustana (IL),9,1,15,25
+2018,41,Augustana (SD),8,4,16,28
+2018,30093,AUM,5,6,17,28
+2018,42,Aurora,5,6,14,25
+2018,953,Austin,2,9,14,25
+2018,43,Austin Peay,5,7,18,30
+2018,44,Averett,6,3,16,25
+2018,30146,Azusa Pacific,8,5,15,28
+2018,45,Babson,5,4,16,25
+2018,46,Baldwin Wallace,8,2,15,25
+2018,47,Ball St.,8,4,19,31
+2018,962,Bard,2,7,16,25
+2018,49,Barry,8,1,16,25
+2018,15646,Barton,7,4,17,28
+2018,58,Baruch,4,4,17,25
+2018,50,Bates,6,3,15,24
+2018,51,Baylor,10,2,19,31
+2018,26107,Becker,5,5,15,25
+2018,30197,Belhaven,2,7,16,25
+2018,52,Bellarmine,10,0,17,27
+2018,14927,Belmont,8,5,18,31
+2018,2683,Belmont Abbey,6,6,16,28
+2018,53,Beloit,1,8,16,25
+2018,54,Bemidji St.,5,6,16,27
+2018,55,Benedict,10,3,17,30
+2018,296,Benedictine (IL),6,4,15,25
+2018,56,Bentley,6,4,16,26
+2018,30171,Berea,3,8,17,28
+2018,973,Berry,3,7,15,25
+2018,59,Bethany (WV),3,7,15,25
+2018,30038,Bethany Lutheran,6,6,14,26
+2018,60,Bethel (MN),7,2,16,25
+2018,61,Bethune-Cookman,5,9,17,31
+2018,62,Binghamton,8,6,17,31
+2018,28593,Birmingham-So.,3,6,16,25
+2018,30134,Black Hills St.,6,4,16,26
+2018,64,Blackburn,5,3,17,25
+2018,984,Bloomfield,8,3,17,28
+2018,65,Bloomsburg,5,4,17,26
+2018,985,Bluefield St.,3,9,16,28
+2018,987,Bluffton,2,6,16,24
+2018,66,Boise St.,10,2,18,30
+2018,67,Boston College,10,3,18,31
+2018,68,Boston U.,4,7,18,29
+2018,69,Bowdoin,8,2,13,23
+2018,70,Bowie St.,5,8,14,27
+2018,71,Bowling Green,8,4,19,31
+2018,72,Bradley,10,3,18,31
+2018,73,Brandeis,2,6,17,25
+2018,30094,Brevard,1,7,14,22
+2018,74,Bridgeport,9,3,16,28
+2018,75,Bridgewater (VA),6,4,15,25
+2018,76,Bridgewater St.,5,6,14,25
+2018,78,Brockport,7,3,15,25
+2018,79,Brooklyn,0,8,17,25
+2018,80,Brown,6,5,16,27
+2018,81,Bryant,1,12,18,31
+2018,30188,Bryn Athyn,6,3,16,25
+2018,83,Bucknell,6,7,18,31
+2018,84,Buena Vista,7,2,16,25
+2018,86,Buffalo,7,5,19,31
+2018,85,Buffalo St.,5,5,14,24
+2018,87,Butler,10,3,18,31
+2018,77,BYU,11,2,18,31
+2018,88,Cabrini,7,2,16,25
+2018,1305,Cairn,4,4,17,25
+2018,105,Cal Lutheran,2,3,18,23
+2018,90,Cal Poly,4,9,17,30
+2018,91,Cal Poly Pomona,7,2,16,25
+2018,92,Cal St. Dom. Hills,6,8,15,29
+2018,98,Cal St. East Bay,6,6,16,28
+2018,97,Cal St. Fullerton,7,4,17,28
+2018,100,Cal St. L.A.,7,5,16,28
+2018,30055,Cal St. Monterey Bay,4,7,15,26
+2018,93,Cal St. San B'dino,4,6,16,26
+2018,30198,Cal St. San Marcos,8,2,17,27
+2018,995,Caldwell,5,7,16,28
+2018,107,California,6,7,18,31
+2018,106,California (PA),6,5,17,28
+2018,30135,California Baptist,9,2,16,27
+2018,89,Caltech,3,6,16,25
+2018,114,Calvin,3,6,16,25
+2018,996,Cameron,4,8,15,27
+2018,115,Campbell,6,6,18,30
+2018,116,Canisius,6,7,18,31
+2018,117,Capital,5,6,14,25
+2018,118,Carleton,6,2,17,25
+2018,119,Carnegie Mellon,3,5,17,25
+2018,120,Carroll (WI),3,6,16,25
+2018,1000,Carson-Newman,11,2,15,28
+2018,121,Carthage,7,4,14,25
+2018,123,Castleton,4,7,14,25
+2018,1001,Catawba,3,7,16,26
+2018,124,Catholic,4,5,16,25
+2018,23624,Cazenovia,2,8,15,25
+2018,480,CCNY,0,8,17,25
+2018,30124,Cedarville,6,5,16,27
+2018,125,Centenary (LA),6,4,14,24
+2018,12884,Centenary (NJ),2,7,17,26
+2018,126,Central (IA),3,7,15,25
+2018,1004,Central Ark.,6,7,18,31
+2018,127,Central Conn. St.,7,6,18,31
+2018,129,Central Mich.,10,2,19,31
+2018,130,Central Mo.,9,2,17,28
+2018,1009,Central Okla.,9,3,16,28
+2018,30049,Central St. (OH),4,7,17,28
+2018,1010,Central Wash.,6,4,17,27
+2018,132,Centre,3,5,16,24
+2018,1012,Chadron St.,3,9,16,28
+2018,133,Chaminade,7,4,16,27
+2018,134,Chapman,7,2,16,25
+2018,1013,Charleston (WV),8,4,16,28
+2018,48,Charleston So.,5,6,18,29
+2018,458,Charlotte,4,7,18,29
+2018,10972,Chatham,4,5,16,25
+2018,693,Chattanooga,6,7,18,31
+2018,21323,Chestnut Hill,1,10,15,26
+2018,135,Cheyney,1,8,17,26
+2018,137,Chicago,4,5,16,25
+2018,136,Chicago St.,2,13,16,31
+2018,95,Chico St.,8,2,16,26
+2018,8875,Chowan,4,7,15,26
+2018,139,Chris. Newport,7,2,16,25
+2018,1015,Christian Bros.,11,0,17,28
+2018,140,Cincinnati,11,2,18,31
+2018,30058,Claflin,12,1,15,28
+2018,142,Claremont-M-S,1,6,16,23
+2018,143,Clarion,3,8,17,28
+2018,145,Clark (MA),3,6,16,25
+2018,144,Clark Atlanta,11,1,14,26
+2018,958,Clarks Summit,1,7,17,25
+2018,146,Clarkson,4,4,17,25
+2018,20576,Clayton St.,5,3,19,27
+2018,147,Clemson,11,1,18,30
+2018,148,Cleveland St.,3,9,19,31
+2018,722,Coast Guard,6,1,17,24
+2018,149,Coastal Caro.,6,7,18,31
+2018,30083,Cobleskill St.,4,6,15,25
+2018,150,Coe,4,7,14,25
+2018,1023,Coker,6,7,15,28
+2018,1014,Col. of Charleston,9,3,18,30
+2018,151,Colby,6,2,16,24
+2018,152,Colby-Sawyer,5,2,17,24
+2018,153,Colgate,5,6,18,29
+2018,11403,Colo. Christian,3,9,16,28
+2018,157,Colorado,8,4,18,30
+2018,154,Colorado Col.,4,5,16,25
+2018,11416,Colorado Mesa,6,6,17,29
+2018,155,Colo. Sch. of Mines,11,1,16,28
+2018,156,Colorado St.,7,6,18,31
+2018,2720,Colorado St.-Pueblo,5,7,16,28
+2018,158,Columbia,1,10,16,27
+2018,159,Columbus St.,2,4,19,25
+2018,1028,Concord,8,3,18,29
+2018,30199,Concordia (CA),9,4,17,30
+2018,162,Concordia (NY),4,7,17,28
+2018,24400,Concordia (TX),7,3,15,25
+2018,160,Concordia Chicago,1,8,16,25
+2018,30200,Concordia Portland,4,8,16,28
+2018,1036,Concordia Wisconsin,6,6,16,28
+2018,161,Concordia-M'head,3,5,17,25
+2018,9081,Concordia-St. Paul,1,10,17,28
+2018,163,Connecticut Col.,4,5,14,23
+2018,165,Coppin St.,0,13,18,31
+2018,167,Cornell,5,5,17,27
+2018,166,Cornell College,6,4,16,26
+2018,30111,Covenant,6,3,16,25
+2018,169,Creighton,10,2,19,31
+2018,30035,Crown (MN),5,6,14,25
+2018,94,CSU Bakersfield,7,7,15,29
+2018,101,CSUN,1,11,18,30
+2018,170,Curry,1,8,16,25
+2018,122,CWRU,3,5,17,25
+2018,1059,D'Youville,2,6,17,25
+2018,30174,Daemen,5,5,18,28
+2018,1044,Dallas,7,2,16,25
+2018,1045,DBU,10,1,17,28
+2018,172,Dartmouth,4,6,17,27
+2018,30221,Davenport,9,4,15,28
+2018,173,Davidson,5,6,18,29
+2018,174,Davis & Elkins,1,8,17,26
+2018,175,Dayton,6,6,18,30
+2018,1050,Defiance,2,6,15,23
+2018,180,Delaware,6,6,19,31
+2018,178,Delaware St.,2,12,17,31
+2018,179,Delaware Valley,1,8,16,25
+2018,181,Delta St.,5,7,16,28
+2018,182,Denison,6,4,15,25
+2018,183,Denver,5,8,15,28
+2018,176,DePaul,7,5,18,30
+2018,177,DePauw,2,7,16,25
+2018,20,DeSales,8,1,16,25
+2018,184,Detroit Mercy,4,9,18,31
+2018,185,Dickinson,5,4,16,25
+2018,186,Dist. Columbia,1,9,17,27
+2018,30095,Dixie St.,6,5,16,27
+2018,30118,Dominican (CA),3,8,16,27
+2018,1332,Dominican (IL),3,6,16,25
+2018,8956,Dominican (NY),8,3,17,28
+2018,189,Drake,6,7,18,31
+2018,190,Drew,6,4,15,25
+2018,191,Drexel,6,7,18,31
+2018,1057,Drury,8,2,16,26
+2018,192,Dubuque,7,3,15,25
+2018,193,Duke,12,1,18,31
+2018,194,Duquesne,9,4,18,31
+2018,195,Earlham,2,6,16,24
+2018,196,East Carolina,6,5,18,29
+2018,8965,East Central,5,2,19,26
+2018,197,East Stroudsburg,7,2,17,26
+2018,1062,East Tex. Baptist,6,2,17,25
+2018,203,East. Mennonite,5,5,14,24
+2018,8968,Eastern,5,6,14,25
+2018,200,Eastern Conn. St.,9,2,14,25
+2018,201,Eastern Ill.,4,7,18,29
+2018,202,Eastern Ky.,6,7,18,31
+2018,204,Eastern Mich.,8,3,20,31
+2018,206,Eastern N.M.,4,8,15,27
+2018,1064,Eastern Nazarene,3,6,16,25
+2018,207,Eastern Wash.,5,8,18,31
+2018,208,Eckerd,11,1,15,27
+2018,1066,Edgewood,3,7,15,25
+2018,209,Edinboro,7,2,17,26
+2018,210,Elizabeth City St.,3,5,18,26
+2018,211,Elizabethtown,3,6,15,24
+2018,212,Elmhurst,6,3,16,25
+2018,213,Elmira,2,6,17,25
+2018,532,Elms,0,8,17,25
+2018,1068,Elon,8,5,18,31
+2018,9680,Embry-Riddle (FL),6,6,16,28
+2018,214,Emerson,6,5,14,25
+2018,30193,Emmanuel (GA),7,6,15,28
+2018,215,Emmanuel (MA),1,8,16,25
+2018,217,Emory,6,2,17,25
+2018,216,Emory & Henry,9,0,16,25
+2018,1071,Emporia St.,6,6,16,28
+2018,8981,Endicott,6,2,17,25
+2018,1072,Erskine,3,7,18,28
+2018,198,ETSU,8,4,19,31
+2018,218,Eureka,8,2,15,25
+2018,219,Evansville,10,4,17,31
+2018,220,Fairfield,5,6,18,29
+2018,222,Fairleigh Dickinson,3,8,18,29
+2018,1076,Fairmont St.,7,4,17,28
+2018,27892,Farmingdale St.,5,4,16,25
+2018,223,Fayetteville St.,4,7,16,27
+2018,221,FDU- Florham,0,8,17,25
+2018,23157,Felician,4,6,17,27
+2018,224,Ferris St.,13,1,16,30
+2018,225,Ferrum,2,5,18,25
+2018,28755,FGCU,7,7,17,31
+2018,1079,Findlay,12,2,14,28
+2018,30032,Finlandia,2,6,11,19
+2018,227,Fitchburg St.,3,6,16,25
+2018,231,FIU,6,7,18,31
+2018,229,Fla. Atlantic,6,6,18,30
+2018,233,Fla. Southern,7,5,16,28
+2018,30092,Flagler,4,3,19,26
+2018,235,Florida,8,4,19,31
+2018,228,Florida A&M,1,14,17,32
+2018,234,Florida St.,11,1,18,30
+2018,230,Florida Tech,6,6,16,28
+2018,11538,Fontbonne,2,9,14,25
+2018,236,Fordham,5,7,18,30
+2018,9011,Fort Hays St.,9,3,16,28
+2018,1083,Fort Lewis,9,2,16,27
+2018,237,Fort Valley St.,7,6,14,27
+2018,308,Fort Wayne,9,6,16,31
+2018,238,Framingham St.,4,7,14,25
+2018,1085,Francis Marion,8,0,20,28
+2018,30069,Franciscan,2,8,15,25
+2018,239,Franklin & Marshall,8,1,16,25
+2018,2694,Franklin,2,8,15,25
+2018,241,Franklin Pierce,6,5,15,26
+2018,242,Fredonia,2,8,15,25
+2018,30147,Fresno Pacific,4,9,15,28
+2018,96,Fresno St.,10,3,18,31
+2018,243,Frostburg St.,4,5,16,25
+2018,244,Furman,9,4,18,31
+2018,253,Ga. Southern,9,4,18,31
+2018,1097,Ga. Southwestern,4,3,19,26
+2018,245,Gallaudet,2,9,14,25
+2018,246,Gannon,6,5,17,28
+2018,1092,Gardner-Webb,5,8,18,31
+2018,30084,Geneva,3,5,17,25
+2018,1094,George Fox,4,6,15,25
+2018,248,George Mason,6,7,18,31
+2018,249,George Washington,7,6,18,31
+2018,251,Georgetown,10,1,18,29
+2018,257,Georgia,9,2,19,30
+2018,1096,Georgia College,6,3,19,28
+2018,254,Georgia St.,9,4,18,31
+2018,255,Georgia Tech,5,6,20,31
+2018,9004,Georgian Court,0,11,16,27
+2018,258,Gettysburg,2,6,17,25
+2018,1098,Glenville St.,0,10,18,28
+2018,8366,Goldey-Beacom,6,6,16,28
+2018,260,Gonzaga,10,3,18,31
+2018,1099,Gordon,4,4,17,25
+2018,1467,Goucher,0,10,14,24
+2018,261,Grambling,4,8,19,31
+2018,1104,Grand Canyon,9,4,17,30
+2018,262,Grand Valley St.,5,7,16,28
+2018,794,Green Bay,5,8,18,31
+2018,11062,Green Mountain,4,6,14,24
+2018,263,Greensboro,2,6,18,26
+2018,1111,Greenville,5,4,16,25
+2018,264,Grinnell,7,2,15,24
+2018,265,Grove City,7,2,16,25
+2018,1112,Guilford,4,6,15,25
+2018,266,Gust. Adolphus,6,3,16,25
+2018,12399,Gwynedd Mercy,9,1,15,25
+2018,267,Hamilton,8,0,16,24
+2018,268,Hamline,3,5,17,25
+2018,269,Hampden-Sydney,4,5,16,25
+2018,270,Hampton,5,9,17,31
+2018,1115,Hanover,7,2,16,25
+2018,271,Hardin-Simmons,3,7,15,25
+2018,1116,Harding,0,9,18,27
+2018,272,Hartford,6,7,17,30
+2018,273,Hartwick,3,4,18,25
+2018,275,Harvard,5,7,17,29
+2018,276,Haverford,4,6,15,25
+2018,277,Hawaii,8,4,17,29
+2018,2697,Hawaii Hilo,3,7,16,26
+2018,2696,Hawaii Pacific,7,4,17,28
+2018,278,Heidelberg,4,5,16,25
+2018,1123,Henderson St.,5,5,19,29
+2018,1124,Hendrix,1,9,16,26
+2018,19651,High Point,5,6,18,29
+2018,8398,Hilbert,6,4,15,25
+2018,280,Hillsdale,12,2,13,27
+2018,281,Hiram,6,5,15,26
+2018,282,*Hobart/William Smith,5,2,18,25
+2018,283,Hofstra,7,5,18,30
+2018,285,Holy Cross,3,8,18,29
+2018,1126,Holy Family,2,9,16,27
+2018,30175,Holy Names,5,8,18,31
+2018,8404,Hood,4,7,14,25
+2018,286,Hope,4,5,16,25
+2018,30160,Houghton,3,5,17,25
+2018,288,Houston,10,2,18,30
+2018,287,Houston Baptist,4,9,18,31
+2018,290,Howard,3,12,17,32
+2018,2741,Howard Payne,5,7,14,26
+2018,291,Humboldt St.,3,9,16,28
+2018,292,Hunter,4,5,16,25
+2018,1130,Huntingdon,6,4,15,25
+2018,1133,Husson,7,2,16,25
+2018,295,Idaho,8,4,18,30
+2018,294,Idaho St.,5,6,18,29
+2018,30172,IIT,7,3,15,25
+2018,300,Ill. Wesleyan,8,2,15,25
+2018,302,Ill.-Chicago,5,8,18,31
+2018,30050,Ill.-Springfield,9,3,16,28
+2018,301,Illinois,9,5,17,31
+2018,297,Illinois Col.,4,4,17,25
+2018,299,Illinois St.,7,6,17,30
+2018,303,Immaculata,4,5,16,25
+2018,2743,Incarnate Word,5,5,18,28
+2018,306,Indiana,7,6,17,30
+2018,307,Indiana (PA),8,4,17,29
+2018,305,Indiana St.,5,7,18,30
+2018,310,Iona,6,6,18,30
+2018,312,Iowa,8,6,17,31
+2018,311,Iowa St.,9,2,19,30
+2018,30173,Iowa Wesleyan,1,10,14,25
+2018,313,Ithaca,6,1,18,25
+2018,2699,IUPUI,3,8,18,29
+2018,314,Jackson St.,3,10,18,31
+2018,316,Jacksonville,4,10,17,31
+2018,315,Jacksonville St.,9,4,18,31
+2018,317,James Madison,4,9,18,31
+2018,320,John Carroll,8,1,16,25
+2018,321,John Jay,2,6,16,24
+2018,322,Johns Hopkins,7,1,17,25
+2018,22626,Johnson & Wales (RI),4,5,16,25
+2018,323,Johnson C. Smith,8,4,16,28
+2018,324,Johnson St.,3,6,16,25
+2018,325,Juniata,11,0,15,26
+2018,326,Kalamazoo,5,6,14,25
+2018,328,Kansas,10,2,19,31
+2018,327,Kansas St.,10,2,19,31
+2018,329,Kean,3,8,15,26
+2018,330,Keene St.,7,2,16,25
+2018,1157,Kennesaw St.,3,9,17,29
+2018,331,Kent St.,6,6,18,30
+2018,334,Kentucky,9,2,20,31
+2018,332,Kentucky St.,3,11,13,27
+2018,335,Kenyon,4,5,16,25
+2018,1159,Keuka,5,5,13,23
+2018,30047,Keystone,4,5,16,25
+2018,30051,King (TN),8,4,16,28
+2018,336,King's (PA),4,5,16,25
+2018,337,Knox,2,8,15,25
+2018,339,Kutztown,8,1,17,26
+2018,333,Ky. Wesleyan,8,5,17,30
+2018,1163,La Roche,8,5,14,27
+2018,340,La Salle,6,7,18,31
+2018,341,La Verne,0,8,17,25
+2018,498,La.-Monroe,6,5,18,29
+2018,342,Lafayette,2,9,18,29
+2018,1162,LaGrange,4,4,17,25
+2018,2746,Lake Erie,8,4,16,28
+2018,344,Lake Forest,7,2,16,25
+2018,345,Lake Superior St.,10,1,17,28
+2018,1164,Lakeland,7,4,14,25
+2018,346,Lamar University,8,5,18,31
+2018,30085,Lancaster Bible,7,2,16,25
+2018,1167,Lander,5,5,18,28
+2018,347,Lane,4,5,16,25
+2018,8486,Lasell,2,7,16,25
+2018,348,Lawrence,6,4,14,24
+2018,349,Le Moyne,9,3,15,27
+2018,351,Lebanon Valley,8,3,14,25
+2018,30013,Lee,8,3,16,27
+2018,13302,Lees-McRae,6,4,18,28
+2018,352,Lehigh,5,6,18,29
+2018,279,Lehman,6,2,17,25
+2018,350,LeMoyne-Owen,3,8,16,27
+2018,1170,Lenoir-Rhyne,4,7,15,26
+2018,24317,Lesley,5,5,15,25
+2018,8490,LeTourneau,7,2,16,25
+2018,354,Lewis,4,8,17,29
+2018,22235,Lewis & Clark,4,5,16,25
+2018,355,Liberty,9,4,18,31
+2018,1174,Limestone,6,7,14,27
+2018,356,Lincoln (MO),5,7,16,28
+2018,357,Lincoln (PA),6,6,14,26
+2018,1176,Lincoln Memorial,11,1,16,28
+2018,30136,Lindenwood (MO),9,3,16,28
+2018,1179,Linfield,7,4,15,26
+2018,28600,Lipscomb,9,4,16,29
+2018,32,Little Rock,3,10,18,31
+2018,361,LIU Brooklyn,5,8,18,31
+2018,362,LIU Post,4,7,17,28
+2018,359,Livingstone,2,4,17,23
+2018,360,Lock Haven,3,6,17,26
+2018,99,Long Beach St.,5,10,17,32
+2018,363,Longwood,3,10,18,31
+2018,364,Loras,7,3,15,25
+2018,1182,Louisiana Col.,1,6,16,23
+2018,366,Louisiana Tech,9,4,18,31
+2018,367,Louisville,10,2,19,31
+2018,371,Loyola Chicago,10,3,17,30
+2018,369,Loyola Maryland,2,9,18,29
+2018,370,Loyola Marymount,5,6,18,29
+2018,365,LSU,8,3,19,30
+2018,30177,Lubbock Christian,4,8,15,27
+2018,372,Luther,3,7,15,25
+2018,373,Lycoming,11,0,14,25
+2018,374,Lynchburg,5,4,16,25
+2018,30065,Lyndon St.,1,6,17,24
+2018,20794,Lynn,4,6,16,26
+2018,376,Macalester,1,6,18,25
+2018,377,MacMurray,3,6,16,25
+2018,380,Maine,3,11,17,31
+2018,378,Maine Maritime,0,8,17,25
+2018,30137,Malone,8,4,16,28
+2018,1192,Manchester,1,8,15,24
+2018,381,Manhattan,5,7,18,30
+2018,382,Manhattanville,5,4,17,26
+2018,384,Mansfield,4,4,18,26
+2018,1194,Maranatha Baptist,5,3,21,29
+2018,1196,Marian (WI),3,7,15,25
+2018,385,Marietta,7,2,16,25
+2018,386,Marist,2,10,18,30
+2018,387,Marquette,9,3,18,30
+2018,1199,Mars Hill,2,8,16,26
+2018,388,Marshall,9,4,18,31
+2018,8597,Martin Luther,1,9,15,25
+2018,30075,Mary,2,8,16,26
+2018,1203,Mary Hardin-Baylor,7,4,14,25
+2018,390,Mary Washington,7,3,15,25
+2018,392,Maryland,11,3,17,31
+2018,394,Marymount (VA),3,6,16,25
+2018,395,Maryville (MO),9,2,16,27
+2018,396,Maryville (TN),6,3,16,25
+2018,397,Marywood,5,3,17,25
+2018,400,Massachusetts,7,6,18,31
+2018,773,McDaniel,2,7,16,25
+2018,30138,McKendree,9,2,17,28
+2018,486,MCLA,3,6,15,24
+2018,8530,McMurry,4,5,16,25
+2018,402,McNeese,3,7,18,28
+2018,379,Me.-Farmington,4,5,16,25
+2018,30040,Me.-Presque Isle,4,5,14,23
+2018,23725,Medaille,4,5,15,24
+2018,403,Medgar Evers,2,5,17,24
+2018,404,Memphis,9,3,19,31
+2018,406,Mercer,6,6,19,31
+2018,724,Merchant Marine,4,3,16,23
+2018,407,Mercy,6,5,18,29
+2018,408,Mercyhurst,5,4,17,26
+2018,410,Merrimack,9,3,16,28
+2018,411,Messiah,7,4,14,25
+2018,412,Methodist,7,2,16,25
+2018,415,Miami (FL),11,1,18,30
+2018,414,Miami (OH),7,5,18,30
+2018,418,Michigan,11,3,17,31
+2018,416,Michigan St.,12,1,18,31
+2018,417,Michigan Tech,7,5,15,27
+2018,419,Middle Tenn.,8,4,18,30
+2018,420,Middlebury,6,0,18,24
+2018,1222,Midwestern St.,3,9,16,28
+2018,422,Miles,1,8,16,25
+2018,423,Millersville,3,8,17,28
+2018,424,Millikin,6,4,15,25
+2018,426,Millsaps,3,7,16,26
+2018,797,Milwaukee,7,6,18,31
+2018,427,Minn. Duluth,3,7,18,28
+2018,27854,Minn.-Crookston,6,6,16,28
+2018,1226,Minn.-Morris,3,7,15,25
+2018,428,Minnesota,11,3,17,31
+2018,383,Minnesota St.,9,2,17,28
+2018,30125,Minot St.,11,1,16,28
+2018,16142,Misericordia,5,5,15,25
+2018,429,Mississippi Col.,4,5,16,25
+2018,430,Mississippi St.,11,1,19,31
+2018,432,Mississippi Val.,0,13,18,31
+2018,434,Missouri,10,3,18,31
+2018,435,Missouri S&T,2,7,17,26
+2018,669,Missouri St.,11,3,17,31
+2018,398,MIT,10,1,14,25
+2018,30042,Mitchell,4,7,14,25
+2018,9012,Mo. Southern St.,6,5,17,28
+2018,9013,Missouri Western,3,8,15,26
+2018,436,Mo.-St. Louis,7,4,16,27
+2018,437,Molloy,3,9,16,28
+2018,439,Monmouth,4,8,18,30
+2018,438,Monmouth (IL),7,2,16,25
+2018,205,Mont. St. Billings,8,6,17,31
+2018,441,Montana,7,5,18,30
+2018,440,Montana St.,7,6,18,31
+2018,442,Montclair St.,7,3,15,25
+2018,1238,Montevallo,6,7,16,29
+2018,443,Moravian,8,2,15,25
+2018,444,Morehead St.,4,7,18,29
+2018,445,Morehouse,10,0,16,26
+2018,446,Morgan St.,4,7,18,29
+2018,30067,Morrisville St.,5,5,15,25
+2018,30036,Mount Aloysius,1,8,16,25
+2018,27901,Mount Ida,6,3,16,25
+2018,1245,Mount Olive,7,4,17,28
+2018,452,Mount Union,7,2,16,25
+2018,20220,MSOE,5,4,16,25
+2018,413,MSU Denver,6,6,16,28
+2018,1240,MSU Moorhead,5,8,16,29
+2018,8567,Mt. St. Joseph,6,4,15,25
+2018,1468,Mt. St. Mary (NY),3,6,16,25
+2018,450,Mt. St. Mary's,6,7,18,31
+2018,451,Mt. St. Vincent,4,4,17,25
+2018,453,Muhlenberg,2,7,16,25
+2018,454,Murray St.,8,3,18,29
+2018,455,Muskingum,4,5,16,25
+2018,488,N.C. A&T,7,7,17,31
+2018,489,N.C. Central,5,8,17,30
+2018,491,N.C. Wesleyan,4,5,16,25
+2018,8577,N.M. Highlands,8,4,16,28
+2018,726,Navy,9,4,18,31
+2018,461,Nazareth,4,2,19,25
+2018,462,Neb. Wesleyan,10,0,15,25
+2018,1156,Neb.-Kearney,6,7,15,28
+2018,463,Nebraska,9,5,17,31
+2018,1254,Neumann,7,2,16,25
+2018,466,Nevada,11,3,18,32
+2018,467,New England Col.,6,3,16,25
+2018,469,New Hampshire,3,10,17,30
+2018,470,New Haven,6,5,15,26
+2018,319,New Jersey City,9,0,16,25
+2018,473,New Mexico,5,8,18,31
+2018,472,New Mexico St.,11,3,16,30
+2018,474,New Orleans,3,8,18,29
+2018,476,New Rochelle,5,6,14,25
+2018,1257,Newberry,7,5,15,27
+2018,21772,Newbury,1,6,18,25
+2018,30054,Newman,5,6,16,27
+2018,482,Niagara,7,6,18,31
+2018,483,Nicholls St.,6,7,18,31
+2018,484,Nichols,8,1,16,25
+2018,471,NJIT,7,6,16,29
+2018,485,Norfolk St.,1,12,18,31
+2018,487,North Ala.,7,4,16,27
+2018,457,North Carolina,11,2,18,31
+2018,490,NC State,10,3,18,31
+2018,492,North Central (IL),6,4,15,25
+2018,30039,North Central (MN),4,7,14,25
+2018,494,North Dakota,4,7,19,30
+2018,493,North Dakota St.,7,6,17,30
+2018,2711,North Florida,5,10,16,31
+2018,30052,North Georgia,3,7,19,29
+2018,9223,North Greenville,3,7,19,29
+2018,496,North Park,3,7,15,25
+2018,497,North Texas,7,6,18,31
+2018,500,Northeastern,7,5,18,30
+2018,12810,Northeastern St.,3,8,17,28
+2018,501,Northern Ariz.,3,10,18,31
+2018,502,Northern Colo.,9,4,18,31
+2018,503,Northern Ill.,7,5,19,31
+2018,505,Northern Ky.,7,5,18,30
+2018,506,Northern Mich.,8,4,15,27
+2018,1266,Northern St.,12,1,17,30
+2018,1267,Northland,4,7,15,26
+2018,507,Northwest Mo. St.,11,0,16,27
+2018,1274,Northwest Nazarene,6,3,17,26
+2018,509,Northwestern,9,5,17,31
+2018,30178,Northwestern Okla.,7,2,18,27
+2018,508,Northwestern St.,3,8,18,29
+2018,30031,Northwestern-St. Paul,2,7,16,25
+2018,510,Northwood,3,8,17,28
+2018,511,Norwich,1,6,18,25
+2018,513,Notre Dame,10,3,18,31
+2018,30126,Notre Dame (OH),3,9,16,28
+2018,30056,Notre Dame de Namur,2,8,17,27
+2018,24639,Nova Southeastern,9,1,16,26
+2018,1277,Nyack,2,8,16,26
+2018,477,NYIT,2,11,16,29
+2018,479,NYU,6,2,17,25
+2018,514,Oakland,8,5,18,31
+2018,1278,Oakland City,8,1,13,22
+2018,515,Oberlin,4,5,16,25
+2018,516,Occidental,3,2,17,22
+2018,2713,Oglethorpe,5,4,16,25
+2018,519,Ohio,6,5,19,30
+2018,30119,Ohio Dominican,7,5,15,27
+2018,517,Ohio Northern,6,3,16,25
+2018,518,Ohio St.,10,4,17,31
+2018,15207,Ohio Valley,1,9,18,28
+2018,520,Ohio Wesleyan,8,1,16,25
+2018,30202,Okla. Baptist,5,5,18,28
+2018,30179,Okla. Christian,3,8,16,27
+2018,522,Oklahoma,10,1,19,30
+2018,521,Oklahoma St.,10,2,19,31
+2018,523,Old Dominion,9,3,18,30
+2018,524,Old Westbury,3,4,18,25
+2018,433,Ole Miss,7,5,19,31
+2018,525,Olivet,4,4,17,25
+2018,464,Omaha,4,11,15,30
+2018,527,Oral Roberts,4,11,16,31
+2018,529,Oregon,10,3,18,31
+2018,528,Oregon St.,8,4,18,30
+2018,530,Oswego St.,5,4,16,25
+2018,531,Otterbein,0,9,16,25
+2018,1289,Ouachita Baptist,4,5,18,27
+2018,23008,Ozarks (AR),3,6,16,25
+2018,2682,P.R.-Bayamon,1,4,0,5
+2018,2716,P.R.-Rio Piedras,0,1,0,1
+2018,533,Pace,4,9,15,28
+2018,534,Pacific,5,8,18,31
+2018,2751,Pacific (OR),8,2,15,25
+2018,1297,Pacific Lutheran,3,6,16,25
+2018,535,Paine,2,10,16,28
+2018,30045,Palm Beach Atl.,8,8,15,31
+2018,540,Penn,8,4,18,30
+2018,30190,Penn College,1,10,14,25
+2018,539,Penn St.,10,4,17,31
+2018,30081,Penn St. Harrisburg,4,5,16,25
+2018,30114,Penn St.-Abington,2,6,16,24
+2018,25719,Penn St.-Altoona,6,4,15,25
+2018,538,Penn St.-Behrend,9,2,14,25
+2018,30044,Penn St.-Berks,1,9,14,24
+2018,541,Pepperdine,3,9,18,30
+2018,542,Pfeiffer,2,0,20,22
+2018,543,Jefferson,9,5,17,31
+2018,21830,Piedmont,4,7,15,26
+2018,544,Pine Manor,6,5,13,24
+2018,1315,Pitt.-Bradford,2,8,15,25
+2018,11839,Pitt.-Greensburg,3,5,16,24
+2018,546,Pitt.-Johnstown,5,4,17,26
+2018,1314,Pittsburg St.,7,5,16,28
+2018,545,Pittsburgh,8,5,18,31
+2018,547,Plattsburgh St.,4,4,16,24
+2018,548,Plymouth St.,5,5,15,25
+2018,30149,Point Loma,8,5,16,29
+2018,549,Pomona-Pitzer,2,8,15,25
+2018,551,Portland,6,7,18,31
+2018,550,Portland St.,10,3,18,31
+2018,1318,Post,2,8,18,28
+2018,553,Prairie View,2,11,19,32
+2018,1320,Presbyterian,7,6,18,31
+2018,554,Princeton,7,7,15,29
+2018,555,Principia,3,6,15,24
+2018,556,Providence,9,4,18,31
+2018,557,Puget Sound,6,2,16,24
+2018,30029,Purchase,6,2,17,25
+2018,559,Purdue,12,2,17,31
+2018,11504,Queens (NC),12,0,16,28
+2018,560,Queens (NY),2,6,17,25
+2018,561,Quincy,3,9,16,28
+2018,562,Quinnipiac,3,9,18,30
+2018,563,Radford,7,6,18,31
+2018,564,Ramapo,9,1,15,25
+2018,566,Randolph,2,8,15,25
+2018,565,Randolph-Macon,6,3,16,25
+2018,567,Redlands,2,6,19,27
+2018,568,Regis (CO),10,2,16,28
+2018,569,Regis (MA),3,4,18,25
+2018,570,Rensselaer,6,1,18,25
+2018,572,Rhode Island,7,3,18,28
+2018,571,Rhode Island Col.,2,9,14,25
+2018,573,Rhodes,5,4,17,26
+2018,574,Rice,3,10,18,31
+2018,575,Richmond,2,10,18,30
+2018,576,Rider,7,5,18,30
+2018,577,Ripon,4,3,16,23
+2018,580,RIT,4,4,17,25
+2018,18422,Rivier,1,9,15,25
+2018,578,Roanoke,7,3,15,25
+2018,579,Robert Morris,6,7,18,31
+2018,30150,Roberts Wesleyan,9,4,14,27
+2018,581,Rochester (NY),8,2,15,25
+2018,582,Rockford,5,6,14,25
+2018,1328,Rockhurst,7,5,17,29
+2018,583,Roger Williams,7,2,16,25
+2018,30180,Rogers St.,9,4,16,29
+2018,584,Rollins,8,5,15,28
+2018,585,Rose-Hulman,5,6,14,25
+2018,15882,Rosemont,5,3,17,25
+2018,259,Rowan,6,4,15,25
+2018,587,Rutgers,10,4,17,31
+2018,588,Rutgers-Camden,2,8,14,24
+2018,589,Rutgers-Newark,5,6,14,25
+2018,11276,S.C. Aiken,4,3,19,26
+2018,102,Sacramento St.,3,10,18,31
+2018,590,Sacred Heart,5,8,18,31
+2018,11036,Sage Colleges,4,4,17,25
+2018,591,Saginaw Valley,3,9,16,28
+2018,594,Saint Augustine's,5,8,14,27
+2018,600,Saint Francis (PA),6,5,18,29
+2018,602,Saint John's (MN),7,1,17,25
+2018,606,Saint Joseph's,5,6,19,30
+2018,608,Saint Leo,7,8,16,31
+2018,609,Saint Louis,7,6,18,31
+2018,1343,Saint Martin's,8,3,18,29
+2018,612,Saint Mary's (MN),1,7,17,25
+2018,613,Saint Michael's,3,8,15,26
+2018,617,Saint Peter's,6,5,18,29
+2018,1347,Saint Rose,9,3,16,28
+2018,30064,Saint Vincent,6,4,15,25
+2018,19117,Salem (WV),4,8,14,26
+2018,621,Salem St.,7,3,15,25
+2018,622,Salisbury,5,4,16,25
+2018,623,Salve Regina,5,4,16,25
+2018,624,Sam Houston St.,6,7,18,31
+2018,625,Samford,4,9,18,31
+2018,627,San Diego,9,3,18,30
+2018,626,San Diego St.,8,3,18,29
+2018,628,San Fran. St.,7,4,17,28
+2018,629,San Francisco,8,5,18,31
+2018,630,San Jose St.,3,8,18,29
+2018,631,Santa Clara,3,9,18,30
+2018,30163,Sarah Lawrence,2,9,14,25
+2018,632,Savannah St.,3,11,17,31
+2018,1355,Schreiner,3,8,16,27
+2018,633,Scranton,3,8,14,25
+2018,634,Seattle Pacific,6,3,18,27
+2018,1356,Seattle U,9,6,16,31
+2018,635,Seton Hall,11,2,18,31
+2018,30063,Seton Hill,4,6,18,28
+2018,652,Sewanee,4,4,16,24
+2018,676,SFA,11,2,18,31
+2018,636,Shaw,7,4,16,27
+2018,637,Shenandoah,6,3,16,25
+2018,10870,Shepherd,5,6,17,28
+2018,638,Shippensburg,8,2,17,27
+2018,30151,Shorter,1,11,16,28
+2018,639,Siena,4,9,18,31
+2018,30127,Simon Fraser,7,3,18,28
+2018,641,Simpson,5,6,13,24
+2018,30128,Sioux Falls,8,3,17,28
+2018,660,SIUE,4,7,18,29
+2018,642,Skidmore,6,1,17,24
+2018,643,Slippery Rock,9,2,17,28
+2018,663,SMU,10,3,18,31
+2018,645,Sonoma St.,4,6,16,26
+2018,646,South Ala.,6,6,19,31
+2018,648,South Carolina,8,3,20,31
+2018,647,South Carolina St.,4,11,16,31
+2018,650,South Dakota,12,4,15,31
+2018,30139,South Dakota Mines,6,5,16,27
+2018,649,South Dakota St.,11,5,15,31
+2018,651,South Fla.,7,6,18,31
+2018,654,Southeast Mo. St.,6,7,18,31
+2018,655,Southeastern La.,6,7,18,31
+2018,1371,Southeastern Okla.,4,5,18,27
+2018,1376,Southern Ark.,4,5,19,28
+2018,657,Southern California,9,4,18,31
+2018,658,Southern Conn. St.,6,5,15,26
+2018,659,Southern Ill.,8,5,18,31
+2018,661,Southern Ind.,9,3,18,30
+2018,662,Southern Me.,1,8,16,25
+2018,664,Southern Miss.,7,6,18,31
+2018,468,Southern N.H.,9,1,16,26
+2018,30152,Southern Nazarene,9,1,17,27
+2018,665,Southern U.,3,9,19,31
+2018,667,Southern Utah,6,5,18,29
+2018,30164,Southern Va.,4,5,15,24
+2018,1379,Southern Vt.,7,3,15,25
+2018,30192,Southern Wesleyan,1,12,16,29
+2018,2755,Southwest Baptist,6,5,17,28
+2018,8736,Southwest Minn. St.,9,3,16,28
+2018,8746,Southwestern (TX),3,7,16,26
+2018,8744,Southwestern Okla.,2,7,19,28
+2018,23260,Spalding,4,6,14,24
+2018,30191,Spring Hill,2,9,16,27
+2018,673,Springfield,4,5,16,25
+2018,593,St. Anselm,8,3,16,27
+2018,596,St. Bonaventure,10,2,18,30
+2018,598,St. Cloud St.,8,3,17,28
+2018,1334,St. Edward's,10,3,15,28
+2018,9684,St. Elizabeth,2,8,14,24
+2018,599,St. Francis Brooklyn,3,9,18,30
+2018,601,St. John Fisher,3,4,18,25
+2018,603,St. John's (NY),10,2,19,31
+2018,30072,St. Joseph's (Brkln),5,5,15,25
+2018,1340,St. Joseph's (L.I.),2,7,16,25
+2018,605,St. Joseph's (ME),4,5,16,25
+2018,607,St. Lawrence,2,7,16,25
+2018,610,Saint Mary's (CA),11,2,18,31
+2018,611,St. Mary's (MD),2,8,15,25
+2018,1346,St. Mary's (TX),5,9,15,29
+2018,614,St. Norbert,8,1,16,25
+2018,615,St. Olaf,6,2,17,25
+2018,618,St. Scholastica,4,6,15,25
+2018,620,St. Thomas (MN),4,5,16,25
+2018,1348,St. Thomas Aquinas,11,3,16,30
+2018,674,Stanford,6,7,18,31
+2018,103,Stanislaus St.,9,3,16,28
+2018,675,Staten Island,4,4,15,23
+2018,678,Stetson,7,7,17,31
+2018,679,Stevens,5,3,17,25
+2018,21852,Stevenson,7,4,14,25
+2018,681,Stockton,8,4,13,25
+2018,682,Stonehill,5,5,17,27
+2018,683,Stony Brook,5,8,17,30
+2018,684,Suffolk,5,4,16,25
+2018,1390,Sul Ross St.,8,4,13,25
+2018,30165,SUNY Canton,2,8,15,25
+2018,168,SUNY Cortland,9,2,14,25
+2018,247,SUNY Geneseo,4,5,16,25
+2018,478,SUNY Maritime,4,4,18,26
+2018,475,SUNY New Paltz,3,6,16,25
+2018,526,SUNY Oneonta,5,3,17,25
+2018,9500,SUNY Poly,4,4,16,24
+2018,552,SUNY Potsdam,4,5,16,25
+2018,685,Susquehanna,4,6,14,24
+2018,686,Swarthmore,8,1,16,25
+2018,688,Syracuse,10,2,19,31
+2018,689,Tampa,5,6,15,26
+2018,1395,Tarleton St.,7,4,17,28
+2018,712,TCNJ,8,1,16,25
+2018,698,TCU,12,0,19,31
+2018,690,Temple,7,4,19,30
+2018,694,Tennessee,9,2,19,30
+2018,691,Tennessee St.,5,6,18,29
+2018,692,Tennessee Tech,8,5,18,31
+2018,30090,Tex. A&M Int'l,6,7,17,30
+2018,199,Tex. A&M-Commerce,11,1,15,27
+2018,696,Tex. A&M-Kingsville,9,3,16,28
+2018,30088,Tex. Permian Basin,9,1,17,27
+2018,703,Texas,9,3,19,31
+2018,697,Texas A&M,11,1,19,31
+2018,1400,Texas Lutheran,4,5,16,25
+2018,699,Texas Southern,0,13,18,31
+2018,670,Texas St.,7,6,18,31
+2018,700,Texas Tech,11,1,19,31
+2018,23121,Texas-Dallas,7,3,15,25
+2018,30028,Texas-Tyler,8,3,14,25
+2018,141,The Citadel,5,7,18,30
+2018,707,Thiel,3,4,16,23
+2018,2758,Thomas (ME),5,3,17,25
+2018,1402,Thomas More,7,3,15,25
+2018,1403,Tiffin,3,8,17,28
+2018,709,Toledo,7,5,19,31
+2018,711,Towson,10,3,18,31
+2018,28749,Transylvania,7,2,16,25
+2018,30002,Trevecca Nazarene,1,11,16,28
+2018,30037,Trine,4,6,15,25
+2018,713,Trinity (CT),6,2,15,23
+2018,715,Trinity (TX),6,3,16,25
+2018,716,Troy,6,7,18,31
+2018,499,Truman,5,5,17,27
+2018,717,Tufts,7,3,14,24
+2018,718,Tulane,9,3,18,30
+2018,719,Tulsa,7,5,18,30
+2018,12830,Tusculum,3,9,16,28
+2018,720,Tuskegee,1,10,17,28
+2018,1255,U New England,3,6,16,25
+2018,9,UAB,9,4,18,31
+2018,108,UC Davis,8,5,17,30
+2018,109,UC Irvine,5,10,17,32
+2018,111,UC Riverside,5,7,18,30
+2018,112,UC San Diego,6,5,17,28
+2018,104,UC Santa Barbara,10,3,17,30
+2018,113,UC Santa Cruz,8,4,13,25
+2018,9754,UC-Colo. Springs,4,8,16,28
+2018,128,UCF,9,3,18,30
+2018,110,UCLA,9,3,18,30
+2018,164,UConn,7,5,19,31
+2018,309,UIndy,7,4,15,26
+2018,671,Louisiana,10,3,18,31
+2018,401,UMass Boston,6,5,14,25
+2018,656,UMass Dartmouth,6,3,16,25
+2018,368,UMass Lowell,6,6,17,29
+2018,391,UMBC,8,5,18,31
+2018,393,UMES,3,11,17,31
+2018,2707,UMKC,3,11,17,31
+2018,456,UNC Asheville,7,6,18,31
+2018,537,UNC Pembroke,6,3,19,28
+2018,459,UNCG,9,4,18,31
+2018,460,UNCW,2,9,19,30
+2018,504,UNI,8,4,18,30
+2018,727,Union (NY),4,3,17,24
+2018,30153,Union (TN),6,5,17,28
+2018,465,UNLV,11,2,18,31
+2018,728,Upper Iowa,8,7,16,31
+2018,30104,Urbana,1,10,17,28
+2018,730,Ursinus,4,4,16,24
+2018,10411,USC Upstate,4,11,16,31
+2018,28594,USciences,7,4,16,27
+2018,702,UT Arlington,9,4,18,31
+2018,695,UT Martin,5,8,18,31
+2018,732,Utah,8,3,18,29
+2018,731,Utah St.,7,6,18,31
+2018,30024,Utah Valley,9,5,16,30
+2018,704,UTEP,5,7,18,30
+2018,733,Utica,3,4,18,25
+2018,536,UTRGV,6,8,17,31
+2018,706,UTSA,7,6,18,31
+2018,30181,UVa-Wise,5,6,17,28
+2018,745,Va. Wesleyan,8,2,15,25
+2018,734,Valdosta St.,9,2,17,28
+2018,30166,Valley Forge,0,7,12,19
+2018,735,Valparaiso,9,4,18,31
+2018,736,Vanderbilt,5,7,19,31
+2018,737,Vassar,0,7,18,25
+2018,740,VCU,8,5,18,31
+2018,738,Vermont,8,5,18,31
+2018,739,Villanova,12,0,19,31
+2018,746,Virginia,11,1,18,30
+2018,743,Virginia St.,9,1,16,26
+2018,742,Virginia Tech,10,2,19,31
+2018,744,Virginia Union,7,7,14,28
+2018,741,VMI,5,6,18,29
+2018,747,Wabash,3,6,16,25
+2018,748,Wagner,7,4,18,29
+2018,749,Wake Forest,7,5,18,30
+2018,30141,Walsh,6,3,17,26
+2018,750,Wartburg,8,1,16,25
+2018,751,Wash. & Jeff.,1,8,16,25
+2018,752,Wash. & Lee,6,3,16,25
+2018,2814,Washburn,9,3,16,28
+2018,756,Washington,10,3,18,31
+2018,753,Washington Col.,4,7,14,25
+2018,754,Washington St.,8,4,18,30
+2018,755,Washington-St. Louis,8,1,16,25
+2018,757,Wayne St. (MI),6,4,15,25
+2018,1433,Wayne St. (NE),8,6,16,30
+2018,1434,Waynesburg,4,5,16,25
+2018,758,Weber St.,7,5,18,30
+2018,759,Webster,5,5,15,25
+2018,761,Wells,1,7,17,25
+2018,762,Wentworth,8,2,15,25
+2018,763,Wesley,4,6,15,25
+2018,764,Wesleyan (CT),8,0,16,24
+2018,358,West Ala.,9,4,15,28
+2018,765,West Chester,9,0,17,26
+2018,11740,West Florida,11,0,17,28
+2018,766,West Ga.,4,5,17,26
+2018,1438,West Liberty,11,0,16,27
+2018,767,West Tex. A&M,11,1,16,28
+2018,9630,West Va. Wesleyan,1,11,17,29
+2018,768,West Virginia,11,1,19,31
+2018,1439,West Virginia St.,6,5,16,27
+2018,769,Western Caro.,4,8,18,30
+2018,770,Western Conn. St.,5,4,16,25
+2018,771,Western Ill.,7,4,16,27
+2018,772,Western Ky.,8,5,18,31
+2018,774,Western Mich.,7,5,19,31
+2018,1445,Western N.M.,2,10,15,27
+2018,775,Western New Eng.,4,5,16,25
+2018,1446,Western Ore.,11,1,16,28
+2018,2759,Western St.,3,9,16,28
+2018,1448,Western Wash.,7,3,18,28
+2018,777,Westfield St.,5,6,14,25
+2018,1450,Westminster (MO),6,3,16,25
+2018,1451,Westminster (PA),9,1,15,25
+2018,30209,Westminster (UT),9,1,16,26
+2018,778,Wheaton (IL),8,3,14,25
+2018,779,Wheaton (MA),8,2,15,25
+2018,12799,Wheeling Jesuit,9,2,17,28
+2018,8896,Wheelock,1,8,16,25
+2018,780,Whitman,9,0,16,25
+2018,781,Whittier,3,6,16,25
+2018,1454,Whitworth,8,1,16,25
+2018,782,Wichita St.,10,2,18,30
+2018,783,Widener,6,5,14,25
+2018,784,Wilkes,6,3,16,25
+2018,785,Willamette,5,4,16,25
+2018,786,William & Mary,7,4,18,29
+2018,30120,William Jewell,12,1,15,28
+2018,17094,William Peace,2,6,17,25
+2018,789,Williams,8,1,15,24
+2018,1460,Wilmington (DE),7,5,16,28
+2018,1461,Wilmington (OH),4,6,14,24
+2018,12973,Wilson,6,5,14,25
+2018,1462,Wingate,6,6,16,28
+2018,790,Winona St.,8,4,16,28
+2018,791,Winston-Salem,4,8,15,27
+2018,792,Winthrop,6,5,18,29
+2018,8911,Wis. Lutheran,1,8,16,25
+2018,793,Wis.-Eau Claire,6,3,16,25
+2018,795,Wis.-La Crosse,7,2,16,25
+2018,798,Wis.-Oshkosh,9,0,19,28
+2018,799,Wis.-Parkside,2,8,18,28
+2018,800,Wis.-Platteville,8,1,16,25
+2018,801,Wis.-River Falls,8,1,15,24
+2018,802,Wis.-Stevens Point,6,3,16,25
+2018,803,Wis.-Stout,6,3,16,25
+2018,804,Wis.-Superior,3,8,15,26
+2018,805,Wis.-Whitewater,8,1,16,25
+2018,796,Wisconsin,6,7,18,31
+2018,806,Wittenberg,9,0,16,25
+2018,787,Wm. Paterson,5,6,14,25
+2018,2915,Wofford,8,4,19,31
+2018,807,Wooster,7,3,15,25
+2018,809,Worcester St.,1,10,14,25
+2018,808,WPI,5,4,19,28
+2018,810,Wright St.,8,5,18,31
+2018,811,Wyoming,9,4,18,31
+2018,812,Xavier,12,1,18,31
+2018,813,Yale,6,8,16,30
+2018,814,Yeshiva,5,8,13,26
+2018,2730,York (NY),3,7,15,25
+2018,815,York (PA),9,0,19,28
+2018,30154,Young Harris,2,8,18,28
+2018,817,Youngstown St.,2,10,19,31
