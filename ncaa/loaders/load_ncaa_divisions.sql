@@ -23,7 +23,7 @@ insert into ncaa.schools_divisions
 (
 select sport_code,school_name,school_id,pulled_name,javascript,2018,div_id,school_year,sport,division
 from ncaa.schools_divisions
-where year=2016
+where year=2017
 and (school_id,2018) not in
 (select school_id,year from ncaa.schools_divisions)
 );

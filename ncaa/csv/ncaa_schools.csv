@@ -104,9 +104,10 @@
 61,Bethune-Cookman
 62,Binghamton
 500515,Biola
+30220,Biola
 28593,Birmingham-So.
 506250,Biscayne
-506218,Bishop
+506218,Bishop's (CAN)
 506069,Black Hills St.
 30134,Black Hills St.
 64,Blackburn
@@ -215,8 +216,8 @@
 140,Cincinnati
 30087,Cincinnati-Clermont
 8580,City Tech
-30058,Claflin
 500990,Claflin
+30058,Claflin
 506447,Claremont McKenna
 142,Claremont-M-S
 143,Clarion
@@ -228,6 +229,7 @@
 20576,Clayton St.
 147,Clemson
 148,Cleveland St.
+451,CMSV
 722,Coast Guard
 149,Coastal Caro.
 30083,Cobleskill St.
@@ -240,10 +242,10 @@
 152,Colby-Sawyer
 153,Colgate
 11403,Colo. Christian
+155,Colo. Sch. of Mines
 157,Colorado
 154,Colorado Col.
 11416,Colorado Mesa
-155,Colorado Mines
 156,Colorado St.
 2720,Colorado St.-Pueblo
 158,Columbia
@@ -281,7 +283,6 @@
 30174,Daemen
 506033,Dakota Wesleyan
 1044,Dallas
-1045,Dallas Baptist
 506005,Dana
 2691,Daniel Webster
 172,Dartmouth
@@ -289,6 +290,8 @@
 173,Davidson
 174,Davis & Elkins
 175,Dayton
+1045,DBU
+30219,Dean
 1050,Defiance
 180,Delaware
 178,Delaware St.
@@ -299,14 +302,14 @@
 176,DePaul
 177,DePauw
 20,DeSales
-184,Detroit
+184,Detroit Mercy
 185,Dickinson
 506123,Dickinson St.
 501365,Dillard
 186,Dist. Columbia
 30095,Dixie St.
-506020,Doane
 30082,Doane
+506020,Doane
 30118,Dominican (CA)
 1332,Dominican (IL)
 8956,Dominican (NY)
@@ -390,8 +393,8 @@
 238,Framingham St.
 1085,Francis Marion
 30069,Franciscan
-239,Frank. & Marsh.
 2694,Franklin
+239,Franklin & Marshall
 241,Franklin Pierce
 242,Fredonia
 30147,Fresno Pacific
@@ -514,9 +517,11 @@
 317,James Madison
 506057,Jamestown
 506004,Jarvis Christian
+543,Jefferson
 320,John Carroll
 321,John Jay
 322,Johns Hopkins
+30046,Johnson & Wales (CO)
 22626,Johnson & Wales (RI)
 323,Johnson C. Smith
 324,Johnson St.
@@ -579,8 +584,8 @@
 357,Lincoln (PA)
 30066,Lincoln Christian
 1176,Lincoln Memorial
-30136,Lindenwood (MO)
 502725,Lindenwood (MO)
+30136,Lindenwood (MO)
 1179,Linfield
 28600,Lipscomb
 32,Little Rock
@@ -592,6 +597,7 @@
 363,Longwood
 364,Loras
 506442,Los Angeles Pacific
+671,Louisiana
 1182,Louisiana Col.
 366,Louisiana Tech
 367,Louisville
@@ -609,6 +615,7 @@
 20794,Lynn
 376,Macalester
 377,MacMurray
+506110,Madison College
 380,Maine
 378,Maine Maritime
 30137,Malone
@@ -638,9 +645,9 @@
 399,Mass. Maritime
 400,Massachusetts
 773,McDaniel
-503037,McGill
-503040,McKendree
+503037,McGill (CAN)
 30138,McKendree
+503040,McKendree
 486,MCLA
 8530,McMurry
 402,McNeese
@@ -694,11 +701,11 @@
 435,Missouri S&T
 669,Missouri St.
 506068,Missouri Valley
+9013,Missouri Western
 398,MIT
 30042,Mitchell
 503262,Mo. Baptist
 9012,Mo. Southern St.
-9013,Mo. Western St.
 436,Mo.-St. Louis
 437,Molloy
 439,Monmouth
@@ -730,7 +737,6 @@
 8567,Mt. St. Joseph
 1468,Mt. St. Mary (NY)
 450,Mt. St. Mary's
-451,Mt. St. Vincent
 453,Muhlenberg
 454,Murray St.
 455,Muskingum
@@ -742,6 +748,7 @@
 503430,Nasson
 726,Navy
 461,Nazareth
+490,NC State
 462,Neb. Wesleyan
 1156,Neb.-Kearney
 463,Nebraska
@@ -765,7 +772,6 @@
 485,Norfolk St.
 487,North Ala.
 457,North Carolina
-490,North Carolina St.
 492,North Central (IL)
 30039,North Central (MN)
 494,North Dakota
@@ -832,7 +838,7 @@
 528,Oregon St.
 500078,Oregon Tech
 530,Oswego St.
-506046,Ottawa
+506046,Ottawa (KS)
 531,Otterbein
 1289,Ouachita Baptist
 23008,Ozarks (AR)
@@ -846,8 +852,8 @@
 2751,Pacific (OR)
 1297,Pacific Lutheran
 535,Paine
-504035,Palm Beach Atl.
 30045,Palm Beach Atl.
+504035,Palm Beach Atl.
 504050,Park
 506252,Parsons
 504055,Paul Quinn
@@ -864,7 +870,6 @@
 506235,Pershing
 506008,Peru St.
 542,Pfeiffer
-543,Philadelphia U.
 504115,Philander Smith
 21830,Piedmont
 504135,Pikeville
@@ -895,6 +900,7 @@
 30029,Purchase
 559,Purdue
 504255,Purdue Northwest
+30222,Purdue Northwest
 506441,Quantico Marines
 11504,Queens (NC)
 560,Queens (NY)
@@ -953,13 +959,14 @@
 608,Saint Leo
 609,Saint Louis
 1343,Saint Martin's
+610,Saint Mary's (CA)
 612,Saint Mary's (MN)
 613,Saint Michael's
 617,Saint Peter's
 1347,Saint Rose
 30064,Saint Vincent
-30041,Salem
-19117,Salem Int'l
+30041,Salem (NC)
+19117,Salem (WV)
 621,Salem St.
 622,Salisbury
 623,Salve Regina
@@ -1068,7 +1075,6 @@
 605,St. Joseph's (ME)
 607,St. Lawrence
 506064,St. Mary (KS)
-610,St. Mary's (CA)
 8688,St. Mary's (IN)
 611,St. Mary's (MD)
 1346,St. Mary's (TX)
@@ -1174,7 +1180,6 @@
 110,UCLA
 164,UConn
 309,UIndy
-671,UL Lafayette
 401,UMass Boston
 656,UMass Dartmouth
 368,UMass Lowell
