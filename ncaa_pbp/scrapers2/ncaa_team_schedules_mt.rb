@@ -16,7 +16,9 @@ base_url = 'http://stats.ncaa.org'
 year = ARGV[0].to_i
 division = ARGV[1].to_i
 
-game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+game_xpath = '//*[@id="contentarea"]/table/tr/td[1]/table/tr[position()>2]'
+
+#//*[@id="contentarea"]/table/tbody/tr/td[1]/table/tbody/tr[3]/td[1]
 
 ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
                       "r",
@@ -67,7 +69,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       year_id = team[1]
       team_id = team[2]
       team_name = team[3]
-      
+
+      #http://stats.ncaa.org/teams/42389?utf8=%E2%9C%93&year_id=42389&sport_id=110951&commit=Submit&org_sport_name=&org_id=
       team_schedule_url = "http://stats.ncaa.org/team/%d/%d" % [team_id,year_id]
 
       #print "Sleep #{sleep_time} ... "

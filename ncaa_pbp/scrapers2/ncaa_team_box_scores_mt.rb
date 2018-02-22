@@ -7,7 +7,7 @@ require 'mechanize'
 nthreads = 1
 
 base_sleep = 0
-sleep_increment = 3
+sleep_increment = 5
 retries = 4
 
 #require 'awesome_print'
@@ -84,7 +84,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
         page = Nokogiri::HTML(agent.get(game_url).body)
       rescue
         sleep_time += sleep_increment
-#        print "sleep #{sleep_time} ... "
+        print "sleep #{sleep_time} ... "
         sleep sleep_time
         tries += 1
         if (tries > retries)

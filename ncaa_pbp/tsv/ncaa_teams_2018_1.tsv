@@ -1,0 +1,352 @@
+year	year_id	team_id	team_name	team_url
+2018	12620	26172	A&M-Corpus Christi	http://stats.ncaa.org/team/26172/12620
+2018	12620	2	Abilene Christian	http://stats.ncaa.org/team/2/12620
+2018	12620	721	Air Force	http://stats.ncaa.org/team/721/12620
+2018	12620	5	Akron	http://stats.ncaa.org/team/5/12620
+2018	12620	8	Alabama	http://stats.ncaa.org/team/8/12620
+2018	12620	6	Alabama A&M	http://stats.ncaa.org/team/6/12620
+2018	12620	7	Alabama St.	http://stats.ncaa.org/team/7/12620
+2018	12620	14	Albany (NY)	http://stats.ncaa.org/team/14/12620
+2018	12620	17	Alcorn	http://stats.ncaa.org/team/17/12620
+2018	12620	23	American	http://stats.ncaa.org/team/23/12620
+2018	12620	27	Appalachian St.	http://stats.ncaa.org/team/27/12620
+2018	12620	29	Arizona	http://stats.ncaa.org/team/29/12620
+2018	12620	28	Arizona St.	http://stats.ncaa.org/team/28/12620
+2018	12620	2678	Ark.-Pine Bluff	http://stats.ncaa.org/team/2678/12620
+2018	12620	31	Arkansas	http://stats.ncaa.org/team/31/12620
+2018	12620	30	Arkansas St.	http://stats.ncaa.org/team/30/12620
+2018	12620	725	Army West Point	http://stats.ncaa.org/team/725/12620
+2018	12620	37	Auburn	http://stats.ncaa.org/team/37/12620
+2018	12620	43	Austin Peay	http://stats.ncaa.org/team/43/12620
+2018	12620	77	BYU	http://stats.ncaa.org/team/77/12620
+2018	12620	47	Ball St.	http://stats.ncaa.org/team/47/12620
+2018	12620	51	Baylor	http://stats.ncaa.org/team/51/12620
+2018	12620	14927	Belmont	http://stats.ncaa.org/team/14927/12620
+2018	12620	61	Bethune-Cookman	http://stats.ncaa.org/team/61/12620
+2018	12620	62	Binghamton	http://stats.ncaa.org/team/62/12620
+2018	12620	66	Boise St.	http://stats.ncaa.org/team/66/12620
+2018	12620	67	Boston College	http://stats.ncaa.org/team/67/12620
+2018	12620	68	Boston U.	http://stats.ncaa.org/team/68/12620
+2018	12620	71	Bowling Green	http://stats.ncaa.org/team/71/12620
+2018	12620	72	Bradley	http://stats.ncaa.org/team/72/12620
+2018	12620	80	Brown	http://stats.ncaa.org/team/80/12620
+2018	12620	81	Bryant	http://stats.ncaa.org/team/81/12620
+2018	12620	83	Bucknell	http://stats.ncaa.org/team/83/12620
+2018	12620	86	Buffalo	http://stats.ncaa.org/team/86/12620
+2018	12620	87	Butler	http://stats.ncaa.org/team/87/12620
+2018	12620	94	CSU Bakersfield	http://stats.ncaa.org/team/94/12620
+2018	12620	101	CSUN	http://stats.ncaa.org/team/101/12620
+2018	12620	90	Cal Poly	http://stats.ncaa.org/team/90/12620
+2018	12620	97	Cal St. Fullerton	http://stats.ncaa.org/team/97/12620
+2018	12620	107	California	http://stats.ncaa.org/team/107/12620
+2018	12620	115	Campbell	http://stats.ncaa.org/team/115/12620
+2018	12620	116	Canisius	http://stats.ncaa.org/team/116/12620
+2018	12620	1004	Central Ark.	http://stats.ncaa.org/team/1004/12620
+2018	12620	127	Central Conn. St.	http://stats.ncaa.org/team/127/12620
+2018	12620	129	Central Mich.	http://stats.ncaa.org/team/129/12620
+2018	12620	48	Charleston So.	http://stats.ncaa.org/team/48/12620
+2018	12620	458	Charlotte	http://stats.ncaa.org/team/458/12620
+2018	12620	693	Chattanooga	http://stats.ncaa.org/team/693/12620
+2018	12620	136	Chicago St.	http://stats.ncaa.org/team/136/12620
+2018	12620	140	Cincinnati	http://stats.ncaa.org/team/140/12620
+2018	12620	147	Clemson	http://stats.ncaa.org/team/147/12620
+2018	12620	148	Cleveland St.	http://stats.ncaa.org/team/148/12620
+2018	12620	149	Coastal Caro.	http://stats.ncaa.org/team/149/12620
+2018	12620	1014	Col. of Charleston	http://stats.ncaa.org/team/1014/12620
+2018	12620	153	Colgate	http://stats.ncaa.org/team/153/12620
+2018	12620	157	Colorado	http://stats.ncaa.org/team/157/12620
+2018	12620	156	Colorado St.	http://stats.ncaa.org/team/156/12620
+2018	12620	158	Columbia	http://stats.ncaa.org/team/158/12620
+2018	12620	165	Coppin St.	http://stats.ncaa.org/team/165/12620
+2018	12620	167	Cornell	http://stats.ncaa.org/team/167/12620
+2018	12620	169	Creighton	http://stats.ncaa.org/team/169/12620
+2018	12620	172	Dartmouth	http://stats.ncaa.org/team/172/12620
+2018	12620	173	Davidson	http://stats.ncaa.org/team/173/12620
+2018	12620	175	Dayton	http://stats.ncaa.org/team/175/12620
+2018	12620	176	DePaul	http://stats.ncaa.org/team/176/12620
+2018	12620	180	Delaware	http://stats.ncaa.org/team/180/12620
+2018	12620	178	Delaware St.	http://stats.ncaa.org/team/178/12620
+2018	12620	183	Denver	http://stats.ncaa.org/team/183/12620
+2018	12620	184	Detroit Mercy	http://stats.ncaa.org/team/184/12620
+2018	12620	189	Drake	http://stats.ncaa.org/team/189/12620
+2018	12620	191	Drexel	http://stats.ncaa.org/team/191/12620
+2018	12620	193	Duke	http://stats.ncaa.org/team/193/12620
+2018	12620	194	Duquesne	http://stats.ncaa.org/team/194/12620
+2018	12620	198	ETSU	http://stats.ncaa.org/team/198/12620
+2018	12620	196	East Carolina	http://stats.ncaa.org/team/196/12620
+2018	12620	201	Eastern Ill.	http://stats.ncaa.org/team/201/12620
+2018	12620	202	Eastern Ky.	http://stats.ncaa.org/team/202/12620
+2018	12620	204	Eastern Mich.	http://stats.ncaa.org/team/204/12620
+2018	12620	207	Eastern Wash.	http://stats.ncaa.org/team/207/12620
+2018	12620	1068	Elon	http://stats.ncaa.org/team/1068/12620
+2018	12620	219	Evansville	http://stats.ncaa.org/team/219/12620
+2018	12620	28755	FGCU	http://stats.ncaa.org/team/28755/12620
+2018	12620	231	FIU	http://stats.ncaa.org/team/231/12620
+2018	12620	220	Fairfield	http://stats.ncaa.org/team/220/12620
+2018	12620	222	Fairleigh Dickinson	http://stats.ncaa.org/team/222/12620
+2018	12620	229	Fla. Atlantic	http://stats.ncaa.org/team/229/12620
+2018	12620	235	Florida	http://stats.ncaa.org/team/235/12620
+2018	12620	228	Florida A&M	http://stats.ncaa.org/team/228/12620
+2018	12620	234	Florida St.	http://stats.ncaa.org/team/234/12620
+2018	12620	236	Fordham	http://stats.ncaa.org/team/236/12620
+2018	12620	308	Fort Wayne	http://stats.ncaa.org/team/308/12620
+2018	12620	96	Fresno St.	http://stats.ncaa.org/team/96/12620
+2018	12620	244	Furman	http://stats.ncaa.org/team/244/12620
+2018	12620	253	Ga. Southern	http://stats.ncaa.org/team/253/12620
+2018	12620	1092	Gardner-Webb	http://stats.ncaa.org/team/1092/12620
+2018	12620	248	George Mason	http://stats.ncaa.org/team/248/12620
+2018	12620	249	George Washington	http://stats.ncaa.org/team/249/12620
+2018	12620	251	Georgetown	http://stats.ncaa.org/team/251/12620
+2018	12620	257	Georgia	http://stats.ncaa.org/team/257/12620
+2018	12620	254	Georgia St.	http://stats.ncaa.org/team/254/12620
+2018	12620	255	Georgia Tech	http://stats.ncaa.org/team/255/12620
+2018	12620	260	Gonzaga	http://stats.ncaa.org/team/260/12620
+2018	12620	261	Grambling	http://stats.ncaa.org/team/261/12620
+2018	12620	1104	Grand Canyon	http://stats.ncaa.org/team/1104/12620
+2018	12620	794	Green Bay	http://stats.ncaa.org/team/794/12620
+2018	12620	270	Hampton	http://stats.ncaa.org/team/270/12620
+2018	12620	272	Hartford	http://stats.ncaa.org/team/272/12620
+2018	12620	275	Harvard	http://stats.ncaa.org/team/275/12620
+2018	12620	277	Hawaii	http://stats.ncaa.org/team/277/12620
+2018	12620	19651	High Point	http://stats.ncaa.org/team/19651/12620
+2018	12620	283	Hofstra	http://stats.ncaa.org/team/283/12620
+2018	12620	285	Holy Cross	http://stats.ncaa.org/team/285/12620
+2018	12620	288	Houston	http://stats.ncaa.org/team/288/12620
+2018	12620	287	Houston Baptist	http://stats.ncaa.org/team/287/12620
+2018	12620	290	Howard	http://stats.ncaa.org/team/290/12620
+2018	12620	2699	IUPUI	http://stats.ncaa.org/team/2699/12620
+2018	12620	295	Idaho	http://stats.ncaa.org/team/295/12620
+2018	12620	294	Idaho St.	http://stats.ncaa.org/team/294/12620
+2018	12620	302	Ill.-Chicago	http://stats.ncaa.org/team/302/12620
+2018	12620	301	Illinois	http://stats.ncaa.org/team/301/12620
+2018	12620	299	Illinois St.	http://stats.ncaa.org/team/299/12620
+2018	12620	2743	Incarnate Word	http://stats.ncaa.org/team/2743/12620
+2018	12620	306	Indiana	http://stats.ncaa.org/team/306/12620
+2018	12620	305	Indiana St.	http://stats.ncaa.org/team/305/12620
+2018	12620	310	Iona	http://stats.ncaa.org/team/310/12620
+2018	12620	312	Iowa	http://stats.ncaa.org/team/312/12620
+2018	12620	311	Iowa St.	http://stats.ncaa.org/team/311/12620
+2018	12620	314	Jackson St.	http://stats.ncaa.org/team/314/12620
+2018	12620	316	Jacksonville	http://stats.ncaa.org/team/316/12620
+2018	12620	315	Jacksonville St.	http://stats.ncaa.org/team/315/12620
+2018	12620	317	James Madison	http://stats.ncaa.org/team/317/12620
+2018	12620	328	Kansas	http://stats.ncaa.org/team/328/12620
+2018	12620	327	Kansas St.	http://stats.ncaa.org/team/327/12620
+2018	12620	1157	Kennesaw St.	http://stats.ncaa.org/team/1157/12620
+2018	12620	331	Kent St.	http://stats.ncaa.org/team/331/12620
+2018	12620	334	Kentucky	http://stats.ncaa.org/team/334/12620
+2018	12620	361	LIU Brooklyn	http://stats.ncaa.org/team/361/12620
+2018	12620	365	LSU	http://stats.ncaa.org/team/365/12620
+2018	12620	340	La Salle	http://stats.ncaa.org/team/340/12620
+2018	12620	498	La.-Monroe	http://stats.ncaa.org/team/498/12620
+2018	12620	342	Lafayette	http://stats.ncaa.org/team/342/12620
+2018	12620	346	Lamar University	http://stats.ncaa.org/team/346/12620
+2018	12620	352	Lehigh	http://stats.ncaa.org/team/352/12620
+2018	12620	355	Liberty	http://stats.ncaa.org/team/355/12620
+2018	12620	28600	Lipscomb	http://stats.ncaa.org/team/28600/12620
+2018	12620	32	Little Rock	http://stats.ncaa.org/team/32/12620
+2018	12620	99	Long Beach St.	http://stats.ncaa.org/team/99/12620
+2018	12620	363	Longwood	http://stats.ncaa.org/team/363/12620
+2018	12620	671	Louisiana	http://stats.ncaa.org/team/671/12620
+2018	12620	366	Louisiana Tech	http://stats.ncaa.org/team/366/12620
+2018	12620	367	Louisville	http://stats.ncaa.org/team/367/12620
+2018	12620	371	Loyola Chicago	http://stats.ncaa.org/team/371/12620
+2018	12620	369	Loyola Maryland	http://stats.ncaa.org/team/369/12620
+2018	12620	370	Loyola Marymount	http://stats.ncaa.org/team/370/12620
+2018	12620	380	Maine	http://stats.ncaa.org/team/380/12620
+2018	12620	381	Manhattan	http://stats.ncaa.org/team/381/12620
+2018	12620	386	Marist	http://stats.ncaa.org/team/386/12620
+2018	12620	387	Marquette	http://stats.ncaa.org/team/387/12620
+2018	12620	388	Marshall	http://stats.ncaa.org/team/388/12620
+2018	12620	392	Maryland	http://stats.ncaa.org/team/392/12620
+2018	12620	400	Massachusetts	http://stats.ncaa.org/team/400/12620
+2018	12620	402	McNeese	http://stats.ncaa.org/team/402/12620
+2018	12620	404	Memphis	http://stats.ncaa.org/team/404/12620
+2018	12620	406	Mercer	http://stats.ncaa.org/team/406/12620
+2018	12620	415	Miami (FL)	http://stats.ncaa.org/team/415/12620
+2018	12620	414	Miami (OH)	http://stats.ncaa.org/team/414/12620
+2018	12620	418	Michigan	http://stats.ncaa.org/team/418/12620
+2018	12620	416	Michigan St.	http://stats.ncaa.org/team/416/12620
+2018	12620	419	Middle Tenn.	http://stats.ncaa.org/team/419/12620
+2018	12620	797	Milwaukee	http://stats.ncaa.org/team/797/12620
+2018	12620	428	Minnesota	http://stats.ncaa.org/team/428/12620
+2018	12620	430	Mississippi St.	http://stats.ncaa.org/team/430/12620
+2018	12620	432	Mississippi Val.	http://stats.ncaa.org/team/432/12620
+2018	12620	434	Missouri	http://stats.ncaa.org/team/434/12620
+2018	12620	669	Missouri St.	http://stats.ncaa.org/team/669/12620
+2018	12620	439	Monmouth	http://stats.ncaa.org/team/439/12620
+2018	12620	441	Montana	http://stats.ncaa.org/team/441/12620
+2018	12620	440	Montana St.	http://stats.ncaa.org/team/440/12620
+2018	12620	444	Morehead St.	http://stats.ncaa.org/team/444/12620
+2018	12620	446	Morgan St.	http://stats.ncaa.org/team/446/12620
+2018	12620	450	Mt. St. Mary's	http://stats.ncaa.org/team/450/12620
+2018	12620	454	Murray St.	http://stats.ncaa.org/team/454/12620
+2018	12620	488	N.C. A&T	http://stats.ncaa.org/team/488/12620
+2018	12620	489	N.C. Central	http://stats.ncaa.org/team/489/12620
+2018	12620	490	NC State	http://stats.ncaa.org/team/490/12620
+2018	12620	471	NJIT	http://stats.ncaa.org/team/471/12620
+2018	12620	726	Navy	http://stats.ncaa.org/team/726/12620
+2018	12620	463	Nebraska	http://stats.ncaa.org/team/463/12620
+2018	12620	466	Nevada	http://stats.ncaa.org/team/466/12620
+2018	12620	469	New Hampshire	http://stats.ncaa.org/team/469/12620
+2018	12620	473	New Mexico	http://stats.ncaa.org/team/473/12620
+2018	12620	472	New Mexico St.	http://stats.ncaa.org/team/472/12620
+2018	12620	474	New Orleans	http://stats.ncaa.org/team/474/12620
+2018	12620	482	Niagara	http://stats.ncaa.org/team/482/12620
+2018	12620	483	Nicholls St.	http://stats.ncaa.org/team/483/12620
+2018	12620	485	Norfolk St.	http://stats.ncaa.org/team/485/12620
+2018	12620	457	North Carolina	http://stats.ncaa.org/team/457/12620
+2018	12620	494	North Dakota	http://stats.ncaa.org/team/494/12620
+2018	12620	493	North Dakota St.	http://stats.ncaa.org/team/493/12620
+2018	12620	2711	North Florida	http://stats.ncaa.org/team/2711/12620
+2018	12620	497	North Texas	http://stats.ncaa.org/team/497/12620
+2018	12620	500	Northeastern	http://stats.ncaa.org/team/500/12620
+2018	12620	501	Northern Ariz.	http://stats.ncaa.org/team/501/12620
+2018	12620	502	Northern Colo.	http://stats.ncaa.org/team/502/12620
+2018	12620	503	Northern Ill.	http://stats.ncaa.org/team/503/12620
+2018	12620	505	Northern Ky.	http://stats.ncaa.org/team/505/12620
+2018	12620	509	Northwestern	http://stats.ncaa.org/team/509/12620
+2018	12620	508	Northwestern St.	http://stats.ncaa.org/team/508/12620
+2018	12620	513	Notre Dame	http://stats.ncaa.org/team/513/12620
+2018	12620	514	Oakland	http://stats.ncaa.org/team/514/12620
+2018	12620	519	Ohio	http://stats.ncaa.org/team/519/12620
+2018	12620	518	Ohio St.	http://stats.ncaa.org/team/518/12620
+2018	12620	522	Oklahoma	http://stats.ncaa.org/team/522/12620
+2018	12620	521	Oklahoma St.	http://stats.ncaa.org/team/521/12620
+2018	12620	523	Old Dominion	http://stats.ncaa.org/team/523/12620
+2018	12620	433	Ole Miss	http://stats.ncaa.org/team/433/12620
+2018	12620	464	Omaha	http://stats.ncaa.org/team/464/12620
+2018	12620	527	Oral Roberts	http://stats.ncaa.org/team/527/12620
+2018	12620	529	Oregon	http://stats.ncaa.org/team/529/12620
+2018	12620	528	Oregon St.	http://stats.ncaa.org/team/528/12620
+2018	12620	534	Pacific	http://stats.ncaa.org/team/534/12620
+2018	12620	540	Penn	http://stats.ncaa.org/team/540/12620
+2018	12620	539	Penn St.	http://stats.ncaa.org/team/539/12620
+2018	12620	541	Pepperdine	http://stats.ncaa.org/team/541/12620
+2018	12620	545	Pittsburgh	http://stats.ncaa.org/team/545/12620
+2018	12620	551	Portland	http://stats.ncaa.org/team/551/12620
+2018	12620	550	Portland St.	http://stats.ncaa.org/team/550/12620
+2018	12620	553	Prairie View	http://stats.ncaa.org/team/553/12620
+2018	12620	1320	Presbyterian	http://stats.ncaa.org/team/1320/12620
+2018	12620	554	Princeton	http://stats.ncaa.org/team/554/12620
+2018	12620	556	Providence	http://stats.ncaa.org/team/556/12620
+2018	12620	559	Purdue	http://stats.ncaa.org/team/559/12620
+2018	12620	562	Quinnipiac	http://stats.ncaa.org/team/562/12620
+2018	12620	563	Radford	http://stats.ncaa.org/team/563/12620
+2018	12620	572	Rhode Island	http://stats.ncaa.org/team/572/12620
+2018	12620	574	Rice	http://stats.ncaa.org/team/574/12620
+2018	12620	575	Richmond	http://stats.ncaa.org/team/575/12620
+2018	12620	576	Rider	http://stats.ncaa.org/team/576/12620
+2018	12620	579	Robert Morris	http://stats.ncaa.org/team/579/12620
+2018	12620	587	Rutgers	http://stats.ncaa.org/team/587/12620
+2018	12620	676	SFA	http://stats.ncaa.org/team/676/12620
+2018	12620	660	SIUE	http://stats.ncaa.org/team/660/12620
+2018	12620	663	SMU	http://stats.ncaa.org/team/663/12620
+2018	12620	102	Sacramento St.	http://stats.ncaa.org/team/102/12620
+2018	12620	590	Sacred Heart	http://stats.ncaa.org/team/590/12620
+2018	12620	600	Saint Francis (PA)	http://stats.ncaa.org/team/600/12620
+2018	12620	606	Saint Joseph's	http://stats.ncaa.org/team/606/12620
+2018	12620	609	Saint Louis	http://stats.ncaa.org/team/609/12620
+2018	12620	610	Saint Mary's (CA)	http://stats.ncaa.org/team/610/12620
+2018	12620	617	Saint Peter's	http://stats.ncaa.org/team/617/12620
+2018	12620	624	Sam Houston St.	http://stats.ncaa.org/team/624/12620
+2018	12620	625	Samford	http://stats.ncaa.org/team/625/12620
+2018	12620	627	San Diego	http://stats.ncaa.org/team/627/12620
+2018	12620	626	San Diego St.	http://stats.ncaa.org/team/626/12620
+2018	12620	629	San Francisco	http://stats.ncaa.org/team/629/12620
+2018	12620	630	San Jose St.	http://stats.ncaa.org/team/630/12620
+2018	12620	631	Santa Clara	http://stats.ncaa.org/team/631/12620
+2018	12620	632	Savannah St.	http://stats.ncaa.org/team/632/12620
+2018	12620	1356	Seattle U	http://stats.ncaa.org/team/1356/12620
+2018	12620	635	Seton Hall	http://stats.ncaa.org/team/635/12620
+2018	12620	639	Siena	http://stats.ncaa.org/team/639/12620
+2018	12620	646	South Ala.	http://stats.ncaa.org/team/646/12620
+2018	12620	648	South Carolina	http://stats.ncaa.org/team/648/12620
+2018	12620	647	South Carolina St.	http://stats.ncaa.org/team/647/12620
+2018	12620	650	South Dakota	http://stats.ncaa.org/team/650/12620
+2018	12620	649	South Dakota St.	http://stats.ncaa.org/team/649/12620
+2018	12620	651	South Fla.	http://stats.ncaa.org/team/651/12620
+2018	12620	654	Southeast Mo. St.	http://stats.ncaa.org/team/654/12620
+2018	12620	655	Southeastern La.	http://stats.ncaa.org/team/655/12620
+2018	12620	657	Southern California	http://stats.ncaa.org/team/657/12620
+2018	12620	659	Southern Ill.	http://stats.ncaa.org/team/659/12620
+2018	12620	664	Southern Miss.	http://stats.ncaa.org/team/664/12620
+2018	12620	665	Southern U.	http://stats.ncaa.org/team/665/12620
+2018	12620	667	Southern Utah	http://stats.ncaa.org/team/667/12620
+2018	12620	596	St. Bonaventure	http://stats.ncaa.org/team/596/12620
+2018	12620	599	St. Francis Brooklyn	http://stats.ncaa.org/team/599/12620
+2018	12620	603	St. John's (NY)	http://stats.ncaa.org/team/603/12620
+2018	12620	674	Stanford	http://stats.ncaa.org/team/674/12620
+2018	12620	678	Stetson	http://stats.ncaa.org/team/678/12620
+2018	12620	683	Stony Brook	http://stats.ncaa.org/team/683/12620
+2018	12620	688	Syracuse	http://stats.ncaa.org/team/688/12620
+2018	12620	698	TCU	http://stats.ncaa.org/team/698/12620
+2018	12620	690	Temple	http://stats.ncaa.org/team/690/12620
+2018	12620	694	Tennessee	http://stats.ncaa.org/team/694/12620
+2018	12620	691	Tennessee St.	http://stats.ncaa.org/team/691/12620
+2018	12620	692	Tennessee Tech	http://stats.ncaa.org/team/692/12620
+2018	12620	703	Texas	http://stats.ncaa.org/team/703/12620
+2018	12620	697	Texas A&M	http://stats.ncaa.org/team/697/12620
+2018	12620	699	Texas Southern	http://stats.ncaa.org/team/699/12620
+2018	12620	670	Texas St.	http://stats.ncaa.org/team/670/12620
+2018	12620	700	Texas Tech	http://stats.ncaa.org/team/700/12620
+2018	12620	141	The Citadel	http://stats.ncaa.org/team/141/12620
+2018	12620	709	Toledo	http://stats.ncaa.org/team/709/12620
+2018	12620	711	Towson	http://stats.ncaa.org/team/711/12620
+2018	12620	716	Troy	http://stats.ncaa.org/team/716/12620
+2018	12620	718	Tulane	http://stats.ncaa.org/team/718/12620
+2018	12620	719	Tulsa	http://stats.ncaa.org/team/719/12620
+2018	12620	9	UAB	http://stats.ncaa.org/team/9/12620
+2018	12620	108	UC Davis	http://stats.ncaa.org/team/108/12620
+2018	12620	109	UC Irvine	http://stats.ncaa.org/team/109/12620
+2018	12620	111	UC Riverside	http://stats.ncaa.org/team/111/12620
+2018	12620	104	UC Santa Barbara	http://stats.ncaa.org/team/104/12620
+2018	12620	128	UCF	http://stats.ncaa.org/team/128/12620
+2018	12620	110	UCLA	http://stats.ncaa.org/team/110/12620
+2018	12620	164	UConn	http://stats.ncaa.org/team/164/12620
+2018	12620	391	UMBC	http://stats.ncaa.org/team/391/12620
+2018	12620	393	UMES	http://stats.ncaa.org/team/393/12620
+2018	12620	2707	UMKC	http://stats.ncaa.org/team/2707/12620
+2018	12620	368	UMass Lowell	http://stats.ncaa.org/team/368/12620
+2018	12620	456	UNC Asheville	http://stats.ncaa.org/team/456/12620
+2018	12620	459	UNCG	http://stats.ncaa.org/team/459/12620
+2018	12620	460	UNCW	http://stats.ncaa.org/team/460/12620
+2018	12620	504	UNI	http://stats.ncaa.org/team/504/12620
+2018	12620	465	UNLV	http://stats.ncaa.org/team/465/12620
+2018	12620	10411	USC Upstate	http://stats.ncaa.org/team/10411/12620
+2018	12620	702	UT Arlington	http://stats.ncaa.org/team/702/12620
+2018	12620	695	UT Martin	http://stats.ncaa.org/team/695/12620
+2018	12620	704	UTEP	http://stats.ncaa.org/team/704/12620
+2018	12620	536	UTRGV	http://stats.ncaa.org/team/536/12620
+2018	12620	706	UTSA	http://stats.ncaa.org/team/706/12620
+2018	12620	732	Utah	http://stats.ncaa.org/team/732/12620
+2018	12620	731	Utah St.	http://stats.ncaa.org/team/731/12620
+2018	12620	30024	Utah Valley	http://stats.ncaa.org/team/30024/12620
+2018	12620	740	VCU	http://stats.ncaa.org/team/740/12620
+2018	12620	741	VMI	http://stats.ncaa.org/team/741/12620
+2018	12620	735	Valparaiso	http://stats.ncaa.org/team/735/12620
+2018	12620	736	Vanderbilt	http://stats.ncaa.org/team/736/12620
+2018	12620	738	Vermont	http://stats.ncaa.org/team/738/12620
+2018	12620	739	Villanova	http://stats.ncaa.org/team/739/12620
+2018	12620	746	Virginia	http://stats.ncaa.org/team/746/12620
+2018	12620	742	Virginia Tech	http://stats.ncaa.org/team/742/12620
+2018	12620	748	Wagner	http://stats.ncaa.org/team/748/12620
+2018	12620	749	Wake Forest	http://stats.ncaa.org/team/749/12620
+2018	12620	756	Washington	http://stats.ncaa.org/team/756/12620
+2018	12620	754	Washington St.	http://stats.ncaa.org/team/754/12620
+2018	12620	758	Weber St.	http://stats.ncaa.org/team/758/12620
+2018	12620	768	West Virginia	http://stats.ncaa.org/team/768/12620
+2018	12620	769	Western Caro.	http://stats.ncaa.org/team/769/12620
+2018	12620	771	Western Ill.	http://stats.ncaa.org/team/771/12620
+2018	12620	772	Western Ky.	http://stats.ncaa.org/team/772/12620
+2018	12620	774	Western Mich.	http://stats.ncaa.org/team/774/12620
+2018	12620	782	Wichita St.	http://stats.ncaa.org/team/782/12620
+2018	12620	786	William & Mary	http://stats.ncaa.org/team/786/12620
+2018	12620	792	Winthrop	http://stats.ncaa.org/team/792/12620
+2018	12620	796	Wisconsin	http://stats.ncaa.org/team/796/12620
+2018	12620	2915	Wofford	http://stats.ncaa.org/team/2915/12620
+2018	12620	810	Wright St.	http://stats.ncaa.org/team/810/12620
+2018	12620	811	Wyoming	http://stats.ncaa.org/team/811/12620
+2018	12620	812	Xavier	http://stats.ncaa.org/team/812/12620
+2018	12620	813	Yale	http://stats.ncaa.org/team/813/12620
+2018	12620	817	Youngstown St.	http://stats.ncaa.org/team/817/12620
