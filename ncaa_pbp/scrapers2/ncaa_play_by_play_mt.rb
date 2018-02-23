@@ -126,7 +126,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
         if not(raw_time==nil) and (raw_time.include?(":"))
           minutes = raw_time.split(":")[0]
           seconds = raw_time.split(":")[1]
-          if (seconds.size==3)
+          if not(seconds==nil) and (seconds.size==3)
             minutes = "1"+minutes
             seconds = seconds[0..1]
             time = minutes+":"+seconds
