@@ -389,7 +389,6 @@
 9011,Fort Hays St.
 1083,Fort Lewis
 237,Fort Valley St.
-308,Fort Wayne
 238,Framingham St.
 1085,Francis Marion
 30069,Franciscan
@@ -492,7 +491,6 @@
 502260,IIT
 502239,Ill. Central
 300,Ill. Wesleyan
-302,Ill.-Chicago
 30050,Ill.-Springfield
 506079,Ill.-Springfield
 301,Illinois
@@ -524,7 +522,6 @@
 30046,Johnson & Wales (CO)
 22626,Johnson & Wales (RI)
 323,Johnson C. Smith
-324,Johnson St.
 325,Juniata
 326,Kalamazoo
 506103,Kan. Wesleyan
@@ -584,8 +581,8 @@
 357,Lincoln (PA)
 30066,Lincoln Christian
 1176,Lincoln Memorial
-502725,Lindenwood (MO)
 30136,Lindenwood (MO)
+502725,Lindenwood (MO)
 1179,Linfield
 28600,Lipscomb
 32,Little Rock
@@ -611,7 +608,6 @@
 372,Luther
 373,Lycoming
 374,Lynchburg
-30065,Lyndon St.
 20794,Lynn
 376,Macalester
 377,MacMurray
@@ -678,7 +674,6 @@
 420,Middlebury
 506060,Midland
 506398,Midwestern (IA)
-1222,Midwestern St.
 422,Miles
 423,Millersville
 503195,Milligan
@@ -733,6 +728,7 @@
 20220,MSOE
 413,MSU Denver
 1240,MSU Moorhead
+1222,MSU Texas
 506043,Mt. Aloysius
 8567,Mt. St. Joseph
 1468,Mt. St. Mary (NY)
@@ -796,8 +792,8 @@
 1274,Northwest Nazarene
 509,Northwestern
 506072,Northwestern (IA)
-506013,Northwestern Okla.
 30178,Northwestern Okla.
+506013,Northwestern Okla.
 508,Northwestern St.
 30031,Northwestern-St.Paul
 510,Northwood
@@ -807,6 +803,8 @@
 30126,Notre Dame (OH)
 30056,Notre Dame de Namur
 24639,Nova Southeastern
+324,NVU-Johnson
+30065,NVU-Lyndon
 1277,Nyack
 477,NYIT
 479,NYU
@@ -852,14 +850,14 @@
 2751,Pacific (OR)
 1297,Pacific Lutheran
 535,Paine
-30045,Palm Beach Atl.
 504035,Palm Beach Atl.
+30045,Palm Beach Atl.
 504050,Park
 506252,Parsons
 504055,Paul Quinn
 540,Penn
-30190,Penn College
 506288,Penn College
+30190,Penn College
 539,Penn St.
 30081,Penn St. Harrisburg
 30114,Penn St.-Abington
@@ -899,6 +897,7 @@
 557,Puget Sound
 30029,Purchase
 559,Purdue
+308,Purdue Fort Wayne
 504255,Purdue Northwest
 30222,Purdue Northwest
 506441,Quantico Marines
@@ -1010,7 +1009,7 @@
 644,Smith
 663,SMU
 645,Sonoma St.
-646,South Ala.
+646,South Alabama
 648,South Carolina
 647,South Carolina St.
 650,South Dakota
@@ -1105,6 +1104,7 @@
 1390,Sul Ross St.
 30165,SUNY Canton
 168,SUNY Cortland
+30225,SUNY Delhi
 247,SUNY Geneseo
 506001,SUNY Geneva
 478,SUNY Maritime
@@ -1179,6 +1179,7 @@
 128,UCF
 110,UCLA
 164,UConn
+302,UIC
 309,UIndy
 401,UMass Boston
 656,UMass Dartmouth
@@ -1187,8 +1188,8 @@
 393,UMES
 2707,UMKC
 456,UNC Asheville
+459,UNC Greensboro
 537,UNC Pembroke
-459,UNCG
 460,UNCW
 504,UNI
 506105,Union (KY)

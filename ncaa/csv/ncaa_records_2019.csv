@@ -1,0 +1,1091 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2019,26172,A&M-Corpus Christi,5,8,0,13
+2019,2,Abilene Christian,11,2,0,13
+2019,30123,Academy of Art,2,8,0,10
+2019,929,Adams St.,3,7,0,10
+2019,3,Adelphi,6,6,0,12
+2019,4,Adrian,3,8,0,11
+2019,721,Air Force,5,7,0,12
+2019,5,Akron,8,5,0,13
+2019,10,Alabama Huntsville,9,3,0,12
+2019,8,Alabama,9,3,0,12
+2019,6,Alabama A&M,1,13,0,14
+2019,7,Alabama St.,2,9,0,11
+2019,11,Alas. Anchorage,5,6,0,11
+2019,12,Alas. Fairbanks,5,5,0,10
+2019,14,Albany (NY),5,10,0,15
+2019,13,Albany St. (GA),5,10,0,15
+2019,2798,Albertus Magnus,8,3,0,11
+2019,15,Albion,7,4,0,11
+2019,16,Albright,4,9,0,13
+2019,17,Alcorn,4,8,0,12
+2019,934,Alderson Broaddus,5,6,1,12
+2019,18,Alfred,7,1,0,8
+2019,30170,Alfred St.,7,5,0,12
+2019,19,Allegheny,4,7,0,11
+2019,21,Alma,1,11,0,12
+2019,938,Alvernia,4,8,0,12
+2019,23,American,6,5,0,11
+2019,22,American Int'l,6,7,0,13
+2019,24,Amherst,8,1,0,9
+2019,939,Anderson (IN),3,8,0,11
+2019,13028,Anderson (SC),8,4,0,12
+2019,25,Angelo St.,9,4,0,13
+2019,26,Anna Maria,4,9,0,13
+2019,27,Appalachian St.,5,8,0,13
+2019,966,Arcadia,9,2,0,11
+2019,29,Arizona,9,4,0,13
+2019,28,Arizona St.,9,3,0,12
+2019,30105,Ark.-Fort Smith,5,8,0,13
+2019,8411,Ark.-Monticello,7,4,0,11
+2019,2678,Ark.-Pine Bluff,3,10,0,13
+2019,31,Arkansas,9,3,0,12
+2019,30,Arkansas St.,6,7,0,13
+2019,947,Arkansas Tech,2,8,0,10
+2019,725,Army West Point,5,8,0,13
+2019,35,Ashland,11,0,0,11
+2019,36,Assumption,5,7,0,12
+2019,37,Auburn,11,2,0,13
+2019,38,Augsburg,7,2,0,9
+2019,39,Augusta,6,3,0,9
+2019,40,Augustana (IL),11,1,0,12
+2019,41,Augustana (SD),9,3,0,12
+2019,30093,AUM,4,8,0,12
+2019,42,Aurora,4,7,0,11
+2019,953,Austin,5,6,0,11
+2019,43,Austin Peay,8,5,0,13
+2019,44,Averett,1,10,0,11
+2019,30146,Azusa Pacific,8,6,0,14
+2019,45,Babson,7,4,0,11
+2019,46,Baldwin Wallace,7,4,0,11
+2019,47,Ball St.,9,4,0,13
+2019,962,Bard,6,3,0,9
+2019,49,Barry,8,3,0,11
+2019,15646,Barton,9,5,0,14
+2019,58,Baruch,8,3,0,11
+2019,50,Bates,2,9,0,11
+2019,51,Baylor,8,4,0,12
+2019,26107,Becker,2,7,0,9
+2019,30197,Belhaven,5,6,0,11
+2019,52,Bellarmine,10,0,0,10
+2019,14927,Belmont,9,2,0,11
+2019,2683,Belmont Abbey,10,3,0,13
+2019,53,Beloit,5,6,0,11
+2019,54,Bemidji St.,4,8,0,12
+2019,55,Benedict,2,9,0,11
+2019,296,Benedictine (IL),6,7,0,13
+2019,56,Bentley,11,1,0,12
+2019,30171,Berea,7,4,0,11
+2019,973,Berry,8,3,0,11
+2019,59,Bethany (WV),1,11,0,12
+2019,30038,Bethany Lutheran,8,6,0,14
+2019,60,Bethel (MN),6,4,0,10
+2019,61,Bethune-Cookman,5,9,0,14
+2019,62,Binghamton,4,10,0,14
+2019,30220,Biola,6,5,0,11
+2019,28593,Birmingham-So.,6,6,0,12
+2019,30134,Black Hills St.,6,3,0,9
+2019,64,Blackburn,4,9,0,13
+2019,984,Bloomfield,4,7,0,11
+2019,65,Bloomsburg,3,6,0,9
+2019,985,Bluefield St.,4,8,1,13
+2019,987,Bluffton,8,2,0,10
+2019,66,Boise St.,5,8,0,13
+2019,67,Boston College,9,3,0,12
+2019,68,Boston U.,7,6,0,13
+2019,69,Bowdoin,7,3,0,10
+2019,70,Bowie St.,5,7,0,12
+2019,71,Bowling Green,8,5,0,13
+2019,72,Bradley,8,5,0,13
+2019,73,Brandeis,7,3,0,10
+2019,30094,Brevard,4,8,0,12
+2019,74,Bridgeport,5,8,0,13
+2019,75,Bridgewater (VA),6,7,0,13
+2019,76,Bridgewater St.,2,10,0,12
+2019,78,Brockport,6,4,0,10
+2019,79,Brooklyn,6,4,0,10
+2019,80,Brown,9,4,0,13
+2019,81,Bryant,3,8,0,11
+2019,30188,Bryn Athyn,3,10,0,13
+2019,83,Bucknell,6,6,0,12
+2019,84,Buena Vista,7,7,0,14
+2019,86,Buffalo,12,1,0,13
+2019,85,Buffalo St.,3,6,0,9
+2019,87,Butler,9,4,0,13
+2019,77,BYU,8,7,0,15
+2019,88,Cabrini,2,10,0,12
+2019,1305,Cairn,7,6,0,13
+2019,105,Cal Lutheran,2,9,0,11
+2019,90,Cal Poly,3,9,0,12
+2019,91,Cal Poly Pomona,5,3,0,8
+2019,92,Cal St. Dom. Hills,6,6,0,12
+2019,98,Cal St. East Bay,10,2,0,12
+2019,97,Cal St. Fullerton,4,10,0,14
+2019,100,Cal St. LA,8,4,0,12
+2019,30055,Cal St. Monterey Bay,0,12,0,12
+2019,93,Cal St. San B'dino,7,5,0,12
+2019,30198,Cal St. San Marcos,3,11,0,14
+2019,995,Caldwell,6,6,0,12
+2019,107,California,5,7,0,12
+2019,106,California (PA),3,7,0,10
+2019,30135,California Baptist,8,5,0,13
+2019,89,Caltech,6,4,0,10
+2019,114,Calvin,5,7,0,12
+2019,996,Cameron,4,8,0,12
+2019,115,Campbell,6,7,0,13
+2019,116,Canisius,3,8,0,11
+2019,117,Capital,10,2,0,12
+2019,118,Carleton,3,7,0,10
+2019,119,Carnegie Mellon,4,7,0,11
+2019,120,Carroll (WI),5,8,0,13
+2019,1000,Carson-Newman,7,4,0,11
+2019,121,Carthage,6,6,0,12
+2019,123,Castleton,3,8,0,11
+2019,1001,Catawba,8,2,1,11
+2019,124,Catholic,4,7,0,11
+2019,23624,Cazenovia,4,6,0,10
+2019,480,CCNY,1,10,0,11
+2019,30124,Cedarville,7,8,0,15
+2019,125,Centenary (LA),4,10,0,14
+2019,12884,Centenary (NJ),4,10,0,14
+2019,126,Central (IA),4,7,0,11
+2019,1004,Central Ark.,5,8,0,13
+2019,127,Central Conn. St.,6,7,0,13
+2019,129,Central Mich.,11,2,0,13
+2019,130,Central Mo.,7,4,0,11
+2019,1009,Central Okla.,7,4,0,11
+2019,30049,Central St. (OH),1,13,0,14
+2019,1010,Central Wash.,6,6,0,12
+2019,132,Centre,10,2,0,12
+2019,1012,Chadron St.,5,6,0,11
+2019,133,Chaminade,10,1,0,11
+2019,134,Chapman,6,5,0,11
+2019,1013,Charleston (WV),7,4,0,11
+2019,48,Charleston So.,6,7,0,13
+2019,458,Charlotte,3,8,0,11
+2019,10972,Chatham,8,4,0,12
+2019,693,Chattanooga,6,9,0,15
+2019,21323,Chestnut Hill,3,7,0,10
+2019,137,Chicago,7,4,0,11
+2019,136,Chicago St.,3,12,0,15
+2019,95,Chico St.,4,3,0,7
+2019,8875,Chowan,8,1,0,9
+2019,139,Chris. Newport,10,1,0,11
+2019,1015,Christian Brothers,8,4,0,12
+2019,140,Cincinnati,11,2,0,13
+2019,30058,Claflin,5,8,0,13
+2019,142,Claremont-M-S,5,4,0,9
+2019,143,Clarion,3,7,0,10
+2019,145,Clark (MA),4,7,0,11
+2019,144,Clark Atlanta,5,7,0,12
+2019,958,Clarks Summit,0,11,0,11
+2019,146,Clarkson,1,9,0,10
+2019,20576,Clayton St.,4,5,0,9
+2019,147,Clemson,10,3,0,13
+2019,148,Cleveland St.,5,10,0,15
+2019,451,CMSV,4,5,1,10
+2019,722,Coast Guard,9,1,0,10
+2019,149,Coastal Caro.,6,6,0,12
+2019,30083,Cobleskill St.,6,4,0,10
+2019,150,Coe,7,6,0,13
+2019,1023,Coker,2,9,0,11
+2019,1014,Col. of Charleston,12,2,0,14
+2019,151,Colby,8,2,0,10
+2019,152,Colby-Sawyer,6,5,0,11
+2019,153,Colgate,8,5,0,13
+2019,11403,Colo. Christian,2,10,0,12
+2019,155,Colo. Sch. of Mines,8,3,0,11
+2019,157,Colorado,9,3,0,12
+2019,154,Colorado Col.,5,10,0,15
+2019,11416,Colorado Mesa,8,3,0,11
+2019,156,Colorado St.,5,8,0,13
+2019,2720,Colorado St.-Pueblo,3,8,0,11
+2019,158,Columbia,3,9,0,12
+2019,159,Columbus St.,5,4,0,9
+2019,1028,Concord,9,2,0,11
+2019,30199,Concordia (CA),11,5,0,16
+2019,162,Concordia (NY),4,7,0,11
+2019,24400,Concordia (TX),4,10,0,14
+2019,160,Concordia Chicago,2,9,0,11
+2019,30200,Concordia Portland,5,5,0,10
+2019,1036,Concordia Wisconsin,5,4,0,9
+2019,161,Concordia-M'head,1,9,0,10
+2019,9081,Concordia-St. Paul,5,7,0,12
+2019,163,Connecticut Col.,4,6,0,10
+2019,165,Coppin St.,0,15,0,15
+2019,167,Cornell,6,7,0,13
+2019,166,Cornell College,2,9,0,11
+2019,30111,Covenant,5,7,0,12
+2019,169,Creighton,10,4,0,14
+2019,30035,Crown (MN),8,5,0,13
+2019,94,CSU Bakersfield,8,5,0,13
+2019,101,CSUN,6,9,0,15
+2019,170,Curry,1,11,0,12
+2019,122,CWRU,7,3,0,10
+2019,1059,D'Youville,4,4,0,8
+2019,30174,Daemen,9,1,0,10
+2019,1044,Dallas,3,7,0,10
+2019,172,Dartmouth,9,6,0,15
+2019,30221,Davenport,9,2,0,11
+2019,173,Davidson,9,4,0,13
+2019,174,Davis & Elkins,2,9,0,11
+2019,175,Dayton,8,5,0,13
+2019,1045,DBU,9,4,0,13
+2019,30219,Dean,6,4,0,10
+2019,1050,Defiance,2,10,0,12
+2019,180,Delaware,9,6,0,15
+2019,178,Delaware St.,3,10,0,13
+2019,179,Delaware Valley,6,6,0,12
+2019,181,Delta St.,7,4,0,11
+2019,182,Denison,4,6,0,10
+2019,183,Denver,5,11,0,16
+2019,176,DePaul,8,4,0,12
+2019,177,DePauw,8,4,0,12
+2019,20,DeSales,8,4,0,12
+2019,184,Detroit Mercy,5,9,0,14
+2019,185,Dickinson,4,7,0,11
+2019,186,Dist. Columbia,7,5,0,12
+2019,30095,Dixie St.,4,6,0,10
+2019,30118,Dominican (CA),5,8,0,13
+2019,1332,Dominican (IL),2,9,0,11
+2019,8956,Dominican (NY),8,2,0,10
+2019,189,Drake,11,2,0,13
+2019,190,Drew,8,3,0,11
+2019,191,Drexel,6,9,0,15
+2019,1057,Drury,7,5,0,12
+2019,192,Dubuque,9,4,0,13
+2019,193,Duke,11,1,0,12
+2019,194,Duquesne,9,4,0,13
+2019,195,Earlham,3,9,0,12
+2019,196,East Carolina,7,5,0,12
+2019,8965,East Central,5,4,0,9
+2019,197,East Stroudsburg,9,2,0,11
+2019,1062,East Tex. Baptist,5,6,0,11
+2019,203,East. Mennonite,6,7,0,13
+2019,8968,Eastern,7,4,0,11
+2019,200,Eastern Conn. St.,9,3,0,12
+2019,201,Eastern Ill.,7,6,0,13
+2019,202,Eastern Ky.,7,6,0,13
+2019,204,Eastern Mich.,6,7,0,13
+2019,206,Eastern N.M.,5,7,0,12
+2019,1064,Eastern Nazarene,3,7,0,10
+2019,207,Eastern Wash.,3,10,0,13
+2019,208,Eckerd,9,3,0,12
+2019,1066,Edgewood,3,9,0,12
+2019,209,Edinboro,4,5,0,9
+2019,210,Elizabeth City St.,6,7,1,14
+2019,211,Elizabethtown,4,6,1,11
+2019,212,Elmhurst,8,5,0,13
+2019,213,Elmira,2,7,0,9
+2019,532,Elms,0,10,0,10
+2019,1068,Elon,5,10,0,15
+2019,9680,Embry-Riddle (FL),8,7,0,15
+2019,214,Emerson,5,6,0,11
+2019,30193,Emmanuel (GA),9,6,0,15
+2019,215,Emmanuel (MA),8,4,0,12
+2019,217,Emory,9,2,0,11
+2019,216,Emory & Henry,9,4,0,13
+2019,1071,Emporia St.,6,5,0,11
+2019,8981,Endicott,8,3,0,11
+2019,1072,Erskine,2,6,1,9
+2019,198,ETSU,11,4,0,15
+2019,218,Eureka,2,9,0,11
+2019,219,Evansville,6,7,0,13
+2019,220,Fairfield,3,9,0,12
+2019,222,Fairleigh Dickinson,5,7,0,12
+2019,1076,Fairmont St.,8,3,0,11
+2019,27892,Farmingdale St.,7,4,0,11
+2019,223,Fayetteville St.,2,8,0,10
+2019,221,FDU- Florham,4,8,0,12
+2019,23157,Felician,2,7,0,9
+2019,224,Ferris St.,8,5,2,15
+2019,225,Ferrum,2,11,0,13
+2019,28755,FGCU,5,10,0,15
+2019,1079,Findlay,10,3,0,13
+2019,30032,Finlandia,0,10,0,10
+2019,227,Fitchburg St.,3,8,0,11
+2019,231,FIU,9,4,0,13
+2019,229,Fla. Atlantic,9,4,0,13
+2019,233,Fla. Southern,9,2,0,11
+2019,30092,Flagler,5,4,0,9
+2019,235,Florida,8,4,0,12
+2019,228,Florida A&M,3,12,0,15
+2019,234,Florida St.,12,1,0,13
+2019,230,Florida Tech,6,6,0,12
+2019,11538,Fontbonne,4,8,0,12
+2019,236,Fordham,9,4,0,13
+2019,9011,Fort Hays St.,8,3,0,11
+2019,1083,Fort Lewis,6,5,1,12
+2019,237,Fort Valley St.,2,16,0,18
+2019,238,Framingham St.,1,10,0,11
+2019,1085,Francis Marion,7,1,0,8
+2019,30069,Franciscan,6,8,0,14
+2019,2694,Franklin,4,7,0,11
+2019,239,Franklin & Marshall,8,3,0,11
+2019,241,Franklin Pierce,5,7,0,12
+2019,242,Fredonia,0,10,0,10
+2019,30147,Fresno Pacific,5,6,0,11
+2019,96,Fresno St.,9,3,0,12
+2019,243,Frostburg St.,4,6,0,10
+2019,244,Furman,12,2,0,14
+2019,253,Ga. Southern,8,5,0,13
+2019,1097,Ga. Southwestern,2,7,0,9
+2019,245,Gallaudet,1,10,0,11
+2019,246,Gannon,3,8,0,11
+2019,1092,Gardner-Webb,10,5,0,15
+2019,30084,Geneva,5,6,0,11
+2019,1094,George Fox,8,3,0,11
+2019,248,George Mason,6,7,0,13
+2019,249,George Washington,4,9,0,13
+2019,251,Georgetown,10,3,0,13
+2019,257,Georgia,8,4,0,12
+2019,1096,Georgia College,5,6,0,11
+2019,254,Georgia St.,9,4,0,13
+2019,255,Georgia Tech,7,5,0,12
+2019,9004,Georgian Court,2,9,0,11
+2019,258,Gettysburg,3,8,0,11
+2019,1098,Glenville St.,6,6,0,12
+2019,8366,Goldey-Beacom,5,6,0,11
+2019,260,Gonzaga,13,2,0,15
+2019,1099,Gordon,11,1,0,12
+2019,1467,Goucher,3,9,0,12
+2019,261,Grambling,6,7,0,13
+2019,1104,Grand Canyon,7,6,0,13
+2019,262,Grand Valley St.,9,3,0,12
+2019,794,Green Bay,7,7,0,14
+2019,263,Greensboro,1,12,0,13
+2019,1111,Greenville,7,4,0,11
+2019,264,Grinnell,9,2,0,11
+2019,265,Grove City,4,6,0,10
+2019,1112,Guilford,8,4,0,12
+2019,266,Gust. Adolphus,4,6,0,10
+2019,12399,Gwynedd Mercy,9,5,0,14
+2019,267,Hamilton,11,0,0,11
+2019,268,Hamline,6,4,0,10
+2019,269,Hampden-Sydney,4,6,0,10
+2019,270,Hampton,5,8,0,13
+2019,1115,Hanover,8,3,0,11
+2019,271,Hardin-Simmons,7,7,0,14
+2019,1116,Harding,5,7,0,12
+2019,272,Hartford,7,8,0,15
+2019,273,Hartwick,4,6,0,10
+2019,275,Harvard,6,5,0,11
+2019,276,Haverford,4,6,0,10
+2019,277,Hawaii,9,5,0,14
+2019,2697,Hawaii Hilo,4,6,0,10
+2019,2696,Hawaii Pacific,4,6,0,10
+2019,278,Heidelberg,4,8,0,12
+2019,1123,Henderson St.,8,3,0,11
+2019,1124,Hendrix,4,9,0,13
+2019,19651,High Point,6,7,0,13
+2019,8398,Hilbert,4,8,0,12
+2019,280,Hillsdale,8,4,0,12
+2019,281,Hiram,6,6,0,12
+2019,282,Hobart,4,5,0,9
+2019,283,Hofstra,12,3,0,15
+2019,285,Holy Cross,9,4,0,13
+2019,1126,Holy Family,5,5,0,10
+2019,30175,Holy Names,4,10,0,14
+2019,8404,Hood,7,7,0,14
+2019,286,Hope,7,4,0,11
+2019,30160,Houghton,1,8,0,9
+2019,288,Houston,13,0,0,13
+2019,287,Houston Baptist,4,7,0,11
+2019,290,Howard,6,8,0,14
+2019,2741,Howard Payne,2,13,0,15
+2019,291,Humboldt St.,10,7,0,17
+2019,292,Hunter,3,7,0,10
+2019,1130,Huntingdon,4,7,0,11
+2019,1133,Husson,6,5,0,11
+2019,295,Idaho,3,10,0,13
+2019,294,Idaho St.,5,6,0,11
+2019,30172,IIT,6,6,0,12
+2019,300,Ill. Wesleyan,8,5,0,13
+2019,30050,Ill. Springfield,7,3,1,11
+2019,301,Illinois,4,9,0,13
+2019,297,Illinois Col.,3,9,0,12
+2019,299,Illinois St.,7,6,0,13
+2019,303,Immaculata,4,8,0,12
+2019,2743,Incarnate Word,5,8,0,13
+2019,306,Indiana,11,2,0,13
+2019,307,Indiana (PA),11,0,0,11
+2019,305,Indiana St.,8,4,0,12
+2019,310,Iona,2,9,0,11
+2019,312,Iowa,11,2,0,13
+2019,311,Iowa St.,10,2,0,12
+2019,30173,Iowa Wesleyan,3,8,0,11
+2019,313,Ithaca,5,4,0,9
+2019,2699,IUPUI,8,7,0,15
+2019,314,Jackson St.,3,10,0,13
+2019,316,Jacksonville,7,8,0,15
+2019,315,Jacksonville St.,8,5,0,13
+2019,317,James Madison,7,8,0,15
+2019,543,Jefferson,6,6,0,12
+2019,320,John Carroll,6,6,0,12
+2019,321,John Jay,6,4,0,10
+2019,322,Johns Hopkins,8,4,0,12
+2019,30046,JWU (Denver),9,7,0,16
+2019,22626,JWU (Providence),5,7,0,12
+2019,323,Johnson C. Smith,2,6,0,8
+2019,325,Juniata,5,6,0,11
+2019,326,Kalamazoo,3,8,0,11
+2019,328,Kansas,11,1,0,12
+2019,327,Kansas St.,10,2,0,12
+2019,329,Kean,2,12,0,14
+2019,330,Keene St.,6,4,0,10
+2019,1157,Kennesaw St.,2,11,0,13
+2019,331,Kent St.,11,2,0,13
+2019,334,Kentucky,10,2,0,12
+2019,332,Kentucky St.,6,7,0,13
+2019,335,Kenyon,0,11,0,11
+2019,1159,Keuka,4,4,0,8
+2019,30047,Keystone,0,12,0,12
+2019,30051,King (TN),8,3,0,11
+2019,336,King's (PA),2,10,0,12
+2019,337,Knox,1,11,0,12
+2019,339,Kutztown,7,6,0,13
+2019,333,Ky. Wesleyan,5,7,0,12
+2019,1163,La Roche,10,2,0,12
+2019,340,La Salle,2,10,0,12
+2019,341,La Verne,1,9,0,10
+2019,498,La.-Monroe,7,5,0,12
+2019,342,Lafayette,3,8,0,11
+2019,1162,LaGrange,6,6,0,12
+2019,2746,Lake Erie,6,6,1,13
+2019,344,Lake Forest,6,5,0,11
+2019,345,Lake Superior St.,6,4,0,10
+2019,1164,Lakeland,6,5,0,11
+2019,346,Lamar University,7,6,0,13
+2019,30085,Lancaster Bible,5,4,0,9
+2019,1167,Lander,3,7,0,10
+2019,347,Lane,7,4,0,11
+2019,8486,Lasell,2,9,0,11
+2019,348,Lawrence,7,5,0,12
+2019,349,Le Moyne,7,5,0,12
+2019,351,Lebanon Valley,4,7,1,12
+2019,30013,Lee,7,5,0,12
+2019,13302,Lees-McRae,5,9,0,14
+2019,352,Lehigh,7,4,0,11
+2019,279,Lehman,4,6,0,10
+2019,350,LeMoyne-Owen,9,5,0,14
+2019,1170,Lenoir-Rhyne,9,4,0,13
+2019,24317,Lesley,1,8,0,9
+2019,8490,LeTourneau,7,4,0,11
+2019,354,Lewis,8,1,0,9
+2019,22235,Lewis & Clark,3,8,0,11
+2019,355,Liberty,11,4,0,15
+2019,1174,Limestone,6,6,0,12
+2019,356,Lincoln (MO),8,3,0,11
+2019,357,Lincoln (PA),10,4,0,14
+2019,1176,Lincoln Memorial,9,3,0,12
+2019,30136,Lindenwood (MO),8,7,1,16
+2019,1179,Linfield,9,2,0,11
+2019,28600,Lipscomb,9,4,0,13
+2019,32,Little Rock,5,8,0,13
+2019,361,LIU Brooklyn,6,6,0,12
+2019,362,LIU Post,0,9,0,9
+2019,359,Livingstone,6,4,1,11
+2019,360,Lock Haven,4,4,0,8
+2019,99,Long Beach St.,5,10,0,15
+2019,363,Longwood,10,5,0,15
+2019,364,Loras,10,2,0,12
+2019,671,Louisiana,9,4,0,13
+2019,1182,Louisiana Col.,10,3,0,13
+2019,366,Louisiana Tech,11,3,0,14
+2019,367,Louisville,9,4,0,13
+2019,371,Loyola Chicago,7,6,0,13
+2019,369,Loyola Maryland,4,9,0,13
+2019,370,Loyola Marymount,12,2,0,14
+2019,365,LSU,10,3,0,13
+2019,30177,Lubbock Christian,9,4,0,13
+2019,372,Luther,6,4,0,10
+2019,373,Lycoming,7,6,0,13
+2019,374,Lynchburg,12,1,0,13
+2019,20794,Lynn,10,0,0,10
+2019,376,Macalester,3,7,0,10
+2019,377,MacMurray,4,8,0,12
+2019,380,Maine,2,12,0,14
+2019,378,Maine Maritime,5,4,0,9
+2019,30137,Malone,7,6,0,13
+2019,1192,Manchester,4,8,0,12
+2019,381,Manhattan,2,10,0,12
+2019,382,Manhattanville,6,6,0,12
+2019,384,Mansfield,1,10,0,11
+2019,1194,Maranatha Baptist,4,4,0,8
+2019,1196,Marian (WI),3,8,0,11
+2019,385,Marietta,11,1,0,12
+2019,386,Marist,5,7,0,12
+2019,387,Marquette,11,3,0,14
+2019,1199,Mars Hill,6,7,0,13
+2019,388,Marshall,7,6,0,13
+2019,8597,Martin Luther,5,6,0,11
+2019,30075,Mary,6,6,0,12
+2019,1203,Mary Hardin-Baylor,13,1,0,14
+2019,390,Mary Washington,8,3,0,11
+2019,392,Maryland,10,3,0,13
+2019,394,Marymount (VA),7,5,0,12
+2019,395,Maryville (MO),5,6,0,11
+2019,396,Maryville (TN),6,4,0,10
+2019,397,Marywood,8,5,0,13
+2019,400,Massachusetts,7,6,0,13
+2019,773,McDaniel,4,7,0,11
+2019,30138,McKendree,5,8,0,13
+2019,486,MCLA,4,7,0,11
+2019,8530,McMurry,4,9,0,13
+2019,402,McNeese,4,9,0,13
+2019,379,Me.-Farmington,6,3,0,9
+2019,30040,Me.-Presque Isle,6,5,0,11
+2019,23725,Medaille,5,6,0,11
+2019,403,Medgar Evers,2,10,0,12
+2019,404,Memphis,8,5,0,13
+2019,406,Mercer,5,8,0,13
+2019,724,Merchant Marine,2,7,0,9
+2019,407,Mercy,4,6,0,10
+2019,408,Mercyhurst,8,2,0,10
+2019,410,Merrimack,8,5,0,13
+2019,411,Messiah,6,6,0,12
+2019,412,Methodist,5,8,0,13
+2019,415,Miami (FL),8,4,0,12
+2019,414,Miami (OH),8,5,0,13
+2019,418,Michigan,13,0,0,13
+2019,416,Michigan St.,11,2,0,13
+2019,417,Michigan Tech,7,4,0,11
+2019,419,Middle Tenn.,3,10,0,13
+2019,420,Middlebury,9,3,0,12
+2019,422,Miles,7,7,0,14
+2019,423,Millersville,7,5,0,12
+2019,424,Millikin,7,5,0,12
+2019,426,Millsaps,9,5,0,14
+2019,797,Milwaukee,5,9,0,14
+2019,427,Minn. Duluth,6,4,0,10
+2019,27854,Minn.-Crookston,8,6,0,14
+2019,1226,Minn.-Morris,4,9,0,13
+2019,428,Minnesota,11,2,0,13
+2019,383,Minnesota St.,9,3,0,12
+2019,30125,Minot St.,6,9,0,15
+2019,16142,Misericordia,5,6,0,11
+2019,429,Mississippi Col.,4,8,0,12
+2019,430,Mississippi St.,12,1,0,13
+2019,432,Mississippi Val.,2,12,0,14
+2019,434,Missouri,9,3,0,12
+2019,435,Missouri S&T,2,9,0,11
+2019,669,Missouri St.,6,7,0,13
+2019,9013,Missouri Western,6,6,1,13
+2019,398,MIT,10,2,0,12
+2019,30042,Mitchell,6,4,0,10
+2019,9012,Mo. Southern St.,11,1,0,12
+2019,436,Mo.-St. Louis,10,2,1,13
+2019,437,Molloy,8,4,0,12
+2019,439,Monmouth,1,12,0,13
+2019,438,Monmouth (IL),3,8,0,11
+2019,205,Mont. St. Billings,7,3,0,10
+2019,441,Montana,9,4,0,13
+2019,440,Montana St.,4,8,0,12
+2019,442,Montclair St.,10,3,0,13
+2019,1238,Montevallo,6,8,0,14
+2019,443,Moravian,8,4,0,12
+2019,444,Morehead St.,4,9,0,13
+2019,445,Morehouse,9,1,1,11
+2019,446,Morgan St.,5,7,0,12
+2019,30067,Morrisville St.,6,3,0,9
+2019,30036,Mount Aloysius,7,5,0,12
+2019,1245,Mount Olive,4,8,0,12
+2019,452,Mount Union,11,1,0,12
+2019,20220,MSOE,10,1,0,11
+2019,413,MSU Denver,5,4,0,9
+2019,1240,MSU Moorhead,9,5,0,14
+2019,1222,MSU Texas,4,8,0,12
+2019,8567,Mt. St. Joseph,3,8,0,11
+2019,1468,Mt. St. Mary (NY),7,3,0,10
+2019,450,Mt. St. Mary's,3,10,0,13
+2019,453,Muhlenberg,5,6,0,11
+2019,454,Murray St.,9,2,0,11
+2019,455,Muskingum,5,7,0,12
+2019,431,MUW,1,2,0,3
+2019,488,N.C. A&T,4,9,0,13
+2019,489,N.C. Central,5,9,0,14
+2019,491,N.C. Wesleyan,10,2,0,12
+2019,8577,N.M. Highlands,9,2,0,11
+2019,726,Navy,3,8,0,11
+2019,461,Nazareth,5,4,0,9
+2019,490,NC State,12,1,0,13
+2019,462,Neb. Wesleyan,11,0,0,11
+2019,1156,Neb.-Kearney,5,6,0,11
+2019,463,Nebraska,11,2,0,13
+2019,1254,Neumann,9,4,0,13
+2019,466,Nevada,13,0,0,13
+2019,467,New England Col.,8,2,0,10
+2019,469,New Hampshire,2,11,0,13
+2019,470,New Haven,6,4,0,10
+2019,319,New Jersey City,9,4,0,13
+2019,473,New Mexico,6,6,0,12
+2019,472,New Mexico St.,11,3,0,14
+2019,474,New Orleans,5,6,0,11
+2019,476,New Rochelle,6,8,0,14
+2019,1257,Newberry,4,5,0,9
+2019,21772,Newbury,2,6,0,8
+2019,30054,Newman,9,4,0,13
+2019,482,Niagara,7,6,0,13
+2019,483,Nicholls St.,7,6,0,13
+2019,484,Nichols,10,1,0,11
+2019,471,NJIT,12,3,0,15
+2019,485,Norfolk St.,5,10,0,15
+2019,487,North Ala.,3,12,0,15
+2019,457,North Carolina,9,3,0,12
+2019,492,North Central (IL),11,2,0,13
+2019,30039,North Central (MN),4,9,0,13
+2019,494,North Dakota,6,8,0,14
+2019,493,North Dakota St.,6,9,0,15
+2019,2711,North Florida,5,9,0,14
+2019,30052,North Georgia,6,3,0,9
+2019,9223,North Greenville,1,13,0,14
+2019,496,North Park,4,10,0,14
+2019,497,North Texas,13,1,0,14
+2019,500,Northeastern,7,7,0,14
+2019,12810,Northeastern St.,6,5,0,11
+2019,501,Northern Ariz.,3,9,0,12
+2019,502,Northern Colo.,8,5,0,13
+2019,503,Northern Ill.,7,6,0,13
+2019,505,Northern Ky.,12,3,0,15
+2019,506,Northern Mich.,8,3,0,11
+2019,1266,Northern St.,9,3,0,12
+2019,1267,Northland,3,11,0,14
+2019,507,Northwest Mo. St.,12,0,0,12
+2019,1274,Northwest Nazarene,7,3,0,10
+2019,509,Northwestern,9,4,0,13
+2019,30178,Northwestern Okla.,3,7,0,10
+2019,508,Northwestern St.,5,8,0,13
+2019,30031,Northwestern-St. Paul,6,6,0,12
+2019,510,Northwood,6,6,0,12
+2019,511,Norwich,6,5,0,11
+2019,513,Notre Dame,10,4,0,14
+2019,30126,Notre Dame (OH),8,4,0,12
+2019,30056,Notre Dame de Namur,0,12,0,12
+2019,24639,Nova Southeastern,10,0,0,10
+2019,324,NVU-Johnson,0,12,0,12
+2019,30065,NVU-Lyndon,2,10,0,12
+2019,1277,Nyack,2,9,0,11
+2019,477,NYIT,1,11,0,12
+2019,479,NYU,5,5,0,10
+2019,514,Oakland,6,9,0,15
+2019,1278,Oakland City,5,6,0,11
+2019,515,Oberlin,6,4,0,10
+2019,516,Occidental,9,0,0,9
+2019,2713,Oglethorpe,6,7,0,13
+2019,519,Ohio,8,4,0,12
+2019,30119,Ohio Dominican,8,3,0,11
+2019,517,Ohio Northern,4,8,0,12
+2019,518,Ohio St.,12,1,0,13
+2019,15207,Ohio Valley,5,5,0,10
+2019,520,Ohio Wesleyan,6,5,0,11
+2019,30202,Okla. Baptist,4,6,0,10
+2019,30179,Okla. Christian,5,7,0,12
+2019,522,Oklahoma,11,1,0,12
+2019,521,Oklahoma St.,6,6,0,12
+2019,523,Old Dominion,10,3,0,13
+2019,524,Old Westbury,4,5,0,9
+2019,433,Ole Miss,10,2,0,12
+2019,525,Olivet,4,7,0,11
+2019,464,Omaha,7,8,0,15
+2019,527,Oral Roberts,5,11,0,16
+2019,529,Oregon,9,4,0,13
+2019,528,Oregon St.,8,4,0,12
+2019,530,Oswego St.,9,2,0,11
+2019,531,Otterbein,4,8,0,12
+2019,1289,Ouachita Baptist,4,5,0,9
+2019,23008,Ozarks (AR),2,11,0,13
+2019,2682,P.R.-Bayamon,4,1,0,5
+2019,24361,P.R.-Mayaguez,0,5,0,5
+2019,2716,P.R.-Rio Piedras,2,3,0,5
+2019,533,Pace,9,4,0,13
+2019,534,Pacific,10,5,0,15
+2019,2751,Pacific (OR),6,5,0,11
+2019,1297,Pacific Lutheran,4,6,0,10
+2019,535,Paine,2,9,0,11
+2019,30045,Palm Beach Atl.,4,8,0,12
+2019,540,Penn,10,4,0,14
+2019,30190,Penn College,1,10,0,11
+2019,539,Penn St.,7,6,0,13
+2019,30081,Penn St. Harrisburg,8,3,0,11
+2019,30114,Penn St.-Abington,4,5,0,9
+2019,25719,Penn St.-Altoona,2,9,0,11
+2019,538,Penn St.-Behrend,10,1,0,11
+2019,30044,Penn St.-Berks,1,9,0,10
+2019,541,Pepperdine,7,7,0,14
+2019,542,Pfeiffer,4,5,0,9
+2019,21830,Piedmont,0,11,0,11
+2019,544,Pine Manor,3,9,0,12
+2019,1315,Pitt.-Bradford,2,7,0,9
+2019,11839,Pitt.-Greensburg,4,7,0,11
+2019,546,Pitt.-Johnstown,8,3,0,11
+2019,1314,Pittsburg St.,9,2,0,11
+2019,545,Pittsburgh,10,3,0,13
+2019,547,Plattsburgh St.,9,2,0,11
+2019,548,Plymouth St.,6,4,0,10
+2019,30149,Point Loma,11,2,0,13
+2019,549,Pomona-Pitzer,9,1,0,10
+2019,551,Portland,7,8,0,15
+2019,550,Portland St.,5,7,0,12
+2019,1318,Post,3,9,0,12
+2019,553,Prairie View,1,11,0,12
+2019,1320,Presbyterian,7,7,0,14
+2019,554,Princeton,7,5,0,12
+2019,555,Principia,1,12,0,13
+2019,556,Providence,10,4,0,14
+2019,557,Puget Sound,4,8,0,12
+2019,30029,Purchase,4,5,0,9
+2019,559,Purdue,8,5,0,13
+2019,308,Purdue Fort Wayne,10,7,0,17
+2019,30222,Purdue Northwest,4,9,0,13
+2019,11504,Queens (NC),12,2,0,14
+2019,560,Queens (NY),2,11,0,13
+2019,561,Quincy,7,6,0,13
+2019,562,Quinnipiac,5,6,0,11
+2019,563,Radford,8,6,0,14
+2019,564,Ramapo,10,3,0,13
+2019,566,Randolph,6,7,0,13
+2019,565,Randolph-Macon,12,1,0,13
+2019,567,Redlands,6,4,0,10
+2019,568,Regis (CO),6,5,0,11
+2019,569,Regis (MA),5,6,0,11
+2019,570,Rensselaer,6,3,0,9
+2019,572,Rhode Island,7,5,0,12
+2019,571,Rhode Island Col.,9,4,0,13
+2019,573,Rhodes,3,8,0,11
+2019,574,Rice,5,9,0,14
+2019,575,Richmond,6,7,0,13
+2019,576,Rider,5,7,0,12
+2019,577,Ripon,6,5,0,11
+2019,580,RIT,2,6,0,8
+2019,18422,Rivier,1,12,0,13
+2019,578,Roanoke,9,3,0,12
+2019,579,Robert Morris,5,8,0,13
+2019,30150,Roberts Wesleyan,5,4,0,9
+2019,581,Rochester (NY),9,1,0,10
+2019,582,Rockford,4,8,0,12
+2019,1328,Rockhurst,6,5,0,11
+2019,583,Roger Williams,6,6,0,12
+2019,30180,Rogers St.,11,3,0,14
+2019,584,Rollins,8,4,0,12
+2019,585,Rose-Hulman,7,4,0,11
+2019,15882,Rosemont,4,8,0,12
+2019,259,Rowan,9,4,0,13
+2019,587,Rutgers,7,5,0,12
+2019,588,Rutgers-Camden,1,12,0,13
+2019,589,Rutgers-Newark,6,5,1,12
+2019,11276,S.C. Aiken,11,0,0,11
+2019,102,Sacramento St.,6,4,0,10
+2019,590,Sacred Heart,4,9,0,13
+2019,11036,Sage Colleges,4,6,0,10
+2019,591,Saginaw Valley,3,8,0,11
+2019,594,Saint Augustine's,2,8,1,11
+2019,600,Saint Francis (PA),4,7,0,11
+2019,602,Saint John's (MN),8,1,0,9
+2019,606,Saint Joseph's,7,5,0,12
+2019,608,Saint Leo,4,10,0,14
+2019,609,Saint Louis,9,4,0,13
+2019,1343,Saint Martin's,9,1,0,10
+2019,610,Saint Mary's (CA),9,6,0,15
+2019,612,Saint Mary's (MN),6,5,0,11
+2019,613,Saint Michael's,4,8,0,12
+2019,617,Saint Peter's,3,9,0,12
+2019,1347,Saint Rose,4,8,0,12
+2019,30064,Saint Vincent,10,2,0,12
+2019,19117,Salem (WV),10,5,0,15
+2019,621,Salem St.,6,7,0,13
+2019,622,Salisbury,11,1,0,12
+2019,623,Salve Regina,4,7,0,11
+2019,624,Sam Houston St.,5,8,0,13
+2019,625,Samford,11,4,0,15
+2019,627,San Diego,11,4,0,15
+2019,626,San Diego St.,8,5,0,13
+2019,628,San Fran. St.,8,4,0,12
+2019,629,San Francisco,12,2,0,14
+2019,630,San Jose St.,3,9,0,12
+2019,631,Santa Clara,8,6,0,14
+2019,30163,Sarah Lawrence,6,5,0,11
+2019,632,Savannah St.,3,11,0,14
+2019,1355,Schreiner,5,9,0,14
+2019,633,Scranton,11,0,0,11
+2019,634,Seattle Pacific,4,3,0,7
+2019,1356,Seattle U,12,3,0,15
+2019,635,Seton Hall,10,3,0,13
+2019,30063,Seton Hill,2,8,0,10
+2019,652,Sewanee,11,2,0,13
+2019,676,SFA,7,5,0,12
+2019,636,Shaw,5,5,0,10
+2019,637,Shenandoah,4,8,0,12
+2019,10870,Shepherd,6,4,0,10
+2019,638,Shippensburg,11,2,0,13
+2019,30151,Shorter,2,9,0,11
+2019,639,Siena,5,8,0,13
+2019,30127,Simon Fraser,7,3,0,10
+2019,641,Simpson,8,4,0,12
+2019,30128,Sioux Falls,8,4,0,12
+2019,660,SIUE,4,8,0,12
+2019,642,Skidmore,5,3,0,8
+2019,643,Slippery Rock,6,5,0,11
+2019,663,SMU,8,4,0,12
+2019,645,Sonoma St.,5,9,0,14
+2019,646,South Alabama,7,6,0,13
+2019,648,South Carolina,5,7,0,12
+2019,647,South Carolina St.,2,13,0,15
+2019,650,South Dakota,6,8,0,14
+2019,30139,South Dakota Mines,5,8,0,13
+2019,649,South Dakota St.,11,5,0,16
+2019,651,South Fla.,10,2,0,12
+2019,654,Southeast Mo. St.,5,8,0,13
+2019,655,Southeastern La.,4,9,0,13
+2019,1371,Southeastern Okla.,7,4,0,11
+2019,1376,Southern Ark.,8,2,0,10
+2019,657,Southern California,7,6,0,13
+2019,658,Southern Conn. St.,8,5,0,13
+2019,659,Southern Ill.,7,6,0,13
+2019,661,Southern Ind.,8,3,0,11
+2019,662,Southern Me.,3,8,0,11
+2019,664,Southern Miss.,8,5,0,13
+2019,468,Southern N.H.,7,5,0,12
+2019,30152,Southern Nazarene,10,2,0,12
+2019,665,Southern U.,1,12,0,13
+2019,667,Southern Utah,5,6,0,11
+2019,30164,Southern Va.,4,7,0,11
+2019,1379,Southern Vt.,7,2,0,9
+2019,30192,Southern Wesleyan,2,11,0,13
+2019,2755,Southwest Baptist,7,4,0,11
+2019,8736,Southwest Minn. St.,8,5,0,13
+2019,8746,Southwestern (TX),6,8,0,14
+2019,8744,Southwestern Okla.,3,7,0,10
+2019,23260,Spalding,4,8,0,12
+2019,30191,Spring Hill,5,9,0,14
+2019,673,Springfield,3,8,0,11
+2019,593,St. Anselm,10,0,0,10
+2019,596,St. Bonaventure,4,9,0,13
+2019,598,St. Cloud St.,9,3,0,12
+2019,1334,St. Edward's,12,3,1,16
+2019,9684,St. Elizabeth,6,4,0,10
+2019,599,St. Francis Brooklyn,8,5,0,13
+2019,601,St. John Fisher,5,3,0,8
+2019,603,St. John's (NY),13,1,0,14
+2019,8687,St. Joseph (CT),8,4,0,12
+2019,30072,St. Joseph's (Brkln),3,9,0,12
+2019,1340,St. Joseph's (L.I.),2,7,0,9
+2019,605,St. Joseph's (ME),10,2,0,12
+2019,607,St. Lawrence,5,5,0,10
+2019,611,St. Mary's (MD),6,7,0,13
+2019,1346,St. Mary's (TX),9,6,0,15
+2019,614,St. Norbert,6,5,0,11
+2019,615,St. Olaf,5,4,0,9
+2019,618,St. Scholastica,4,8,0,12
+2019,620,St. Thomas (MN),8,1,0,9
+2019,1348,St. Thomas Aquinas,10,1,0,11
+2019,674,Stanford,7,5,0,12
+2019,103,Stanislaus St.,4,7,0,11
+2019,675,Staten Island,6,6,0,12
+2019,678,Stetson,3,11,0,14
+2019,679,Stevens,8,2,0,10
+2019,21852,Stevenson,9,3,0,12
+2019,681,Stockton,6,7,0,13
+2019,682,Stonehill,9,4,0,13
+2019,683,Stony Brook,12,3,0,15
+2019,684,Suffolk,6,5,0,11
+2019,1390,Sul Ross St.,6,7,0,13
+2019,30165,SUNY Canton,6,8,0,14
+2019,168,SUNY Cortland,8,2,0,10
+2019,30225,SUNY Delhi,4,6,0,10
+2019,247,SUNY Geneseo,4,5,0,9
+2019,478,SUNY Maritime,2,9,0,11
+2019,475,SUNY New Paltz,6,4,0,10
+2019,526,SUNY Oneonta,5,5,0,10
+2019,9500,SUNY Poly,2,9,0,11
+2019,552,SUNY Potsdam,6,5,0,11
+2019,685,Susquehanna,7,4,0,11
+2019,686,Swarthmore,8,2,0,10
+2019,688,Syracuse,9,4,0,13
+2019,689,Tampa,8,4,0,12
+2019,1395,Tarleton St.,10,2,0,12
+2019,712,TCNJ,7,5,0,12
+2019,698,TCU,11,1,0,12
+2019,690,Temple,10,2,0,12
+2019,694,Tennessee,11,1,0,12
+2019,691,Tennessee St.,3,9,0,12
+2019,692,Tennessee Tech,4,9,0,13
+2019,30090,Tex. A&M Int'l,3,10,0,13
+2019,199,Tex. A&M-Commerce,10,4,0,14
+2019,696,Tex. A&M-Kingsville,4,6,0,10
+2019,30088,Tex. Permian Basin,8,5,0,13
+2019,703,Texas,8,4,0,12
+2019,697,Texas A&M,6,5,0,11
+2019,1400,Texas Lutheran,7,8,0,15
+2019,699,Texas Southern,5,8,0,13
+2019,670,Texas St.,11,2,0,13
+2019,700,Texas Tech,11,1,0,12
+2019,23121,Texas-Dallas,10,3,0,13
+2019,30028,Texas-Tyler,5,8,0,13
+2019,141,The Citadel,9,3,0,12
+2019,707,Thiel,3,9,0,12
+2019,2758,Thomas (ME),4,8,0,12
+2019,1402,Thomas More,10,7,0,17
+2019,1403,Tiffin,5,10,0,15
+2019,709,Toledo,12,1,0,13
+2019,711,Towson,5,9,0,14
+2019,28749,Transylvania,6,5,0,11
+2019,30002,Trevecca Nazarene,1,9,0,10
+2019,30037,Trine,7,4,0,11
+2019,713,Trinity (CT),9,3,0,12
+2019,715,Trinity (TX),2,10,0,12
+2019,716,Troy,7,5,0,12
+2019,499,Truman,7,6,0,13
+2019,717,Tufts,5,6,0,11
+2019,718,Tulane,4,8,0,12
+2019,719,Tulsa,10,3,0,13
+2019,12830,Tusculum,4,7,0,11
+2019,720,Tuskegee,6,6,0,12
+2019,1255,U New England,3,8,0,11
+2019,9,UAB,8,5,0,13
+2019,108,UC Davis,3,10,0,13
+2019,109,UC Irvine,11,4,0,15
+2019,111,UC Riverside,5,10,0,15
+2019,112,UC San Diego,12,2,0,14
+2019,104,UC Santa Barbara,10,3,0,13
+2019,113,UC Santa Cruz,7,10,0,17
+2019,9754,UC-Colo. Springs,6,5,0,11
+2019,128,UCF,10,2,0,12
+2019,110,UCLA,7,6,0,13
+2019,164,UConn,9,4,0,13
+2019,302,UIC,7,8,0,15
+2019,309,UIndy,7,4,0,11
+2019,401,UMass Boston,6,5,0,11
+2019,656,UMass Dartmouth,7,4,0,11
+2019,368,UMass Lowell,8,7,0,15
+2019,391,UMBC,8,7,0,15
+2019,393,UMES,1,13,0,14
+2019,2707,UMKC,5,10,0,15
+2019,456,UNC Asheville,2,12,0,14
+2019,459,UNC Greensboro,13,2,0,15
+2019,537,UNC Pembroke,8,1,0,9
+2019,460,UNCW,4,10,0,14
+2019,504,UNI,5,8,0,13
+2019,727,Union (NY),4,3,0,7
+2019,30153,Union (TN),7,5,0,12
+2019,465,UNLV,6,6,0,12
+2019,728,Upper Iowa,6,6,0,12
+2019,30104,Urbana,2,8,0,10
+2019,730,Ursinus,5,6,0,11
+2019,10411,USC Upstate,5,9,0,14
+2019,28594,USciences,4,7,0,11
+2019,702,UT Arlington,4,9,0,13
+2019,695,UT Martin,5,6,0,11
+2019,732,Utah,6,6,0,12
+2019,731,Utah St.,10,3,0,13
+2019,30024,Utah Valley,11,4,0,15
+2019,704,UTEP,5,6,0,11
+2019,733,Utica,6,3,0,9
+2019,536,UTRGV,8,7,0,15
+2019,706,UTSA,6,7,0,13
+2019,30181,UVa-Wise,5,5,0,10
+2019,745,Va. Wesleyan,5,7,0,12
+2019,734,Valdosta St.,10,2,0,12
+2019,30166,Valley Forge,1,8,0,9
+2019,735,Valparaiso,7,6,0,13
+2019,736,Vanderbilt,9,3,0,12
+2019,737,Vassar,5,5,0,10
+2019,740,VCU,9,4,0,13
+2019,738,Vermont,9,4,0,13
+2019,739,Villanova,9,4,0,13
+2019,746,Virginia,12,0,0,12
+2019,743,Virginia St.,9,3,0,12
+2019,742,Virginia Tech,12,1,0,13
+2019,744,Virginia Union,5,6,1,12
+2019,741,VMI,6,8,0,14
+2019,747,Wabash,11,2,0,13
+2019,748,Wagner,5,6,0,11
+2019,749,Wake Forest,6,5,0,11
+2019,30141,Walsh,8,5,0,13
+2019,750,Wartburg,7,5,0,12
+2019,751,Wash. & Jeff.,5,8,0,13
+2019,752,Wash. & Lee,8,4,0,12
+2019,2814,Washburn,9,2,0,11
+2019,756,Washington,9,4,0,13
+2019,753,Washington Col.,5,7,0,12
+2019,754,Washington St.,7,6,0,13
+2019,755,WashU,7,4,0,11
+2019,757,Wayne St. (MI),1,7,0,8
+2019,1433,Wayne St. (NE),10,2,0,12
+2019,1434,Waynesburg,3,8,0,11
+2019,758,Weber St.,8,5,0,13
+2019,759,Webster,8,4,0,12
+2019,761,Wells,2,7,0,9
+2019,762,Wentworth,3,8,0,11
+2019,763,Wesley,6,7,0,13
+2019,764,Wesleyan (CT),7,3,0,10
+2019,358,West Ala.,8,4,0,12
+2019,765,West Chester,7,5,0,12
+2019,11740,West Florida,4,8,0,12
+2019,766,West Ga.,7,4,0,11
+2019,1438,West Liberty,9,2,0,11
+2019,767,West Tex. A&M,13,2,0,15
+2019,9630,West Va. Wesleyan,5,7,1,13
+2019,768,West Virginia,8,4,0,12
+2019,1439,West Virginia St.,4,6,0,10
+2019,769,Western Caro.,3,12,0,15
+2019,770,Western Conn. St.,7,4,0,11
+2019,771,Western Ill.,6,9,0,15
+2019,772,Western Ky.,7,6,0,13
+2019,774,Western Mich.,6,7,0,13
+2019,1445,Western N.M.,3,5,0,8
+2019,775,Western New Eng.,3,10,0,13
+2019,1446,Western Ore.,8,2,1,11
+2019,2759,Western Colo.,3,10,0,13
+2019,1448,Western Wash.,7,5,0,12
+2019,777,Westfield St.,7,6,0,13
+2019,1450,Westminster (MO),4,7,0,11
+2019,1451,Westminster (PA),4,9,0,13
+2019,30209,Westminster (UT),4,6,0,10
+2019,778,Wheaton (IL),8,4,0,12
+2019,779,Wheaton (MA),9,1,0,10
+2019,12799,Wheeling Jesuit,1,11,0,12
+2019,780,Whitman,10,1,0,11
+2019,781,Whittier,3,8,0,11
+2019,1454,Whitworth,10,1,0,11
+2019,782,Wichita St.,7,5,0,12
+2019,783,Widener,7,5,0,12
+2019,784,Wilkes,9,2,0,11
+2019,785,Willamette,2,9,0,11
+2019,786,William & Mary,6,8,0,14
+2019,30120,William Jewell,6,8,0,14
+2019,17094,William Peace,5,6,0,11
+2019,789,Williams,11,0,0,11
+2019,1460,Wilmington (DE),5,7,0,12
+2019,1461,Wilmington (OH),6,6,0,12
+2019,12973,Wilson,4,9,0,13
+2019,1462,Wingate,7,5,0,12
+2019,790,Winona St.,5,7,0,12
+2019,791,Winston-Salem,5,5,0,10
+2019,792,Winthrop,8,5,0,13
+2019,8911,Wis. Lutheran,5,8,0,13
+2019,793,Wis.-Eau Claire,7,4,0,11
+2019,795,Wis.-La Crosse,7,4,0,11
+2019,798,Wis.-Oshkosh,10,1,0,11
+2019,799,Wis.-Parkside,4,8,0,12
+2019,800,Wis.-Platteville,7,4,0,11
+2019,801,Wis.-River Falls,7,4,0,11
+2019,802,Wis.-Stevens Point,8,2,0,10
+2019,803,Wis.-Stout,6,7,0,13
+2019,804,Wis.-Superior,2,11,0,13
+2019,805,Wis.-Whitewater,11,0,0,11
+2019,796,Wisconsin,10,3,0,13
+2019,806,Wittenberg,10,1,0,11
+2019,787,Wm. Paterson,9,4,0,13
+2019,2915,Wofford,10,4,0,14
+2019,807,Wooster,9,3,0,12
+2019,809,Worcester St.,7,6,0,13
+2019,808,WPI,9,2,0,11
+2019,810,Wright St.,7,8,0,15
+2019,811,Wyoming,4,9,0,13
+2019,812,Xavier,9,5,0,14
+2019,813,Yale,7,3,0,10
+2019,814,Yeshiva,9,5,0,14
+2019,2730,York (NY),4,7,0,11
+2019,815,York (PA),7,4,0,11
+2019,30154,Young Harris,4,6,0,10
+2019,817,Youngstown St.,4,11,0,15

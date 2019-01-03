@@ -1,29 +1,7 @@
 BEGIN
 SET
-       team       | h_div |  site   |        opp         | v_div | t_score | o_score 
-------------------+-------+---------+--------------------+-------+---------+---------
- Arizona St.      |     1 | neutral | Syracuse           |     1 |    71.1 |    70.0
- Austin Peay      |     1 | home    | La.-Monroe         |     1 |    71.7 |    66.5
- Campbell         |     1 | home    | Miami (OH)         |     1 |    71.0 |    69.4
- Canisius         |     1 | home    | Jacksonville St.   |     1 |    70.5 |    66.3
- Eastern Mich.    |     1 | home    | Niagara            |     1 |    80.0 |    71.9
- Grand Canyon     |     1 | home    | Mercer             |     1 |    71.5 |    65.2
- Ill.-Chicago     |     1 | home    | Saint Francis (PA) |     1 |    78.9 |    74.0
- Lamar University |     1 | home    | UTSA               |     1 |    75.2 |    74.4
- LSU              |     1 | home    | Louisiana          |     1 |    80.5 |    76.2
- Marquette        |     1 | home    | Harvard            |     1 |    77.8 |    65.8
- Mississippi St.  |     1 | home    | Nebraska           |     1 |    70.4 |    67.9
- N.C. Central     |     1 | neutral | Texas Southern     |     1 |    73.0 |    76.9
- New Orleans      |     1 | home    | UTRGV              |     1 |    74.9 |    72.1
- Penn St.         |     1 | home    | Temple             |     1 |    75.4 |    64.0
- San Francisco    |     1 | home    | Colgate            |     1 |    70.9 |    64.1
- Seattle U        |     1 | home    | Central Ark.       |     1 |    80.8 |    76.3
- South Dakota     |     1 | home    | North Texas        |     1 |    77.7 |    65.0
- Stanford         |     1 | home    | BYU                |     1 |    72.0 |    70.8
- Syracuse         |     1 | neutral | Arizona St.        |     1 |    70.0 |    71.1
- Texas Southern   |     1 | neutral | N.C. Central       |     1 |    76.9 |    73.0
- Utah             |     1 | home    | UC Davis           |     1 |    71.5 |    62.4
- Washington       |     1 | home    | Boise St.          |     1 |    69.8 |    71.9
-(22 rows)
+ team | h_div | site | opp | v_div | t_score | o_score 
+------+-------+------+-----+-------+---------+---------
+(0 rows)
 
 COMMIT

@@ -7,8 +7,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,4,Adrian,17,9,0,26
 2018,721,Air Force,12,19,0,31
 2018,5,Akron,14,18,0,32
-2018,10,Ala.-Huntsville,16,12,0,28
-2018,8,Alabama,19,15,1,35
+2018,10,Alabama Huntsville,16,12,0,28
+2018,8,Alabama,20,16,0,36
 2018,6,Alabama A&M,3,28,0,31
 2018,7,Alabama St.,8,23,0,31
 2018,11,Alas. Anchorage,15,14,0,29
@@ -34,18 +34,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,26,Anna Maria,10,16,0,26
 2018,27,Appalachian St.,15,18,0,33
 2018,966,Arcadia,14,14,0,28
-2018,29,Arizona,27,7,1,35
-2018,28,Arizona St.,20,11,1,32
+2018,29,Arizona,27,8,0,35
+2018,28,Arizona St.,20,12,0,32
 2018,30105,Ark.-Fort Smith,24,6,0,30
 2018,8411,Ark.-Monticello,19,12,0,31
 2018,2678,Ark.-Pine Bluff,14,21,0,35
-2018,31,Arkansas,23,11,1,35
+2018,31,Arkansas,23,12,0,35
 2018,30,Arkansas St.,11,21,0,32
 2018,947,Arkansas Tech,18,11,0,29
 2018,725,Army West Point,13,17,0,30
 2018,35,Ashland,20,10,0,30
 2018,36,Assumption,7,20,0,27
-2018,37,Auburn,25,7,1,33
+2018,37,Auburn,26,8,0,34
 2018,38,Augsburg,21,8,0,29
 2018,39,Augusta,16,13,0,29
 2018,40,Augustana (IL),25,6,0,31
@@ -53,18 +53,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30093,AUM,9,19,0,28
 2018,42,Aurora,20,9,0,29
 2018,953,Austin,4,21,0,25
-2018,43,Austin Peay,18,14,1,33
+2018,43,Austin Peay,19,15,0,34
 2018,44,Averett,14,12,0,26
 2018,30146,Azusa Pacific,21,11,0,32
 2018,45,Babson,15,11,0,26
 2018,46,Baldwin Wallace,18,9,0,27
 2018,47,Ball St.,19,13,0,32
 2018,962,Bard,7,18,0,25
-2018,49,Barry,23,8,1,32
+2018,49,Barry,23,9,0,32
 2018,15646,Barton,17,13,0,30
 2018,58,Baruch,16,11,0,27
 2018,50,Bates,12,12,0,24
-2018,51,Baylor,19,14,0,33
+2018,51,Baylor,19,15,0,34
 2018,26107,Becker,15,12,0,27
 2018,30197,Belhaven,5,20,0,25
 2018,52,Bellarmine,29,3,0,32
@@ -90,7 +90,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,65,Bloomsburg,15,12,0,27
 2018,985,Bluefield St.,12,16,0,28
 2018,987,Bluffton,10,15,0,25
-2018,66,Boise St.,23,8,1,32
+2018,66,Boise St.,23,9,0,32
 2018,67,Boston College,19,16,0,35
 2018,68,Boston U.,15,16,0,31
 2018,69,Bowdoin,15,9,0,24
@@ -107,12 +107,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,80,Brown,11,16,0,27
 2018,81,Bryant,3,28,0,31
 2018,30188,Bryn Athyn,9,16,0,25
-2018,83,Bucknell,25,9,1,35
+2018,83,Bucknell,25,10,0,35
 2018,84,Buena Vista,17,9,0,26
-2018,86,Buffalo,26,8,1,35
+2018,86,Buffalo,27,9,0,36
 2018,85,Buffalo St.,9,15,0,24
-2018,87,Butler,20,13,1,34
-2018,77,BYU,24,10,1,35
+2018,87,Butler,21,14,0,35
+2018,77,BYU,24,11,0,35
 2018,88,Cabrini,25,4,0,29
 2018,1305,Cairn,8,17,0,25
 2018,105,Cal Lutheran,9,14,0,23
@@ -120,20 +120,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,91,Cal Poly Pomona,23,7,0,30
 2018,92,Cal St. Dom. Hills,13,17,0,30
 2018,98,Cal St. East Bay,10,18,0,28
-2018,97,Cal St. Fullerton,20,11,1,32
-2018,100,Cal St. L.A.,13,15,0,28
+2018,97,Cal St. Fullerton,20,12,0,32
+2018,100,Cal St. LA,13,15,0,28
 2018,30055,Cal St. Monterey Bay,4,22,0,26
 2018,93,Cal St. San B'dino,13,14,0,27
 2018,30198,Cal St. San Marcos,20,9,0,29
 2018,995,Caldwell,16,13,0,29
 2018,107,California,8,24,0,32
 2018,106,California (PA),11,17,0,28
-2018,30135,California Baptist,28,5,1,34
+2018,30135,California Baptist,28,6,0,34
 2018,89,Caltech,5,20,0,25
 2018,114,Calvin,10,15,0,25
 2018,996,Cameron,11,17,0,28
-2018,115,Campbell,17,15,0,32
-2018,116,Canisius,21,11,1,33
+2018,115,Campbell,18,16,0,34
+2018,116,Canisius,21,12,0,33
 2018,117,Capital,12,14,0,26
 2018,118,Carleton,14,12,0,26
 2018,119,Carnegie Mellon,7,18,0,25
@@ -149,9 +149,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,125,Centenary (LA),15,11,0,26
 2018,12884,Centenary (NJ),7,19,0,26
 2018,126,Central (IA),12,16,0,28
-2018,1004,Central Ark.,17,16,1,34
+2018,1004,Central Ark.,18,17,0,35
 2018,127,Central Conn. St.,14,18,0,32
-2018,129,Central Mich.,20,14,0,34
+2018,129,Central Mich.,21,15,0,36
 2018,130,Central Mo.,20,10,0,30
 2018,1009,Central Okla.,20,10,0,30
 2018,30049,Central St. (OH),14,15,0,29
@@ -166,14 +166,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,10972,Chatham,7,18,0,25
 2018,693,Chattanooga,10,23,0,33
 2018,21323,Chestnut Hill,5,21,0,26
-2018,135,Cheyney,2,24,0,26
+2018,135,Z_Do Not Use_Cheyney,2,24,0,26
 2018,137,Chicago,13,12,0,25
 2018,136,Chicago St.,3,29,0,32
 2018,95,Chico St.,20,8,0,28
 2018,8875,Chowan,11,16,0,27
 2018,139,Chris. Newport,22,7,0,29
-2018,1015,Christian Bros.,21,9,0,30
-2018,140,Cincinnati,30,4,1,35
+2018,1015,Christian Brothers,21,9,0,30
+2018,140,Cincinnati,31,5,0,36
 2018,30058,Claflin,26,7,0,33
 2018,142,Claremont-M-S,19,8,0,27
 2018,143,Clarion,3,25,0,28
@@ -182,7 +182,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,958,Clarks Summit,1,24,0,25
 2018,146,Clarkson,12,13,0,25
 2018,20576,Clayton St.,24,7,0,31
-2018,147,Clemson,23,9,1,33
+2018,147,Clemson,25,10,0,35
 2018,148,Cleveland St.,12,23,0,35
 2018,451,CMSV,16,11,0,27
 2018,722,Coast Guard,11,12,0,23
@@ -190,10 +190,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30083,Cobleskill St.,8,17,0,25
 2018,150,Coe,9,16,0,25
 2018,1023,Coker,12,17,0,29
-2018,1014,Col. of Charleston,26,7,1,34
+2018,1014,Col. of Charleston,26,8,0,34
 2018,151,Colby,11,13,0,24
 2018,152,Colby-Sawyer,18,9,0,27
-2018,153,Colgate,19,13,1,33
+2018,153,Colgate,19,14,0,33
 2018,11403,Colo. Christian,4,24,0,28
 2018,155,Colo. Sch. of Mines,22,9,0,31
 2018,157,Colorado,17,15,0,32
@@ -217,7 +217,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,167,Cornell,12,16,0,28
 2018,166,Cornell College,12,13,0,25
 2018,30111,Covenant,18,10,0,28
-2018,169,Creighton,21,11,1,33
+2018,169,Creighton,21,12,0,33
 2018,30035,Crown (MN),13,13,0,26
 2018,94,CSU Bakersfield,12,18,0,30
 2018,101,CSUN,6,24,0,30
@@ -228,7 +228,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1044,Dallas,15,11,0,26
 2018,172,Dartmouth,7,20,0,27
 2018,30221,Davenport,13,15,0,28
-2018,173,Davidson,21,11,1,33
+2018,173,Davidson,21,12,0,33
 2018,174,Davis & Elkins,7,19,0,26
 2018,175,Dayton,14,17,0,31
 2018,1045,DBU,26,6,0,32
@@ -250,24 +250,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30118,Dominican (CA),5,22,0,27
 2018,1332,Dominican (IL),6,19,0,25
 2018,8956,Dominican (NY),21,10,0,31
-2018,189,Drake,17,16,0,33
+2018,189,Drake,17,17,0,34
 2018,190,Drew,16,11,0,27
 2018,191,Drexel,13,20,0,33
 2018,1057,Drury,21,8,0,29
 2018,192,Dubuque,15,10,0,25
-2018,193,Duke,26,7,1,34
+2018,193,Duke,29,8,0,37
 2018,194,Duquesne,16,16,0,32
 2018,195,Earlham,7,17,0,24
 2018,196,East Carolina,10,20,0,30
 2018,8965,East Central,15,12,0,27
-2018,197,East Stroudsburg,27,5,1,33
+2018,197,East Stroudsburg,27,6,0,33
 2018,1062,East Tex. Baptist,21,7,0,28
 2018,203,East. Mennonite,12,15,0,27
 2018,8968,Eastern,15,11,0,26
 2018,200,Eastern Conn. St.,26,4,0,30
 2018,201,Eastern Ill.,12,19,0,31
 2018,202,Eastern Ky.,11,20,0,31
-2018,204,Eastern Mich.,22,12,0,34
+2018,204,Eastern Mich.,22,13,0,35
 2018,206,Eastern N.M.,11,17,0,28
 2018,1064,Eastern Nazarene,9,16,0,25
 2018,207,Eastern Wash.,20,15,0,35
@@ -299,7 +299,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,223,Fayetteville St.,8,21,0,29
 2018,221,FDU- Florham,3,22,0,25
 2018,23157,Felician,12,16,0,28
-2018,224,Ferris St.,35,1,1,37
+2018,224,Ferris St.,38,1,0,39
 2018,225,Ferrum,6,19,0,25
 2018,28755,FGCU,23,12,0,35
 2018,1079,Findlay,28,5,0,33
@@ -309,16 +309,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,229,Fla. Atlantic,12,19,0,31
 2018,233,Fla. Southern,21,11,0,32
 2018,30092,Flagler,9,17,0,26
-2018,235,Florida,20,12,1,33
+2018,235,Florida,21,13,0,34
 2018,228,Florida A&M,9,25,0,34
-2018,234,Florida St.,20,11,1,32
+2018,234,Florida St.,23,12,0,35
 2018,230,Florida Tech,13,16,0,29
 2018,11538,Fontbonne,5,20,0,25
 2018,236,Fordham,9,22,0,31
 2018,9011,Fort Hays St.,19,12,0,31
 2018,1083,Fort Lewis,24,7,0,31
 2018,237,Fort Valley St.,13,16,0,29
-2018,308,Fort Wayne,18,15,0,33
 2018,238,Framingham St.,6,20,0,26
 2018,1085,Francis Marion,20,10,0,30
 2018,30069,Franciscan,5,20,0,25
@@ -342,17 +341,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,251,Georgetown,15,15,0,30
 2018,257,Georgia,18,15,0,33
 2018,1096,Georgia College,11,17,0,28
-2018,254,Georgia St.,24,10,1,35
+2018,254,Georgia St.,24,11,0,35
 2018,255,Georgia Tech,13,19,0,32
 2018,9004,Georgian Court,5,22,0,27
 2018,258,Gettysburg,7,18,0,25
 2018,1098,Glenville St.,8,21,0,29
 2018,8366,Goldey-Beacom,20,10,0,30
-2018,260,Gonzaga,30,4,1,35
+2018,260,Gonzaga,32,5,0,37
 2018,1099,Gordon,18,9,0,27
 2018,1467,Goucher,0,24,0,24
 2018,261,Grambling,17,14,0,31
-2018,1104,Grand Canyon,22,11,1,34
+2018,1104,Grand Canyon,22,12,0,34
 2018,262,Grand Valley St.,14,15,0,29
 2018,794,Green Bay,13,20,0,33
 2018,11062,Green Mountain,8,16,0,24
@@ -372,7 +371,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1116,Harding,5,22,0,27
 2018,272,Hartford,19,14,0,33
 2018,273,Hartwick,9,16,0,25
-2018,275,Harvard,18,13,1,32
+2018,275,Harvard,18,14,0,32
 2018,276,Haverford,7,18,0,25
 2018,277,Hawaii,17,13,0,30
 2018,2697,Hawaii Hilo,7,20,0,27
@@ -384,7 +383,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,8398,Hilbert,18,9,0,27
 2018,280,Hillsdale,21,10,0,31
 2018,281,Hiram,15,11,0,26
-2018,282,Hobart and William Smith,21,5,0,26
+2018,282,Hobart,21,5,0,26
 2018,283,Hofstra,19,12,0,31
 2018,285,Holy Cross,12,19,0,31
 2018,1126,Holy Family,4,23,0,27
@@ -392,7 +391,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,8404,Hood,10,15,0,25
 2018,286,Hope,19,10,0,29
 2018,30160,Houghton,4,21,0,25
-2018,288,Houston,26,7,1,34
+2018,288,Houston,27,8,0,35
 2018,287,Houston Baptist,6,25,0,31
 2018,290,Howard,10,23,0,33
 2018,2741,Howard Payne,11,15,0,26
@@ -404,8 +403,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,294,Idaho St.,14,16,0,30
 2018,30172,IIT,18,8,0,26
 2018,300,Ill. Wesleyan,19,8,0,27
-2018,302,Ill.-Chicago,18,15,0,33
-2018,30050,Ill.-Springfield,14,14,0,28
+2018,30050,Ill. Springfield,14,14,0,28
 2018,301,Illinois,14,18,0,32
 2018,297,Illinois Col.,8,17,0,25
 2018,299,Illinois St.,18,15,0,33
@@ -414,7 +412,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,306,Indiana,16,15,0,31
 2018,307,Indiana (PA),22,8,0,30
 2018,305,Indiana St.,13,18,0,31
-2018,310,Iona,20,13,1,34
+2018,310,Iona,20,14,0,34
 2018,312,Iowa,14,19,0,33
 2018,311,Iowa St.,13,18,0,31
 2018,30173,Iowa Wesleyan,5,20,0,25
@@ -422,25 +420,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,2699,IUPUI,11,19,0,30
 2018,314,Jackson St.,12,20,0,32
 2018,316,Jacksonville,15,18,0,33
-2018,315,Jacksonville St.,21,12,1,34
+2018,315,Jacksonville St.,23,13,0,36
 2018,317,James Madison,10,22,0,32
 2018,543,Jefferson,21,14,0,35
 2018,320,John Carroll,25,6,0,31
 2018,321,John Jay,12,15,0,27
 2018,322,Johns Hopkins,24,5,0,29
-2018,30046,Johnson & Wales (CO),1,13,0,14
-2018,22626,Johnson & Wales (RI),19,10,0,29
+2018,30046,JWU (Denver),1,13,0,14
+2018,22626,JWU (Providence),19,10,0,29
 2018,323,Johnson C. Smith,20,11,0,31
-2018,324,Johnson St.,7,18,0,25
 2018,325,Juniata,23,6,0,29
 2018,326,Kalamazoo,8,17,0,25
-2018,328,Kansas,27,7,1,35
-2018,327,Kansas St.,22,11,1,34
+2018,328,Kansas,31,8,0,39
+2018,327,Kansas St.,25,12,0,37
 2018,329,Kean,7,18,0,25
 2018,330,Keene St.,19,9,0,28
 2018,1157,Kennesaw St.,10,20,0,30
 2018,331,Kent St.,17,17,0,34
-2018,334,Kentucky,24,10,1,35
+2018,334,Kentucky,26,11,0,37
 2018,332,Kentucky St.,8,19,0,27
 2018,335,Kenyon,7,18,0,25
 2018,1159,Keuka,11,13,0,24
@@ -453,20 +450,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1163,La Roche,21,7,0,28
 2018,340,La Salle,13,19,0,32
 2018,341,La Verne,1,24,0,25
-2018,498,La.-Monroe,16,15,1,32
+2018,498,La.-Monroe,16,16,0,32
 2018,342,Lafayette,10,21,0,31
 2018,1162,LaGrange,13,13,0,26
 2018,2746,Lake Erie,16,14,0,30
 2018,344,Lake Forest,17,9,0,26
 2018,345,Lake Superior St.,25,8,0,33
 2018,1164,Lakeland,16,10,0,26
-2018,346,Lamar University,19,13,1,33
+2018,346,Lamar University,19,14,0,33
 2018,30085,Lancaster Bible,23,6,0,29
 2018,1167,Lander,11,17,0,28
 2018,347,Lane,14,13,0,27
 2018,8486,Lasell,13,14,0,27
 2018,348,Lawrence,11,13,0,24
-2018,349,Le Moyne,27,6,1,34
+2018,349,Le Moyne,27,7,0,34
 2018,351,Lebanon Valley,18,10,0,28
 2018,30013,Lee,16,12,0,28
 2018,13302,Lees-McRae,23,9,0,32
@@ -478,14 +475,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,8490,LeTourneau,24,5,0,29
 2018,354,Lewis,15,14,0,29
 2018,22235,Lewis & Clark,8,17,0,25
-2018,355,Liberty,21,14,0,35
+2018,355,Liberty,22,15,0,37
 2018,1174,Limestone,13,16,0,29
 2018,356,Lincoln (MO),15,14,0,29
 2018,357,Lincoln (PA),12,15,0,27
 2018,1176,Lincoln Memorial,32,2,0,34
 2018,30136,Lindenwood (MO),16,13,0,29
 2018,1179,Linfield,16,9,0,25
-2018,28600,Lipscomb,23,9,1,33
+2018,28600,Lipscomb,23,10,0,33
 2018,32,Little Rock,7,25,0,32
 2018,361,LIU Brooklyn,18,17,0,35
 2018,362,LIU Post,11,18,0,29
@@ -494,19 +491,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,99,Long Beach St.,15,18,0,33
 2018,363,Longwood,7,26,0,33
 2018,364,Loras,19,7,0,26
-2018,671,Louisiana,27,6,1,34
+2018,671,Louisiana,27,7,0,34
 2018,1182,Louisiana Col.,6,17,0,23
 2018,366,Louisiana Tech,17,16,0,33
-2018,367,Louisville,21,13,0,34
-2018,371,Loyola Chicago,28,5,1,34
+2018,367,Louisville,22,14,0,36
+2018,371,Loyola Chicago,32,6,0,38
 2018,369,Loyola Maryland,9,22,0,31
 2018,370,Loyola Marymount,11,20,0,31
-2018,365,LSU,17,14,1,32
+2018,365,LSU,18,15,0,33
 2018,30177,Lubbock Christian,14,15,0,29
 2018,372,Luther,5,20,0,25
 2018,373,Lycoming,19,7,0,26
 2018,374,Lynchburg,15,12,0,27
-2018,30065,Lyndon St.,2,22,0,24
 2018,20794,Lynn,14,13,0,27
 2018,376,Macalester,3,22,0,25
 2018,377,MacMurray,13,12,0,25
@@ -521,9 +517,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1196,Marian (WI),11,14,0,25
 2018,385,Marietta,21,7,0,28
 2018,386,Marist,6,25,0,31
-2018,387,Marquette,19,13,1,33
+2018,387,Marquette,21,14,0,35
 2018,1199,Mars Hill,4,23,0,27
-2018,388,Marshall,24,10,1,35
+2018,388,Marshall,25,11,0,36
 2018,8597,Martin Luther,4,21,0,25
 2018,30075,Mary,6,21,0,27
 2018,1203,Mary Hardin-Baylor,17,9,0,26
@@ -544,21 +540,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,23725,Medaille,19,11,0,30
 2018,403,Medgar Evers,7,18,0,25
 2018,404,Memphis,21,13,0,34
-2018,406,Mercer,18,14,1,33
+2018,406,Mercer,19,15,0,34
 2018,724,Merchant Marine,9,15,0,24
 2018,407,Mercy,10,19,0,29
 2018,408,Mercyhurst,13,14,0,27
 2018,410,Merrimack,20,12,0,32
 2018,411,Messiah,14,12,0,26
 2018,412,Methodist,18,9,0,27
-2018,415,Miami (FL),22,9,1,32
+2018,415,Miami (FL),22,10,0,32
 2018,414,Miami (OH),16,18,0,34
-2018,418,Michigan,28,7,1,36
-2018,416,Michigan St.,29,4,1,34
+2018,418,Michigan,33,8,0,41
+2018,416,Michigan St.,30,5,0,35
 2018,417,Michigan Tech,15,14,0,29
-2018,419,Middle Tenn.,25,7,0,32
+2018,419,Middle Tenn.,25,8,0,33
 2018,420,Middlebury,21,7,0,28
-2018,1222,Midwestern St.,11,18,0,29
 2018,422,Miles,7,20,0,27
 2018,423,Millersville,10,19,0,29
 2018,424,Millikin,11,14,0,25
@@ -572,9 +567,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30125,Minot St.,20,10,0,30
 2018,16142,Misericordia,17,11,0,28
 2018,429,Mississippi Col.,9,16,0,25
-2018,430,Mississippi St.,22,11,1,34
+2018,430,Mississippi St.,25,12,0,37
 2018,432,Mississippi Val.,4,28,0,32
-2018,434,Missouri,20,12,1,33
+2018,434,Missouri,20,13,0,33
 2018,435,Missouri S&T,3,23,0,26
 2018,669,Missouri St.,18,15,0,33
 2018,9013,Missouri Western,6,21,0,27
@@ -586,7 +581,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,439,Monmouth,11,20,0,31
 2018,438,Monmouth (IL),20,8,0,28
 2018,205,Mont. St. Billings,13,18,0,31
-2018,441,Montana,26,7,1,34
+2018,441,Montana,26,8,0,34
 2018,440,Montana St.,13,19,0,32
 2018,442,Montclair St.,18,9,0,27
 2018,1238,Montevallo,15,15,0,30
@@ -601,32 +596,33 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,452,Mount Union,13,13,0,26
 2018,20220,MSOE,16,10,0,26
 2018,413,MSU Denver,15,14,0,29
-2018,1240,MSU Moorhead,8,22,0,30
+2018,1240,MSU Moorhead,7,22,0,29
+2018,1222,MSU Texas,11,18,0,29
 2018,8567,Mt. St. Joseph,17,9,0,26
 2018,1468,Mt. St. Mary (NY),13,13,0,26
 2018,450,Mt. St. Mary's,18,14,0,32
 2018,453,Muhlenberg,11,14,0,25
-2018,454,Murray St.,26,5,1,32
+2018,454,Murray St.,26,6,0,32
 2018,455,Muskingum,9,16,0,25
 2018,488,N.C. A&T,20,15,0,35
-2018,489,N.C. Central,19,15,1,35
+2018,489,N.C. Central,19,16,0,35
 2018,491,N.C. Wesleyan,16,11,0,27
 2018,8577,N.M. Highlands,15,13,0,28
 2018,726,Navy,20,12,0,32
 2018,461,Nazareth,20,8,0,28
-2018,490,NC State,21,11,1,33
-2018,462,Neb. Wesleyan,28,3,0,31
+2018,490,NC State,21,12,0,33
+2018,462,Neb. Wesleyan,30,3,0,33
 2018,1156,Neb.-Kearney,16,14,0,30
-2018,463,Nebraska,22,10,1,33
+2018,463,Nebraska,22,11,0,33
 2018,1254,Neumann,23,9,0,32
-2018,466,Nevada,27,7,1,35
+2018,466,Nevada,29,8,0,37
 2018,467,New England Col.,21,7,0,28
 2018,469,New Hampshire,10,21,0,31
 2018,470,New Haven,17,10,0,27
 2018,319,New Jersey City,19,8,0,27
 2018,473,New Mexico,19,15,0,34
-2018,472,New Mexico St.,28,5,1,34
-2018,474,New Orleans,15,16,1,32
+2018,472,New Mexico St.,28,6,0,34
+2018,474,New Orleans,16,17,0,33
 2018,476,New Rochelle,17,9,0,26
 2018,1257,Newberry,15,14,0,29
 2018,21772,Newbury,4,21,0,25
@@ -637,7 +633,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,471,NJIT,14,16,0,30
 2018,485,Norfolk St.,14,19,0,33
 2018,487,North Ala.,15,13,0,28
-2018,457,North Carolina,25,10,1,36
+2018,457,North Carolina,26,11,0,37
 2018,492,North Central (IL),19,9,0,28
 2018,30039,North Central (MN),7,18,0,25
 2018,494,North Dakota,12,20,0,32
@@ -646,15 +642,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30052,North Georgia,12,17,0,29
 2018,9223,North Greenville,12,17,0,29
 2018,496,North Park,5,20,0,25
-2018,497,North Texas,15,17,1,33
+2018,497,North Texas,20,18,0,38
 2018,500,Northeastern,23,10,0,33
 2018,12810,Northeastern St.,8,20,0,28
 2018,501,Northern Ariz.,5,27,0,32
-2018,502,Northern Colo.,22,12,0,34
+2018,502,Northern Colo.,26,12,0,38
 2018,503,Northern Ill.,13,19,0,32
 2018,505,Northern Ky.,22,10,0,32
 2018,506,Northern Mich.,15,13,0,28
-2018,1266,Northern St.,34,3,1,38
+2018,1266,Northern St.,36,4,0,40
 2018,1267,Northland,12,13,0,25
 2018,507,Northwest Mo. St.,27,4,0,31
 2018,1274,Northwest Nazarene,13,13,0,26
@@ -664,10 +660,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30031,Northwestern-St. Paul,14,13,0,27
 2018,510,Northwood,11,17,0,28
 2018,511,Norwich,10,16,0,26
-2018,513,Notre Dame,21,14,0,35
+2018,513,Notre Dame,21,15,0,36
 2018,30126,Notre Dame (OH),6,22,0,28
 2018,30056,Notre Dame de Namur,5,22,0,27
 2018,24639,Nova Southeastern,17,10,0,27
+2018,324,NVU-Johnson,7,18,0,25
+2018,30065,NVU-Lyndon,2,22,0,24
 2018,1277,Nyack,7,19,0,26
 2018,477,NYIT,5,25,0,30
 2018,479,NYU,10,14,0,24
@@ -679,20 +677,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,519,Ohio,14,17,0,31
 2018,30119,Ohio Dominican,20,11,0,31
 2018,517,Ohio Northern,19,9,0,28
-2018,518,Ohio St.,24,8,1,33
+2018,518,Ohio St.,25,9,0,34
 2018,15207,Ohio Valley,3,25,0,28
 2018,520,Ohio Wesleyan,19,9,0,28
 2018,30202,Okla. Baptist,10,18,0,28
 2018,30179,Okla. Christian,12,18,0,30
-2018,522,Oklahoma,18,13,1,32
-2018,521,Oklahoma St.,20,14,0,34
+2018,522,Oklahoma,18,14,0,32
+2018,521,Oklahoma St.,21,15,0,36
 2018,523,Old Dominion,25,7,0,32
 2018,524,Old Westbury,12,14,0,26
 2018,433,Ole Miss,12,20,0,32
 2018,525,Olivet,16,11,0,27
 2018,464,Omaha,9,22,0,31
 2018,527,Oral Roberts,11,21,0,32
-2018,529,Oregon,23,12,0,35
+2018,529,Oregon,23,13,0,36
 2018,528,Oregon St.,16,16,0,32
 2018,530,Oswego St.,14,13,0,27
 2018,531,Otterbein,1,24,0,25
@@ -706,9 +704,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1297,Pacific Lutheran,4,20,0,24
 2018,535,Paine,6,23,0,29
 2018,30045,Palm Beach Atl.,15,17,0,32
-2018,540,Penn,24,8,1,33
+2018,540,Penn,24,9,0,33
 2018,30190,Penn College,3,22,0,25
-2018,539,Penn St.,21,13,1,35
+2018,539,Penn St.,26,13,0,39
 2018,30081,Penn St. Harrisburg,8,17,0,25
 2018,30114,Penn St.-Abington,10,14,0,24
 2018,25719,Penn St.-Altoona,17,10,0,27
@@ -728,30 +726,31 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,30149,Point Loma,21,10,0,31
 2018,549,Pomona-Pitzer,15,12,0,27
 2018,551,Portland,10,22,0,32
-2018,550,Portland St.,20,13,0,33
+2018,550,Portland St.,20,14,0,34
 2018,1318,Post,7,21,0,28
 2018,553,Prairie View,16,18,0,34
 2018,1320,Presbyterian,11,21,0,32
 2018,554,Princeton,13,16,0,29
 2018,555,Principia,10,14,0,24
-2018,556,Providence,21,13,1,35
+2018,556,Providence,21,14,0,35
 2018,557,Puget Sound,18,7,0,25
 2018,30029,Purchase,18,9,0,27
-2018,559,Purdue,28,6,1,35
+2018,559,Purdue,30,7,0,37
+2018,308,Purdue Fort Wayne,18,15,0,33
 2018,30222,Purdue Northwest,2,26,0,28
-2018,11504,Queens (NC),31,3,1,35
+2018,11504,Queens (NC),32,4,0,36
 2018,560,Queens (NY),9,16,0,25
 2018,561,Quincy,9,18,0,27
 2018,562,Quinnipiac,12,21,0,33
-2018,563,Radford,23,12,1,36
-2018,564,Ramapo,25,6,0,31
+2018,563,Radford,23,13,0,36
+2018,564,Ramapo,25,7,0,32
 2018,566,Randolph,7,20,0,27
 2018,565,Randolph-Macon,18,8,0,26
 2018,567,Redlands,7,18,0,25
 2018,568,Regis (CO),27,6,0,33
 2018,569,Regis (MA),12,14,0,26
 2018,570,Rensselaer,13,12,0,25
-2018,572,Rhode Island,25,7,1,33
+2018,572,Rhode Island,26,8,0,34
 2018,571,Rhode Island Col.,8,18,0,26
 2018,573,Rhodes,13,13,0,26
 2018,574,Rice,7,24,0,31
@@ -787,7 +786,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,608,Saint Leo,12,19,0,31
 2018,609,Saint Louis,17,16,0,33
 2018,1343,Saint Martin's,25,8,0,33
-2018,610,Saint Mary's (CA),29,5,0,34
+2018,610,Saint Mary's (CA),30,6,0,36
 2018,612,Saint Mary's (MN),1,24,0,25
 2018,613,Saint Michael's,7,19,0,26
 2018,617,Saint Peter's,14,18,0,32
@@ -797,12 +796,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,621,Salem St.,22,4,0,26
 2018,622,Salisbury,18,9,0,27
 2018,623,Salve Regina,10,16,0,26
-2018,624,Sam Houston St.,19,14,0,33
+2018,624,Sam Houston St.,21,15,0,36
 2018,625,Samford,10,22,0,32
-2018,627,San Diego,19,13,0,32
-2018,626,San Diego St.,22,10,1,33
+2018,627,San Diego,20,14,0,34
+2018,626,San Diego St.,22,11,0,33
 2018,628,San Fran. St.,19,11,0,30
-2018,629,San Francisco,18,15,1,34
+2018,629,San Francisco,22,17,0,39
 2018,630,San Jose St.,4,26,0,30
 2018,631,Santa Clara,11,20,0,31
 2018,30163,Sarah Lawrence,4,21,0,25
@@ -810,11 +809,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1355,Schreiner,15,14,0,29
 2018,633,Scranton,13,12,0,25
 2018,634,Seattle Pacific,17,12,0,29
-2018,1356,Seattle U,20,13,1,34
-2018,635,Seton Hall,21,11,1,33
+2018,1356,Seattle U,20,14,0,34
+2018,635,Seton Hall,22,12,0,34
 2018,30063,Seton Hill,10,18,0,28
 2018,652,Sewanee,14,11,0,25
-2018,676,SFA,28,6,1,35
+2018,676,SFA,28,7,0,35
 2018,636,Shaw,20,9,0,29
 2018,637,Shenandoah,8,18,0,26
 2018,10870,Shepherd,16,13,0,29
@@ -829,18 +828,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,643,Slippery Rock,21,9,0,30
 2018,663,SMU,17,16,0,33
 2018,645,Sonoma St.,10,16,0,26
-2018,646,South Ala.,14,18,0,32
+2018,646,South Alabama,14,18,0,32
 2018,648,South Carolina,17,16,0,33
 2018,647,South Carolina St.,10,22,0,32
-2018,650,South Dakota,26,8,1,35
+2018,650,South Dakota,26,9,0,35
 2018,30139,South Dakota Mines,8,19,0,27
-2018,649,South Dakota St.,28,6,1,35
+2018,649,South Dakota St.,28,7,0,35
 2018,651,South Fla.,10,22,0,32
 2018,654,Southeast Mo. St.,14,17,0,31
 2018,655,Southeastern La.,22,12,0,34
 2018,1371,Southeastern Okla.,15,14,0,29
 2018,1376,Southern Ark.,15,14,0,29
-2018,657,Southern California,24,11,0,35
+2018,657,Southern California,24,12,0,36
 2018,658,Southern Conn. St.,16,12,0,28
 2018,659,Southern Ill.,20,13,0,33
 2018,661,Southern Ind.,20,11,0,31
@@ -859,9 +858,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,8744,Southwestern Okla.,4,24,0,28
 2018,23260,Spalding,9,15,0,24
 2018,30191,Spring Hill,12,16,0,28
-2018,673,Springfield,22,8,0,30
+2018,673,Springfield,22,9,0,31
 2018,593,St. Anselm,22,9,0,31
-2018,596,St. Bonaventure,26,7,1,34
+2018,596,St. Bonaventure,26,8,0,34
 2018,598,St. Cloud St.,24,9,0,33
 2018,1334,St. Edward's,18,12,0,30
 2018,9684,St. Elizabeth,7,17,0,24
@@ -879,7 +878,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,618,St. Scholastica,17,9,0,26
 2018,620,St. Thomas (MN),14,12,0,26
 2018,1348,St. Thomas Aquinas,26,7,0,33
-2018,674,Stanford,18,15,1,34
+2018,674,Stanford,19,16,0,35
 2018,103,Stanislaus St.,17,12,0,29
 2018,675,Staten Island,16,13,0,29
 2018,678,Stetson,12,20,0,32
@@ -892,6 +891,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,1390,Sul Ross St.,22,7,0,29
 2018,30165,SUNY Canton,7,18,0,25
 2018,168,SUNY Cortland,18,8,0,26
+2018,30225,SUNY Delhi,6,3,0,9
 2018,247,SUNY Geneseo,14,12,0,26
 2018,478,SUNY Maritime,10,15,0,25
 2018,475,SUNY New Paltz,7,18,0,25
@@ -900,25 +900,25 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,552,SUNY Potsdam,11,14,0,25
 2018,685,Susquehanna,10,14,0,24
 2018,686,Swarthmore,25,6,0,31
-2018,688,Syracuse,20,13,1,34
+2018,688,Syracuse,23,14,0,37
 2018,689,Tampa,10,16,0,26
 2018,1395,Tarleton St.,19,11,0,30
 2018,712,TCNJ,19,7,0,26
-2018,698,TCU,21,11,0,32
-2018,690,Temple,17,15,1,33
-2018,694,Tennessee,25,8,1,34
+2018,698,TCU,21,12,0,33
+2018,690,Temple,17,16,0,33
+2018,694,Tennessee,26,9,0,35
 2018,691,Tennessee St.,15,15,0,30
 2018,692,Tennessee Tech,19,14,0,33
 2018,30090,Tex. A&M Int'l,11,18,0,29
 2018,199,Tex. A&M-Commerce,22,9,0,31
 2018,696,Tex. A&M-Kingsville,12,16,0,28
 2018,30088,Tex. Permian Basin,26,7,0,33
-2018,703,Texas,19,14,1,34
-2018,697,Texas A&M,20,12,1,33
+2018,703,Texas,19,15,0,34
+2018,697,Texas A&M,22,13,0,35
 2018,1400,Texas Lutheran,12,15,0,27
-2018,699,Texas Southern,15,19,1,35
+2018,699,Texas Southern,16,20,0,36
 2018,670,Texas St.,15,18,0,33
-2018,700,Texas Tech,24,9,1,34
+2018,700,Texas Tech,27,10,0,37
 2018,23121,Texas-Dallas,19,8,0,27
 2018,30028,Texas-Tyler,17,9,0,26
 2018,141,The Citadel,11,21,0,32
@@ -942,7 +942,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,720,Tuskegee,7,22,0,29
 2018,1255,U New England,12,14,0,26
 2018,9,UAB,20,13,0,33
-2018,108,UC Davis,22,10,1,33
+2018,108,UC Davis,22,11,0,33
 2018,109,UC Irvine,18,17,0,35
 2018,111,UC Riverside,9,22,0,31
 2018,112,UC San Diego,21,11,0,32
@@ -952,16 +952,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,128,UCF,19,13,0,32
 2018,110,UCLA,21,12,0,33
 2018,164,UConn,14,18,0,32
+2018,302,UIC,20,16,0,36
 2018,309,UIndy,19,9,0,28
 2018,401,UMass Boston,16,11,0,27
 2018,656,UMass Dartmouth,12,14,0,26
 2018,368,UMass Lowell,12,18,0,30
-2018,391,UMBC,24,10,1,35
+2018,391,UMBC,25,11,0,36
 2018,393,UMES,7,25,0,32
 2018,2707,UMKC,10,22,0,32
 2018,456,UNC Asheville,21,13,0,34
+2018,459,UNC Greensboro,27,8,0,35
 2018,537,UNC Pembroke,27,6,0,33
-2018,459,UNCG,27,7,1,35
 2018,460,UNCW,11,21,0,32
 2018,504,UNI,16,16,0,32
 2018,727,Union (NY),19,9,0,28
@@ -974,13 +975,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,28594,USciences,16,13,0,29
 2018,702,UT Arlington,21,13,0,34
 2018,695,UT Martin,10,21,0,31
-2018,732,Utah,19,11,1,31
+2018,732,Utah,23,12,0,35
 2018,731,Utah St.,17,17,0,34
-2018,30024,Utah Valley,23,10,0,33
+2018,30024,Utah Valley,23,11,0,34
 2018,704,UTEP,11,20,0,31
 2018,733,Utica,17,10,0,27
-2018,536,UTRGV,15,17,1,33
-2018,706,UTSA,19,14,1,34
+2018,536,UTRGV,15,18,0,33
+2018,706,UTSA,20,15,0,35
 2018,30181,UVa-Wise,14,16,0,30
 2018,745,Va. Wesleyan,17,9,0,26
 2018,734,Valdosta St.,26,5,0,31
@@ -990,10 +991,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,737,Vassar,9,17,0,26
 2018,740,VCU,18,15,0,33
 2018,738,Vermont,27,8,0,35
-2018,739,Villanova,30,4,1,35
-2018,746,Virginia,31,2,1,34
+2018,739,Villanova,36,4,0,40
+2018,746,Virginia,31,3,0,34
 2018,743,Virginia St.,25,5,0,30
-2018,742,Virginia Tech,21,11,1,33
+2018,742,Virginia Tech,21,12,0,33
 2018,744,Virginia Union,18,15,0,33
 2018,741,VMI,9,21,0,30
 2018,747,Wabash,12,14,0,26
@@ -1004,10 +1005,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,751,Wash. & Jeff.,5,20,0,25
 2018,752,Wash. & Lee,17,10,0,27
 2018,2814,Washburn,22,10,0,32
-2018,756,Washington,20,12,1,33
+2018,756,Washington,21,13,0,34
 2018,753,Washington Col.,6,19,0,25
 2018,754,Washington St.,12,19,0,31
-2018,755,Washington-St. Louis,22,4,0,26
+2018,755,WashU,22,4,0,26
 2018,757,Wayne St. (MI),15,11,0,26
 2018,1433,Wayne St. (NE),14,17,0,31
 2018,1434,Waynesburg,10,16,0,26
@@ -1022,19 +1023,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,11740,West Florida,28,4,0,32
 2018,766,West Ga.,14,14,0,28
 2018,1438,West Liberty,26,4,0,30
-2018,767,West Tex. A&M,31,3,1,35
+2018,767,West Tex. A&M,32,4,0,36
 2018,9630,West Va. Wesleyan,7,22,0,29
-2018,768,West Virginia,24,10,1,35
+2018,768,West Virginia,26,11,0,37
 2018,1439,West Virginia St.,13,16,0,29
 2018,769,Western Caro.,13,19,0,32
 2018,770,Western Conn. St.,14,13,0,27
 2018,771,Western Ill.,12,16,0,28
-2018,772,Western Ky.,25,10,0,35
+2018,772,Western Ky.,27,11,0,38
 2018,774,Western Mich.,17,15,0,32
 2018,1445,Western N.M.,6,21,0,27
 2018,775,Western New Eng.,11,15,0,26
 2018,1446,Western Ore.,31,2,0,33
-2018,2759,Western St.,13,16,0,29
+2018,2759,Western Colo.,13,16,0,29
 2018,1448,Western Wash.,21,8,0,29
 2018,777,Westfield St.,11,15,0,26
 2018,1450,Westminster (MO),14,12,0,26
@@ -1047,7 +1048,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,780,Whitman,29,2,0,31
 2018,781,Whittier,10,15,0,25
 2018,1454,Whitworth,24,4,0,28
-2018,782,Wichita St.,25,7,1,33
+2018,782,Wichita St.,25,8,0,33
 2018,783,Widener,18,10,0,28
 2018,784,Wilkes,19,9,0,28
 2018,785,Willamette,11,14,0,25
@@ -1065,7 +1066,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,8911,Wis. Lutheran,8,17,0,25
 2018,793,Wis.-Eau Claire,12,13,0,25
 2018,795,Wis.-La Crosse,13,13,0,26
-2018,798,Wis.-Oshkosh,24,7,0,31
+2018,798,Wis.-Oshkosh,25,8,0,33
 2018,799,Wis.-Parkside,9,19,0,28
 2018,800,Wis.-Platteville,24,5,0,29
 2018,801,Wis.-River Falls,18,9,0,27
@@ -1076,13 +1077,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2018,796,Wisconsin,15,18,0,33
 2018,806,Wittenberg,27,3,0,30
 2018,787,Wm. Paterson,16,13,0,29
-2018,2915,Wofford,21,12,0,33
+2018,2915,Wofford,21,13,0,34
 2018,807,Wooster,22,7,0,29
 2018,809,Worcester St.,3,22,0,25
 2018,808,WPI,16,12,0,28
-2018,810,Wright St.,25,9,1,35
+2018,810,Wright St.,25,10,0,35
 2018,811,Wyoming,20,13,0,33
-2018,812,Xavier,28,5,0,33
+2018,812,Xavier,29,6,0,35
 2018,813,Yale,16,15,0,31
 2018,814,Yeshiva,18,11,0,29
 2018,2730,York (NY),9,16,0,25

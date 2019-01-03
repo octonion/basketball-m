@@ -3,6 +3,7 @@ begin;
 drop table if exists ncaa.rounds;
 
 create table ncaa.rounds (
+	region				integer,
 	year				integer,
 	round_id			integer,
 	school_id			integer,
