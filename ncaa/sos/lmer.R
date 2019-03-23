@@ -127,7 +127,7 @@ fn <- names(f)
 
 # Random factors
 
-r <- ranef(fit)
+r <- ranef(fit, condVar = FALSE)
 rn <- names(r) 
 
 results <- list()
