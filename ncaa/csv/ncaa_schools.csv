@@ -108,8 +108,8 @@
 28593,Birmingham-So.
 506250,Biscayne
 506218,Bishop's (CAN)
-506069,Black Hills St.
 30134,Black Hills St.
+506069,Black Hills St.
 64,Blackburn
 984,Bloomfield
 65,Bloomsburg
@@ -123,6 +123,7 @@
 69,Bowdoin
 70,Bowie St.
 71,Bowling Green
+506316,Boyce
 500598,Bradford
 72,Bradley
 73,Brandeis
@@ -589,6 +590,7 @@
 361,LIU Brooklyn
 362,LIU Post
 359,Livingstone
+370,LMU (CA)
 360,Lock Haven
 99,Long Beach St.
 363,Longwood
@@ -601,7 +603,6 @@
 502812,Loyola (LA)
 371,Loyola Chicago
 369,Loyola Maryland
-370,Loyola Marymount
 365,LSU
 502787,LSU-Shreveport
 30177,Lubbock Christian

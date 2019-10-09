@@ -5,7 +5,7 @@ Adams St.,929,Green & White
 Adelbert,506445,""
 Adelphi,3,Brown & Gold
 Adrian,4,Gold & Black
-Agnes Scott,11324,Purple & White
+Agnes Scott,11324,Purple & Black
 Air Force,721,Blue & Silver
 Akron,5,Blue & Gold
 Ala.-Huntsville,10,Royal Blue & White
@@ -49,8 +49,8 @@ Ark.-Pine Bluff,2678,Black & Gold
 Arkansas,31,Cardinal & White
 Arkansas St.,30,Scarlet & Black
 Arkansas Tech,947,Green & Yellow-Gold
-Armstrong,33,Maroon & Gold
-Army,725,"Black,Gold & Gray"
+Armstrong St.,33,Maroon & Gold
+Army West Point,725,"Black, Gold and Gray"
 Arnold,506427,""
 Asbury,506029,""
 Ashland,35,Purple & Gold
@@ -58,21 +58,21 @@ Assumption,36,Blue & White
 Athens St.,500260,""
 Auburn,37,Burnt Orange & Navy Blue
 Augsburg,38,Maroon & Gray
+Augusta,39,Navy & Silver/Grey
 Augustana (IL),40,Gold & Blue
 Augustana (SD),41,Navy Blue & Gold
+AUM,30093,Orange & Black
 Aurora,42,Royal Blue & White
 Austin,953,Crimson & Gold
 Austin Peay,43,Red & White
 Averett,44,Navy & Gold
-Azusa Pacific,500089,""
 Azusa Pacific,30146,Black & Brick
+Azusa Pacific,500089,""
 Babson,45,Green & White
 Baker,506059,""
-Bakersfield,94,Blue & Gold
-Baldwin Wallace,46,Brown & Gold
+Baldwin Wallace,46,Brown & #010101
 Ball St.,47,Cardinal & White
 Baptist Bible (PA),500367,""
-Baptist Bible (PA),958,Royal Blue & White
 Bard,962,Black & White
 Barrington,500385,""
 Barry,49,"Red, Black & Silver"
@@ -82,6 +82,7 @@ Bates,50,Garnet
 Bay Path,26520,Maroon & White
 Baylor,51,Green & Gold
 Becker,26107,"Royal Blue, White & Black"
+Belhaven,30197,Green and Gold
 Bellarmine,52,Scarlet & Silver
 Belmont,14927,"Navy, Red and White"
 Belmont Abbey,2683,Red & White
@@ -90,7 +91,8 @@ Bemidji St.,54,Green & White
 Benedict,55,Purple & Gold
 Benedictine (IL),296,Red & White
 Bennett,14770,""
-Bentley,56,"Blue, Black, Gray, Gold & White"
+Bentley,56,"Blue, Black, Gray"
+Berea,30171,Blue and white
 Berea,506023,""
 Berry,973,Navy and Silver
 Bethany (KS),506014,""
@@ -102,11 +104,12 @@ Bethel (TN),500500,""
 Bethune-Cookman,61,Maroon & Gold
 Binghamton,62,Green & Black
 Biola,500515,""
+Biola,30220,"Red, Black, White"
 Birmingham-So.,28593,Black & Gold
 Biscayne,506250,""
-Bishop,506218,""
-Black Hills St.,506069,""
+Bishop's (CAN),506218,""
 Black Hills St.,30134,Green & Gold
+Black Hills St.,506069,""
 Blackburn,64,Scarlet & Black
 Bloomfield,984,Maroon & Gold
 Bloomsburg,65,Maroon & Gold
@@ -120,6 +123,7 @@ Boston U.,68,Scarlet & White
 Bowdoin,69,White
 Bowie St.,70,Black & Gold
 Bowling Green,71,Orange & Brown
+Boyce,506316,""
 Bradford,500598,""
 Bradley,72,Red & White
 Brandeis,73,Blue & White
@@ -133,16 +137,17 @@ Brooklyn,79,Maroon & Gold
 Brown,80,"Brown, Red & White"
 Bryan,500660,""
 Bryant,81,Black & Gold
+Bryn Athyn,30188,Red and White
 Bryn Mawr,82,Yellow and White
 Bucknell,83,Orange & Blue
 Buena Vista,84,Navy Blue & Gold
 Buffalo,86,Royal Blue & White
 Buffalo St.,85,Orange & Black
 Butler,87,Blue & White
-BYU,77,Dark Blue and White
+BYU,77,Blue and White
 BYU-Hawaii,2685,"Crimson, Gold & Black"
 Cabrini,88,Blue & White
-Cairn,1305,Crimson & Black & White
+Cairn,1305,Cardinal & Black & White
 Cal Lutheran,105,Violet & Gold
 Cal Poly,90,"Forest Green, Copper, Vegas Gold"
 Cal Poly Pomona,91,Green & Gold
@@ -153,7 +158,7 @@ Cal St. L.A.,100,Black & Gold
 Cal St. Monterey Bay,506122,""
 Cal St. Monterey Bay,30055,Blue (PMS 540) & Gold (PMS 871)
 Cal St. San B'dino,93,Blue & Black
-Cal St. Stanislaus,103,Red & Gold
+Cal St. San Marcos,30198,"Medium Blue, Light Blue and White"
 Caldwell,995,Scarlet & Gold
 California,107,Blue & Gold
 California (PA),106,Red & Black
@@ -173,25 +178,24 @@ Carroll (WI),120,Orange & White
 Carson-Newman,1000,Orange & Blue
 Carthage,121,"Red, White & Black"
 Cascade,506094,""
-Case,122,"Blue, Gray & White"
 Castleton,123,Green & White
 Catawba,1001,Blue & White
 Catholic,124,Cardinal Red & Black
 Cazenovia,23624,Navy Blue & Gold
 CCNY,480,Lavender & Black
-Cedar Crest,14795,Yellow and White
+Cedar Crest,14795,Black and Yellow
 Cedarville,30124,Blue & Yellow
 Centenary (LA),125,Maroon & White
-Centenary (NJ),12884,Blue & White
+Centenary (NJ),12884,Navy & White
 Central (IA),126,Red & White
 Central Ark.,1004,Purple & Gray
 Central Conn. St.,127,Blue & White
 Central Methodist,506026,""
 Central Mich.,129,Maroon & Gold
-Central Mo.,130,Cardinal & Black
+Central Mo.,130,Red & Black
 Central Okla.,1009,Bronze & Blue
-Central St. (OH),30049,Maroon & Gold
 Central St. (OH),506028,""
+Central St. (OH),30049,Maroon & Gold
 Central Wash.,1010,Crimson & Black
 Centre,132,Gold & White
 Chadron St.,1012,Cardinal & White
@@ -200,7 +204,7 @@ Chapman,134,Cardinal & Gray
 Charleston (WV),1013,Maroon & Gold
 Charleston So.,48,Blue & Gold
 Charlotte,458,Green & White
-Chatham,10972,Purple & White
+Chatham,10972,Purple & Grey
 Chattanooga,693,Navy Blue & Old Gold
 Chestnut Hill,21323,"Scarlet, Gold, and White"
 Cheyney,135,Blue & White
@@ -212,7 +216,6 @@ Chris. Newport,139,Blue & Silver
 Christian Bros.,1015,Red & Gray
 Cincinnati,140,Red & Black
 Cincinnati-Clermont,30087,Red & black
-Citadel,141,Citadel Blue & White
 City Tech,8580,Royal Blue & Gold
 Claflin,500990,""
 Claflin,30058,Orange & Maroon
@@ -222,31 +225,34 @@ Clarion,143,Blue & Gold
 Clark (MA),145,Scarlet & White
 Clark Atlanta,144,"Red, Black & Grey"
 Clarke,1020,Navy & Gold
+Clarks Summit,958,"Royal Blue, Cool Grey, Charcoal"
 Clarkson,146,Green & Gold
 Clayton St.,20576,Blue & Orange
-Clemson,147,Clemson Orange & Regalia
+Clemson,147,Tiger Orange & Regalia
 Cleveland St.,148,Forest Green & White
-Coast Guard,722,Blue & White
+CMSV,451,White and Gold
+Coast Guard,722,Blue & Orange
 Coastal Caro.,149,"Teal, Bronze & Black"
 Cobleskill St.,30083,"Black, Orange & White"
 Coe,150,Crimson & Vegas Gold
 Coker,1023,Navy Blue & Yellow
-Col. of Charleston,1014,Maroon & Gold
+Col. of Charleston,1014,Maroon & White
 Col. of Emporia,506440,""
 Col. of Idaho,500088,""
 Colby,151,Blue & Gray
 Colby-Sawyer,152,Royal Blue and White
-Colgate,153,Maroon and White
+Colgate,153,"Maroon, Gray and White"
 Colo. Christian,11403,Navy & Gold
+Colo. Sch. of Mines,155,Silver & Blue
 Colorado,157,"Silver, Black & Gold"
 Colorado Col.,154,Black & Gold
 Colorado Mesa,11416,"Maroon, Gold & White"
-Colorado Mines,155,Silver & Blue
 Colorado St.,156,Green & Gold
 Colorado St.-Pueblo,2720,Red & Blue
 Columbia,158,Columbia Blue & White
 Columbus St.,159,"Red, White & Blue"
 Concord,1028,Maroon & Gray
+Concordia (CA),30199,Green and Gold
 Concordia (IN),501120,""
 Concordia (MI),501123,""
 Concordia (MO),501130,""
@@ -255,9 +261,10 @@ Concordia (NE),506061,""
 Concordia (NY),162,Royal Blue & Gold
 Concordia (TX),24400,Purple & Gold
 Concordia Chicago,160,Maroon & Gold
+Concordia Portland,30200,Navy & White
 Concordia Wisconsin,1036,"Royal Blue, White"
 Concordia-M'head,161,Maroon & Gold
-Concordia-St. Paul,9081,Navy Blue & Vegas Gold
+Concordia-St. Paul,9081,Navy & Gold
 Connecticut Col.,163,Navy Blue & White
 Converse,8935,Purple & Gold
 Cooper Union,501167,""
@@ -267,21 +274,25 @@ Cornell College,166,Purple & White
 Covenant,30111,Royal Blue & White
 Creighton,169,Blue & White
 Crown (MN),30035,Purple & Gray
+CSU Bakersfield,94,Blue & Gold
 CSUN,101,"Red, White & Black"
 Culver-Stockton,506032,""
 Curry,170,Purple & White
+CWRU,122,"Blue, Gray & White"
 D'Youville,1059,Red/White
 D.C. Teachers,506446,""
 Daemen,30174,Royal blue and white
 Dakota Wesleyan,506033,""
 Dallas,1044,Navy & White
-Dallas Baptist,1045,1332
 Dana,506005,""
 Daniel Webster,2691,"Red, White, Navy"
 Dartmouth,172,Dartmouth Green and White
+Davenport,30221,"Red, Black and White"
 Davidson,173,Red & Black
 Davis & Elkins,174,Scarlet & White
 Dayton,175,Red & Blue
+DBU,1045,"Red, White and Navy Blue"
+Dean,30219,""
 Defiance,1050,Purple and Gold
 Delaware,180,Blue & Gold
 Delaware St.,178,Red & Columbia Blue
@@ -292,7 +303,7 @@ Denver,183,Crimson & Gold
 DePaul,176,Royal Blue & Scarlet
 DePauw,177,Old Gold & Black
 DeSales,20,Navy Blue & Scarlet
-Detroit,184,"Red, White & Blue"
+Detroit Mercy,184,"Red, White & Blue"
 Dickinson,185,Red & White
 Dickinson St.,506123,""
 Dillard,501365,""
@@ -300,7 +311,7 @@ Dist. Columbia,186,Red & Gold
 Dixie St.,30095,"Red, Navy Blue & White"
 Doane,30082,Orange & black
 Doane,506020,""
-Dominican (CA),30118,"Black, Gold & White"
+Dominican (CA),30118,"Black, Gold & Ice"
 Dominican (IL),1332,"Royal Blue, Black & White"
 Dominican (NY),8956,Black & Red
 Dowling,2692,Navy & Gold
@@ -315,7 +326,6 @@ Earlham,195,Maroon & White
 East Carolina,196,Purple & Gold
 East Central,8965,Orange & Black
 East Stroudsburg,197,Red & Black
-East Tenn. St.,198,Navy Blue & Yellow Gold
 East Tex. Baptist,1062,Navy & Gold
 East. Mennonite,203,Royal Blue & White
 Eastern,8968,Maroon & White
@@ -327,7 +337,7 @@ Eastern N.M.,206,Green & Silver
 Eastern Nazarene,1064,Red & White
 Eastern Ore.,1065,Navy Blue & Vegas Gold
 Eastern Wash.,207,Red & White
-Eckerd,208,"Navy, Teal, White & Black"
+Eckerd,208,"Navy, Teal, Gray"
 Edgewood,1066,"Black, White & Red"
 Edinboro,209,Red & White
 Edward Waters,501555,""
@@ -338,14 +348,16 @@ Elmhurst,212,Blue & White
 Elmira,213,Purple & Gold
 Elms,532,Green & Gold
 Elon,1068,Maroon & Gold
+Embry-Riddle (FL),9680,Royal Blue and Gold
 Emerson,214,Royal Purple & Gold
-Emmanuel (GA),30193,"Gold, navy blue & cardinal"
+Emmanuel (GA),30193,"Gold, Navy Blue & Burgundy"
 Emmanuel (MA),215,Royal Blue & Gold
 Emory,217,Blue & Gold
 Emory & Henry,216,Blue & Gold
 Emporia St.,1071,Old Gold & Black
 Endicott,8981,Blue & Green
 Erskine,1072,Garnet & Gold
+ETSU,198,Navy Blue & Yellow Gold
 Eureka,218,Maroon & Gold
 Evansville,219,"Purple, White & Orange"
 Evergreen St.,8984,Green & White
@@ -365,7 +377,7 @@ Fisk,226,Blue & Gold
 Fitchburg St.,227,"Green, Gold & White"
 FIU,231,Blue & Gold
 Fla. Atlantic,229,"Blue, Red and Grey"
-Fla. Gulf Coast,506221,""
+Fla. Gulf Csoast,506221,""
 Fla. Memorial,501725,""
 Fla. Southern,233,Scarlet & White
 Flagler,30092,Crimson & Gold
@@ -381,8 +393,8 @@ Fort Valley St.,237,Royal Blue & Old Gold
 Framingham St.,238,Black & Gold
 Francis Marion,1085,"Red, White & Blue"
 Franciscan,30069,Forest green & vegas gold
-Frank. & Marsh.,239,Blue & White
 Franklin,2694,Navy & Old Gold
+Franklin & Marshall,239,Blue & White
 Franklin Pierce,241,Crimson and Grey
 Fredonia,242,Blue & White
 Fresno Pacific,30147,Navy Blue and Orange
@@ -420,13 +432,12 @@ Graceland (IA),506062,""
 Grambling,261,Black & Gold
 Grand Canyon,1104,"Purple, Black & White"
 Grand Valley St.,262,"Blue, Black & White"
-Green Bay,794,"Green, White & Red"
+Green Bay,794,Green and White
 Green Mountain,11062,Green & Gold
 Greensboro,263,"Green, White & Silver"
 Greenville,1111,Orange & Black
 Grinnell,264,Scarlet & Black
 Grove City,265,Crimson and White
-GRU Augusta,39,Jaguar Blue & Silver/Grey
 Guilford,1112,Crimson & Gray
 Gust. Adolphus,266,Black & Gold
 Gwynedd Mercy,12399,"Red, Gold & White"
@@ -459,7 +470,7 @@ Hofstra,283,"Gold, White and Blue"
 Hollins,284,Green & Gold
 Holy Cross,285,Royal Purple
 Holy Cross (IN),506345,""
-Holy Family,1126,Copenhagen Blue & White
+Holy Family,1126,Light Blue & Black
 Holy Names,30175,"Red, white"
 Hood,8404,Blue and Grey
 Hope,286,Orange & Blue
@@ -471,16 +482,16 @@ Howard College,506444,""
 Howard Payne,2741,Navy Blue and Old Gold
 Humboldt St.,291,Green & Gold
 Hunter,292,"Purple, White & Gold"
-Huntingdon,1130,"Scarlet Red, White and Pearl Gray"
+Huntingdon,1130,"Scarlet Red, White and Pearl G"
 Huntington,502195,""
 Husson,1133,"Green, White & Gold"
 Huston-Tillotson,502215,""
 Idaho,295,Silver & Vandal Gold
 Idaho St.,294,Orange & Black
+IIT,30172,"Scarlet, White, and Black"
 IIT,502260,""
 Ill. Central,502239,""
 Ill. Wesleyan,300,Green & White
-Ill.-Chicago,302,Navy Blue & Fire Engine Red
 Ill.-Springfield,30050,Navy Blue/Vegas Gold
 Ill.-Springfield,506079,""
 Illinois,301,Orange & Blue
@@ -492,14 +503,12 @@ Indiana,306,Cream & Crimson
 Indiana (PA),307,Crimson & Gray
 Indiana St.,305,Royal Blue & White
 Indiana Tech,502330,""
-Indianapolis,309,Crimson & Grey
 Iona,310,Maroon & Gold
 Iowa,312,Black and Gold
 Iowa St.,311,Cardinal & Gold
 Iowa Wesleyan,506037,""
 Iowa Wesleyan,30173,Purple and white
-IPFW,308,Royal Blue & White
-Ithaca,313,Blue & Gold
+Ithaca,313,"Blue, White & Gray"
 IUPUI,2699,"Red, Gold & Black"
 Jackson St.,314,Blue & White
 Jacksonville,316,Green & White
@@ -507,13 +516,14 @@ Jacksonville St.,315,Red & White
 James Madison,317,Purple & Gold
 Jamestown,506057,""
 Jarvis Christian,506004,""
+Jefferson,543,Dark Blue and Light Blue
 John Carroll,320,Blue & Gold
 John Jay,321,Navy & Light Blue
 Johns Hopkins,322,Hopkins Blue & Black
+Johnson & Wales (CO),30046,"blue, white & gold"
 Johnson & Wales (RI),22626,Blue & Yellow
-Johnson C. Smith,323,Gold & Blue
-Johnson St.,324,"Green, Blue & White"
-Juniata,325,Blue & Old Gold
+Johnson C. Smith,323,Gold (PMS 7406) & Navy Blue (PMS 296)
+Juniata,325,Blue & Vegas Gold
 Kalamazoo,326,Orange & Black
 Kan. Wesleyan,506103,""
 Kansas,328,Crimson & Blue
@@ -538,7 +548,6 @@ La Roche,1163,Red & White
 La Salle,340,Blue & Gold
 La Sierra,30043,"Royal blue, gold & white"
 La Verne,341,Orange & Green
-La.-Lafayette,671,Vermilion & White
 La.-Monroe,498,Maroon & Gold
 Lafayette,342,Maroon & White
 LaGrange,1162,Red & Black
@@ -546,11 +555,11 @@ Lake Erie,2746,"Green, White and Black"
 Lake Forest,344,Red & Black
 Lake Superior St.,345,Royal Blue & Gold
 Lakeland,1164,Navy & Gold
-Lamar,346,Red & White
+Lamar University,346,Red & White
 Lambuth,1165,Navy Blue & White
 Lancaster Bible,30085,Crimson & White
 Lander,1167,Blue & Gold
-Lane,347,Cardinal Red & Royal Blue
+Lane,347,True Red & Navy Blue
 Langston,30077,Orange & navy blue
 Lasell,8486,"Columbia, Navy, & White"
 Lawrence,348,Blue & White
@@ -562,7 +571,7 @@ Lehigh,352,Brown & White
 Lehman,279,"Royal Blue, Vegas Gold & White"
 LeMoyne-Owen,350,Purple & Old Gold
 Lenoir-Rhyne,1170,Red & Black
-Lesley ,24317,Forest Green & Gold
+Lesley ,24317,Grey and Lime
 LeTourneau,8490,Blue & Gold
 Lewis,354,Red & White
 Lewis & Clark,22235,Orange & Black
@@ -573,35 +582,37 @@ Lincoln (MO),356,Navy Blue & White
 Lincoln (PA),357,Orange & Blue
 Lincoln Christian,30066,"Red, white & black"
 Lincoln Memorial,1176,Blue & Gray
-Lindenwood (MO),502725,""
 Lindenwood (MO),30136,Black & Gold
-Linfield,1179,Purple & Cardinal Red
+Lindenwood (MO),502725,""
+Linfield,1179,Royal Purple & Cardinal Red
 Lipscomb,28600,Purple & Gold
+Little Rock,32,"Maroon, Silver, White"
 LIU Brooklyn,361,Black and Silver
 LIU Post,362,Green & Gold
 Livingstone,359,Columbia Blue & Black
+LMU (CA),370,Crimson & Navy
 Lock Haven,360,Crimson & White
 Long Beach St.,99,Black & Gold
 Longwood,363,Blue & White
 Loras,364,Purple & Gold
 Los Angeles Pacific,506442,""
+Louisiana,671,Vermilion & White
 Louisiana Col.,1182,Orange & Blue
 Louisiana Tech,366,Red & Blue
 Louisville,367,Red & Black
 Loyola (LA),502812,""
 Loyola Chicago,371,Maroon & Gold
 Loyola Maryland,369,Green & Grey
-Loyola Marymount,370,Crimson & Navy
 LSU,365,Purple & Gold
 LSU-Shreveport,502787,""
 Lubbock Christian,30177,Blue and white
 Luther,372,Blue & White
 Lycoming,373,Blue & Gold
 Lynchburg,374,Grey & Crimson
-Lyndon St.,30065,"Forest Green, White & Gold"
-Lynn,20794,Royal Blue & White
+Lynn,20794,"Royal Blue, White & Gray"
 Macalester,376,Orange & Blue
 MacMurray,377,Scarlet & Navy
+Madison College,506110,""
 Maine,380,Blue & White
 Maine Maritime,378,Royal Blue & Gold
 Malone,30137,"Red, White & Blue"
@@ -620,7 +631,7 @@ Mars Hill,1199,Royal Blue & Gold
 Marshall,388,Kelly Green & White
 Martin Luther,8597,"Black, Red & White"
 Mary,30075,"Blue, White, Orange"
-Mary Baldwin,389,"Green, White & Gold"
+Mary Baldwin,389,"Black, White & Mary Gold"
 Mary Hardin-Baylor,1203,"Purple, Gold & White"
 Mary Washington,390,"Navy, Gray & White"
 Maryland,392,"Red, White, Black & Gold"
@@ -631,12 +642,12 @@ Marywood,397,"Forest Green, Gold & White"
 Mass. Maritime,399,Navy Blue & Gold
 Massachusetts,400,Maroon & White
 McDaniel,773,Green & Gold
-McGill,503037,""
-McKendree,503040,""
+McGill (CAN),503037,""
 McKendree,30138,"Purple, White"
+McKendree,503040,""
 MCLA,486,Navy & Gold
 McMurry,8530,Maroon & White
-McNeese St.,402,Blue & Gold
+McNeese,402,Blue & Gold
 McPherson,506039,""
 Me.-Farmington,379,Maroon and White
 Me.-Presque Isle,30040,Blue & gold
@@ -653,7 +664,6 @@ Meredith,409,"Maroon, Black & White"
 Merrimack,410,"Navy Blue, Gold & White"
 Messiah,411,Navy & White
 Methodist,412,Green & Gold
-Metro St.,413,Navy Blue & Red
 Miami (FL),415,Orange & Green
 Miami (OH),414,Red & White
 Miami Dade North JC,506396,""
@@ -665,7 +675,6 @@ Middle Tenn.,419,Royal Blue & White
 Middlebury,420,Blue & White
 Midland,506060,""
 Midwestern (IA),506398,""
-Midwestern St.,1222,Maroon and Gold
 Miles,422,Purple & Gold
 Millersville,423,Black & Gold
 Milligan,503195,""
@@ -674,11 +683,10 @@ Mills,425,Blue and Gold
 Millsaps,426,Purple & White
 Milwaukee,797,Black & Gold
 Minn. Duluth,427,Maroon & Gold
-Minn. St. Mankato,383,Purple & Gold
-Minn. St. Moorhead,1240,Scarlet & White
 Minn.-Crookston,27854,Maroon & Gold
 Minn.-Morris,1226,Maroon & Gold
 Minnesota,428,Maroon & Gold
+Minnesota St.,383,Purple & Gold
 Minot St.,30125,Red & Green
 Misericordia,16142,Royal Blue & Gold
 Miss. Industrial,503245,""
@@ -689,11 +697,11 @@ Missouri,434,Old Gold & Black
 Missouri S&T,435,"Silver, Gold & Green"
 Missouri St.,669,Maroon & White
 Missouri Valley,506068,""
-MIT,398,Cardinal Red & Silver Gray
+Missouri Western,9013,Black & Gold
+MIT,398,Cardinal & Gray
 Mitchell,30042,"Red, white & black"
 Mo. Baptist,503262,""
 Mo. Southern St.,9012,Green & Gold
-Mo. Western St.,9013,Black & Gold
 Mo.-St. Louis,436,Red & Gold
 Molloy,437,Maroon & White
 Monmouth,439,Midnight Blue & White
@@ -719,22 +727,25 @@ Mount Mary,30033,Navy & Gold
 Mount Olive,1245,Green & White
 Mount Union,452,Purple & White
 MSOE,20220,Red & White
+MSU Denver,413,Navy Blue & Red
+MSU Moorhead,1240,Scarlet & White
+MSU Texas,1222,Maroon and Gold
 Mt. Aloysius,506043,""
 Mt. St. Joseph,8567,Blue & Gold
 Mt. St. Mary (NY),1468,"Royal Blue, Black & White"
 Mt. St. Mary's,450,Blue & White
-Mt. St. Vincent,451,"Blue, White & Gold"
 Muhlenberg,453,Cardinal & Grey
 Murray St.,454,Navy & Gold
 Muskingum,455,Black & Magenta
-MUW,431,Navy & Columbia Blue
+MUW,431,W Blue and Welty Blue
 N.C. A&T,488,Blue & Gold
 N.C. Central,489,Maroon & Gray
-N.C. Wesleyan,491,Navy Blue & Vega Gold
-N.M. Highlands,8577,"Purple, Black & White"
+N.C. Wesleyan,491,Navy Blue & Vegas Gold
+N.M. Highlands,8577,"Purple, Gray & White"
 Nasson,503430,""
 Navy,726,Navy Blue & Gold
 Nazareth,461,Purple & Gold
+NC State,490,Red & White
 Neb. Wesleyan,462,"Gold, Brown & Black"
 Neb.-Kearney,1156,Royal Blue & Light Old Gold
 Nebraska,463,Scarlet & Cream
@@ -758,15 +769,14 @@ NJIT,471,Red & White (Blue Accent)
 Norfolk St.,485,Green & Gold
 North Ala.,487,Purple & Gold
 North Carolina,457,Carolina Blue & White
-North Carolina St.,490,Red & White
 North Central (IL),492,Cardinal & White
 North Central (MN),30039,Navy blue & vegas gold
 North Dakota,494,Kelly Green & White
 North Dakota St.,493,Yellow and Green
 North Florida,2711,Navy Blue & Gray
-North Georgia,30052,Royal Blue & White
+North Georgia,30052,Blue & Gold
 North Georgia,503660,""
-North Greenville,9223,"Red, and Black"
+North Greenville,9223,"Red, Black"
 North Park,496,Blue & Gold
 North Texas,497,Green & White
 Northeastern,500,Red & Black
@@ -778,22 +788,24 @@ Northern Ill.,503,Cardinal & Black
 Northern Ky.,505,"Gold, Black & White"
 Northern Mich.,506,Green & Gold
 Northern St.,1266,Maroon & Gold
-Northland,1267,"Navy, Orange & White"
+Northland,1267,Orange and Navy
 Northwest Mo. St.,507,Green & White
 Northwest Nazarene,1274,Red and Black
-Northwestern,509,Purple & White
+Northwestern,509,Purple
 Northwestern (IA),506072,""
+Northwestern Okla.,30178,Black and Red
 Northwestern Okla.,506013,""
-Northwestern Okla.,30178,Red and black
 Northwestern St.,508,Purple & White with Orange trim
 Northwestern-St.Paul,30031,"Purple, Gold"
-Northwood (MI),510,Columbia Blue & White
+Northwood,510,Columbia Blue & White
 Norwich,511,Maroon & Gold
 Notre Dame,513,Blue & Gold
 Notre Dame (MD),8600,Navy Blue & White
-Notre Dame (OH),30126,Blue & White
+Notre Dame (OH),30126,Blue & Gold
 Notre Dame de Namur,30056,"Vegas gold, white & navy blue"
 Nova Southeastern,24639,Navy Blue & Gray
+NVU-Johnson,324,"Green, Blue & White"
+NVU-Lyndon,30065,"Forest Green, White & Gold"
 Nyack,1277,"Crimson, Grey, Navy Blue"
 NYIT,477,Blue and Gold
 NYU,479,Purple & White
@@ -809,8 +821,9 @@ Ohio St.,518,Scarlet & Gray
 Ohio Valley,15207,"Royal Blue, White, and Red"
 Ohio Wesleyan,520,Red & Black
 Okla. Baptist,503895,""
+Okla. Baptist,30202,Green & Gold
 Okla. Christian,30179,Maroon and silver gray
-Okla. Panhandle,24342,Crimson and Navy Blue
+Okla. Panhandle,24342,Red and Navy Blue
 Oklahoma,522,Crimson & Cream
 Oklahoma City,503905,""
 Oklahoma St.,521,Orange & Black
@@ -819,12 +832,12 @@ Old Westbury,524,Forest Green & White
 Ole Miss,433,Cardinal Red & Navy Blue
 Olivet,525,Red & White
 Omaha,464,Black & Crimson
-Oral Roberts,527,"Gold, Navy Blue & White"
+Oral Roberts,527,Navy Blue & Vegas Gold
 Oregon,529,Green & Yellow
 Oregon St.,528,Orange & Black
 Oregon Tech,500078,""
 Oswego St.,530,Hunter Green and Golden Yellow
-Ottawa,506046,""
+Ottawa (KS),506046,""
 Otterbein,531,Tan & Cardinal
 Ouachita Baptist,1289,Purple & Gold
 Ozarks (AR),23008,Purple & Gold
@@ -833,7 +846,7 @@ P.R.-Cayey,1321,""
 P.R.-Humacao,27859,""
 P.R.-Mayaguez,24361,Kelly Green & White
 P.R.-Rio Piedras,2716,Red & White
-Pace,533,Navy & Gold
+Pace,533,Blue & Gold
 Pacific,534,Orange & Black
 Pacific (OR),2751,"Red, Black & White"
 Pacific Lutheran,1297,Black & Gold
@@ -844,19 +857,18 @@ Park,504050,""
 Parsons,506252,""
 Paul Quinn,504055,""
 Penn,540,Red & Blue
-Penn College,30190,""
 Penn College,506288,""
+Penn College,30190,blue & white
 Penn St.,539,Blue & White
 Penn St. Harrisburg,30081,Navy & White
 Penn St.-Abington,30114,Blue & White
 Penn St.-Altoona,25719,Navy Blue & White
 Penn St.-Behrend,538,Blue & White
 Penn St.-Berks,30044,Blue & White
-Pepperdine,541,"Blue, Orange & White"
+Pepperdine,541,Blue & Orange
 Pershing,506235,""
 Peru St.,506008,""
 Pfeiffer,542,Black & Gold
-Philadelphia U.,543,Maroon & Grey
 Philander Smith,504115,""
 Piedmont,21830,Dark Green & Vegas Gold
 Pikeville,504135,""
@@ -875,7 +887,7 @@ Polytechnic (NY),481,Blue & Gray
 Pomona-Pitzer,549,"Blue, Orange & White"
 Portland,551,Purple & White
 Portland St.,550,"Green, White & Silver"
-Post,1318,"Hunter, Black & White"
+Post,1318,Orange & Purple
 Prairie View,553,Purple & Gold
 Pratt,504205,""
 Presbyterian,1320,Blue & Garnet
@@ -886,13 +898,15 @@ Providence,556,"Black, White & Silver"
 Puget Sound,557,Maroon & White
 Purchase,30029,"Royal blue, white & orange"
 Purdue,559,Old Gold & Black
-Purdue-Calumet,504255,""
+Purdue Fort Wayne,308,Black & Gold
+Purdue Northwest,504255,""
+Purdue Northwest,30222,Black and Gold
 Quantico Marines,506441,""
 Queens (NC),11504,Navy Blue and Vegas Gold
 Queens (NY),560,Blue & Red
-Quincy,561,"Brown, White & Gold"
+Quincy,561,"Brown, White & Yellow"
 Quinnipiac,562,Navy & Gold
-Radford,563,Red and White
+Radford,563,"Red, Gray and White"
 Ramapo,564,"Maroon,  Black & White"
 Randolph,566,Black & Yellow
 Randolph-Macon,565,Lemon & Black
@@ -902,22 +916,21 @@ Regis (MA),569,Crimson & Gold
 Rensselaer,570,Cherry & White
 Rhode Island,572,"Keaney Blue, Navy Blue, and White"
 Rhode Island Col.,571,"Gold, White & Burgundy"
-Rhodes,573,"Red, Black & White"
+Rhodes,573,"Red, Black & Gray"
 Rice,574,Blue & Gray
-Richard Stockton,681,Black & White
 Richmond,575,Red & Blue
 Ricker,506225,""
 Rider,576,"Cranberry, White, Gray"
 Rio Grande,504350,""
 Ripon,577,Red & White
+RIT,580,Brown and Orange
 Rivier,18422,"Navy Blue, Silver and White"
 Roanoke,578,Maroon & Gray
 Robert Morris,579,Blue & White with Red
 Roberts Wesleyan,504365,""
-Roberts Wesleyan,30150,Red & White
+Roberts Wesleyan,30150,Red & Black
 Rochester (NY),581,Yellow & Blue
 Rochester College,503129,""
-Rochester Inst.,580,Brown and Orange
 Rockford,582,"Purple, White, Black"
 Rockhurst,1328,Blue & White
 Rocky Mountain,506025,""
@@ -946,36 +959,38 @@ Saint Joseph's,606,Crimson & Gray
 Saint Leo,608,Forest Green & Gold
 Saint Louis,609,Royal Blue & White
 Saint Martin's,1343,Red & White
+Saint Mary's (CA),610,Navy Blue & Red
 Saint Mary's (MN),612,Red & White
 Saint Michael's,613,Purple & Gold
 Saint Peter's,617,Blue & White
 Saint Rose,1347,"Gold, White & Black"
 Saint Vincent,30064,Green & gold
-Salem,30041,"Gold, white & royal"
-Salem Int'l,19117,Forest Green & White or Black
+Salem (NC),30041,"Gold, white & royal"
+Salem (WV),19117,Forest Green & White or Black
 Salem St.,621,Orange & Blue
 Salisbury,622,Maroon and Gold
-Salve Regina,623,Blue & White
+Salve Regina,623,"Blue, Green, Gold"
 Sam Houston St.,624,Orange & White
 Samford,625,Red & Blue
-San Diego,627,"Columbia Blue, Navy & White"
+San Diego,627,"Torero Blue, Navy & White"
 San Diego Christian,502122,""
 San Diego St.,626,Scarlet & Black
 San Fran. St.,628,Purple & Gold
 San Francisco,629,Green & Gold
 San Jose St.,630,"Gold, White & Blue"
-Santa Clara,631,Red (PMS 202) & White
+Santa Clara,631,Red (PANTONE 202 C) & White
 Sarah Lawrence,30163,Green and White
 Savannah St.,632,Burnt Orange & Reflex Blue
 SCAD,16006,Black & Gold
 Schreiner,1355,Maroon & White
 Scranton,633,Purple & White
-Seattle,1356,Scarlet & White
 Seattle Pacific,634,Maroon & White
+Seattle U,1356,SU Red & White
 Seton Hall,635,Blue & White
-Seton Hill,504752,""
 Seton Hill,30063,Crimson & vegas gold
+Seton Hill,504752,""
 Sewanee,652,"Purple, Gold & White"
+SFA,676,Purple & White
 Shaw,636,Garnet & White
 Shenandoah,637,"Red, White & Midnight Blue"
 Shepherd,10870,Blue & Gold
@@ -995,7 +1010,7 @@ Slippery Rock,643,Green & White
 Smith,644,"Yellow, White & Navy"
 SMU,663,Red & Blue
 Sonoma St.,645,"Navy, Columbia Blue & White"
-South Ala.,646,"Red, Blue and White"
+South Alabama,646,"Red, Blue and White"
 South Carolina,648,Garnet & Black
 South Carolina St.,647,Garnet & Blue
 South Dakota,650,Red & White
@@ -1020,8 +1035,8 @@ Southern Ore.,506027,""
 Southern St.,506198,""
 Southern Tech,504970,""
 Southern U.,665,Columbia Blue & Gold
-Southern Utah,667,Scarlet & White
-Southern Va.,30164,Green and White
+Southern Utah,667,"Red, White & Black"
+Southern Va.,30164,Crimson and White
 Southern Vt.,1379,"Green, White & Gold"
 Southern Wesleyan,30192,Warrior Blue and White
 Southern-N.O.,504980,""
@@ -1036,8 +1051,8 @@ Spalding,505038,""
 Spelman,26973,Columbia Blue & White
 Spring Arbor,505040,""
 Spring Garden,506256,""
-Spring Hill,505050,""
 Spring Hill,30191,"Purple, white"
+Spring Hill,505050,""
 Springfield,673,Maroon & White
 St. Ambrose,506002,""
 St. Andrews,592,Royal Blue & White
@@ -1046,8 +1061,8 @@ St. Bernard,506397,""
 St. Bonaventure,596,Brown & White
 St. Catherine,597,Purple & Gold
 St. Cloud St.,598,Cardinal Red & Black
-St. Edward's,1334,Navy & Metallic Gold
-St. Elizabeth,9684,Royal Blue & Gold
+St. Edward's,1334,Navy & Vegas Gold
+St. Elizabeth,9684,Navy Blue and White
 St. Francis (IL),1335,Brown & Gold
 St. Francis (IN),504500,""
 St. Francis Brooklyn,599,Red & Royal Blue
@@ -1056,13 +1071,12 @@ St. John's (NY),603,Red & White
 St. Joseph (CT),8687,"Blue, Gold and White"
 St. Joseph's (Brkln),30072,Navy Blue / White / Gray
 St. Joseph's (IN),604,Cardinal & Purple
-St. Joseph's (L.I.),1340,"Nay Blue, Old Gold & White"
+St. Joseph's (L.I.),1340,"Navy Blue, Gold & White"
 St. Joseph's (ME),605,Royal Blue & White
 St. Lawrence,607,Scarlet & Brown
 St. Mary (KS),506064,""
-St. Mary's (CA),610,Navy Blue & Red
 St. Mary's (IN),8688,Navy & White
-St. Mary's (MD),611,"Navy Blue, White, & Athletic Gold"
+St. Mary's (MD),611,Navy Blue and White
 St. Mary's (TX),1346,Blue & Gold
 St. Mary-Plains,506108,""
 St. Norbert,614,Dartmouth Green & Old Gold
@@ -1075,8 +1089,8 @@ St. Thomas (FL),30091,"Columbia blue, navy & white"
 St. Thomas (MN),620,Purple & Grey
 St. Thomas Aquinas,1348,Maroon & Gold
 Stanford,674,Cardinal & White
+Stanislaus St.,103,Red & Gold
 Staten Island,675,Blue & Gray
-Stephen F. Austin,676,Purple & White
 Stephens College,2756,Maroon & Gold
 Sterling (KS),506073,""
 Stetson,678,Hunter Green & White
@@ -1084,18 +1098,20 @@ Steubenville,505090,""
 Stevens,679,Cardinal & Gray
 Stevenson,21852,Forest Green and Black
 Stillman,680,Navy Blue & Vegas Gold
+Stockton,681,Black & White
 Stonehill,682,Purple & White
-Stony Brook,683,"Red, Blue & Gray"
+Stony Brook,683,"Red, White, Blue"
 Suffolk,684,Blue & Gold
 Sul Ross St.,1390,Scarlet & Gray
 SUNY Canton,30165,Dark Blue and Vegas Gold
 SUNY Cortland,168,Red & White
-SUNY Geneseo,247,Navy Blue & White
+SUNY Delhi,30225,"Green, White & Gold"
+SUNY Geneseo,247,"Navy Blue, Gray & White"
 SUNY Geneva,506001,""
 SUNY Maritime,478,"Cardinal, Navy & White"
 SUNY New Paltz,475,Orange & Blue
 SUNY Oneonta,526,Red & White
-SUNY Poly,9500,Royal Blue & Gray
+SUNY Poly,9500,Blue & Gold
 SUNY Potsdam,552,Maroon & Gray
 Susquehanna,685,Orange & Maroon
 Swarthmore,686,"Garnet, Gray & White"
@@ -1117,7 +1133,6 @@ Tex. A&M Int'l,30090,Maroon & metallic silver
 Tex. A&M-Commerce,199,Blue & Gold
 Tex. A&M-Kingsville,696,Blue & Gold
 Tex. Permian Basin,30088,"Orange, white & black"
-Tex.-Pan American,536,"Green, White & Orange"
 Texas,703,Burnt Orange & White
 Texas A&M,697,Maroon & White
 Texas Col.,505260,""
@@ -1126,22 +1141,22 @@ Texas Southern,699,Maroon & Gray
 Texas St.,670,Maroon & Gold
 Texas Tech,700,Scarlet & Black
 Texas Wesleyan,1401,Blue & Gold
-Texas Woman's,701,Maroon & White (PMS 1817)
-Texas-Arlington,702,"Royal Blue, White and Orange"
+Texas Woman's,701,Maroon & White (PMS 202)
 Texas-Dallas,23121,Forest Green & Orange
-Texas-Tyler,506226,""
 Texas-Tyler,30028,Orange & Navy
+Texas-Tyler,506226,""
+The Citadel,141,Citadel Blue & White
 Thiel,707,Navy Blue & Old Gold
 Thomas (ME),2758,Black & Red
 Thomas More,1402,Royal Blue and White
 Tiffin,1403,Green & Gold
 Toledo,709,Midnight Blue & Gold
 Tougaloo,505310,""
-Towson,711,"Gold, White & Black"
+Towson,711,"Black, Gold & White"
 Transylvania,28749,Crimson & White
 Trevecca Nazarene,30002,Purple and White
-Trine,505355,""
 Trine,30037,"Navy, White with Vegas Gold accent"
+Trine,505355,""
 Trinity (CT),713,Blue & Gold
 Trinity (IL),505340,""
 Trinity (TX),715,Maroon & White
@@ -1149,13 +1164,12 @@ Trinity Washington,23413,Purple & Yellow
 Troy,716,"Cardinal, Silver & Black"
 Truman,499,Purple & White
 Tufts,717,Brown & Blue
-Tulane,718,Olive Green & Sky Blue
+Tulane,718,Olive Green & Blue
 Tulsa,719,"Old Gold, Royal Blue & Crimson"
 Tusculum,12830,Black & Orange
 Tuskegee,720,Crimson & Old Gold
 U New England,1255,Royal Blue & White
 UAB,9,Forest Green & Old Gold
-UALR,32,"Maroon, Silver"
 UC Davis,108,Yale Blue & Gold
 UC Irvine,109,Blue & Gold
 UC Riverside,111,Blue & Gold
@@ -1166,6 +1180,8 @@ UC-Colo. Springs,9754,Black & Gold
 UCF,128,Black & Gold
 UCLA,110,Blue & Gold
 UConn,164,National Flag Blue & White
+UIC,302,Navy Blue & Fire Engine Red
+UIndy,309,Crimson & Grey
 UMass Boston,401,"Beacon Blue, Black & White"
 UMass Dartmouth,656,"Blue, White & Gold"
 UMass Lowell,368,"Blue, White and Red"
@@ -1173,29 +1189,31 @@ UMBC,391,Black & Gold
 UMES,393,Maroon & Gray
 UMKC,2707,Blue & Gold
 UNC Asheville,456,Royal Blue & White
-UNC Greensboro,459,Gold & Navy
+UNC Greensboro,459,Blue and Gold
 UNC Pembroke,537,Black & Gold
 UNCW,460,"Teal, Navy & Gold"
 UNI,504,Purple & Old Gold
 Union (KY),506105,""
-Union (NY),727,Garnet
+Union (NY),727,"Garnet, White"
 Union (TN),505405,""
 Union (TN),30153,Red and White
 UNLV,465,Scarlet & Gray
 Upper Iowa,728,Peacock Blue & White
 Upsala,506217,""
-Urbana,30104,Royal Blue & White
+Urbana,30104,Blue & Grey
 Ursinus,730,"Red, Old Gold & Black"
 Ursuline,30140,Blue & Gold
 USC Upstate,10411,"Green (349), White & Black"
 USciences,28594,Cardinal & Silver
+UT Arlington,702,"Royal Blue, White and Orange"
 UT Martin,695,Navy Blue and Orange
 Utah,732,Red & White
-Utah St.,731,"Navy Blue, White & Pewter"
+Utah St.,731,"Navy Blue, White & Pewter Grey"
 Utah Valley,30024,Green & White
 UTEP,704,"Dark Blue, Orange & Silver"
 Utica,733,Blue & Orange
-UTSA,706,"Orange, Navy Blue & White"
+UTRGV,536,Orange and Gray
+UTSA,706,"Navy Blue, Orange & White"
 UVa-Wise,30181,Red and Gray
 Va. Wesleyan,745,Navy Blue & Silver
 Valdosta St.,734,Red & Black
@@ -1209,7 +1227,7 @@ Vermont,738,Green & Gold
 Villanova,739,Blue and White
 Virginia,746,Orange & Blue
 Virginia St.,743,Orange & Navy Blue
-Virginia Tech,742,Burnt Orange & Chicago Maroon
+Virginia Tech,742,Chicago maroon and burnt orange
 Virginia Union,744,Steel & Maroon
 VMI,741,"Red, White, Yellow"
 Wabash,747,Scarlet
@@ -1262,13 +1280,14 @@ Westfield St.,777,Blue & White
 Westmar,505184,""
 Westminster (MO),1450,Blue & White
 Westminster (PA),1451,Blue & White
+Westminster (UT),30209,Purple & Gold
 Westminster (UT),506139,""
 Westmont,505775,""
 Wheaton (IL),778,Orange & Blue
 Wheaton (MA),779,Royal & White
 Wheeling Jesuit,12799,Red & Gold
 Wheelock,8896,New Navy & Athletic Gold
-Whitman,780,Blue & Gold
+Whitman,780,Blue & Yellow
 Whittier,781,Purple & Gold
 Whitworth,1454,Crimson & Black
 Wichita St.,782,Yellow & Black
@@ -1307,7 +1326,7 @@ Wisconsin,796,Cardinal & White
 Wittenberg,806,Red & White
 Wm. Paterson,787,Orange & Black
 Wofford,2915,Old Gold & Black
-Wooster,807,Black & Old Gold
+Wooster,807,Black & Gold
 Worcester St.,809,Royal Blue & Gold
 WPI,808,Crimson & Gray
 Wright St.,810,Green & Gold
