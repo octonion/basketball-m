@@ -64,6 +64,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Abilene Christian,2,Incarnate Word,2743,03/09/2019,81,52,Home,,-,"1,501"
 2019,Abilene Christian,2,Southeastern La.,655,03/15/2019,69,66,Neutral,"Katy, TX",-,"2,100"
 2019,Abilene Christian,2,New Orleans,474,03/16/2019,77,60,Neutral,"Katy, TX",-,"1,751"
+2019,Abilene Christian,2,Kentucky,334,03/21/2019,44,79,Neutral,"Jacksonville, FL",-,0
 2019,Academy of Art,30123,San Fran. St.,628,11/09/2018,41,78,Away,,-,148
 2019,Academy of Art,30123,Sonoma St.,645,11/10/2018,66,68,Neutral,"San Francisco, CA",1 OT,169
 2019,Academy of Art,30123,Cal St. East Bay,98,11/14/2018,74,79,Home,,-,60
@@ -304,6 +305,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Alabama,8,Arkansas,31,03/09/2019,70,82,Away,,-,"16,253"
 2019,Alabama,8,Ole Miss,433,03/14/2019,62,57,Neutral,"Bridgestone Arena,  Nashville, Tennessee",-,0
 2019,Alabama,8,Kentucky,334,03/15/2019,55,73,Neutral,"Nashville, TN",-,"19,575"
+2019,Alabama,8,Norfolk St.,485,03/20/2019,79,80,Home,,1 OT,"2,086"
 2019,Alabama A&M,6,South Fla.,651,11/06/2018,63,80,Away,,-,"2,213"
 2019,Alabama A&M,6,Houston,288,11/10/2018,54,101,Away,,-,"3,725"
 2019,Alabama A&M,6,Rice,574,11/12/2018,59,73,Away,,-,"1,103"
@@ -1086,6 +1088,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Arizona St.,28,Arizona,29,03/09/2019,72,64,Away,,-,"14,291"
 2019,Arizona St.,28,UCLA,110,03/14/2019,83,72,Neutral,"Las Vegas, NV",-,0
 2019,Arizona St.,28,Oregon,529,03/15/2019,75,79,Neutral,"Las Vegas, NV",1 OT,"13,955"
+2019,Arizona St.,28,St. John's (NY),603,03/20/2019,74,65,Neutral,"Dayton, OH",-,"11,827"
+2019,Arizona St.,28,Buffalo,86,03/22/2019,74,91,Neutral,"Tulsa, OK",-,"12,352"
 2019,Ark.-Fort Smith,30105,Colorado St.-Pueblo,2720,11/09/2018,83,90,Neutral,"Wichita Falls, TX",-,300
 2019,Ark.-Fort Smith,30105,MSU Texas,1222,11/10/2018,64,63,Away,,-,821
 2019,Ark.-Fort Smith,30105,Hendrix,1124,11/13/2018,90,59,Home,,-,"1,001"
@@ -1209,6 +1213,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Arkansas,31,Vanderbilt,736,03/06/2019,84,48,Away,,-,"8,517"
 2019,Arkansas,31,Alabama,8,03/09/2019,82,70,Home,,-,"16,253"
 2019,Arkansas,31,Florida,235,03/14/2019,50,66,Neutral,"Nashville, TN",-,0
+2019,Arkansas,31,Providence,556,03/19/2019,84,72,Away,,-,"3,057"
+2019,Arkansas,31,Indiana,306,03/23/2019,60,63,Away,,-,"12,225"
 2019,Arkansas St.,30,Abilene Christian,2,11/09/2018,73,94,Away,,-,"1,209"
 2019,Arkansas St.,30,Mo. Baptist,,11/12/2018,89,54,Home,,-,"1,305"
 2019,Arkansas St.,30,Grand Canyon,1104,11/16/2018,72,96,Away,,-,"7,121"
@@ -1392,8 +1398,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Auburn,37,Tennessee,694,03/09/2019,84,80,Home,,-,"9,121"
 2019,Auburn,37,Missouri,434,03/14/2019,81,71,Neutral,"Nashville, TN",-,"12,720"
 2019,Auburn,37,South Carolina,648,03/15/2019,73,64,Neutral,"Nashville, TN",-,"16,490"
-2019,Auburn,37,Florida,235,03/16/2019,65,62,Neutral,"Nashville, TN",-,0
+2019,Auburn,37,Florida,235,03/16/2019,65,62,Neutral,"Nashville, TN",-,"20,933"
 2019,Auburn,37,Tennessee,694,03/17/2019,84,64,Neutral,"Nashville, TN",-,"19,452"
+2019,Auburn,37,New Mexico St.,472,03/21/2019,78,77,Neutral,"Salt Lake City, UT",-,0
+2019,Auburn,37,Kansas,328,03/23/2019,89,75,Neutral,"Salt Lake City, UT",-,"17,792"
+2019,Auburn,37,North Carolina,457,03/29/2019,97,80,Neutral,"Kansas City, MO",-,"17,385"
+2019,Auburn,37,Kentucky,334,03/31/2019,77,71,Neutral,"Kansas City, MO",1 OT,"17,174"
+2019,Auburn,37,Virginia,746,04/06/2019,62,63,Neutral,"Minneapolis, MN",-,0
 2019,Augsburg,38,Northland,1267,11/10/2018,91,76,Away,,-,97
 2019,Augsburg,38,Ottawa (AZ),,11/16/2018,87,69,Neutral,"Redlands, CA",-,34
 2019,Augsburg,38,Redlands,567,11/17/2018,82,77,Away,,-,133
@@ -1454,7 +1465,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Augusta,39,UNC Pembroke,537,03/09/2019,77,70,Home,,-,"1,318"
 2019,Augusta,39,S.C. Aiken,11276,03/10/2019,93,86,Home,,-,"1,813"
 2019,Augusta,39,Francis Marion,1085,03/16/2019,77,70,Neutral,"Charlotte, NC",1 OT,424
-2019,Augusta,39,S.C. Aiken,11276,03/17/2019,0,0,Neutral,"Charlotte, NC",-,0
+2019,Augusta,39,S.C. Aiken,11276,03/17/2019,93,89,Neutral,"Charlotte, NC",1 OT,528
+2019,Augusta,39,Queens (NC),11504,03/19/2019,78,91,Away,,-,"1,429"
 2019,Augustana (IL),40,Alma,21,11/16/2018,85,74,Away,,-,344
 2019,Augustana (IL),40,Calvin,114,11/17/2018,86,67,Away,,-,689
 2019,Augustana (IL),40,Loras,364,11/21/2018,73,74,Away,,-,345
@@ -1945,6 +1957,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Baylor,51,Oklahoma St.,521,03/06/2019,64,67,Home,,-,"5,041"
 2019,Baylor,51,Kansas,328,03/09/2019,70,78,Away,,-,"16,300"
 2019,Baylor,51,Iowa St.,311,03/14/2019,66,83,Neutral,"Kansas City, MO",-,"18,930"
+2019,Baylor,51,Syracuse,688,03/21/2019,78,69,Neutral,"Salt Lake City, UT",-,"16,807"
+2019,Baylor,51,Gonzaga,260,03/23/2019,71,83,Neutral,"Salt Lake City, UT",-,0
 2019,Becker,26107,Anna Maria,26,11/12/2018,58,80,Away,,-,200
 2019,Becker,26107,Wesleyan (CT),764,11/16/2018,51,91,Away,,-,208
 2019,Becker,26107,Thomas (ME),2758,11/17/2018,57,81,Neutral,"Middletown, CT",-,46
@@ -2027,7 +2041,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Bellarmine,52,Southern Ind.,661,03/09/2019,67,61,Neutral,"Edwardsville, IL",-,497
 2019,Bellarmine,52,Drury,1057,03/10/2019,65,48,Neutral,"Edwardsville, IL",-,753
 2019,Bellarmine,52,Walsh,30141,03/16/2019,81,61,Neutral,"Romeoville, IL",-,427
-2019,Bellarmine,52,Findlay,1079,03/17/2019,0,0,Neutral,"Romeoville, IL",-,0
+2019,Bellarmine,52,Findlay,1079,03/17/2019,74,59,Neutral,"Romeoville, IL",-,473
+2019,Bellarmine,52,Southern Ind.,661,03/19/2019,69,76,Neutral,"Romeoville, IL",-,717
 2019,Belmont,14927,Illinois St.,299,11/10/2018,100,89,Home,,-,"3,086"
 2019,Belmont,14927,Middle Tenn.,419,11/12/2018,92,73,Home,,-,"2,148"
 2019,Belmont,14927,Lipscomb,28600,11/15/2018,87,83,Away,,-,"2,369"
@@ -2059,6 +2074,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Belmont,14927,Southeast Mo. St.,654,03/02/2019,84,66,Away,,-,"1,484"
 2019,Belmont,14927,Austin Peay,43,03/08/2019,83,67,Neutral,"Evansville, IN",-,"8,294"
 2019,Belmont,14927,Murray St.,454,03/09/2019,65,77,Neutral,"Evansville, IN",-,"10,525"
+2019,Belmont,14927,Temple,690,03/19/2019,81,70,Neutral,"Dayton, OH",-,"11,784"
+2019,Belmont,14927,Maryland,392,03/21/2019,77,79,Neutral,"Jacksonville, FL",-,"12,429"
 2019,Belmont Abbey,2683,Wingate,1462,11/09/2018,87,104,Away,,-,732
 2019,Belmont Abbey,2683,Mars Hill,1199,11/10/2018,70,53,Neutral,"Wingate, NC",-,181
 2019,Belmont Abbey,2683,Coker,1023,11/14/2018,77,58,Away,,-,390
@@ -2115,7 +2132,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Beloit,53,Knox,337,02/09/2019,99,68,Home,,-,326
 2019,Beloit,53,Grinnell,264,02/13/2019,104,121,Home,,-,327
 2019,Beloit,53,Cornell College,166,02/16/2019,76,66,Away,,-,469
-2019,Bemidji St.,54,UNI,504,11/06/2018,51,97,Away,,-,"3,233"
+2019,Bemidji St.,54,UNI,504,11/06/2018,51,97,Away,,-,"3,392"
 2019,Bemidji St.,54,South Dakota St.,649,11/10/2018,63,86,Away,,-,"1,566"
 2019,Bemidji St.,54,Oak Hills Christian,,11/12/2018,103,63,Home,,-,512
 2019,Bemidji St.,54,Northland,1267,11/17/2018,95,69,Home,,-,378
@@ -2587,7 +2604,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Bloomsburg,65,West Chester,765,02/02/2019,74,91,Home,,-,366
 2019,Bloomsburg,65,Kutztown,339,02/06/2019,77,99,Away,,-,544
 2019,Bloomsburg,65,Lock Haven,360,02/09/2019,75,78,Away,,-,230
-2019,Bloomsburg,65,Cheyney,,02/13/2019,80,64,Home,,-,0
+2019,Bloomsburg,65,Cheyney,,02/13/2019,80,64,Home,,-,248
 2019,Bloomsburg,65,Millersville,423,02/16/2019,57,84,Away,,-,350
 2019,Bloomsburg,65,East Stroudsburg,197,02/21/2019,84,97,Away,,-,750
 2019,Bloomsburg,65,Mansfield,384,02/27/2019,89,81,Home,,1 OT,278
@@ -2863,6 +2880,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Bradley,72,Missouri St.,669,03/08/2019,61,58,Neutral,"St. Louis, MO",-,"6,774"
 2019,Bradley,72,Loyola Chicago,371,03/09/2019,53,51,Neutral,"St. Louis, MO",-,0
 2019,Bradley,72,UNI,504,03/10/2019,57,54,Neutral,"St. Louis, MO",-,"8,108"
+2019,Bradley,72,Michigan St.,416,03/21/2019,65,76,Neutral,"Des Moines, IA",-,"16,512"
 2019,Brandeis,73,UMass Dartmouth,656,11/10/2018,63,56,Home,,-,450
 2019,Brandeis,73,Suffolk,684,11/14/2018,69,71,Home,,-,350
 2019,Brandeis,73,Bates,50,11/17/2018,54,48,Away,,-,380
@@ -3090,6 +3108,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Brown,80,Cornell,167,03/02/2019,75,51,Home,,-,"1,574"
 2019,Brown,80,Princeton,554,03/08/2019,67,63,Away,,-,"1,482"
 2019,Brown,80,Penn,540,03/09/2019,51,58,Away,,-,"4,033"
+2019,Brown,80,UAB,9,03/20/2019,83,78,Home,,-,683
+2019,Brown,80,Loyola Marymount,370,03/25/2019,63,81,Away,,-,657
 2019,Bryant,81,Rhode Island,572,11/06/2018,63,97,Away,,-,"5,010"
 2019,Bryant,81,Seattle U,1356,11/11/2018,59,82,Away,,-,"1,236"
 2019,Bryant,81,Saint Peter's,617,11/14/2018,71,63,Home,,-,687
@@ -3240,6 +3260,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Buffalo,86,Akron,5,03/14/2019,82,46,Neutral,"Cleveland, OH",-,0
 2019,Buffalo,86,Central Mich.,129,03/15/2019,85,81,Neutral,"Cleveland, OH",-,0
 2019,Buffalo,86,Bowling Green,71,03/16/2019,87,73,Neutral,"Cleveland, OH",-,"7,813"
+2019,Buffalo,86,Arizona St.,28,03/22/2019,91,74,Neutral,"Tulsa, OK",-,"12,352"
+2019,Buffalo,86,Texas Tech,700,03/24/2019,58,78,Neutral,"Tulsa, OK",-,0
 2019,Buffalo St.,85,John Carroll,320,11/17/2018,94,99,Home,,-,231
 2019,Buffalo St.,85,Brooklyn,79,11/18/2018,83,86,Home,,-,104
 2019,Buffalo St.,85,St. John Fisher,601,11/20/2018,94,89,Away,,-,197
@@ -3296,6 +3318,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Butler,87,Xavier,812,03/05/2019,71,66,Home,,-,"8,551"
 2019,Butler,87,Providence,556,03/09/2019,70,83,Away,,-,"12,004"
 2019,Butler,87,Providence,556,03/13/2019,57,80,Neutral,"New York, NY",-,0
+2019,Butler,87,Nebraska,463,03/20/2019,76,80,Away,,-,"10,103"
 2019,BYU,77,Nevada,466,11/06/2018,70,86,Away,,-,"11,094"
 2019,BYU,77,Utah Valley,30024,11/09/2018,75,65,Home,,-,"14,628"
 2019,BYU,77,Northwestern St.,508,11/13/2018,82,57,Home,,-,"10,886"
@@ -3559,6 +3582,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Cal St. Fullerton,97,UC Davis,108,03/14/2019,75,71,Neutral,"Anaheim, CA",1 OT,0
 2019,Cal St. Fullerton,97,UC Santa Barbara,104,03/15/2019,64,58,Neutral,"Anaheim, CA",-,"4,389"
 2019,Cal St. Fullerton,97,UC Irvine,109,03/16/2019,64,92,Neutral,"Anaheim, CA",-,"5,867"
+2019,Cal St. Fullerton,97,CSU Bakersfield,94,03/21/2019,58,66,Home,,-,677
 2019,Cal St. L.A.,100,Concordia (CA),30199,11/09/2018,77,74,Neutral,"La Mirada, CA",1 OT,130
 2019,Cal St. L.A.,100,Biola,30220,11/10/2018,79,61,Away,,-,342
 2019,Cal St. L.A.,100,Azusa Pacific,30146,11/13/2018,78,80,Home,,-,278
@@ -3791,6 +3815,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,California Baptist,30135,Utah Valley,30024,03/02/2019,63,64,Home,,-,"4,346"
 2019,California Baptist,30135,UTRGV,536,03/07/2019,82,79,Away,,1 OT,"1,162"
 2019,California Baptist,30135,New Mexico St.,472,03/09/2019,63,75,Away,,-,"11,212"
+2019,California Baptist,30135,Loyola Marymount,370,03/20/2019,55,56,Home,,-,"2,346"
 2019,Caltech,89,Oberlin,515,11/10/2018,70,68,Home,,-,108
 2019,Caltech,89,Occidental,516,11/16/2018,59,68,Home,,-,175
 2019,Caltech,89,Carleton,118,11/21/2018,62,59,Home,,-,84
@@ -3906,6 +3931,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Campbell,115,Radford,563,03/02/2019,64,62,Home,,-,"3,351"
 2019,Campbell,115,Hampton,270,03/07/2019,86,77,Home,,-,"2,948"
 2019,Campbell,115,Gardner-Webb,1092,03/08/2019,74,79,Home,,-,"3,090"
+2019,Campbell,115,UNC Greensboro,459,03/19/2019,69,84,Away,,-,"4,459"
 2019,Canisius,116,Bucknell,83,11/13/2018,82,73,Away,,-,"2,237"
 2019,Canisius,116,Albany (NY),14,11/17/2018,66,75,Home,,-,"1,540"
 2019,Canisius,116,Florida St.,234,11/19/2018,61,93,Away,,-,"7,457"
@@ -4155,7 +4181,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Catawba,1001,Wingate,1462,03/09/2019,76,74,Neutral,"Greenville, SC",-,0
 2019,Catawba,1001,Lenoir-Rhyne,1170,03/10/2019,71,67,Neutral,"Greenville, SC",-,0
 2019,Catawba,1001,UNC Pembroke,537,03/16/2019,80,61,Neutral,"Charlotte, NC",-,655
-2019,Catawba,1001,Queens (NC),11504,03/17/2019,0,0,Away,,-,0
+2019,Catawba,1001,Queens (NC),11504,03/17/2019,93,96,Away,,-,"1,266"
 2019,Catholic,124,Marymount (VA),394,11/13/2018,67,70,Home,,-,678
 2019,Catholic,124,Hood,8404,11/17/2018,74,86,Neutral,"Washington, DC",-,179
 2019,Catholic,124,Gallaudet,245,11/18/2018,96,69,Away,,-,94
@@ -4445,6 +4471,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Central Mich.,129,Western Mich.,774,03/11/2019,81,67,Home,,-,"2,211"
 2019,Central Mich.,129,Kent St.,331,03/14/2019,89,81,Neutral,"Cleveland, OH",-,0
 2019,Central Mich.,129,Buffalo,86,03/15/2019,81,85,Neutral,"Cleveland, OH",-,0
+2019,Central Mich.,129,DePaul,176,03/20/2019,86,100,Away,,-,"1,173"
 2019,Central Mo.,130,Harding,1116,11/09/2018,85,62,Home,,-,"2,700"
 2019,Central Mo.,130,Wayne St. (NE),1433,11/10/2018,73,67,Home,,-,"1,700"
 2019,Central Mo.,130,William Jewell,30120,11/16/2018,78,75,Home,,-,750
@@ -4734,6 +4761,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Charleston So.,48,USC Upstate,10411,03/05/2019,71,52,Home,,-,757
 2019,Charleston So.,48,Winthrop,792,03/07/2019,77,63,Neutral,"Buies Creek, NC",-,"1,460"
 2019,Charleston So.,48,Radford,563,03/08/2019,54,63,Neutral,"Buies Creek, NC",-,0
+2019,Charleston So.,48,Fla. Atlantic,229,03/21/2019,68,66,Home,,-,696
+2019,Charleston So.,48,Hampton,270,03/26/2019,67,73,Away,,-,"3,523"
 2019,Charlotte,458,Chattanooga,693,11/06/2018,69,80,Home,,-,"3,732"
 2019,Charlotte,458,Oklahoma St.,521,11/10/2018,66,64,Home,,-,"3,895"
 2019,Charlotte,458,James Madison,317,11/16/2018,59,64,Home,,-,"4,375"
@@ -5055,6 +5084,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Cincinnati,140,SMU,663,03/15/2019,82,74,Neutral,"Memphis, TN",-,0
 2019,Cincinnati,140,Wichita St.,782,03/16/2019,66,63,Neutral,"Memphis, TN",-,"7,819"
 2019,Cincinnati,140,Houston,288,03/17/2019,69,57,Neutral,"Memphis, TN",-,"7,223"
+2019,Cincinnati,140,Iowa,312,03/22/2019,72,79,Neutral,"Columbus, OH",-,"19,641"
 2019,Claflin,30058,Nova Southeastern,24639,11/09/2018,92,101,Away,,-,"1,195"
 2019,Claflin,30058,S.C. Aiken,11276,11/14/2018,68,73,Away,,-,819
 2019,Claflin,30058,Tuskegee,720,11/17/2018,64,51,Home,,-,1
@@ -5295,6 +5325,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Clemson,147,Notre Dame,513,03/06/2019,64,62,Away,,-,"8,158"
 2019,Clemson,147,Syracuse,688,03/09/2019,67,55,Home,,-,"8,620"
 2019,Clemson,147,NC State,490,03/13/2019,58,59,Neutral,"Charlotte, NC",-,0
+2019,Clemson,147,Wright St.,810,03/19/2019,75,69,Home,,-,"1,718"
+2019,Clemson,147,Wichita St.,782,03/24/2019,55,63,Home,,-,"3,266"
 2019,Cleveland St.,148,Davidson,173,11/06/2018,63,83,Away,,-,"2,663"
 2019,Cleveland St.,148,Kent St.,331,11/10/2018,79,83,Home,,-,"2,052"
 2019,Cleveland St.,148,Urbana,30104,11/13/2018,94,65,Home,,-,951
@@ -5406,6 +5438,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Coastal Caro.,149,South Alabama,646,03/07/2019,92,70,Home,,-,"1,037"
 2019,Coastal Caro.,149,Troy,716,03/09/2019,67,74,Home,,-,"1,099"
 2019,Coastal Caro.,149,La.-Monroe,498,03/14/2019,50,80,Neutral,"New Orleans, LA",-,0
+2019,Coastal Caro.,149,Howard,290,03/20/2019,81,72,Home,,-,779
+2019,Coastal Caro.,149,West Virginia,768,03/25/2019,109,91,Away,,-,"6,775"
+2019,Coastal Caro.,149,DePaul,176,03/27/2019,87,92,Away,,-,939
 2019,Cobleskill St.,30083,RIT,580,11/10/2018,59,60,Home,,-,186
 2019,Cobleskill St.,30083,Sage Colleges,11036,11/13/2018,94,83,Away,,-,340
 2019,Cobleskill St.,30083,Albany Pharmacy,,11/17/2018,88,45,Home,,-,139
@@ -5604,6 +5639,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Colgate,153,Boston U.,68,03/07/2019,81,69,Home,,-,"1,277"
 2019,Colgate,153,Navy,726,03/10/2019,80,70,Home,,-,"1,089"
 2019,Colgate,153,Bucknell,83,03/13/2019,94,80,Home,,-,"1,821"
+2019,Colgate,153,Tennessee,694,03/22/2019,70,77,Neutral,"Columbus, OH",-,"19,641"
 2019,Colo. Christian,11403,Colorado St.,156,11/07/2018,66,100,Away,,-,"2,220"
 2019,Colo. Christian,11403,St. Edward's,1334,11/09/2018,67,93,Away,,-,233
 2019,Colo. Christian,11403,DBU,1045,11/10/2018,85,86,Neutral,"Austin, TX",-,132
@@ -5697,6 +5733,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Colorado,157,California,107,03/13/2019,56,51,Neutral,"Las Vegas, NV",-,"9,748"
 2019,Colorado,157,Oregon St.,528,03/14/2019,73,58,Neutral,"Las Vegas, NV",-,"10,556"
 2019,Colorado,157,Washington,756,03/15/2019,61,66,Neutral,"Las Vegas, NV",-,"13,955"
+2019,Colorado,157,Dayton,175,03/19/2019,78,73,Home,,-,"3,091"
+2019,Colorado,157,Norfolk St.,485,03/25/2019,76,60,Home,,-,"5,891"
+2019,Colorado,157,Texas,703,03/27/2019,55,68,Away,,-,"3,982"
 2019,Colorado Col.,154,Northern Colo.,502,11/09/2018,56,126,Away,,-,"1,348"
 2019,Colorado Col.,154,Iowa Wesleyan,30173,11/16/2018,81,68,Home,,-,128
 2019,Colorado Col.,154,Wis.-River Falls,801,11/17/2018,68,104,Home,,-,139
@@ -6211,6 +6250,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Cornell,167,Brown,80,03/02/2019,51,75,Away,,-,"1,574"
 2019,Cornell,167,Harvard,275,03/08/2019,72,59,Home,,-,"2,466"
 2019,Cornell,167,Dartmouth,172,03/09/2019,66,51,Home,,-,"1,862"
+2019,Cornell,167,Robert Morris,579,03/19/2019,89,98,Away,,1 OT,622
 2019,Cornell College,166,Wartburg,750,11/13/2018,77,90,Away,,-,500
 2019,Cornell College,166,Viterbo,,11/16/2018,68,89,Neutral,"Waverly, Iowa (Levick Arena)",-,100
 2019,Cornell College,166,Wartburg,750,11/20/2018,59,95,Home,,-,588
@@ -6296,6 +6336,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Creighton,169,Providence,556,03/06/2019,76,70,Home,,1 OT,"16,903"
 2019,Creighton,169,DePaul,176,03/09/2019,91,78,Home,,-,"17,083"
 2019,Creighton,169,Xavier,812,03/14/2019,61,63,Neutral,"New York, NY",-,"19,534"
+2019,Creighton,169,Loyola Chicago,371,03/19/2019,70,61,Home,,-,"5,755"
+2019,Creighton,169,Memphis,404,03/22/2019,79,67,Home,,-,"7,031"
+2019,Creighton,169,TCU,698,03/26/2019,58,71,Away,,-,"3,314"
 2019,Crown (MN),30035,Hamline,268,11/08/2018,91,86,Home,,-,137
 2019,Crown (MN),30035,Saint Mary's (MN),612,11/10/2018,71,76,Home,,-,186
 2019,Crown (MN),30035,St. Cloud St.,598,11/13/2018,81,121,Away,,-,"1,231"
@@ -6356,6 +6399,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,CSU Bakersfield,94,Seattle U,1356,03/07/2019,57,63,Away,,1 OT,969
 2019,CSU Bakersfield,94,Utah Valley,30024,03/09/2019,61,76,Away,,-,"4,167"
 2019,CSU Bakersfield,94,UTRGV,536,03/14/2019,70,85,Neutral,"Las Vegas, NV",-,0
+2019,CSU Bakersfield,94,Cal St. Fullerton,97,03/21/2019,66,58,Away,,-,677
+2019,CSU Bakersfield,94,Southern Utah,667,03/25/2019,70,67,Away,,-,"3,027"
+2019,CSU Bakersfield,94,Green Bay,794,03/29/2019,65,80,Away,,-,"1,822"
 2019,CSUN,101,New Mexico,473,11/06/2018,84,87,Home,,-,"1,896"
 2019,CSUN,101,Loyola Marymount,370,11/13/2018,64,79,Away,,-,862
 2019,CSUN,101,Portland,551,11/17/2018,77,80,Home,,-,886
@@ -6389,6 +6435,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,CSUN,101,UC Santa Barbara,104,03/07/2019,74,76,Home,,-,"1,993"
 2019,CSUN,101,UC Irvine,109,03/09/2019,74,86,Away,,-,"3,018"
 2019,CSUN,101,UC Santa Barbara,104,03/14/2019,68,71,Neutral,"Anaheim, CA",-,0
+2019,CSUN,101,Utah Valley,30024,03/19/2019,84,92,Away,,-,375
 2019,Curry,170,Newbury,21772,11/10/2018,100,107,Away,,1 OT,95
 2019,Curry,170,Regis (MA),569,11/13/2018,65,85,Home,,-,76
 2019,Curry,170,UMass Boston,401,11/16/2018,51,75,Away,,-,488
@@ -6616,6 +6663,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Davidson,173,Richmond,575,03/09/2019,73,69,Away,,-,"7,002"
 2019,Davidson,173,Saint Joseph's,606,03/15/2019,70,60,Neutral,"Brooklyn, NY",-,0
 2019,Davidson,173,Saint Louis,609,03/16/2019,44,67,Neutral,"Brooklyn, NY",-,"8,133"
+2019,Davidson,173,Lipscomb,28600,03/19/2019,81,89,Home,,-,"1,647"
 2019,Davis & Elkins,174,Radford,563,11/06/2018,57,91,Away,,-,"1,215"
 2019,Davis & Elkins,174,Ferris St.,224,11/10/2018,70,89,Home,,-,128
 2019,Davis & Elkins,174,Grand Valley St.,262,11/11/2018,68,85,Home,,-,131
@@ -6677,6 +6725,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Dayton,175,La Salle,340,03/06/2019,70,39,Home,,-,"13,147"
 2019,Dayton,175,Duquesne,194,03/09/2019,78,67,Away,,-,"4,057"
 2019,Dayton,175,Saint Louis,609,03/15/2019,55,64,Neutral,"Brooklyn, NY",-,"6,857"
+2019,Dayton,175,Colorado,157,03/19/2019,73,78,Away,,-,"3,091"
 2019,DBU,1045,Colorado Mesa,11416,11/09/2018,80,91,Neutral,"Austin, TX",-,133
 2019,DBU,1045,Colo. Christian,11403,11/10/2018,86,85,Neutral,"Austin, TX",-,132
 2019,DBU,1045,Howard Payne,2741,11/13/2018,95,60,Home,,-,478
@@ -6968,6 +7017,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,DePaul,176,Georgetown,251,03/06/2019,101,69,Home,,-,"4,756"
 2019,DePaul,176,Creighton,169,03/09/2019,78,91,Away,,-,"17,083"
 2019,DePaul,176,St. John's (NY),603,03/13/2019,74,82,Away,,-,"19,812"
+2019,DePaul,176,Central Mich.,129,03/20/2019,100,86,Home,,-,"1,173"
+2019,DePaul,176,Longwood,363,03/25/2019,97,89,Home,,-,0
+2019,DePaul,176,Coastal Caro.,149,03/27/2019,92,87,Home,,-,939
+2019,DePaul,176,South Fla.,651,04/01/2019,61,63,Away,,-,"2,375"
+2019,DePaul,176,South Fla.,651,04/03/2019,100,96,Home,,1 OT,"1,704"
+2019,DePaul,176,South Fla.,651,04/05/2019,65,77,Home,,-,"1,876"
 2019,DePauw,177,Franklin,2694,11/13/2018,85,67,Away,,-,278
 2019,DePauw,177,Blackburn,64,11/16/2018,92,88,Neutral,"Jacksonville, IL",-,275
 2019,DePauw,177,Principia,555,11/17/2018,97,75,Neutral,"Jacksonville, IL",-,150
@@ -7222,7 +7277,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Dominican (NY),8956,Jefferson,543,03/09/2019,65,57,Neutral,"Caldwell, NJ",-,450
 2019,Dominican (NY),8956,Bloomfield,984,03/10/2019,70,55,Neutral,"Caldwell, NJ",-,610
 2019,Dominican (NY),8956,Merrimack,410,03/16/2019,64,50,Neutral,"Manchester, NH",-,0
-2019,Dominican (NY),8956,St. Thomas Aquinas,1348,03/17/2019,0,0,Neutral,"Manchester, NH",-,0
+2019,Dominican (NY),8956,St. Thomas Aquinas,1348,03/17/2019,83,86,Neutral,"Manchester, NH",1 OT,436
 2019,Drake,189,Buena Vista,84,11/08/2018,98,52,Home,,-,"3,561"
 2019,Drake,189,Colorado,157,11/13/2018,71,100,Away,,-,"5,695"
 2019,Drake,189,Texas St.,670,11/17/2018,75,69,Home,,-,"2,968"
@@ -7239,7 +7294,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Drake,189,Evansville,219,01/02/2019,77,82,Away,,2 OT,"5,503"
 2019,Drake,189,Loyola Chicago,371,01/05/2019,74,85,Home,,-,"4,279"
 2019,Drake,189,Southern Ill.,659,01/08/2019,82,70,Home,,-,"2,638"
-2019,Drake,189,UNI,504,01/13/2019,54,57,Away,,-,"4,141"
+2019,Drake,189,UNI,504,01/13/2019,54,57,Away,,-,"4,361"
 2019,Drake,189,Bradley,72,01/16/2019,69,52,Away,,-,"4,654"
 2019,Drake,189,Missouri St.,669,01/20/2019,74,63,Home,,-,"3,124"
 2019,Drake,189,Evansville,219,01/23/2019,78,66,Home,,-,"2,709"
@@ -7256,6 +7311,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Drake,189,Missouri St.,669,03/02/2019,73,62,Away,,-,"7,894"
 2019,Drake,189,Illinois St.,299,03/08/2019,78,62,Neutral,"St. Louis, MO",-,0
 2019,Drake,189,UNI,504,03/09/2019,58,60,Neutral,"St. Louis, MO",-,"7,884"
+2019,Drake,189,Southern Utah,667,03/22/2019,73,80,Away,,1 OT,"2,714"
 2019,Drew,190,FDU-Florham,221,11/13/2018,76,70,Away,,-,321
 2019,Drew,190,Wheaton (MA),779,11/16/2018,73,69,Home,,-,380
 2019,Drew,190,Wash. & Lee,752,11/17/2018,88,73,Home,,-,288
@@ -7359,7 +7415,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Dubuque,192,Loras,364,11/28/2018,78,73,Home,,-,"1,034"
 2019,Dubuque,192,Neb. Wesleyan,462,12/01/2018,78,92,Home,,-,782
 2019,Dubuque,192,Luther,372,12/05/2018,78,77,Away,,-,187
-2019,Dubuque,192,UNI,504,12/08/2018,67,75,Away,,-,"3,314"
+2019,Dubuque,192,UNI,504,12/08/2018,67,75,Away,,-,"3,465"
 2019,Dubuque,192,Rockford,582,12/18/2018,87,72,Neutral,"Daytona Beach, FL",-,0
 2019,Dubuque,192,Marian (WI),1196,12/19/2018,78,59,Neutral,"Daytona Beach, FL",-,0
 2019,Dubuque,192,Clarke,,12/28/2018,84,78,Home,,-,770
@@ -7413,6 +7469,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Duke,193,Syracuse,688,03/14/2019,84,72,Neutral,"Charlotte, NC",-,"19,691"
 2019,Duke,193,North Carolina,457,03/15/2019,74,73,Neutral,"Charlotte, NC",-,"20,116"
 2019,Duke,193,Florida St.,234,03/16/2019,73,63,Neutral,"Charlotte, NC",-,"19,691"
+2019,Duke,193,North Dakota St.,493,03/22/2019,85,62,Neutral,"Columbia, SC",-,0
+2019,Duke,193,UCF,128,03/24/2019,77,76,Neutral,"Columbia, SC",-,0
+2019,Duke,193,Virginia Tech,742,03/29/2019,75,73,Neutral,"Washington, DC",-,"20,006"
+2019,Duke,193,Michigan St.,416,03/31/2019,67,68,Neutral,"Washington, DC",-,"20,125"
 2019,Duquesne,194,William & Mary,786,11/10/2018,84,70,Home,,-,"2,534"
 2019,Duquesne,194,UIC,302,11/12/2018,89,88,Home,,1 OT,"1,540"
 2019,Duquesne,194,Radford,563,11/17/2018,69,64,Neutral,"LeBron James Arena,  Akron, Ohio",-,"1,020"
@@ -8387,6 +8447,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,ETSU,198,Western Caro.,769,03/02/2019,81,74,Home,,-,"5,520"
 2019,ETSU,198,Chattanooga,693,03/09/2019,68,64,Neutral,"Asheville, NC",-,"5,443"
 2019,ETSU,198,Wofford,2915,03/10/2019,72,81,Neutral,"Asheville, NC",-,0
+2019,ETSU,198,Green Bay,794,03/20/2019,94,102,Home,,-,"2,817"
 2019,Eureka,218,Monmouth (IL),438,11/10/2018,91,101,Home,,-,738
 2019,Eureka,218,Grinnell,264,11/13/2018,108,131,Away,,-,431
 2019,Eureka,218,Knox,337,11/15/2018,116,69,Home,,-,400
@@ -8436,7 +8497,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Evansville,219,Missouri St.,669,01/16/2019,70,64,Away,,-,"4,923"
 2019,Evansville,219,Illinois St.,299,01/19/2019,70,78,Home,,-,"5,731"
 2019,Evansville,219,Drake,189,01/23/2019,66,78,Away,,-,"2,709"
-2019,Evansville,219,UNI,504,01/26/2019,74,81,Away,,-,"3,677"
+2019,Evansville,219,UNI,504,01/26/2019,74,81,Away,,-,"3,923"
 2019,Evansville,219,Bradley,72,01/30/2019,73,81,Home,,-,"5,019"
 2019,Evansville,219,Valparaiso,735,02/02/2019,64,53,Home,,-,"5,805"
 2019,Evansville,219,Indiana St.,305,02/06/2019,62,85,Away,,-,"3,469"
@@ -8512,6 +8573,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Fairleigh Dickinson,222,Wagner,748,03/06/2019,84,46,Home,,-,"1,190"
 2019,Fairleigh Dickinson,222,Robert Morris,579,03/09/2019,66,62,Home,,-,"1,212"
 2019,Fairleigh Dickinson,222,Saint Francis (PA),600,03/12/2019,85,76,Away,,-,"2,610"
+2019,Fairleigh Dickinson,222,Prairie View,553,03/19/2019,82,76,Neutral,"Dayton, OH",-,"11,784"
+2019,Fairleigh Dickinson,222,Gonzaga,260,03/21/2019,49,87,Neutral,"Salt Lake City, UT",-,0
 2019,Fairmont St.,1076,Ferris St.,224,11/03/2018,76,78,Neutral,"St. Joseph, MO",-,495
 2019,Fairmont St.,1076,Missouri Western,9013,11/04/2018,73,80,Neutral,"St. Joseph, MO",-,997
 2019,Fairmont St.,1076,California (PA),106,11/09/2018,86,70,Home,,-,972
@@ -8773,7 +8836,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Findlay,1079,Cedarville,30124,03/08/2019,80,77,Home,,-,"1,005"
 2019,Findlay,1079,Walsh,30141,03/09/2019,52,58,Home,,1 OT,949
 2019,Findlay,1079,Drury,1057,03/16/2019,71,66,Neutral,"Romeoville, IL",-,337
-2019,Findlay,1079,Bellarmine,52,03/17/2019,0,0,Neutral,"Romeoville, IL",-,0
+2019,Findlay,1079,Bellarmine,52,03/17/2019,59,74,Neutral,"Romeoville, IL",-,473
 2019,Finlandia,30032,Wis.-Superior,804,11/09/2018,63,76,Away,,-,136
 2019,Finlandia,30032,Wis.-Stout,803,11/10/2018,65,84,Neutral,"Superior, WI",-,84
 2019,Finlandia,30032,Northland,1267,11/14/2018,55,64,Home,,-,120
@@ -8851,6 +8914,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,FIU,231,Marshall,388,03/06/2019,78,94,Away,,-,"5,822"
 2019,FIU,231,North Texas,497,03/09/2019,73,58,Home,,-,652
 2019,FIU,231,North Texas,497,03/13/2019,57,71,Neutral,"Frisco, TX",-,"2,704"
+2019,FIU,231,Texas St.,670,03/23/2019,87,81,Away,,-,"1,237"
+2019,FIU,231,Green Bay,794,03/26/2019,68,98,Away,,-,"1,341"
 2019,Fla. Atlantic,229,Florida Tech,230,11/07/2018,98,52,Home,,-,"1,098"
 2019,Fla. Atlantic,229,UCF,128,11/11/2018,80,79,Away,,-,"4,304"
 2019,Fla. Atlantic,229,Ga. Southern,253,11/16/2018,70,80,Neutral,"Nassau, Bahamas",-,247
@@ -8883,6 +8948,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Fla. Atlantic,229,Louisiana Tech,366,03/06/2019,69,72,Home,,-,842
 2019,Fla. Atlantic,229,Marshall,388,03/09/2019,61,76,Away,,-,"7,097"
 2019,Fla. Atlantic,229,Louisiana Tech,366,03/13/2019,56,57,Neutral,"Frisco, TX",-,0
+2019,Fla. Atlantic,229,Charleston So.,48,03/21/2019,66,68,Away,,-,696
 2019,Fla. Southern,233,West Ala.,358,11/09/2018,76,68,Home,,-,475
 2019,Fla. Southern,233,Delta St.,181,11/10/2018,79,74,Home,,-,475
 2019,Fla. Southern,233,Southern N.H.,468,11/17/2018,80,74,Away,,-,"1,246"
@@ -8915,7 +8981,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Fla. Southern,233,Lynn,20794,03/09/2019,74,65,Neutral,"Ft. Lauderdale, FL",-,574
 2019,Fla. Southern,233,Nova Southeastern,24639,03/10/2019,92,84,Away,,-,"1,012"
 2019,Fla. Southern,233,Delta St.,181,03/16/2019,78,72,Neutral,"Ft. Lauderdale, FL",-,341
-2019,Fla. Southern,233,Lynn,20794,03/17/2019,0,0,Neutral,"Ft. Lauderdale, FL",-,0
+2019,Fla. Southern,233,Lynn,20794,03/17/2019,78,88,Neutral,"Ft. Lauderdale, FL",-,534
 2019,Flagler,30092,King (TN),30051,11/09/2018,72,90,Away,,-,687
 2019,Flagler,30092,Lees-McRae,13302,11/10/2018,81,68,Neutral,"Bristol, Tenn.",-,217
 2019,Flagler,30092,Paine,535,11/13/2018,82,64,Home,,-,352
@@ -8977,7 +9043,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Florida,235,Kentucky,334,03/09/2019,57,66,Away,,-,"24,456"
 2019,Florida,235,Arkansas,31,03/14/2019,66,50,Neutral,"Nashville, TN",-,0
 2019,Florida,235,LSU,365,03/15/2019,76,73,Neutral,"Nashville, TN",-,0
-2019,Florida,235,Auburn,37,03/16/2019,62,65,Neutral,"Nashville, TN",-,0
+2019,Florida,235,Auburn,37,03/16/2019,62,65,Neutral,"Nashville, TN",-,"20,933"
+2019,Florida,235,Nevada,466,03/21/2019,70,61,Neutral,"Des Moines, IA",-,0
+2019,Florida,235,Michigan,418,03/23/2019,49,64,Neutral,"Des Moines, IA",-,0
 2019,Florida A&M,228,Jacksonville,316,11/06/2018,65,50,Away,,-,"1,391"
 2019,Florida A&M,228,Tuskegee,720,11/10/2018,62,55,Home,,-,"1,897"
 2019,Florida A&M,228,Campbell,115,11/16/2018,59,66,Neutral,"Montego Bay, TBA",-,0
@@ -9043,6 +9111,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Florida St.,234,Virginia Tech,742,03/14/2019,65,63,Neutral,"Charlotte, NC",1 OT,"19,691"
 2019,Florida St.,234,Virginia,746,03/15/2019,69,59,Neutral,"Charlotte, NC",-,0
 2019,Florida St.,234,Duke,193,03/16/2019,63,73,Neutral,"Charlotte, NC",-,"19,691"
+2019,Florida St.,234,Vermont,738,03/21/2019,76,69,Neutral,"Hartford, CT",-,"14,838"
+2019,Florida St.,234,Murray St.,454,03/23/2019,90,62,Neutral,"Hartford, CT",-,"15,031"
+2019,Florida St.,234,Gonzaga,260,03/28/2019,58,72,Neutral,"Anaheim, CA",-,0
 2019,Florida Tech,230,Fla. Atlantic,229,11/07/2018,52,98,Away,,-,"1,098"
 2019,Florida Tech,230,AUM,30093,11/09/2018,65,71,Home,,-,127
 2019,Florida Tech,230,Benedict,55,11/10/2018,91,77,Home,,-,289
@@ -9527,6 +9598,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Furman,244,Chattanooga,693,03/02/2019,71,50,Away,,-,"3,233"
 2019,Furman,244,Mercer,406,03/09/2019,85,74,Neutral,"Asheville, NC",-,"2,916"
 2019,Furman,244,UNC Greensboro,459,03/10/2019,62,66,Neutral,"Asheville, NC",-,"6,273"
+2019,Furman,244,Wichita St.,782,03/20/2019,70,76,Home,,-,"2,102"
 2019,Ga. Southern,253,Carver,,11/07/2018,139,51,Home,,-,"1,214"
 2019,Ga. Southern,253,George Mason,248,11/13/2018,98,89,Home,,-,"2,638"
 2019,Ga. Southern,253,Fla. Atlantic,229,11/16/2018,80,70,Neutral,"Nassau, Bahamas",-,247
@@ -9676,6 +9748,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Gardner-Webb,1092,High Point,19651,03/07/2019,75,69,Neutral,"Buies Creek, NC",-,"2,948"
 2019,Gardner-Webb,1092,Campbell,115,03/08/2019,79,74,Away,,-,"3,090"
 2019,Gardner-Webb,1092,Radford,563,03/10/2019,76,65,Away,,-,"2,772"
+2019,Gardner-Webb,1092,Virginia,746,03/22/2019,56,71,Neutral,"Columbia, SC",-,"15,417"
 2019,Geneva,30084,Kenyon,335,11/12/2018,72,57,Away,,-,205
 2019,Geneva,30084,Mount Union,452,11/15/2018,67,79,Home,,-,211
 2019,Geneva,30084,Valley Forge,30166,11/17/2018,82,59,Home,,-,218
@@ -9825,6 +9898,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Georgetown,251,DePaul,176,03/06/2019,69,101,Away,,-,"4,756"
 2019,Georgetown,251,Marquette,387,03/09/2019,86,84,Away,,-,"17,514"
 2019,Georgetown,251,Seton Hall,635,03/14/2019,57,73,Neutral,"New York, NY",-,"19,812"
+2019,Georgetown,251,Harvard,275,03/20/2019,68,71,Home,,-,"2,253"
 2019,Georgia,257,Savannah St.,632,11/09/2018,110,76,Home,,-,"9,018"
 2019,Georgia,257,Temple,690,11/13/2018,77,81,Away,,-,"4,613"
 2019,Georgia,257,Sam Houston St.,624,11/16/2018,75,64,Home,,-,"7,195"
@@ -9920,6 +9994,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Georgia St.,254,Ga. Southern,253,03/09/2019,90,85,Away,,-,"3,897"
 2019,Georgia St.,254,Texas St.,670,03/16/2019,59,46,Neutral,"New Orleans, LA",-,"1,344"
 2019,Georgia St.,254,UT Arlington,702,03/17/2019,73,64,Neutral,"New Orleans, LA",-,"1,473"
+2019,Georgia St.,254,Houston,288,03/22/2019,55,84,Neutral,"Tulsa, OK",-,0
 2019,Georgia Tech,255,Lamar University,346,11/09/2018,88,69,Home,,-,"4,691"
 2019,Georgia Tech,255,Tennessee,694,11/13/2018,53,66,Away,,-,"16,219"
 2019,Georgia Tech,255,East Carolina,196,11/16/2018,79,54,Home,,-,"4,922"
@@ -10097,6 +10172,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Gonzaga,260,Saint Mary's (CA),610,03/02/2019,69,55,Away,,-,"3,500"
 2019,Gonzaga,260,Pepperdine,541,03/11/2019,100,74,Neutral,"Las Vegas, NV",-,0
 2019,Gonzaga,260,Saint Mary's (CA),610,03/12/2019,47,60,Neutral,"Las Vegas, NV",-,"7,771"
+2019,Gonzaga,260,Fairleigh Dickinson,222,03/21/2019,87,49,Neutral,"Salt Lake City, UT",-,0
+2019,Gonzaga,260,Baylor,51,03/23/2019,83,71,Neutral,"Salt Lake City, UT",-,0
+2019,Gonzaga,260,Florida St.,234,03/28/2019,72,58,Neutral,"Anaheim, CA",-,0
+2019,Gonzaga,260,Texas Tech,700,03/30/2019,69,75,Neutral,"Anaheim, CA",-,"15,277"
 2019,Gordon,1099,Emerson,214,11/13/2018,105,85,Away,,-,125
 2019,Gordon,1099,Ramapo,564,11/16/2018,66,82,Neutral,"Westfield, MA",-,100
 2019,Gordon,1099,Clarkson,146,11/17/2018,78,59,Neutral,"Westfield, MA",-,77
@@ -10184,6 +10263,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Grambling,261,Alabama A&M,6,03/09/2019,66,58,Home,,-,"1,291"
 2019,Grambling,261,Ark.-Pine Bluff,2678,03/12/2019,59,52,Home,,-,"1,421"
 2019,Grambling,261,Prairie View,553,03/15/2019,71,81,Neutral,"Birmingham, AL",-,0
+2019,Grambling,261,UTRGV,536,03/20/2019,73,74,Away,,-,"2,071"
 2019,Grand Canyon,1104,South Dakota St.,649,11/06/2018,74,79,Away,,-,"1,933"
 2019,Grand Canyon,1104,Delaware St.,178,11/10/2018,89,47,Home,,-,"7,122"
 2019,Grand Canyon,1104,Jacksonville,316,11/12/2018,76,59,Home,,-,"6,572"
@@ -10194,7 +10274,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Grand Canyon,1104,Boise St.,66,12/01/2018,69,67,Home,,-,"7,317"
 2019,Grand Canyon,1104,Nevada,466,12/09/2018,66,74,Neutral,"Phoenix, AZ",-,"10,172"
 2019,Grand Canyon,1104,Texas,703,12/15/2018,60,98,Away,,-,"8,265"
-2019,Grand Canyon,1104,UNI,504,12/19/2018,73,62,Away,,-,"3,394"
+2019,Grand Canyon,1104,UNI,504,12/19/2018,73,62,Away,,-,"3,395"
 2019,Grand Canyon,1104,Mississippi Val.,432,12/22/2018,85,64,Home,,-,"7,255"
 2019,Grand Canyon,1104,San Diego,627,12/29/2018,58,61,Away,,-,"2,969"
 2019,Grand Canyon,1104,Utah Valley,30024,01/03/2019,71,60,Home,,-,"7,205"
@@ -10217,6 +10297,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Grand Canyon,1104,Seattle U,1356,03/14/2019,84,75,Neutral,"Las Vegas, NV",-,"2,374"
 2019,Grand Canyon,1104,Utah Valley,30024,03/15/2019,78,74,Neutral,"Las Vegas, NV",-,0
 2019,Grand Canyon,1104,New Mexico St.,472,03/16/2019,57,89,Neutral,"Las Vegas, NV",-,"3,598"
+2019,Grand Canyon,1104,West Virginia,768,03/20/2019,63,77,Away,,-,"5,313"
 2019,Grand Valley St.,262,Alderson Broaddus,934,11/10/2018,96,74,Away,,-,219
 2019,Grand Valley St.,262,Davis & Elkins,174,11/11/2018,85,68,Away,,-,131
 2019,Grand Valley St.,262,Tiffin,1403,11/16/2018,97,81,Home,,-,"1,239"
@@ -10282,6 +10363,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Green Bay,794,Northern Ky.,505,03/02/2019,82,86,Home,,-,"2,889"
 2019,Green Bay,794,UIC,302,03/05/2019,82,77,Home,,-,"1,727"
 2019,Green Bay,794,Wright St.,810,03/11/2019,54,66,Neutral,"Detriot, MI",-,"5,280"
+2019,Green Bay,794,ETSU,198,03/20/2019,102,94,Away,,-,"2,817"
+2019,Green Bay,794,FIU,231,03/26/2019,98,68,Home,,-,"1,341"
+2019,Green Bay,794,CSU Bakersfield,94,03/29/2019,80,65,Home,,-,"1,822"
+2019,Green Bay,794,Texas Southern,699,04/02/2019,87,86,Home,,1 OT,"2,269"
+2019,Green Bay,794,Marshall,388,04/04/2019,70,90,Away,,-,"5,748"
 2019,Greensboro,263,Guilford,1112,11/13/2018,73,72,Away,,-,900
 2019,Greensboro,263,Va. Wesleyan,745,11/16/2018,74,75,Away,,-,287
 2019,Greensboro,263,Messiah,411,11/17/2018,76,91,Home,,-,0
@@ -10420,7 +10506,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Guilford,1112,Sewanee,652,03/01/2019,97,59,Home,,-,"1,207"
 2019,Guilford,1112,Wittenberg,806,03/02/2019,70,61,Home,,-,"1,011"
 2019,Guilford,1112,St. Thomas (MN),620,03/08/2019,80,73,Neutral,"Oshkosh, WI",-,0
-2019,Guilford,1112,Wis.-Oshkosh,798,03/09/2019,79,82,Away,,-,"1,012"
+2019,Guilford,1112,Wis.-Oshkosh,798,03/09/2019,79,82,Away,,-,"1,242"
 2019,Gust. Adolphus,266,Mayville St.,,11/10/2018,68,93,Home,,-,371
 2019,Gust. Adolphus,266,Northwestern-St.Paul,30031,11/17/2018,71,68,Home,,-,647
 2019,Gust. Adolphus,266,Buena Vista,84,11/20/2018,68,77,Away,,-,600
@@ -10585,6 +10671,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Hampton,270,USC Upstate,10411,03/02/2019,92,71,Away,,-,717
 2019,Hampton,270,Longwood,363,03/05/2019,77,71,Home,,-,"3,500"
 2019,Hampton,270,Campbell,115,03/07/2019,77,86,Away,,-,"2,948"
+2019,Hampton,270,St. Francis Brooklyn,599,03/21/2019,81,72,Home,,-,"3,124"
+2019,Hampton,270,Charleston So.,48,03/26/2019,73,67,Home,,-,"3,523"
+2019,Hampton,270,NJIT,471,03/28/2019,82,70,Away,,-,776
+2019,Hampton,270,Marshall,388,04/02/2019,78,80,Away,,-,"4,122"
 2019,Hanover,1115,Spalding,23260,11/13/2018,78,55,Home,,-,561
 2019,Hanover,1115,Akron-Wayne,,11/16/2018,104,67,Neutral,"Crestview Hills, KY",-,0
 2019,Hanover,1115,Kent St.-Tuscarawas,,11/17/2018,85,47,Neutral,"Crestview Hills, KY",-,75
@@ -10760,6 +10850,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Harvard,275,Columbia,158,03/09/2019,83,81,Away,,1 OT,"2,314"
 2019,Harvard,275,Penn,540,03/16/2019,66,58,Neutral,"New Haven, CT",-,"2,532"
 2019,Harvard,275,Yale,813,03/17/2019,85,97,Away,,-,"2,572"
+2019,Harvard,275,Georgetown,251,03/20/2019,71,68,Away,,-,"2,253"
+2019,Harvard,275,NC State,490,03/24/2019,77,78,Away,,-,"5,500"
 2019,Haverford,276,Rutgers-Camden,588,11/10/2018,70,62,Away,,-,125
 2019,Haverford,276,Penn St.-Brandywine,,11/14/2018,73,66,Home,,-,109
 2019,Haverford,276,Rosemont,15882,11/17/2018,69,85,Home,,-,178
@@ -11128,6 +11220,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Hofstra,283,James Madison,317,03/10/2019,76,67,Neutral,"North Charleston, SC",-,0
 2019,Hofstra,283,Delaware,180,03/11/2019,78,74,Neutral,"North Charleston, SC",1 OT,0
 2019,Hofstra,283,Northeastern,500,03/12/2019,74,82,Neutral,"North Charleston, SC",-,"2,892"
+2019,Hofstra,283,NC State,490,03/19/2019,78,84,Away,,-,"5,500"
 2019,Holy Cross,285,Sacred Heart,590,11/06/2018,93,81,Home,,-,"1,032"
 2019,Holy Cross,285,Michigan,418,11/10/2018,37,56,Away,,-,"12,355"
 2019,Holy Cross,285,Providence,556,11/13/2018,61,70,Away,,-,"6,042"
@@ -11332,6 +11425,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Houston,288,UConn,164,03/15/2019,84,45,Neutral,"Memphis, TN",-,0
 2019,Houston,288,Memphis,404,03/16/2019,61,58,Away,,-,0
 2019,Houston,288,Cincinnati,140,03/17/2019,57,69,Neutral,"Memphis, TN",-,"7,223"
+2019,Houston,288,Georgia St.,254,03/22/2019,84,55,Neutral,"Tulsa, OK",-,0
+2019,Houston,288,Ohio St.,518,03/24/2019,74,59,Neutral,"Tulsa, OK",-,"12,606"
+2019,Houston,288,Kentucky,334,03/29/2019,58,62,Neutral,"Kansas City, MO",-,"17,385"
 2019,Houston Baptist,287,Arizona,29,11/07/2018,60,90,Away,,-,"13,749"
 2019,Houston Baptist,287,Fordham,236,11/10/2018,75,72,Home,,-,748
 2019,Houston Baptist,287,Wisconsin,796,11/17/2018,59,96,Away,,-,"17,095"
@@ -11395,6 +11491,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Howard,290,Norfolk St.,485,03/07/2019,98,95,Away,,-,"2,469"
 2019,Howard,290,Bethune-Cookman,61,03/14/2019,80,71,Neutral,"Norfolk, VA",-,0
 2019,Howard,290,Norfolk St.,485,03/15/2019,69,75,Neutral,"Norfolk, VA",-,0
+2019,Howard,290,Coastal Caro.,149,03/20/2019,72,81,Away,,-,779
 2019,Howard Payne,2741,A&M-Corpus Christi,26172,11/07/2018,34,81,Away,,-,"1,097"
 2019,Howard Payne,2741,Austin,953,11/09/2018,95,101,Away,,-,235
 2019,Howard Payne,2741,DBU,1045,11/13/2018,60,95,Away,,-,478
@@ -11861,6 +11958,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Indiana,306,Illinois,301,03/07/2019,92,74,Away,,-,"14,033"
 2019,Indiana,306,Rutgers,587,03/10/2019,89,73,Home,,-,"15,462"
 2019,Indiana,306,Ohio St.,518,03/14/2019,75,79,Neutral,"Chicago , IL",-,0
+2019,Indiana,306,Saint Francis (PA),600,03/19/2019,89,72,Home,,-,"5,431"
+2019,Indiana,306,Arkansas,31,03/23/2019,63,60,Home,,-,"12,225"
+2019,Indiana,306,Wichita St.,782,03/26/2019,63,73,Home,,-,"10,312"
 2019,Indiana (PA),307,Concord,1028,11/09/2018,83,72,Home,,-,"1,233"
 2019,Indiana (PA),307,Virginia St.,743,11/10/2018,70,67,Home,,-,"1,170"
 2019,Indiana (PA),307,Bowie St.,70,11/14/2018,78,65,Home,,-,"1,225"
@@ -11893,7 +11993,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Indiana (PA),307,West Chester,765,03/09/2019,90,69,Home,,-,"1,474"
 2019,Indiana (PA),307,Mercyhurst,408,03/10/2019,56,49,Home,,-,"1,429"
 2019,Indiana (PA),307,West Chester,765,03/16/2019,74,65,Home,,-,"1,928"
-2019,Indiana (PA),307,Mercyhurst,408,03/17/2019,0,0,Home,,-,0
+2019,Indiana (PA),307,Mercyhurst,408,03/17/2019,65,75,Home,,-,"1,634"
 2019,Indiana St.,305,Ball St.,47,11/06/2018,69,86,Away,,-,"4,022"
 2019,Indiana St.,305,Green Bay,794,11/09/2018,78,74,Away,,-,"1,469"
 2019,Indiana St.,305,McKendree,30138,11/14/2018,80,63,Home,,-,"3,146"
@@ -11910,7 +12010,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Indiana St.,305,Bradley,72,01/05/2019,65,60,Home,,-,"4,117"
 2019,Indiana St.,305,Missouri St.,669,01/08/2019,57,72,Home,,-,"3,420"
 2019,Indiana St.,305,Evansville,219,01/12/2019,72,66,Away,,1 OT,"6,419"
-2019,Indiana St.,305,UNI,504,01/16/2019,64,69,Away,,-,"3,457"
+2019,Indiana St.,305,UNI,504,01/16/2019,64,69,Away,,-,"3,697"
 2019,Indiana St.,305,Loyola Chicago,371,01/19/2019,67,75,Home,,-,"10,200"
 2019,Indiana St.,305,Valparaiso,735,01/23/2019,70,53,Home,,-,"3,460"
 2019,Indiana St.,305,Illinois St.,299,01/27/2019,62,76,Away,,-,"5,141"
@@ -11957,6 +12057,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Iona,310,Saint Peter's,617,03/08/2019,73,71,Neutral,"Albany, NY",-,0
 2019,Iona,310,Siena,639,03/10/2019,73,57,Away,,-,0
 2019,Iona,310,Monmouth,439,03/11/2019,81,60,Neutral,"Albany, NY",-,"2,123"
+2019,Iona,310,North Carolina,457,03/22/2019,73,88,Neutral,"Columbus, OH",-,"19,426"
 2019,Iowa,312,UMKC,2707,11/08/2018,77,63,Home,,-,"9,317"
 2019,Iowa,312,Green Bay,794,11/11/2018,93,82,Home,,-,"10,597"
 2019,Iowa,312,Oregon,529,11/15/2018,77,69,Neutral,"New York, NY",-,"14,417"
@@ -11990,6 +12091,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Iowa,312,Nebraska,463,03/10/2019,91,93,Away,,1 OT,"15,821"
 2019,Iowa,312,Illinois,301,03/14/2019,83,62,Neutral,"Chicago , IL",-,"16,535"
 2019,Iowa,312,Michigan,418,03/15/2019,53,74,Neutral,"Chicago , IL",-,"18,575"
+2019,Iowa,312,Cincinnati,140,03/22/2019,79,72,Neutral,"Columbus, OH",-,"19,641"
+2019,Iowa,312,Tennessee,694,03/24/2019,77,83,Neutral,"Columbus, OH",1 OT,"19,610"
 2019,Iowa St.,311,Alabama St.,7,11/06/2018,79,53,Home,,-,"13,696"
 2019,Iowa St.,311,Missouri,434,11/09/2018,76,59,Home,,-,"14,384"
 2019,Iowa St.,311,Texas Southern,699,11/12/2018,85,73,Home,,-,"13,787"
@@ -12024,6 +12127,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Iowa St.,311,Baylor,51,03/14/2019,83,66,Neutral,"Kansas City, MO",-,"18,930"
 2019,Iowa St.,311,Kansas St.,327,03/15/2019,63,59,Neutral,"Kansas City, MO",-,"19,066"
 2019,Iowa St.,311,Kansas,328,03/16/2019,78,66,Neutral,"Kansas City, MO",-,"19,066"
+2019,Iowa St.,311,Ohio St.,518,03/22/2019,59,62,Neutral,"Tulsa, OK",-,"12,443"
 2019,Iowa Wesleyan,30173,Coe,150,11/10/2018,64,85,Home,,-,150
 2019,Iowa Wesleyan,30173,Colorado Col.,154,11/16/2018,68,81,Away,,-,128
 2019,Iowa Wesleyan,30173,Johnson & Wales (CO),30046,11/17/2018,73,95,Neutral,"Colorado Springs, CO",-,179
@@ -12108,6 +12212,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,IUPUI,2699,Detroit Mercy,184,02/28/2019,85,87,Away,,-,"1,786"
 2019,IUPUI,2699,Oakland,514,03/02/2019,63,72,Away,,-,"3,699"
 2019,IUPUI,2699,Wright St.,810,03/05/2019,56,71,Away,,-,"4,936"
+2019,IUPUI,2699,Marshall,388,03/19/2019,73,78,Away,,-,"3,725"
 2019,Jackson St.,314,La.-Monroe,498,11/06/2018,66,75,Home,,-,904
 2019,Jackson St.,314,St. Bonaventure,596,11/10/2018,36,67,Away,,-,"3,797"
 2019,Jackson St.,314,Boise St.,66,11/16/2018,53,70,Away,,-,"2,952"
@@ -12515,6 +12620,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Kansas,328,Texas,703,03/14/2019,65,57,Neutral,"Kansas City, MO",-,"18,927"
 2019,Kansas,328,West Virginia,768,03/15/2019,88,74,Neutral,"Kansas City, MO",-,"19,066"
 2019,Kansas,328,Iowa St.,311,03/16/2019,66,78,Neutral,"Kansas City, MO",-,"19,066"
+2019,Kansas,328,Northeastern,500,03/21/2019,87,53,Neutral,"Salt Lake City, UT",-,0
+2019,Kansas,328,Auburn,37,03/23/2019,75,89,Neutral,"Salt Lake City, UT",-,"17,792"
 2019,Kansas St.,327,Kennesaw St.,1157,11/09/2018,56,41,Home,,-,"11,021"
 2019,Kansas St.,327,Denver,183,11/12/2018,64,56,Home,,-,"9,412"
 2019,Kansas St.,327,Eastern Ky.,202,11/16/2018,95,68,Neutral,"St. Thomas, Vir Isl",-,"2,162"
@@ -12548,6 +12655,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Kansas St.,327,Oklahoma,522,03/09/2019,68,53,Home,,-,"12,528"
 2019,Kansas St.,327,TCU,698,03/14/2019,70,61,Neutral,"Kansas City, MO",-,"18,930"
 2019,Kansas St.,327,Iowa St.,311,03/15/2019,59,63,Neutral,"Kansas City, MO",-,"19,066"
+2019,Kansas St.,327,UC Irvine,109,03/22/2019,64,70,Neutral,"San Jose, CA",-,"16,576"
 2019,Kean,329,Neumann,1254,11/08/2018,66,75,Away,,-,802
 2019,Kean,329,Baruch,58,11/10/2018,63,82,Away,,-,252
 2019,Kean,329,NJIT,471,11/14/2018,40,73,Away,,-,431
@@ -12666,6 +12774,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Kent St.,331,Miami (OH),414,03/05/2019,75,66,Away,,-,"2,343"
 2019,Kent St.,331,Akron,5,03/08/2019,68,65,Home,,-,"6,168"
 2019,Kent St.,331,Central Mich.,129,03/14/2019,81,89,Neutral,"Cleveland, OH",-,0
+2019,Kent St.,331,La.-Monroe,498,03/21/2019,77,87,Away,,-,"5,742"
 2019,Kentucky,334,Duke,193,11/06/2018,84,118,Neutral,"Indianapolis, IN",-,"18,907"
 2019,Kentucky,334,Southern Ill.,659,11/09/2018,71,59,Home,,-,"20,277"
 2019,Kentucky,334,North Dakota,494,11/14/2018,96,58,Home,,-,"18,555"
@@ -12699,6 +12808,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Kentucky,334,Florida,235,03/09/2019,66,57,Home,,-,"24,456"
 2019,Kentucky,334,Alabama,8,03/15/2019,73,55,Neutral,"Nashville, TN",-,"19,575"
 2019,Kentucky,334,Tennessee,694,03/16/2019,78,82,Neutral,"Nashville, TN",-,"20,933"
+2019,Kentucky,334,Abilene Christian,2,03/21/2019,79,44,Neutral,"Jacksonville, FL",-,0
+2019,Kentucky,334,Wofford,2915,03/23/2019,62,56,Neutral,"Jacksonville, FL",-,"14,250"
+2019,Kentucky,334,Houston,288,03/29/2019,62,58,Neutral,"Kansas City, MO",-,"17,385"
+2019,Kentucky,334,Auburn,37,03/31/2019,71,77,Neutral,"Kansas City, MO",1 OT,"17,174"
 2019,Kentucky St.,332,Ky. Wesleyan,333,11/10/2018,63,85,Away,,-,801
 2019,Kentucky St.,332,Wilberforce,,11/13/2018,73,65,Home,,-,"1,045"
 2019,Kentucky St.,332,Malone,30137,11/17/2018,54,82,Away,,-,315
@@ -13052,6 +13165,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,La.-Monroe,498,Appalachian St.,27,03/12/2019,89,80,Home,,-,"4,522"
 2019,La.-Monroe,498,Coastal Caro.,149,03/14/2019,80,50,Neutral,"New Orleans, LA",-,0
 2019,La.-Monroe,498,Ga. Southern,253,03/15/2019,67,81,Neutral,"New Orleans, LA",-,"1,008"
+2019,La.-Monroe,498,Kent St.,331,03/21/2019,87,77,Home,,-,"5,742"
+2019,La.-Monroe,498,Texas Southern,699,03/28/2019,102,108,Home,,3 OT,"6,004"
 2019,Lafayette,342,Saint Peter's,617,11/07/2018,86,93,Away,,1 OT,"1,210"
 2019,Lafayette,342,La Salle,340,11/10/2018,77,76,Away,,-,"3,400"
 2019,Lafayette,342,Penn,540,11/13/2018,61,91,Away,,-,"2,062"
@@ -13699,7 +13814,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Lewis,354,Truman,499,03/07/2019,72,55,Neutral,"Edwardsville, IL",-,303
 2019,Lewis,354,Drury,1057,03/09/2019,67,69,Neutral,"Edwardsville, IL",1 OT,565
 2019,Lewis,354,Grand Valley St.,262,03/16/2019,65,63,Home,,-,925
-2019,Lewis,354,Southern Ind.,661,03/17/2019,0,0,Home,,-,0
+2019,Lewis,354,Southern Ind.,661,03/17/2019,61,62,Home,,-,857
 2019,Lewis & Clark,22235,Warner Pacific,,11/13/2018,65,75,Away,,-,150
 2019,Lewis & Clark,22235,Corban,,11/15/2018,77,90,Home,,-,100
 2019,Lewis & Clark,22235,Portland,551,11/19/2018,57,77,Away,,-,"1,286"
@@ -13759,6 +13874,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Liberty,355,Jacksonville,316,03/04/2019,72,58,Home,,-,"1,738"
 2019,Liberty,355,North Florida,2711,03/07/2019,71,63,Home,,-,"2,319"
 2019,Liberty,355,Lipscomb,28600,03/10/2019,74,68,Away,,-,"5,687"
+2019,Liberty,355,Mississippi St.,430,03/22/2019,80,76,Neutral,"San Jose, CA",-,0
+2019,Liberty,355,Virginia Tech,742,03/24/2019,58,67,Neutral,"San Jose, CA",-,0
 2019,Limestone,1174,Mars Hill,1199,11/09/2018,92,88,Neutral,"Wingate, N.C.",1 OT,117
 2019,Limestone,1174,Wingate,1462,11/10/2018,95,93,Away,,1 OT,533
 2019,Limestone,1174,Anderson (SC),13028,11/14/2018,79,72,Home,,-,450
@@ -13968,6 +14085,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Lipscomb,28600,Kennesaw St.,1157,03/04/2019,86,71,Home,,-,"2,957"
 2019,Lipscomb,28600,NJIT,471,03/07/2019,78,55,Home,,-,"3,157"
 2019,Lipscomb,28600,Liberty,355,03/10/2019,68,74,Home,,-,"5,687"
+2019,Lipscomb,28600,Davidson,173,03/19/2019,89,81,Away,,-,"1,647"
+2019,Lipscomb,28600,UNC Greensboro,459,03/23/2019,86,69,Away,,-,"4,248"
+2019,Lipscomb,28600,NC State,490,03/27/2019,94,93,Away,,-,"5,500"
+2019,Lipscomb,28600,Wichita St.,782,04/02/2019,71,64,Neutral,"New York, NY",-,"4,599"
+2019,Lipscomb,28600,Texas,703,04/04/2019,66,81,Neutral,"New York, NY",-,"4,051"
 2019,Little Rock,32,Southeastern Okla.,1371,11/08/2018,101,92,Home,,1 OT,"1,854"
 2019,Little Rock,32,Tennessee St.,691,11/13/2018,83,67,Away,,-,679
 2019,Little Rock,32,Nevada,466,11/16/2018,59,87,Away,,-,"10,273"
@@ -14085,6 +14207,40 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Livingstone,359,Winston-Salem,791,02/23/2019,82,84,Home,,-,"1,500"
 2019,Livingstone,359,Bowie St.,70,02/28/2019,79,74,Neutral,"Charlotte, NC",-,0
 2019,Livingstone,359,Virginia St.,743,03/01/2019,65,75,Neutral,"Charlotte, NC",-,"5,101"
+2019,LMU (CA),370,Westcliff,,11/06/2018,75,43,Home,,-,"1,106"
+2019,LMU (CA),370,UNLV,465,11/10/2018,61,50,Away,,-,"8,501"
+2019,LMU (CA),370,CSUN,101,11/13/2018,79,64,Home,,-,862
+2019,LMU (CA),370,Georgetown,251,11/16/2018,65,52,Neutral,"Montego Bay, TBA",-,"1,169"
+2019,LMU (CA),370,Ohio,519,11/18/2018,65,56,Neutral,"Montego Bay, TBA",-,0
+2019,LMU (CA),370,Central Conn. St.,127,11/21/2018,76,74,Home,,-,644
+2019,LMU (CA),370,Florida A&M,228,11/24/2018,71,63,Home,,-,685
+2019,LMU (CA),370,Bethesda (CA),,11/29/2018,106,50,Home,,-,980
+2019,LMU (CA),370,UCLA,110,12/02/2018,58,82,Away,,-,"8,242"
+2019,LMU (CA),370,Cal St. Fullerton,97,12/05/2018,59,49,Away,,-,"1,024"
+2019,LMU (CA),370,Portland St.,550,12/15/2018,85,58,Away,,-,"1,055"
+2019,LMU (CA),370,Boise St.,66,12/19/2018,70,69,Home,,-,"1,279"
+2019,LMU (CA),370,UC Riverside,111,12/22/2018,53,60,Away,,-,339
+2019,LMU (CA),370,UC Davis,108,12/28/2018,77,59,Home,,-,"9,261"
+2019,LMU (CA),370,Pepperdine,541,01/03/2019,62,77,Away,,-,"1,118"
+2019,LMU (CA),370,Portland,551,01/05/2019,76,64,Home,,-,815
+2019,LMU (CA),370,Saint Mary's (CA),610,01/12/2019,60,71,Home,,-,"1,703"
+2019,LMU (CA),370,Gonzaga,260,01/17/2019,55,73,Away,,-,"6,000"
+2019,LMU (CA),370,Pepperdine,541,01/19/2019,74,70,Home,,-,"1,646"
+2019,LMU (CA),370,San Diego,627,01/24/2019,58,71,Away,,-,"1,519"
+2019,LMU (CA),370,Santa Clara,631,01/26/2019,69,61,Away,,-,"2,133"
+2019,LMU (CA),370,Pacific,534,01/31/2019,60,42,Home,,-,861
+2019,LMU (CA),370,BYU,77,02/02/2019,49,67,Away,,-,"11,643"
+2019,LMU (CA),370,San Diego,627,02/07/2019,63,65,Home,,-,989
+2019,LMU (CA),370,Portland,551,02/09/2019,72,55,Away,,-,"1,927"
+2019,LMU (CA),370,Gonzaga,260,02/14/2019,60,73,Home,,-,"4,213"
+2019,LMU (CA),370,BYU,77,02/16/2019,62,70,Home,,-,"3,692"
+2019,LMU (CA),370,Pacific,534,02/23/2019,63,56,Away,,-,"2,066"
+2019,LMU (CA),370,Santa Clara,631,02/28/2019,72,70,Home,,-,"1,150"
+2019,LMU (CA),370,San Francisco,629,03/02/2019,74,69,Away,,-,"3,005"
+2019,LMU (CA),370,Pepperdine,541,03/08/2019,65,68,Neutral,"Las Vegas, NV",-,0
+2019,LMU (CA),370,California Baptist,30135,03/20/2019,56,55,Away,,-,"2,346"
+2019,LMU (CA),370,Brown,80,03/25/2019,81,63,Home,,-,657
+2019,LMU (CA),370,South Fla.,651,03/28/2019,47,56,Away,,-,"1,658"
 2019,Lock Haven,360,Lincoln (PA),357,11/10/2018,65,75,Neutral,"Shippensburg, PA",-,88
 2019,Lock Haven,360,Virginia Union,744,11/11/2018,59,67,Neutral,"Shippensburg, PA (Heiges Field House)",-,145
 2019,Lock Haven,360,Carlow,,11/19/2018,96,80,Home,,-,0
@@ -14178,6 +14334,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Longwood,363,Campbell,115,02/23/2019,72,74,Home,,-,"1,482"
 2019,Longwood,363,Gardner-Webb,1092,03/02/2019,47,66,Away,,-,"1,590"
 2019,Longwood,363,Hampton,270,03/05/2019,71,77,Away,,-,"3,500"
+2019,Longwood,363,Southern Miss.,664,03/20/2019,90,68,Home,,-,"1,372"
+2019,Longwood,363,DePaul,176,03/25/2019,89,97,Away,,-,0
 2019,Loras,364,Greenville,1111,11/08/2018,147,129,Home,,-,873
 2019,Loras,364,St. Scholastica,618,11/16/2018,81,80,Home,,-,235
 2019,Loras,364,Olivet,525,11/17/2018,105,88,Home,,-,322
@@ -14207,7 +14365,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Loras,364,Neb. Wesleyan,462,02/23/2019,79,97,Away,,-,453
 2019,Loras,364,Albion,15,03/01/2019,75,64,Neutral,"Naperville, IL",-,"1,050"
 2019,Loras,364,North Central (IL),492,03/02/2019,84,82,Away,,-,"2,360"
-2019,Loras,364,Wis.-Oshkosh,798,03/08/2019,75,86,Away,,-,"1,913"
+2019,Loras,364,Wis.-Oshkosh,798,03/08/2019,75,86,Away,,-,"1,870"
 2019,Louisiana,671,Virgin Islands,,11/06/2018,121,80,Home,,-,"3,655"
 2019,Louisiana,671,Tennessee,694,11/09/2018,65,87,Away,,-,"16,864"
 2019,Louisiana,671,Kansas,328,11/16/2018,76,89,Away,,-,"16,300"
@@ -14334,6 +14492,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Louisville,367,Virginia,746,03/09/2019,68,73,Away,,-,"14,629"
 2019,Louisville,367,Notre Dame,513,03/13/2019,75,53,Neutral,"Charlotte, NC",-,0
 2019,Louisville,367,North Carolina,457,03/14/2019,70,83,Neutral,"Charlotte, NC",-,"19,691"
+2019,Louisville,367,Minnesota,428,03/21/2019,76,86,Neutral,"Des Moines, IA",-,0
 2019,Loyola Chicago,371,UMKC,2707,11/06/2018,76,45,Home,,-,"3,795"
 2019,Loyola Chicago,371,Furman,244,11/09/2018,58,60,Home,,-,"4,963"
 2019,Loyola Chicago,371,Niagara,482,11/14/2018,75,62,Home,,-,"2,648"
@@ -14367,6 +14526,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Loyola Chicago,371,Bradley,72,03/02/2019,81,68,Home,,-,"4,963"
 2019,Loyola Chicago,371,Valparaiso,735,03/08/2019,67,54,Neutral,"St. Louis, MO",-,0
 2019,Loyola Chicago,371,Bradley,72,03/09/2019,51,53,Neutral,"St. Louis, MO",-,0
+2019,Loyola Chicago,371,Creighton,169,03/19/2019,61,70,Away,,-,"5,755"
 2019,Loyola Maryland,369,St. John's (NY),603,11/06/2018,55,76,Away,,-,"4,863"
 2019,Loyola Maryland,369,Dartmouth,172,11/11/2018,80,82,Home,,-,"1,114"
 2019,Loyola Maryland,369,Delaware St.,178,11/13/2018,91,62,Home,,-,914
@@ -14399,37 +14559,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Loyola Maryland,369,Army West Point,725,02/27/2019,69,79,Away,,-,543
 2019,Loyola Maryland,369,Lehigh,352,03/02/2019,92,73,Home,,-,504
 2019,Loyola Maryland,369,Boston U.,68,03/05/2019,63,71,Away,,-,462
-2019,Loyola Marymount,370,Westcliff,,11/06/2018,75,43,Home,,-,"1,106"
-2019,Loyola Marymount,370,UNLV,465,11/10/2018,61,50,Away,,-,"8,501"
-2019,Loyola Marymount,370,CSUN,101,11/13/2018,79,64,Home,,-,862
-2019,Loyola Marymount,370,Georgetown,251,11/16/2018,65,52,Neutral,"Montego Bay, TBA",-,"1,169"
-2019,Loyola Marymount,370,Ohio,519,11/18/2018,65,56,Neutral,"Montego Bay, TBA",-,0
-2019,Loyola Marymount,370,Central Conn. St.,127,11/21/2018,76,74,Home,,-,644
-2019,Loyola Marymount,370,Florida A&M,228,11/24/2018,71,63,Home,,-,685
-2019,Loyola Marymount,370,Bethesda (CA),,11/29/2018,106,50,Home,,-,980
-2019,Loyola Marymount,370,UCLA,110,12/02/2018,58,82,Away,,-,"8,242"
-2019,Loyola Marymount,370,Cal St. Fullerton,97,12/05/2018,59,49,Away,,-,"1,024"
-2019,Loyola Marymount,370,Portland St.,550,12/15/2018,85,58,Away,,-,"1,055"
-2019,Loyola Marymount,370,Boise St.,66,12/19/2018,70,69,Home,,-,"1,279"
-2019,Loyola Marymount,370,UC Riverside,111,12/22/2018,53,60,Away,,-,339
-2019,Loyola Marymount,370,UC Davis,108,12/28/2018,77,59,Home,,-,"9,261"
-2019,Loyola Marymount,370,Pepperdine,541,01/03/2019,62,77,Away,,-,"1,118"
-2019,Loyola Marymount,370,Portland,551,01/05/2019,76,64,Home,,-,815
-2019,Loyola Marymount,370,Saint Mary's (CA),610,01/12/2019,60,71,Home,,-,"1,703"
-2019,Loyola Marymount,370,Gonzaga,260,01/17/2019,55,73,Away,,-,"6,000"
-2019,Loyola Marymount,370,Pepperdine,541,01/19/2019,74,70,Home,,-,"1,646"
-2019,Loyola Marymount,370,San Diego,627,01/24/2019,58,71,Away,,-,"1,519"
-2019,Loyola Marymount,370,Santa Clara,631,01/26/2019,69,61,Away,,-,"2,133"
-2019,Loyola Marymount,370,Pacific,534,01/31/2019,60,42,Home,,-,861
-2019,Loyola Marymount,370,BYU,77,02/02/2019,49,67,Away,,-,"11,643"
-2019,Loyola Marymount,370,San Diego,627,02/07/2019,63,65,Home,,-,989
-2019,Loyola Marymount,370,Portland,551,02/09/2019,72,55,Away,,-,"1,927"
-2019,Loyola Marymount,370,Gonzaga,260,02/14/2019,60,73,Home,,-,"4,213"
-2019,Loyola Marymount,370,BYU,77,02/16/2019,62,70,Home,,-,"3,692"
-2019,Loyola Marymount,370,Pacific,534,02/23/2019,63,56,Away,,-,"2,066"
-2019,Loyola Marymount,370,Santa Clara,631,02/28/2019,72,70,Home,,-,"1,150"
-2019,Loyola Marymount,370,San Francisco,629,03/02/2019,74,69,Away,,-,"3,005"
-2019,Loyola Marymount,370,Pepperdine,541,03/08/2019,65,68,Neutral,"Las Vegas, NV",-,0
 2019,LSU,365,Southeastern La.,655,11/06/2018,94,63,Home,,-,"10,513"
 2019,LSU,365,UNC Greensboro,459,11/09/2018,97,91,Home,,-,"8,613"
 2019,LSU,365,Memphis,404,11/13/2018,85,76,Home,,-,"9,295"
@@ -14462,6 +14591,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,LSU,365,Florida,235,03/06/2019,79,78,Away,,1 OT,"9,550"
 2019,LSU,365,Vanderbilt,736,03/09/2019,80,59,Home,,-,"13,546"
 2019,LSU,365,Florida,235,03/15/2019,73,76,Neutral,"Nashville, TN",-,0
+2019,LSU,365,Yale,813,03/21/2019,79,74,Neutral,"Jacksonville, FL",-,"12,429"
+2019,LSU,365,Maryland,392,03/23/2019,69,67,Neutral,"Jacksonville, FL",-,"14,250"
+2019,LSU,365,Michigan St.,416,03/29/2019,63,80,Neutral,"Washington, DC",-,0
 2019,Lubbock Christian,30177,Colo. Sch. of Mines,155,11/09/2018,70,62,Neutral,"San Antonio, TX",-,123
 2019,Lubbock Christian,30177,Regis (CO),568,11/10/2018,63,58,Neutral,"San Antonio, TX",-,98
 2019,Lubbock Christian,30177,West Tex. A&M,767,11/15/2018,70,82,Away,,-,"1,305"
@@ -14598,7 +14730,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Lynn,20794,Palm Beach Atl.,30045,03/06/2019,75,64,Home,,-,729
 2019,Lynn,20794,Fla. Southern,233,03/09/2019,65,74,Neutral,"Ft. Lauderdale, FL",-,574
 2019,Lynn,20794,Ala.-Huntsville,10,03/16/2019,81,68,Neutral,"Ft. Lauderdale, FL",-,388
-2019,Lynn,20794,Fla. Southern,233,03/17/2019,0,0,Neutral,"Ft. Lauderdale, FL",-,0
+2019,Lynn,20794,Fla. Southern,233,03/17/2019,88,78,Neutral,"Ft. Lauderdale, FL",-,534
+2019,Lynn,20794,Nova Southeastern,24639,03/19/2019,74,89,Away,,-,"1,351"
 2019,Macalester,376,North Central (MN),30039,11/08/2018,72,64,Away,,-,351
 2019,Macalester,376,Crown (MN),30035,11/15/2018,83,97,Home,,-,287
 2019,Macalester,376,Beloit,53,11/17/2018,65,74,Home,,-,248
@@ -14991,6 +15124,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Marquette,387,Georgetown,251,03/09/2019,84,86,Home,,-,"17,514"
 2019,Marquette,387,St. John's (NY),603,03/14/2019,86,54,Away,,-,"19,812"
 2019,Marquette,387,Seton Hall,635,03/15/2019,79,81,Neutral,"New York, NY",-,"19,812"
+2019,Marquette,387,Murray St.,454,03/21/2019,64,83,Neutral,"Hartford, CT",-,"14,838"
 2019,Mars Hill,1199,Appalachian St.,27,11/06/2018,62,125,Away,,-,718
 2019,Mars Hill,1199,Limestone,1174,11/09/2018,88,92,Neutral,"Wingate, N.C.",1 OT,117
 2019,Mars Hill,1199,Belmont Abbey,2683,11/10/2018,53,70,Neutral,"Wingate, NC",-,181
@@ -15055,6 +15189,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Marshall,388,Fla. Atlantic,229,03/09/2019,76,61,Home,,-,"7,097"
 2019,Marshall,388,Rice,574,03/13/2019,82,65,Neutral,"Frisco, TX",-,"2,704"
 2019,Marshall,388,Southern Miss.,664,03/14/2019,73,82,Neutral,"Frisco, TX",-,"4,024"
+2019,Marshall,388,IUPUI,2699,03/19/2019,78,73,Home,,-,"3,725"
+2019,Marshall,388,Presbyterian,1320,03/26/2019,83,66,Home,,-,"3,383"
+2019,Marshall,388,Hampton,270,04/02/2019,80,78,Home,,-,"4,122"
+2019,Marshall,388,Green Bay,794,04/04/2019,90,70,Home,,-,"5,748"
 2019,Martin Luther,8597,Saint Mary's (MN),612,11/17/2018,63,79,Home,,-,117
 2019,Martin Luther,8597,Lakeland,1164,11/19/2018,70,60,Home,,-,148
 2019,Martin Luther,8597,Wis. Lutheran,8911,11/20/2018,58,87,Away,,-,507
@@ -15196,6 +15334,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Maryland,392,Michigan,418,03/03/2019,62,69,Home,,-,"17,950"
 2019,Maryland,392,Minnesota,428,03/08/2019,69,60,Home,,-,"16,662"
 2019,Maryland,392,Nebraska,463,03/14/2019,61,69,Neutral,"Chicago , IL",-,"16,207"
+2019,Maryland,392,Belmont,14927,03/21/2019,79,77,Neutral,"Jacksonville, FL",-,"12,429"
+2019,Maryland,392,LSU,365,03/23/2019,67,69,Neutral,"Jacksonville, FL",-,"14,250"
 2019,Marymount (VA),394,Lehman,279,11/10/2018,90,69,Away,,-,250
 2019,Marymount (VA),394,Catholic,124,11/13/2018,70,67,Away,,-,678
 2019,Marymount (VA),394,Wilmington (OH),1461,11/17/2018,72,68,Home,,-,175
@@ -15618,6 +15758,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Memphis,404,Tulane,718,03/14/2019,83,68,Home,,-,"8,046"
 2019,Memphis,404,UCF,128,03/15/2019,79,55,Home,,-,"7,610"
 2019,Memphis,404,Houston,288,03/16/2019,58,61,Home,,-,0
+2019,Memphis,404,San Diego,627,03/19/2019,74,60,Home,,-,"8,138"
+2019,Memphis,404,Creighton,169,03/22/2019,67,79,Away,,-,"7,031"
 2019,Mercer,406,UAB,9,11/06/2018,67,75,Away,,-,"3,185"
 2019,Mercer,406,Piedmont,21830,11/09/2018,105,52,Home,,-,0
 2019,Mercer,406,Georgia St.,254,11/13/2018,60,62,Away,,-,"1,579"
@@ -15730,7 +15872,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Mercyhurst,408,East Stroudsburg,197,03/09/2019,67,64,Neutral,"Indiana, PA",-,304
 2019,Mercyhurst,408,Indiana (PA),307,03/10/2019,49,56,Away,,-,"1,429"
 2019,Mercyhurst,408,Fairmont St.,1076,03/16/2019,63,60,Neutral,"Indiana, PA",1 OT,377
-2019,Mercyhurst,408,Indiana (PA),307,03/17/2019,0,0,Away,,-,0
+2019,Mercyhurst,408,Indiana (PA),307,03/17/2019,75,65,Away,,-,"1,634"
+2019,Mercyhurst,408,West Liberty,1438,03/19/2019,82,70,Neutral,"Indiana, PA",-,759
+2019,Mercyhurst,408,Northwest Mo. St.,507,03/27/2019,51,55,Neutral,"Evansville, IN",-,"1,306"
 2019,Merrimack,410,Holy Family,1126,11/10/2018,69,50,Home,,-,403
 2019,Merrimack,410,Jefferson,543,11/11/2018,68,72,Home,,-,321
 2019,Merrimack,410,Assumption,36,11/14/2018,72,42,Home,,-,513
@@ -15915,6 +16059,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Michigan,418,Iowa,312,03/15/2019,74,53,Neutral,"Chicago , IL",-,"18,575"
 2019,Michigan,418,Minnesota,428,03/16/2019,76,49,Neutral,"Chicago , IL",-,"18,468"
 2019,Michigan,418,Michigan St.,416,03/17/2019,60,65,Neutral,"Chicago , IL",-,"18,615"
+2019,Michigan,418,Montana,441,03/21/2019,74,55,Neutral,"Des Moines, IA",-,"16,360"
+2019,Michigan,418,Florida,235,03/23/2019,64,49,Neutral,"Des Moines, IA",-,0
+2019,Michigan,418,Texas Tech,700,03/28/2019,44,63,Neutral,"Anaheim, CA",-,"16,145"
 2019,Michigan St.,416,Kansas,328,11/06/2018,87,92,Neutral,"Indianapolis, IN",-,0
 2019,Michigan St.,416,FGCU,28755,11/11/2018,106,82,Home,,-,"14,797"
 2019,Michigan St.,416,La.-Monroe,498,11/14/2018,80,59,Home,,-,"14,797"
@@ -15949,6 +16096,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Michigan St.,416,Ohio St.,518,03/15/2019,77,70,Neutral,"Chicago , IL",-,0
 2019,Michigan St.,416,Wisconsin,796,03/16/2019,67,55,Neutral,"Chicago , IL",-,0
 2019,Michigan St.,416,Michigan,418,03/17/2019,65,60,Neutral,"Chicago , IL",-,"18,615"
+2019,Michigan St.,416,Bradley,72,03/21/2019,76,65,Neutral,"Des Moines, IA",-,"16,512"
+2019,Michigan St.,416,Minnesota,428,03/23/2019,70,50,Neutral,"Des Moines, IA",-,"16,770"
+2019,Michigan St.,416,LSU,365,03/29/2019,80,63,Neutral,"Washington, DC",-,0
+2019,Michigan St.,416,Duke,193,03/31/2019,68,67,Neutral,"Washington, DC",-,"20,125"
+2019,Michigan St.,416,Texas Tech,700,04/06/2019,51,61,Neutral,"Minneapolis, MN",-,"72,711"
 2019,Michigan Tech,417,Lewis,354,11/10/2018,53,74,Neutral,"Marquette, MI",-,274
 2019,Michigan Tech,417,McKendree,30138,11/11/2018,75,67,Neutral,"Marquette, Mich. (Northern Michigan Tournament)",-,223
 2019,Michigan Tech,417,Minn. Duluth,427,11/18/2018,56,61,Away,,-,348
@@ -16066,7 +16218,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Miles,422,Tuskegee,720,02/27/2019,54,39,Neutral,"Birmingham, AL",-,0
 2019,Miles,422,Albany St. (GA),13,03/01/2019,65,59,Neutral,"Birmingham, AL",-,0
 2019,Miles,422,LeMoyne-Owen,350,03/02/2019,70,46,Neutral,"Birmingham, AL",-,0
-2019,Miles,422,Nova Southeastern,24639,03/16/2019,66,80,Away,,-,0
+2019,Miles,422,Nova Southeastern,24639,03/16/2019,66,80,Away,,-,"1,033"
 2019,Millersville,423,Shepherd,10870,11/09/2018,73,81,Away,,-,547
 2019,Millersville,423,Wheeling Jesuit,12799,11/10/2018,91,71,Neutral,"Shepherdstown, WV",-,269
 2019,Millersville,423,Georgian Court,9004,11/14/2018,78,51,Home,,-,230
@@ -16301,6 +16453,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Minnesota,428,Penn St.,539,03/14/2019,77,72,Neutral,"Chicago , IL",1 OT,0
 2019,Minnesota,428,Purdue,559,03/15/2019,75,73,Neutral,"Chicago , IL",-,0
 2019,Minnesota,428,Michigan,418,03/16/2019,49,76,Neutral,"Chicago , IL",-,"18,468"
+2019,Minnesota,428,Louisville,367,03/21/2019,86,76,Neutral,"Des Moines, IA",-,0
+2019,Minnesota,428,Michigan St.,416,03/23/2019,50,70,Neutral,"Des Moines, IA",-,"16,770"
 2019,Minnesota St.,383,Lindenwood (MO),30136,11/09/2018,88,85,Home,,-,812
 2019,Minnesota St.,383,Mo. Southern St.,9012,11/10/2018,98,100,Home,,1 OT,846
 2019,Minnesota St.,383,St. Cloud St.,598,11/17/2018,80,77,Away,,1 OT,"1,397"
@@ -16451,6 +16605,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Mississippi St.,430,Texas A&M,697,03/09/2019,92,81,Home,,-,"8,732"
 2019,Mississippi St.,430,Texas A&M,697,03/14/2019,80,54,Neutral,"Nashville, TN",-,"14,813"
 2019,Mississippi St.,430,Tennessee,694,03/15/2019,76,83,Neutral,"Nashville, TN",-,"19,575"
+2019,Mississippi St.,430,Liberty,355,03/22/2019,76,80,Neutral,"San Jose, CA",-,0
 2019,Mississippi Val.,432,Nebraska,463,11/06/2018,37,106,Away,,-,"15,307"
 2019,Mississippi Val.,432,Texas Tech,700,11/09/2018,52,84,Away,,-,"9,873"
 2019,Mississippi Val.,432,Utah St.,731,11/13/2018,59,94,Away,,-,"5,133"
@@ -16565,7 +16720,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Missouri St.,669,Loyola Chicago,371,01/23/2019,70,35,Home,,-,"4,863"
 2019,Missouri St.,669,Bradley,72,01/26/2019,55,37,Home,,-,"5,215"
 2019,Missouri St.,669,Valparaiso,735,01/29/2019,55,54,Away,,1 OT,"1,333"
-2019,Missouri St.,669,UNI,504,02/02/2019,59,64,Away,,-,"3,882"
+2019,Missouri St.,669,UNI,504,02/02/2019,59,64,Away,,-,"4,178"
 2019,Missouri St.,669,Southern Ill.,659,02/06/2019,65,59,Home,,-,"5,311"
 2019,Missouri St.,669,Illinois St.,299,02/10/2019,66,65,Home,,-,"6,507"
 2019,Missouri St.,669,Evansville,219,02/13/2019,68,56,Away,,-,"5,289"
@@ -16694,7 +16849,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Mo. Southern St.,9012,Neb.-Kearney,1156,03/02/2019,104,67,Away,,-,"1,155"
 2019,Mo. Southern St.,9012,Pittsburg St.,1314,03/08/2019,80,89,Neutral,"Kansas City, MO",-,0
 2019,Mo. Southern St.,9012,Washburn,2814,03/16/2019,101,100,Neutral,"Maryville, MO",-,0
-2019,Mo. Southern St.,9012,Southeastern Okla.,1371,03/17/2019,0,0,Neutral,"Maryville, MO",-,0
+2019,Mo. Southern St.,9012,Southeastern Okla.,1371,03/17/2019,92,83,Neutral,"Maryville, MO",-,"2,200"
+2019,Mo. Southern St.,9012,Northwest Mo. St.,507,03/19/2019,70,82,Away,,-,"2,200"
 2019,Mo.-St. Louis,436,Walsh,30141,11/09/2018,78,74,Neutral,"St. Louis, Mo.",-,145
 2019,Mo.-St. Louis,436,Tiffin,1403,11/10/2018,96,80,Neutral,"St. Louis, Mo.",-,137
 2019,Mo.-St. Louis,436,Webster,759,11/12/2018,65,60,Home,,-,432
@@ -16879,6 +17035,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Montana,441,Sacramento St.,102,03/14/2019,79,73,Neutral,"Boise, ID",-,0
 2019,Montana,441,Weber St.,758,03/15/2019,78,49,Neutral,"Boise, ID",-,0
 2019,Montana,441,Eastern Wash.,207,03/16/2019,68,62,Neutral,"Boise, ID",-,"3,737"
+2019,Montana,441,Michigan,418,03/21/2019,55,74,Neutral,"Des Moines, IA",-,"16,360"
 2019,Montana St.,440,Utah St.,731,11/06/2018,71,101,Home,,-,"2,354"
 2019,Montana St.,440,Indiana,306,11/09/2018,35,80,Away,,-,"17,222"
 2019,Montana St.,440,Presentation,,11/11/2018,83,68,Home,,-,"1,268"
@@ -17447,6 +17604,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Murray St.,454,Austin Peay,43,03/02/2019,94,83,Home,,-,"9,012"
 2019,Murray St.,454,Jacksonville St.,315,03/08/2019,76,74,Neutral,"Evansville, IN",-,"8,294"
 2019,Murray St.,454,Belmont,14927,03/09/2019,77,65,Neutral,"Evansville, IN",-,"10,525"
+2019,Murray St.,454,Marquette,387,03/21/2019,83,64,Neutral,"Hartford, CT",-,"14,838"
+2019,Murray St.,454,Florida St.,234,03/23/2019,62,90,Neutral,"Hartford, CT",-,"15,031"
 2019,Muskingum,455,Wooster,807,11/14/2018,100,108,Away,,-,"1,567"
 2019,Muskingum,455,North Park,496,11/24/2018,81,80,Neutral,"Cincinnati, OH",-,137
 2019,Muskingum,455,Mt. St. Joseph,8567,11/25/2018,93,68,Away,,-,220
@@ -17542,6 +17701,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,N.C. Central,489,Delaware St.,178,03/14/2019,75,57,Neutral,"Norfolk, VA",-,0
 2019,N.C. Central,489,N.C. A&T,488,03/15/2019,65,63,Neutral,"Norfolk, VA",-,0
 2019,N.C. Central,489,Norfolk St.,485,03/16/2019,50,47,Neutral,"Norfolk, VA",-,0
+2019,N.C. Central,489,North Dakota St.,493,03/20/2019,74,78,Neutral,"Dayton, OH",-,"11,827"
 2019,N.C. Wesleyan,491,Mid-Atlantic Christ.,,11/10/2018,78,67,Home,,-,50
 2019,N.C. Wesleyan,491,Ferrum,225,11/17/2018,68,49,Neutral,"Fredericksburg, VA",-,80
 2019,N.C. Wesleyan,491,Guilford,1112,11/18/2018,68,81,Neutral,"Fredericksburg, VA",-,120
@@ -17692,6 +17852,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,NC State,490,Boston College,67,03/09/2019,73,47,Away,,-,"7,279"
 2019,NC State,490,Clemson,147,03/13/2019,59,58,Neutral,"Charlotte, NC",-,0
 2019,NC State,490,Virginia,746,03/14/2019,56,76,Neutral,"Charlotte, NC",-,"19,691"
+2019,NC State,490,Hofstra,283,03/19/2019,84,78,Home,,-,"5,500"
+2019,NC State,490,Harvard,275,03/24/2019,78,77,Home,,-,"5,500"
+2019,NC State,490,Lipscomb,28600,03/27/2019,93,94,Home,,-,"5,500"
 2019,Neb. Wesleyan,462,Grinnell,264,11/08/2018,143,90,Home,,-,858
 2019,Neb. Wesleyan,462,Bethany Lutheran,30038,11/12/2018,104,85,Away,,-,563
 2019,Neb. Wesleyan,462,Carroll (WI),120,11/16/2018,70,64,Away,,-,867
@@ -17783,6 +17946,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Nebraska,463,Rutgers,587,03/13/2019,68,61,Neutral,"Chicago , IL",-,0
 2019,Nebraska,463,Maryland,392,03/14/2019,69,61,Neutral,"Chicago , IL",-,"16,207"
 2019,Nebraska,463,Wisconsin,796,03/15/2019,62,66,Neutral,"Chicago , IL",-,"17,369"
+2019,Nebraska,463,Butler,87,03/20/2019,80,76,Home,,-,"10,103"
+2019,Nebraska,463,TCU,698,03/24/2019,72,88,Away,,-,"3,445"
 2019,Neumann,1254,Kean,329,11/08/2018,75,66,Home,,-,802
 2019,Neumann,1254,Lebanon Valley,351,11/10/2018,87,80,Neutral,"Middletown, PA",1 OT,175
 2019,Neumann,1254,Penn St. Harrisburg,30081,11/11/2018,59,67,Away,,-,320
@@ -17842,6 +18007,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Nevada,466,San Diego St.,626,03/09/2019,81,53,Home,,-,"11,243"
 2019,Nevada,466,Boise St.,66,03/14/2019,77,69,Neutral,"Las Vegas, NV",-,"7,309"
 2019,Nevada,466,San Diego St.,626,03/15/2019,56,65,Neutral,"Las Vegas, NV",-,"8,764"
+2019,Nevada,466,Florida,235,03/21/2019,61,70,Neutral,"Des Moines, IA",-,0
 2019,New England Col.,467,Plymouth St.,548,11/10/2018,92,76,Home,,-,295
 2019,New England Col.,467,NVU-Lyndon,30065,11/12/2018,103,55,Away,,-,80
 2019,New England Col.,467,NVU-Johnson,324,11/14/2018,73,33,Home,,-,135
@@ -17927,7 +18093,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,New Haven,470,Southern Conn. St.,658,03/06/2019,87,66,Home,,-,"1,017"
 2019,New Haven,470,Merrimack,410,03/09/2019,46,51,Home,,-,"1,045"
 2019,New Haven,470,Daemen,30174,03/16/2019,72,67,Neutral,"Manchester, NH",-,0
-2019,New Haven,470,St. Anselm,593,03/17/2019,0,0,Away,,-,0
+2019,New Haven,470,St. Anselm,593,03/17/2019,69,70,Away,,-,869
 2019,New Jersey City,319,Stevens,679,11/13/2018,72,76,Away,,-,380
 2019,New Jersey City,319,East. Mennonite,203,11/16/2018,76,67,Away,,-,490
 2019,New Jersey City,319,Bridgewater (VA),75,11/17/2018,73,70,Neutral,"Harrisonburg, VA",1 OT,125
@@ -18022,6 +18188,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,New Mexico St.,472,Chicago St.,136,03/14/2019,86,49,Neutral,"Las Vegas, NV",-,0
 2019,New Mexico St.,472,UTRGV,536,03/15/2019,79,72,Neutral,"Las Vegas, NV",-,0
 2019,New Mexico St.,472,Grand Canyon,1104,03/16/2019,89,57,Neutral,"Las Vegas, NV",-,"3,598"
+2019,New Mexico St.,472,Auburn,37,03/21/2019,77,78,Neutral,"Salt Lake City, UT",-,0
 2019,New Orleans,474,Spring Hill,30191,11/06/2018,95,66,Home,,-,611
 2019,New Orleans,474,Northwestern,509,11/08/2018,52,82,Away,,-,"6,747"
 2019,New Orleans,474,Pensacola Christian,,11/12/2018,87,59,Home,,-,321
@@ -18054,6 +18221,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,New Orleans,474,Lamar University,346,03/14/2019,76,72,Neutral,"Katy, TX",-,0
 2019,New Orleans,474,Sam Houston St.,624,03/15/2019,79,76,Neutral,"Katy, TX",-,"2,100"
 2019,New Orleans,474,Abilene Christian,2,03/16/2019,60,77,Neutral,"Katy, TX",-,"1,751"
+2019,New Orleans,474,Texas Southern,699,03/20/2019,89,95,Home,,1 OT,612
 2019,New Rochelle,476,LIU Brooklyn,361,11/06/2018,76,109,Away,,-,451
 2019,New Rochelle,476,Marywood,397,11/09/2018,84,89,Neutral,"Williamsport, PA",-,754
 2019,New Rochelle,476,Penn St.-Schuylkill,,11/10/2018,85,78,Neutral,"Williamsport, PA",-,368
@@ -18080,7 +18248,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,New Rochelle,476,Five Towns,,02/08/2019,112,86,Home,,-,279
 2019,New Rochelle,476,Albany Pharmacy,,02/11/2019,82,62,Home,,-,112
 2019,New Rochelle,476,Vaughn,,02/13/2019,98,64,Home,,-,134
-2019,New Rochelle,476,Berkeley (NY),,02/17/2019,82,92,Away,,-,0
+2019,New Rochelle,476,Berkeley (NY),,02/17/2019,82,92,Away,,-,350
 2019,Newberry,1257,UNC Pembroke,537,11/09/2018,81,97,Neutral,"Salisbury, N.C.",-,319
 2019,Newberry,1257,Francis Marion,1085,11/10/2018,86,105,Neutral,"Salisbury, NC",-,173
 2019,Newberry,1257,Warren Wilson,,11/14/2018,98,69,Home,,-,693
@@ -18292,6 +18460,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,NJIT,471,Liberty,355,03/01/2019,51,57,Home,,-,945
 2019,NJIT,471,FGCU,28755,03/04/2019,83,78,Away,,-,"2,289"
 2019,NJIT,471,Lipscomb,28600,03/07/2019,55,78,Away,,-,"3,157"
+2019,NJIT,471,Quinnipiac,562,03/18/2019,92,81,Home,,-,777
+2019,NJIT,471,Hampton,270,03/28/2019,70,82,Home,,-,776
 2019,Norfolk St.,485,Michigan,418,11/06/2018,44,63,Away,,-,"10,109"
 2019,Norfolk St.,485,Mid-Atlantic Christ.,,11/08/2018,108,50,Home,,-,"1,336"
 2019,Norfolk St.,485,Clarion,143,11/10/2018,74,46,Home,,-,"1,486"
@@ -18326,6 +18496,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Norfolk St.,485,South Carolina St.,647,03/13/2019,78,73,Neutral,"Norfolk, VA",-,0
 2019,Norfolk St.,485,Howard,290,03/15/2019,75,69,Neutral,"Norfolk, VA",-,0
 2019,Norfolk St.,485,N.C. Central,489,03/16/2019,47,50,Neutral,"Norfolk, VA",-,0
+2019,Norfolk St.,485,Alabama,8,03/20/2019,80,79,Away,,1 OT,"2,086"
+2019,Norfolk St.,485,Colorado,157,03/25/2019,60,76,Away,,-,"5,891"
 2019,North Ala.,487,Samford,625,11/06/2018,74,91,Away,,-,"1,383"
 2019,North Ala.,487,Blue Mountain (MS),,11/10/2018,72,59,Home,,-,987
 2019,North Ala.,487,Saint Louis,609,11/13/2018,58,69,Away,,-,"4,972"
@@ -18391,6 +18563,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,North Carolina,457,Duke,193,03/09/2019,79,70,Home,,-,"21,750"
 2019,North Carolina,457,Louisville,367,03/14/2019,83,70,Neutral,"Charlotte, NC",-,"19,691"
 2019,North Carolina,457,Duke,193,03/15/2019,73,74,Neutral,"Charlotte, NC",-,"20,116"
+2019,North Carolina,457,Iona,310,03/22/2019,88,73,Neutral,"Columbus, OH",-,"19,426"
+2019,North Carolina,457,Washington,756,03/24/2019,81,59,Neutral,"Columbus, OH",-,"19,610"
+2019,North Carolina,457,Auburn,37,03/29/2019,80,97,Neutral,"Kansas City, MO",-,"17,385"
 2019,North Central (IL),492,Heidelberg,278,11/17/2018,68,57,Home,,-,155
 2019,North Central (IL),492,Benedictine (IL),296,11/20/2018,74,60,Away,,-,691
 2019,North Central (IL),492,Alma,21,11/24/2018,87,67,Home,,-,265
@@ -18458,7 +18633,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,North Dakota,494,Milwaukee,797,12/09/2018,83,72,Home,,-,"1,547"
 2019,North Dakota,494,Mayville St.,,12/14/2018,83,66,Home,,-,"1,472"
 2019,North Dakota,494,Marquette,387,12/18/2018,66,92,Away,,-,"13,603"
-2019,North Dakota,494,UNI,504,12/22/2018,62,64,Away,,-,"3,619"
+2019,North Dakota,494,UNI,504,12/22/2018,62,64,Away,,-,"3,627"
 2019,North Dakota,494,Purdue Fort Wayne,308,12/29/2018,73,84,Home,,-,"1,442"
 2019,North Dakota,494,Oral Roberts,527,01/03/2019,72,83,Away,,-,"2,006"
 2019,North Dakota,494,Denver,183,01/05/2019,80,59,Away,,-,"1,918"
@@ -18509,6 +18684,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,North Dakota St.,493,Oral Roberts,527,03/10/2019,86,73,Neutral,"Sioux Falls, SD",-,0
 2019,North Dakota St.,493,Western Ill.,771,03/11/2019,76,73,Neutral,"Sioux Falls, SD",-,0
 2019,North Dakota St.,493,Omaha,464,03/12/2019,73,63,Neutral,"Sioux Falls, SD",-,"4,076"
+2019,North Dakota St.,493,N.C. Central,489,03/20/2019,78,74,Neutral,"Dayton, OH",-,"11,827"
+2019,North Dakota St.,493,Duke,193,03/22/2019,62,85,Neutral,"Columbia, SC",-,0
 2019,North Florida,2711,Dayton,175,11/07/2018,70,78,Away,,-,"12,522"
 2019,North Florida,2711,Penn St.,539,11/09/2018,72,87,Away,,-,"9,060"
 2019,North Florida,2711,Edward Waters,,11/14/2018,95,83,Home,,-,"1,852"
@@ -18692,6 +18869,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Northeastern,500,UNCW,460,03/10/2019,80,59,Neutral,"North Charleston, SC",-,0
 2019,Northeastern,500,Col. of Charleston,1014,03/11/2019,70,67,Neutral,"North Charleston, SC",-,"3,599"
 2019,Northeastern,500,Hofstra,283,03/12/2019,82,74,Neutral,"North Charleston, SC",-,"2,892"
+2019,Northeastern,500,Kansas,328,03/21/2019,53,87,Neutral,"Salt Lake City, UT",-,0
 2019,Northeastern St.,12810,Southwestern Okla.,8744,11/09/2018,95,86,Home,,-,"1,232"
 2019,Northeastern St.,12810,Northwestern Okla.,30178,11/10/2018,80,73,Home,,-,"1,015"
 2019,Northeastern St.,12810,Rogers St.,30180,11/14/2018,66,71,Away,,-,"1,262"
@@ -18852,6 +19030,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Northern Ky.,505,Detroit Mercy,184,03/06/2019,99,88,Home,,-,"3,394"
 2019,Northern Ky.,505,Oakland,514,03/11/2019,64,63,Neutral,"Detriot, MI",-,"5,280"
 2019,Northern Ky.,505,Wright St.,810,03/12/2019,77,66,Neutral,"Detriot, MI",-,"5,612"
+2019,Northern Ky.,505,Texas Tech,700,03/22/2019,57,72,Neutral,"Tulsa, OK",-,0
 2019,Northern Mich.,506,McKendree,30138,11/10/2018,93,70,Home,,-,360
 2019,Northern Mich.,506,Lewis,354,11/11/2018,77,59,Home,,-,307
 2019,Northern Mich.,506,Minn. Duluth,427,11/13/2018,64,52,Home,,-,422
@@ -18974,7 +19153,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Northwest Mo. St.,507,Lincoln (MO),356,03/09/2019,86,69,Neutral,"Kansas City, MO",-,0
 2019,Northwest Mo. St.,507,Washburn,2814,03/10/2019,82,53,Neutral,"Kansas City, MO",-,0
 2019,Northwest Mo. St.,507,Minnesota St.,383,03/16/2019,91,62,Home,,-,0
-2019,Northwest Mo. St.,507,Southern Nazarene,30152,03/17/2019,0,0,Home,,-,0
+2019,Northwest Mo. St.,507,Southern Nazarene,30152,03/17/2019,70,59,Home,,-,"2,200"
+2019,Northwest Mo. St.,507,Mo. Southern St.,9012,03/19/2019,82,70,Home,,-,"2,200"
+2019,Northwest Mo. St.,507,Mercyhurst,408,03/27/2019,55,51,Neutral,"Evansville, IN",-,"1,306"
+2019,Northwest Mo. St.,507,St. Anselm,593,03/28/2019,76,53,Neutral,"Evansville, IN",-,0
+2019,Northwest Mo. St.,507,Point Loma,30149,03/30/2019,64,58,Neutral,"Evansville, IN",-,"4,269"
 2019,Northwest Nazarene,1274,Northwest Chrst.,,11/09/2018,107,90,Home,,-,"2,942"
 2019,Northwest Nazarene,1274,Cal St. San Marcos,30198,11/16/2018,77,62,Neutral,"Portland, OR",-,122
 2019,Northwest Nazarene,1274,Cal St. L.A.,100,11/17/2018,71,68,Neutral,"Portland, OR",-,119
@@ -19301,8 +19484,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Nova Southeastern,24639,Tampa,689,03/06/2019,95,82,Home,,-,672
 2019,Nova Southeastern,24639,Barry,49,03/09/2019,88,77,Home,,-,714
 2019,Nova Southeastern,24639,Fla. Southern,233,03/10/2019,84,92,Home,,-,"1,012"
-2019,Nova Southeastern,24639,Miles,422,03/16/2019,80,66,Home,,-,0
-2019,Nova Southeastern,24639,West Ala.,358,03/17/2019,0,0,Home,,-,0
+2019,Nova Southeastern,24639,Miles,422,03/16/2019,80,66,Home,,-,"1,033"
+2019,Nova Southeastern,24639,West Ala.,358,03/17/2019,89,80,Home,,-,684
+2019,Nova Southeastern,24639,Lynn,20794,03/19/2019,89,74,Home,,-,"1,351"
+2019,Nova Southeastern,24639,St. Anselm,593,03/27/2019,81,91,Neutral,"Evansville, IN",-,0
 2019,NVU-Johnson,324,St. Joseph (VT),,11/08/2018,74,80,Neutral,"Lyndon, VT",-,50
 2019,NVU-Johnson,324,Vermont Tech,,11/09/2018,69,83,Neutral,"Lyndon, VT",-,0
 2019,NVU-Johnson,324,New England Col.,467,11/14/2018,33,73,Away,,-,135
@@ -19691,6 +19876,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Ohio St.,518,Wisconsin,796,03/10/2019,67,73,Home,,1 OT,"18,231"
 2019,Ohio St.,518,Indiana,306,03/14/2019,79,75,Neutral,"Chicago , IL",-,0
 2019,Ohio St.,518,Michigan St.,416,03/15/2019,70,77,Neutral,"Chicago , IL",-,0
+2019,Ohio St.,518,Iowa St.,311,03/22/2019,62,59,Neutral,"Tulsa, OK",-,"12,443"
+2019,Ohio St.,518,Houston,288,03/24/2019,59,74,Neutral,"Tulsa, OK",-,"12,606"
 2019,Ohio Valley,15207,Wright St.-Lake,,11/10/2018,98,78,Home,,-,300
 2019,Ohio Valley,15207,West Va. Wesleyan,9630,11/15/2018,72,58,Home,,-,250
 2019,Ohio Valley,15207,Ky. Christian,,11/19/2018,113,97,Home,,-,250
@@ -19834,6 +20021,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Oklahoma,522,Kansas,328,03/05/2019,81,68,Home,,-,"9,839"
 2019,Oklahoma,522,Kansas St.,327,03/09/2019,53,68,Away,,-,"12,528"
 2019,Oklahoma,522,West Virginia,768,03/13/2019,71,72,Neutral,"Kansas City, MO",-,"18,858"
+2019,Oklahoma,522,Ole Miss,433,03/22/2019,95,72,Neutral,"Columbia, SC",-,0
+2019,Oklahoma,522,Virginia,746,03/24/2019,51,63,Neutral,"Columbia, SC",-,"16,332"
 2019,Oklahoma St.,521,Charlotte,458,11/10/2018,64,66,Away,,-,"3,895"
 2019,Oklahoma St.,521,UTSA,706,11/14/2018,82,60,Home,,-,"6,571"
 2019,Oklahoma St.,521,Col. of Charleston,1014,11/18/2018,70,58,Home,,-,"6,595"
@@ -19900,6 +20089,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Old Dominion,523,Louisiana Tech,366,03/14/2019,57,56,Neutral,"Frisco, TX",-,0
 2019,Old Dominion,523,UAB,9,03/15/2019,61,59,Neutral,"Frisco, TX",-,0
 2019,Old Dominion,523,Western Ky.,772,03/16/2019,62,56,Neutral,"Frisco, TX",-,"3,017"
+2019,Old Dominion,523,Purdue,559,03/21/2019,48,61,Neutral,"Hartford, CT",-,"14,695"
 2019,Old Westbury,524,Pacific Lutheran,1297,11/16/2018,82,74,Away,,-,230
 2019,Old Westbury,524,Puget Sound,557,11/17/2018,100,101,Away,,1 OT,787
 2019,Old Westbury,524,St. Joseph's (L.I.),1340,12/01/2018,72,65,Home,,-,175
@@ -19959,6 +20149,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Ole Miss,433,Kentucky,334,03/05/2019,76,80,Home,,-,"9,500"
 2019,Ole Miss,433,Missouri,434,03/09/2019,73,68,Away,,-,"11,050"
 2019,Ole Miss,433,Alabama,8,03/14/2019,57,62,Neutral,"Bridgestone Arena,  Nashville, Tennessee",-,0
+2019,Ole Miss,433,Oklahoma,522,03/22/2019,72,95,Neutral,"Columbia, SC",-,0
 2019,Olivet,525,Dubuque,192,11/16/2018,84,77,Neutral,"Dubuque, Iowa",-,117
 2019,Olivet,525,Loras,364,11/17/2018,88,105,Away,,-,322
 2019,Olivet,525,Greenville,1111,11/23/2018,127,136,Neutral,"Lincoln, NE",-,110
@@ -20085,6 +20276,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Oregon,529,Utah,732,03/14/2019,66,54,Neutral,"Las Vegas, NV",-,"13,012"
 2019,Oregon,529,Arizona St.,28,03/15/2019,79,75,Neutral,"Las Vegas, NV",1 OT,"13,955"
 2019,Oregon,529,Washington,756,03/16/2019,68,48,Neutral,"Las Vegas, NV",-,"12,877"
+2019,Oregon,529,Wisconsin,796,03/22/2019,72,54,Neutral,"San Jose, CA",-,"14,331"
+2019,Oregon,529,UC Irvine,109,03/24/2019,73,54,Neutral,"San Jose, CA",-,"14,802"
+2019,Oregon,529,Virginia,746,03/28/2019,49,53,Neutral,"Louisville, KY",-,"19,831"
 2019,Oregon St.,528,UC Riverside,111,11/06/2018,72,59,Home,,-,"3,590"
 2019,Oregon St.,528,Wyoming,811,11/10/2018,83,64,Home,,-,"3,931"
 2019,Oregon St.,528,Old Dominion,523,11/16/2018,61,56,Neutral,"U.S. Virgina Islands, Vir Isl",-,522
@@ -20964,6 +21158,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Point Loma,30149,Concordia (CA),30199,03/09/2019,67,58,Neutral,"San Rafael, CA",-,251
 2019,Point Loma,30149,Western Ore.,1446,03/15/2019,70,58,Home,,-,"1,274"
 2019,Point Loma,30149,UC San Diego,112,03/16/2019,73,50,Home,,-,"1,303"
+2019,Point Loma,30149,Saint Martin's,1343,03/18/2019,60,54,Home,,-,"1,828"
+2019,Point Loma,30149,Queens (NC),11504,03/27/2019,87,74,Neutral,"Evansville, IN",-,"7,330"
+2019,Point Loma,30149,Southern Ind.,661,03/28/2019,81,71,Neutral,"Evansville, IN",-,"5,965"
+2019,Point Loma,30149,Northwest Mo. St.,507,03/30/2019,58,64,Neutral,"Evansville, IN",-,"4,269"
 2019,Pomona-Pitzer,549,Biola,30220,11/17/2018,92,67,Home,,-,100
 2019,Pomona-Pitzer,549,LIFE Pacific,,11/20/2018,68,59,Away,,-,250
 2019,Pomona-Pitzer,549,Willamette,785,11/23/2018,85,71,Neutral,"Claremont, CA",-,364
@@ -21119,6 +21317,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Prairie View,553,Alcorn,17,03/12/2019,86,66,Home,,-,580
 2019,Prairie View,553,Grambling,261,03/15/2019,81,71,Neutral,"Birmingham, AL",-,0
 2019,Prairie View,553,Texas Southern,699,03/16/2019,92,86,Neutral,"Birmingham, AL",-,0
+2019,Prairie View,553,Fairleigh Dickinson,222,03/19/2019,76,82,Neutral,"Dayton, OH",-,"11,784"
 2019,Presbyterian,1320,Col. of Charleston,1014,11/06/2018,73,85,Away,,-,"3,711"
 2019,Presbyterian,1320,Tennessee Tech,692,11/10/2018,80,65,Away,,-,"1,183"
 2019,Presbyterian,1320,Welch,,11/12/2018,109,57,Home,,-,360
@@ -21152,6 +21351,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Presbyterian,1320,Charleston So.,48,03/02/2019,65,72,Home,,-,774
 2019,Presbyterian,1320,UNC Asheville,456,03/05/2019,106,59,Home,,-,805
 2019,Presbyterian,1320,Radford,563,03/07/2019,76,84,Neutral,"Buies Creek, NC",-,0
+2019,Presbyterian,1320,Seattle U,1356,03/20/2019,73,68,Away,,-,472
+2019,Presbyterian,1320,Robert Morris,579,03/24/2019,77,70,Away,,-,541
+2019,Presbyterian,1320,Marshall,388,03/26/2019,66,83,Away,,-,"3,383"
 2019,Princeton,554,DeSales,20,11/09/2018,85,51,Home,,-,"1,523"
 2019,Princeton,554,Lehigh,352,11/16/2018,57,72,Away,,-,"1,171"
 2019,Princeton,554,Fairleigh Dickinson,222,11/21/2018,66,77,Home,,-,"1,291"
@@ -21240,6 +21442,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Providence,556,Butler,87,03/09/2019,83,70,Home,,-,"12,004"
 2019,Providence,556,Butler,87,03/13/2019,80,57,Neutral,"New York, NY",-,0
 2019,Providence,556,Villanova,739,03/14/2019,62,73,Neutral,"New York, NY",-,"19,534"
+2019,Providence,556,Arkansas,31,03/19/2019,72,84,Home,,-,"3,057"
 2019,Puget Sound,557,Seattle U,1356,11/08/2018,67,95,Away,,-,999
 2019,Puget Sound,557,Old Westbury,524,11/17/2018,101,100,Home,,1 OT,787
 2019,Puget Sound,557,Sul Ross St.,1390,11/18/2018,77,86,Home,,-,158
@@ -21326,6 +21529,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Purdue,559,Minnesota,428,03/05/2019,69,73,Away,,-,"10,062"
 2019,Purdue,559,Northwestern,509,03/09/2019,70,57,Away,,-,"7,039"
 2019,Purdue,559,Minnesota,428,03/15/2019,73,75,Neutral,"Chicago , IL",-,0
+2019,Purdue,559,Old Dominion,523,03/21/2019,61,48,Neutral,"Hartford, CT",-,"14,695"
+2019,Purdue,559,Villanova,739,03/23/2019,87,61,Neutral,"Hartford, CT",-,"15,031"
+2019,Purdue,559,Tennessee,694,03/28/2019,99,94,Neutral,"Louisville, KY",1 OT,0
+2019,Purdue,559,Virginia,746,03/30/2019,75,80,Neutral,"Louisville, KY",1 OT,"21,623"
 2019,Purdue Fort Wayne,308,UCLA,110,11/06/2018,71,96,Away,,-,"5,931"
 2019,Purdue Fort Wayne,308,Earlham,195,11/08/2018,112,51,Home,,-,819
 2019,Purdue Fort Wayne,308,Ohio St.,518,11/11/2018,61,107,Away,,-,"12,040"
@@ -21385,7 +21592,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Purdue Northwest,30222,Davenport,30221,02/09/2019,69,86,Away,,-,235
 2019,Purdue Northwest,30222,Ashland,35,02/14/2019,56,84,Away,,-,780
 2019,Purdue Northwest,30222,Wayne St. (MI),757,02/16/2019,74,90,Away,,-,586
-2019,Purdue Northwest,30222,Wayne St. (MI),757,02/16/2019,9,7,Away,,-1 OT,0
 2019,Purdue Northwest,30222,Ferris St.,224,02/21/2019,69,83,Home,,-,576
 2019,Purdue Northwest,30222,Lake Superior St.,345,02/23/2019,72,82,Home,,-,151
 2019,Purdue Northwest,30222,Wis.-Parkside,799,02/28/2019,72,74,Home,,-,400
@@ -21422,7 +21628,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Queens (NC),11504,Carson-Newman,1000,03/06/2019,84,75,Home,,-,378
 2019,Queens (NC),11504,Lenoir-Rhyne,1170,03/09/2019,68,83,Neutral,"Greenville, SC",-,0
 2019,Queens (NC),11504,Emmanuel (GA),30193,03/16/2019,76,72,Home,,-,642
-2019,Queens (NC),11504,Catawba,1001,03/17/2019,0,0,Home,,-,0
+2019,Queens (NC),11504,Catawba,1001,03/17/2019,96,93,Home,,-,"1,266"
+2019,Queens (NC),11504,Augusta,39,03/19/2019,91,78,Home,,-,"1,429"
+2019,Queens (NC),11504,Point Loma,30149,03/27/2019,74,87,Neutral,"Evansville, IN",-,"7,330"
 2019,Queens (NY),560,Adelphi,3,11/10/2018,59,88,Neutral,"Pleasantville, N.Y.",-,175
 2019,Queens (NY),560,Pace,533,11/11/2018,51,72,Away,,-,263
 2019,Queens (NY),560,Fairleigh Dickinson,222,11/14/2018,48,87,Away,,-,450
@@ -21510,6 +21718,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Quinnipiac,562,Saint Peter's,617,03/01/2019,77,60,Away,,-,502
 2019,Quinnipiac,562,Manhattan,381,03/03/2019,58,62,Home,,-,"2,405"
 2019,Quinnipiac,562,Monmouth,439,03/09/2019,92,98,Neutral,"Albany, NY",-,0
+2019,Quinnipiac,562,NJIT,471,03/18/2019,81,92,Away,,-,777
 2019,Radford,563,Davis & Elkins,174,11/06/2018,91,57,Home,,-,"1,215"
 2019,Radford,563,UIC,302,11/09/2018,88,78,Home,,-,"1,477"
 2019,Radford,563,Notre Dame,513,11/14/2018,63,60,Away,,-,"5,988"
@@ -22053,6 +22262,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Robert Morris,579,Wagner,748,03/02/2019,69,60,Away,,-,"1,558"
 2019,Robert Morris,579,St. Francis Brooklyn,599,03/06/2019,69,65,Home,,1 OT,"1,016"
 2019,Robert Morris,579,Fairleigh Dickinson,222,03/09/2019,62,66,Away,,-,"1,212"
+2019,Robert Morris,579,Cornell,167,03/19/2019,98,89,Home,,1 OT,622
+2019,Robert Morris,579,Presbyterian,1320,03/24/2019,70,77,Home,,-,541
 2019,Roberts Wesleyan,30150,Nyack,1277,11/09/2018,79,69,Neutral,"Amherst, NY",-,48
 2019,Roberts Wesleyan,30150,Caldwell,995,11/10/2018,70,84,Neutral,"Amherst, NY",-,75
 2019,Roberts Wesleyan,30150,Notre Dame (OH),30126,11/13/2018,83,67,Away,,-,721
@@ -22080,6 +22291,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Roberts Wesleyan,30150,Bridgeport,74,03/01/2019,62,67,Home,,-,450
 2019,Roberts Wesleyan,30150,Mercy,407,03/03/2019,77,60,Home,,-,800
 2019,Roberts Wesleyan,30150,Bridgeport,74,03/06/2019,82,92,Away,,-,196
+2019,Roberts Wesleyan,30150,Piedmont Int'l,,03/13/2019,70,60,Neutral,"MOCC Winona Lake, IN",-,0
+2019,Roberts Wesleyan,30150,Hannibal-La Grange,,03/14/2019,63,61,Neutral,"MOCC Winona Lake, IN",-,0
 2019,Roberts Wesleyan,30150,Cedarville,30124,03/16/2019,58,64,Neutral,"MOC Center; Winona Lake, IN",-,310
 2019,Rochester (NY),581,RIT,580,11/13/2018,68,43,Away,,-,0
 2019,Rochester (NY),581,Houghton,30160,11/16/2018,73,64,Home,,-,450
@@ -22452,7 +22665,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,S.C. Aiken,11276,Francis Marion,1085,03/09/2019,98,83,Neutral,"Augusta, GA",-,"1,318"
 2019,S.C. Aiken,11276,Augusta,39,03/10/2019,86,93,Away,,-,"1,813"
 2019,S.C. Aiken,11276,Lenoir-Rhyne,1170,03/16/2019,84,71,Neutral,"Charlotte, NC",-,463
-2019,S.C. Aiken,11276,Augusta,39,03/17/2019,0,0,Neutral,"Charlotte, NC",-,0
+2019,S.C. Aiken,11276,Augusta,39,03/17/2019,89,93,Neutral,"Charlotte, NC",1 OT,528
 2019,Sacramento St.,102,Simpson (CA),,11/09/2018,76,52,Home,,-,537
 2019,Sacramento St.,102,UC Davis,108,11/20/2018,58,55,Neutral,"Sacramento, CA",-,"1,545"
 2019,Sacramento St.,102,Cal St. Fullerton,97,11/24/2018,87,82,Home,,1 OT,538
@@ -22628,6 +22841,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Saint Francis (PA),600,Bryant,81,03/06/2019,67,63,Home,,-,907
 2019,Saint Francis (PA),600,LIU Brooklyn,361,03/09/2019,72,64,Home,,-,"1,204"
 2019,Saint Francis (PA),600,Fairleigh Dickinson,222,03/12/2019,76,85,Home,,-,"2,610"
+2019,Saint Francis (PA),600,Indiana,306,03/19/2019,72,89,Away,,-,"5,431"
 2019,Saint John's (MN),602,Minn.-Morris,1226,11/12/2018,95,54,Home,,-,611
 2019,Saint John's (MN),602,Wis.-Whitewater,805,11/16/2018,72,83,Away,,-,528
 2019,Saint John's (MN),602,Wis.-Platteville,800,11/17/2018,71,55,Away,,-,450
@@ -22755,6 +22969,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Saint Louis,609,Dayton,175,03/15/2019,64,55,Neutral,"Brooklyn, NY",-,"6,857"
 2019,Saint Louis,609,Davidson,173,03/16/2019,67,44,Neutral,"Brooklyn, NY",-,"8,133"
 2019,Saint Louis,609,St. Bonaventure,596,03/17/2019,55,53,Neutral,"Brooklyn, NY",-,"8,371"
+2019,Saint Louis,609,Virginia Tech,742,03/22/2019,52,66,Neutral,"San Jose, CA",-,"12,824"
 2019,Saint Martin's,1343,Fresno Pacific,30147,11/09/2018,86,61,Neutral,"San Diego, CA",-,147
 2019,Saint Martin's,1343,Point Loma,30149,11/10/2018,81,76,Away,,-,302
 2019,Saint Martin's,1343,UC San Diego,112,11/12/2018,69,96,Away,,-,218
@@ -22786,6 +23001,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Saint Martin's,1343,Western Ore.,1446,03/08/2019,53,70,Neutral,"Bellingham, WA",-,459
 2019,Saint Martin's,1343,Concordia (CA),30199,03/15/2019,63,60,Neutral,"San Diego, CA",-,226
 2019,Saint Martin's,1343,Seattle Pacific,634,03/16/2019,67,63,Neutral,"San Diego, CA",-,323
+2019,Saint Martin's,1343,Point Loma,30149,03/18/2019,54,60,Away,,-,"1,828"
 2019,Saint Mary's (CA),610,McNeese,402,11/07/2018,87,65,Home,,-,"2,918"
 2019,Saint Mary's (CA),610,Utah Valley,30024,11/11/2018,92,63,Home,,-,"2,751"
 2019,Saint Mary's (CA),610,New Mexico St.,472,11/14/2018,73,58,Away,,-,"6,660"
@@ -22819,6 +23035,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Saint Mary's (CA),610,Gonzaga,260,03/02/2019,55,69,Home,,-,"3,500"
 2019,Saint Mary's (CA),610,San Diego,627,03/11/2019,69,62,Neutral,"Las Vegas, NV",-,"7,642"
 2019,Saint Mary's (CA),610,Gonzaga,260,03/12/2019,60,47,Neutral,"Las Vegas, NV",-,"7,771"
+2019,Saint Mary's (CA),610,Villanova,739,03/21/2019,57,61,Neutral,"Hartford, CT",-,"14,695"
 2019,Saint Mary's (MN),612,Crown (MN),30035,11/10/2018,76,71,Away,,-,186
 2019,Saint Mary's (MN),612,Wis.-La Crosse,795,11/11/2018,60,70,Away,,-,350
 2019,Saint Mary's (MN),612,Martin Luther,8597,11/17/2018,79,63,Away,,-,117
@@ -23096,6 +23313,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Sam Houston St.,624,Central Ark.,1004,03/06/2019,87,91,Home,,-,"1,167"
 2019,Sam Houston St.,624,SFA,676,03/09/2019,68,57,Away,,-,"5,464"
 2019,Sam Houston St.,624,New Orleans,474,03/15/2019,76,79,Neutral,"Katy, TX",-,"2,100"
+2019,Sam Houston St.,624,TCU,698,03/20/2019,69,82,Away,,-,"3,095"
 2019,Samford,625,North Ala.,487,11/06/2018,91,74,Home,,-,"1,383"
 2019,Samford,625,Jacksonville St.,315,11/09/2018,92,72,Home,,-,"1,443"
 2019,Samford,625,Kennesaw St.,1157,11/12/2018,74,60,Home,,-,891
@@ -23164,6 +23382,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,San Diego,627,Santa Clara,631,03/08/2019,62,45,Neutral,"Las Vegas, NV",-,"6,748"
 2019,San Diego,627,BYU,77,03/09/2019,80,57,Neutral,"Las Vegas, NV",-,"6,882"
 2019,San Diego,627,Saint Mary's (CA),610,03/11/2019,62,69,Neutral,"Las Vegas, NV",-,"7,642"
+2019,San Diego,627,Memphis,404,03/19/2019,60,74,Away,,-,"8,138"
 2019,San Diego St.,626,Ark.-Pine Bluff,2678,11/06/2018,76,60,Home,,-,"11,077"
 2019,San Diego St.,626,Texas Southern,699,11/14/2018,103,64,Home,,-,"10,507"
 2019,San Diego St.,626,Duke,193,11/19/2018,64,90,Neutral,"Lahaina, HI",-,"2,400"
@@ -23491,6 +23710,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Seattle U,1356,CSU Bakersfield,94,03/07/2019,63,57,Home,,1 OT,969
 2019,Seattle U,1356,Grand Canyon,1104,03/09/2019,83,76,Home,,1 OT,999
 2019,Seattle U,1356,Grand Canyon,1104,03/14/2019,75,84,Neutral,"Las Vegas, NV",-,"2,374"
+2019,Seattle U,1356,Presbyterian,1320,03/20/2019,68,73,Home,,-,472
 2019,Seton Hall,635,Wagner,748,11/06/2018,89,49,Home,,-,"1,655"
 2019,Seton Hall,635,Nebraska,463,11/14/2018,57,80,Away,,-,"15,713"
 2019,Seton Hall,635,Saint Louis,609,11/17/2018,64,66,Home,,-,"7,854"
@@ -23524,6 +23744,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Seton Hall,635,Georgetown,251,03/14/2019,73,57,Neutral,"New York, NY",-,"19,812"
 2019,Seton Hall,635,Marquette,387,03/15/2019,81,79,Neutral,"New York, NY",-,"19,812"
 2019,Seton Hall,635,Villanova,739,03/16/2019,72,74,Neutral,"New York, NY",-,"19,812"
+2019,Seton Hall,635,Wofford,2915,03/21/2019,68,84,Neutral,"Jacksonville, FL",-,"13,495"
 2019,Seton Hill,30063,Glenville St.,1098,11/09/2018,93,100,Neutral,"Charleston, WV",-,256
 2019,Seton Hill,30063,Charleston (WV),1013,11/10/2018,76,100,Away,,-,487
 2019,Seton Hill,30063,Alderson Broaddus,934,11/17/2018,71,88,Home,,-,0
@@ -24214,6 +24435,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,South Dakota St.,649,South Dakota,650,02/23/2019,94,89,Home,,-,"4,614"
 2019,South Dakota St.,649,Western Ill.,771,03/02/2019,86,66,Home,,-,"3,746"
 2019,South Dakota St.,649,Western Ill.,771,03/09/2019,76,79,Neutral,"Sioux Falls, SD",-,0
+2019,South Dakota St.,649,Texas,703,03/19/2019,73,79,Away,,-,"1,739"
 2019,South Fla.,651,Alabama A&M,6,11/06/2018,80,63,Home,,-,"2,213"
 2019,South Fla.,651,Austin Peay,43,11/12/2018,74,70,Home,,1 OT,"2,474"
 2019,South Fla.,651,Ohio,519,11/16/2018,73,46,Neutral,"Montego Bay, TBA",-,0
@@ -24246,6 +24468,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,South Fla.,651,Tulane,718,03/06/2019,75,70,Away,,-,"1,020"
 2019,South Fla.,651,SMU,663,03/10/2019,71,77,Home,,-,"3,548"
 2019,South Fla.,651,UConn,164,03/14/2019,73,80,Neutral,"Memphis, TN",-,0
+2019,South Fla.,651,Stony Brook,683,03/20/2019,82,79,Home,,1 OT,"1,705"
+2019,South Fla.,651,Utah Valley,30024,03/25/2019,66,57,Home,,-,"1,679"
+2019,South Fla.,651,Loyola Marymount,370,03/28/2019,56,47,Home,,-,"1,658"
+2019,South Fla.,651,DePaul,176,04/01/2019,63,61,Home,,-,"2,375"
+2019,South Fla.,651,DePaul,176,04/03/2019,96,100,Away,,1 OT,"1,704"
+2019,South Fla.,651,DePaul,176,04/05/2019,77,65,Away,,-,"1,876"
 2019,Southeast Mo. St.,654,Saint Louis,609,11/06/2018,65,75,Away,,-,"6,028"
 2019,Southeast Mo. St.,654,Bradley,72,11/10/2018,57,68,Away,,-,"5,181"
 2019,Southeast Mo. St.,654,Quincy,561,11/12/2018,102,66,Home,,-,768
@@ -24342,7 +24570,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Southeastern Okla.,1371,Okla. Baptist,30202,03/09/2019,87,68,Neutral,"Bartlesville, OK",-,556
 2019,Southeastern Okla.,1371,Southern Nazarene,30152,03/10/2019,77,80,Neutral,"Bartlesville, OK",-,601
 2019,Southeastern Okla.,1371,Northern St.,1266,03/16/2019,115,103,Neutral,"Maryville, MO",1 OT,"1,079"
-2019,Southeastern Okla.,1371,Mo. Southern St.,9012,03/17/2019,0,0,Neutral,"Maryville, MO",-,0
+2019,Southeastern Okla.,1371,Mo. Southern St.,9012,03/17/2019,83,92,Neutral,"Maryville, MO",-,"2,200"
 2019,Southern Ark.,1376,Augustana (SD),41,11/09/2018,67,75,Neutral,"Lancaster, TX",-,45
 2019,Southern Ark.,1376,Mary,30075,11/10/2018,65,59,Neutral,"Dallas, TX",-,86
 2019,Southern Ark.,1376,Southeastern Bapt.,,11/13/2018,94,55,Home,,-,899
@@ -24450,7 +24678,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Southern Ill.,659,Buffalo,86,12/15/2018,65,73,Away,,-,"5,513"
 2019,Southern Ill.,659,Winthrop,792,12/22/2018,71,79,Home,,-,"5,009"
 2019,Southern Ill.,659,Missouri St.,669,01/02/2019,75,70,Home,,-,"4,167"
-2019,Southern Ill.,659,UNI,504,01/05/2019,58,51,Away,,-,"3,783"
+2019,Southern Ill.,659,UNI,504,01/05/2019,58,51,Away,,-,"3,815"
 2019,Southern Ill.,659,Drake,189,01/08/2019,70,82,Away,,-,"2,638"
 2019,Southern Ill.,659,Valparaiso,735,01/12/2019,61,65,Home,,-,"4,671"
 2019,Southern Ill.,659,Illinois St.,299,01/15/2019,58,59,Away,,-,"4,588"
@@ -24499,7 +24727,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Southern Ind.,661,Mo.-St. Louis,436,03/07/2019,87,61,Neutral,"Edwardsville, IL",-,401
 2019,Southern Ind.,661,Bellarmine,52,03/09/2019,61,67,Neutral,"Edwardsville, IL",-,497
 2019,Southern Ind.,661,Ashland,35,03/16/2019,66,60,Neutral,"Romeoville, IL",-,0
-2019,Southern Ind.,661,Lewis,354,03/17/2019,0,0,Away,,-,0
+2019,Southern Ind.,661,Lewis,354,03/17/2019,62,61,Away,,-,857
+2019,Southern Ind.,661,Bellarmine,52,03/19/2019,76,69,Neutral,"Romeoville, IL",-,717
+2019,Southern Ind.,661,West Tex. A&M,767,03/27/2019,94,84,Neutral,"Evansville, IN",-,"7,330"
+2019,Southern Ind.,661,Point Loma,30149,03/28/2019,71,81,Neutral,"Evansville, IN",-,"5,965"
 2019,Southern Me.,662,U New England,1255,11/13/2018,114,99,Home,,-,144
 2019,Southern Me.,662,Me.-Presque Isle,30040,11/17/2018,79,58,Neutral,"Waterville, ME",-,65
 2019,Southern Me.,662,Colby,151,11/18/2018,79,115,Away,,-,375
@@ -24557,6 +24788,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Southern Miss.,664,UTSA,706,03/09/2019,81,48,Home,,-,"4,780"
 2019,Southern Miss.,664,Marshall,388,03/14/2019,82,73,Neutral,"Frisco, TX",-,"4,024"
 2019,Southern Miss.,664,Western Ky.,772,03/15/2019,59,70,Neutral,"Frisco, TX",-,0
+2019,Southern Miss.,664,Longwood,363,03/20/2019,68,90,Away,,-,"1,372"
 2019,Southern N.H.,468,NYIT,477,11/10/2018,83,65,Home,,-,546
 2019,Southern N.H.,468,Dominican (NY),8956,11/11/2018,76,74,Home,,-,514
 2019,Southern N.H.,468,Saint Michael's,613,11/14/2018,84,62,Home,,-,579
@@ -24617,7 +24849,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Southern Nazarene,30152,Henderson St.,1123,03/09/2019,84,64,Neutral,"Bartlesville, OK",-,435
 2019,Southern Nazarene,30152,Southeastern Okla.,1371,03/10/2019,80,77,Neutral,"Bartlesville, OK",-,601
 2019,Southern Nazarene,30152,St. Cloud St.,598,03/16/2019,81,61,Neutral,"Maryville, MO",-,"2,200"
-2019,Southern Nazarene,30152,Northwest Mo. St.,507,03/17/2019,0,0,Away,,-,0
+2019,Southern Nazarene,30152,Northwest Mo. St.,507,03/17/2019,59,70,Away,,-,"2,200"
 2019,Southern U.,665,Alabama,8,11/06/2018,62,82,Away,,-,"9,793"
 2019,Southern U.,665,Baylor,51,11/10/2018,53,80,Away,,-,"4,344"
 2019,Southern U.,665,Louisville,367,11/13/2018,54,104,Away,,-,"14,939"
@@ -24682,6 +24914,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Southern Utah,667,Idaho St.,294,03/13/2019,94,80,Neutral,"Boise, ID",-,0
 2019,Southern Utah,667,Northern Colo.,502,03/14/2019,83,64,Neutral,"Boise, ID",-,0
 2019,Southern Utah,667,Eastern Wash.,207,03/15/2019,61,77,Neutral,"Boise, ID",-,"2,900"
+2019,Southern Utah,667,Drake,189,03/22/2019,80,73,Home,,1 OT,"2,714"
+2019,Southern Utah,667,CSU Bakersfield,94,03/25/2019,67,70,Home,,-,"3,027"
 2019,Southern Va.,30164,McDaniel,773,11/12/2018,69,78,Away,,-,234
 2019,Southern Va.,30164,Delaware Valley,179,11/15/2018,71,86,Away,,-,210
 2019,Southern Va.,30164,Immaculata,303,11/17/2018,80,79,Away,,-,391
@@ -24991,7 +25225,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,St. Anselm,593,Stonehill,682,02/26/2019,87,63,Away,,-,444
 2019,St. Anselm,593,Southern Conn. St.,658,03/03/2019,87,97,Home,,-,557
 2019,St. Anselm,593,Molloy,437,03/16/2019,81,71,Home,,-,0
-2019,St. Anselm,593,New Haven,470,03/17/2019,0,0,Home,,-,0
+2019,St. Anselm,593,New Haven,470,03/17/2019,70,69,Home,,-,869
+2019,St. Anselm,593,St. Thomas Aquinas,1348,03/19/2019,74,49,Home,,-,"1,200"
+2019,St. Anselm,593,Nova Southeastern,24639,03/27/2019,91,81,Neutral,"Evansville, IN",-,0
+2019,St. Anselm,593,Northwest Mo. St.,507,03/28/2019,53,76,Neutral,"Evansville, IN",-,0
 2019,St. Bonaventure,596,Bucknell,83,11/07/2018,85,88,Home,,1 OT,"4,668"
 2019,St. Bonaventure,596,Jackson St.,314,11/10/2018,67,36,Home,,-,"3,797"
 2019,St. Bonaventure,596,Niagara,482,11/12/2018,72,80,Away,,-,"2,221"
@@ -25093,6 +25330,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,St. Edward's,1334,DBU,1045,03/10/2019,69,59,Neutral,"Tulsa, OK",-,550
 2019,St. Edward's,1334,Angelo St.,25,03/15/2019,82,81,Home,,-,834
 2019,St. Edward's,1334,Lubbock Christian,30177,03/16/2019,93,80,Home,,-,812
+2019,St. Edward's,1334,West Tex. A&M,767,03/19/2019,70,89,Away,,-,"3,402"
 2019,St. Elizabeth,9684,FDU-Florham,221,11/08/2018,73,65,Home,,-,584
 2019,St. Elizabeth,9684,Clarks Summit,958,11/12/2018,88,70,Home,,-,162
 2019,St. Elizabeth,9684,Delaware St.,178,11/19/2018,47,80,Away,,-,727
@@ -25151,6 +25389,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,St. Francis Brooklyn,599,Bryant,81,02/28/2019,74,66,Home,,-,428
 2019,St. Francis Brooklyn,599,Mt. St. Mary's,450,03/02/2019,71,73,Home,,-,648
 2019,St. Francis Brooklyn,599,Robert Morris,579,03/06/2019,65,69,Away,,1 OT,"1,016"
+2019,St. Francis Brooklyn,599,Hampton,270,03/21/2019,72,81,Away,,-,"3,124"
 2019,St. John Fisher,601,Messiah,411,11/16/2018,81,74,Neutral,"Virginia Beach, VA",-,54
 2019,St. John Fisher,601,Va. Wesleyan,745,11/17/2018,64,61,Away,,-,186
 2019,St. John Fisher,601,Buffalo St.,85,11/20/2018,89,94,Home,,-,197
@@ -25211,6 +25450,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,St. John's (NY),603,Xavier,812,03/09/2019,68,81,Away,,-,"10,391"
 2019,St. John's (NY),603,DePaul,176,03/13/2019,82,74,Home,,-,"19,812"
 2019,St. John's (NY),603,Marquette,387,03/14/2019,54,86,Home,,-,"19,812"
+2019,St. John's (NY),603,Arizona St.,28,03/20/2019,65,74,Neutral,"Dayton, OH",-,"11,827"
 2019,St. Joseph (CT),8687,Wm. Paterson,787,11/09/2018,79,74,Home,,-,"1,800"
 2019,St. Joseph (CT),8687,Medgar Evers,403,11/11/2018,95,82,Home,,-,0
 2019,St. Joseph (CT),8687,Green Mountain,,11/17/2018,99,78,Home,,-,500
@@ -25540,7 +25780,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,St. Thomas Aquinas,1348,Molloy,437,03/02/2019,77,75,Home,,1 OT,141
 2019,St. Thomas Aquinas,1348,Molloy,437,03/09/2019,72,73,Neutral,"Bridgeport, CT",-,277
 2019,St. Thomas Aquinas,1348,Le Moyne,349,03/16/2019,61,59,Neutral,"Manchester, NH",-,0
-2019,St. Thomas Aquinas,1348,Dominican (NY),8956,03/17/2019,0,0,Neutral,"Manchester, NH",-,0
+2019,St. Thomas Aquinas,1348,Dominican (NY),8956,03/17/2019,86,83,Neutral,"Manchester, NH",1 OT,436
+2019,St. Thomas Aquinas,1348,St. Anselm,593,03/19/2019,49,74,Away,,-,"1,200"
 2019,Stanford,674,Seattle U,1356,11/06/2018,96,74,Home,,-,"3,365"
 2019,Stanford,674,UNCW,460,11/09/2018,72,59,Away,,-,"4,356"
 2019,Stanford,674,North Carolina,457,11/12/2018,72,90,Away,,-,"19,647"
@@ -25779,7 +26020,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Stony Brook,683,Delaware,180,12/16/2018,74,68,Home,,-,"2,435"
 2019,Stony Brook,683,Hofstra,283,12/19/2018,64,71,Home,,-,"2,539"
 2019,Stony Brook,683,Quinnipiac,562,12/22/2018,76,73,Away,,-,828
-2019,Stony Brook,683,UNI,504,12/29/2018,73,63,Away,,-,"3,262"
+2019,Stony Brook,683,UNI,504,12/29/2018,73,63,Away,,-,"3,416"
 2019,Stony Brook,683,UMass Lowell,368,01/05/2019,75,63,Away,,-,652
 2019,Stony Brook,683,Binghamton,62,01/09/2019,59,46,Home,,-,"2,647"
 2019,Stony Brook,683,New Hampshire,469,01/12/2019,62,44,Home,,-,"2,817"
@@ -25797,6 +26038,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Stony Brook,683,Vermont,738,03/02/2019,50,56,Away,,-,"3,266"
 2019,Stony Brook,683,Hartford,272,03/05/2019,68,63,Away,,-,964
 2019,Stony Brook,683,Binghamton,62,03/09/2019,72,78,Home,,-,0
+2019,Stony Brook,683,South Fla.,651,03/20/2019,79,82,Away,,1 OT,"1,705"
 2019,Suffolk,684,Salve Regina,623,11/10/2018,95,59,Home,,-,150
 2019,Suffolk,684,Brandeis,73,11/14/2018,71,69,Away,,-,350
 2019,Suffolk,684,Endicott,8981,11/17/2018,62,85,Neutral,"Babson Park, MA",-,175
@@ -26174,6 +26416,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Syracuse,688,Clemson,147,03/09/2019,55,67,Away,,-,"8,620"
 2019,Syracuse,688,Pittsburgh,545,03/13/2019,73,59,Neutral,"Charlotte, NC",-,"19,691"
 2019,Syracuse,688,Duke,193,03/14/2019,72,84,Neutral,"Charlotte, NC",-,"19,691"
+2019,Syracuse,688,Baylor,51,03/21/2019,69,78,Neutral,"Salt Lake City, UT",-,"16,807"
 2019,Tampa,689,Montevallo,1238,11/10/2018,63,61,Home,,-,200
 2019,Tampa,689,Ala.-Huntsville,10,11/11/2018,63,56,Home,,-,125
 2019,Tampa,689,West Florida,11740,11/16/2018,81,63,Neutral,"Saint Leo, FL",-,126
@@ -26293,6 +26536,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,TCU,698,Texas,703,03/09/2019,69,56,Away,,-,"9,762"
 2019,TCU,698,Oklahoma St.,521,03/13/2019,73,70,Neutral,"Kansas City, MO",-,0
 2019,TCU,698,Kansas St.,327,03/14/2019,61,70,Neutral,"Kansas City, MO",-,"18,930"
+2019,TCU,698,Sam Houston St.,624,03/20/2019,82,69,Home,,-,"3,095"
+2019,TCU,698,Nebraska,463,03/24/2019,88,72,Home,,-,"3,445"
+2019,TCU,698,Creighton,169,03/26/2019,71,58,Home,,-,"3,314"
+2019,TCU,698,Texas,703,04/02/2019,44,58,Neutral,"New York, NY",-,"4,599"
 2019,Temple,690,La Salle,340,11/06/2018,75,67,Home,,-,"6,011"
 2019,Temple,690,Detroit Mercy,184,11/09/2018,83,67,Home,,-,"4,649"
 2019,Temple,690,Georgia,257,11/13/2018,81,77,Home,,-,"4,613"
@@ -26325,6 +26572,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Temple,690,UConn,164,03/07/2019,78,71,Away,,-,"7,790"
 2019,Temple,690,UCF,128,03/09/2019,67,62,Home,,-,"9,951"
 2019,Temple,690,Wichita St.,782,03/15/2019,74,80,Neutral,"Memphis, TN",-,"7,356"
+2019,Temple,690,Belmont,14927,03/19/2019,70,81,Neutral,"Dayton, OH",-,"11,784"
 2019,Tennessee,694,Lenoir-Rhyne,1170,11/06/2018,86,41,Home,,-,"16,156"
 2019,Tennessee,694,Louisiana,671,11/09/2018,87,65,Home,,-,"16,864"
 2019,Tennessee,694,Georgia Tech,255,11/13/2018,66,53,Home,,-,"16,219"
@@ -26359,6 +26607,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Tennessee,694,Mississippi St.,430,03/15/2019,83,76,Neutral,"Nashville, TN",-,"19,575"
 2019,Tennessee,694,Kentucky,334,03/16/2019,82,78,Neutral,"Nashville, TN",-,"20,933"
 2019,Tennessee,694,Auburn,37,03/17/2019,64,84,Neutral,"Nashville, TN",-,"19,452"
+2019,Tennessee,694,Colgate,153,03/22/2019,77,70,Neutral,"Columbus, OH",-,"19,641"
+2019,Tennessee,694,Iowa,312,03/24/2019,83,77,Neutral,"Columbus, OH",1 OT,"19,610"
+2019,Tennessee,694,Purdue,559,03/28/2019,94,99,Neutral,"Louisville, KY",1 OT,0
 2019,Tennessee St.,691,Lipscomb,28600,11/10/2018,79,86,Away,,-,"2,596"
 2019,Tennessee St.,691,Little Rock,32,11/13/2018,67,83,Home,,-,679
 2019,Tennessee St.,691,Carver,,11/15/2018,92,57,Home,,-,721
@@ -26573,6 +26824,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Texas,703,Texas Tech,700,03/04/2019,51,70,Away,,-,"15,098"
 2019,Texas,703,TCU,698,03/09/2019,56,69,Home,,-,"9,762"
 2019,Texas,703,Kansas,328,03/14/2019,57,65,Neutral,"Kansas City, MO",-,"18,927"
+2019,Texas,703,South Dakota St.,649,03/19/2019,79,73,Home,,-,"1,739"
+2019,Texas,703,Xavier,812,03/24/2019,78,76,Home,,1 OT,"3,204"
+2019,Texas,703,Colorado,157,03/27/2019,68,55,Home,,-,"3,982"
+2019,Texas,703,TCU,698,04/02/2019,58,44,Neutral,"New York, NY",-,"4,599"
+2019,Texas,703,Lipscomb,28600,04/04/2019,81,66,Neutral,"New York, NY",-,"4,051"
 2019,Texas A&M,697,Savannah St.,632,11/07/2018,98,83,Home,,-,"6,757"
 2019,Texas A&M,697,UC Irvine,109,11/09/2018,73,74,Home,,-,"7,689"
 2019,Texas A&M,697,Gonzaga,260,11/15/2018,71,94,Away,,-,"6,000"
@@ -26669,6 +26925,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Texas Southern,699,Southern U.,665,03/12/2019,80,70,Home,,-,"1,463"
 2019,Texas Southern,699,Alabama St.,7,03/15/2019,80,66,Neutral,"Birmingham, AL",-,"1,276"
 2019,Texas Southern,699,Prairie View,553,03/16/2019,86,92,Neutral,"Birmingham, AL",-,0
+2019,Texas Southern,699,New Orleans,474,03/20/2019,95,89,Away,,1 OT,612
+2019,Texas Southern,699,UTRGV,536,03/25/2019,94,85,Away,,-,"2,216"
+2019,Texas Southern,699,La.-Monroe,498,03/28/2019,108,102,Away,,3 OT,"6,004"
+2019,Texas Southern,699,Green Bay,794,04/02/2019,86,87,Away,,1 OT,"2,269"
 2019,Texas St.,670,Air Force,721,11/09/2018,67,57,Home,,-,"4,058"
 2019,Texas St.,670,Hardin-Simmons,271,11/13/2018,97,52,Home,,-,"1,118"
 2019,Texas St.,670,Drake,189,11/17/2018,69,75,Away,,-,"2,968"
@@ -26702,6 +26962,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Texas St.,670,UT Arlington,702,03/09/2019,73,81,Away,,-,"2,702"
 2019,Texas St.,670,South Alabama,646,03/15/2019,79,67,Neutral,"New Orleans, LA",-,0
 2019,Texas St.,670,Georgia St.,254,03/16/2019,46,59,Neutral,"New Orleans, LA",-,"1,344"
+2019,Texas St.,670,FIU,231,03/23/2019,81,87,Home,,-,"1,237"
 2019,Texas Tech,700,Incarnate Word,2743,11/06/2018,87,37,Home,,-,"10,198"
 2019,Texas Tech,700,Mississippi Val.,432,11/09/2018,84,52,Home,,-,"9,873"
 2019,Texas Tech,700,Southeastern La.,655,11/13/2018,59,40,Home,,-,"8,650"
@@ -26734,6 +26995,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Texas Tech,700,Texas,703,03/04/2019,70,51,Home,,-,"15,098"
 2019,Texas Tech,700,Iowa St.,311,03/09/2019,80,73,Away,,-,"14,384"
 2019,Texas Tech,700,West Virginia,768,03/14/2019,74,79,Neutral,"Kansas City, MO",-,0
+2019,Texas Tech,700,Northern Ky.,505,03/22/2019,72,57,Neutral,"Tulsa, OK",-,0
+2019,Texas Tech,700,Buffalo,86,03/24/2019,78,58,Neutral,"Tulsa, OK",-,0
+2019,Texas Tech,700,Michigan,418,03/28/2019,63,44,Neutral,"Anaheim, CA",-,"16,145"
+2019,Texas Tech,700,Gonzaga,260,03/30/2019,75,69,Neutral,"Anaheim, CA",-,"15,277"
+2019,Texas Tech,700,Michigan St.,416,04/06/2019,61,51,Neutral,"Minneapolis, MN",-,"72,711"
+2019,Texas Tech,700,Virginia,746,04/08/2019,77,85,Neutral,"Minneapolis, MN",1 OT,"72,062"
 2019,Texas-Dallas,23121,Hendrix,1124,11/10/2018,104,60,Home,,-,723
 2019,Texas-Dallas,23121,Southwestern (TX),8746,11/12/2018,61,76,Away,,-,160
 2019,Texas-Dallas,23121,Schreiner,1355,11/19/2018,93,56,Home,,-,240
@@ -26960,6 +27227,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Toledo,709,Western Mich.,774,03/05/2019,76,57,Home,,-,"4,233"
 2019,Toledo,709,Eastern Mich.,204,03/08/2019,64,58,Home,,-,"6,061"
 2019,Toledo,709,Northern Ill.,503,03/14/2019,76,80,Neutral,"Cleveland, OH",-,0
+2019,Toledo,709,Xavier,812,03/20/2019,64,78,Away,,-,"5,769"
 2019,Towson,711,Virginia,746,11/06/2018,42,73,Away,,-,"13,807"
 2019,Towson,711,Wesley,763,11/11/2018,93,66,Home,,-,"1,389"
 2019,Towson,711,Pepperdine,541,11/16/2018,65,74,Neutral,"Nassau, Bahamas",-,342
@@ -27391,6 +27659,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UAB,9,Middle Tenn.,419,03/13/2019,70,61,Neutral,"Frisco, TX",-,0
 2019,UAB,9,UTSA,706,03/14/2019,85,76,Neutral,"Frisco, TX",-,0
 2019,UAB,9,Old Dominion,523,03/15/2019,59,61,Neutral,"Frisco, TX",-,0
+2019,UAB,9,Brown,80,03/20/2019,78,83,Away,,-,683
 2019,UC Davis,108,San Francisco,629,11/06/2018,42,76,Home,,-,"1,891"
 2019,UC Davis,108,San Diego,627,11/09/2018,57,76,Home,,-,"2,123"
 2019,UC Davis,108,Arkansas,31,11/12/2018,58,81,Away,,-,"13,444"
@@ -27457,6 +27726,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UC Irvine,109,UC Riverside,111,03/14/2019,63,44,Neutral,"Anaheim, CA",-,0
 2019,UC Irvine,109,Long Beach St.,99,03/15/2019,75,67,Neutral,"Anaheim, CA",-,0
 2019,UC Irvine,109,Cal St. Fullerton,97,03/16/2019,92,64,Neutral,"Anaheim, CA",-,"5,867"
+2019,UC Irvine,109,Kansas St.,327,03/22/2019,70,64,Neutral,"San Jose, CA",-,"16,576"
+2019,UC Irvine,109,Oregon,529,03/24/2019,54,73,Neutral,"San Jose, CA",-,"14,802"
 2019,UC Riverside,111,Oregon St.,528,11/06/2018,59,72,Away,,-,"3,590"
 2019,UC Riverside,111,Portland St.,550,11/10/2018,64,71,Away,,-,"1,424"
 2019,UC Riverside,111,UNLV,465,11/13/2018,51,72,Away,,-,"7,327"
@@ -27639,6 +27910,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UCF,128,Cincinnati,140,03/07/2019,58,55,Home,,-,"9,141"
 2019,UCF,128,Temple,690,03/09/2019,62,67,Away,,-,"9,951"
 2019,UCF,128,Memphis,404,03/15/2019,55,79,Away,,-,"7,610"
+2019,UCF,128,VCU,740,03/22/2019,73,58,Neutral,"Columbia, SC",-,"16,219"
+2019,UCF,128,Duke,193,03/24/2019,76,77,Neutral,"Columbia, SC",-,0
 2019,UCLA,110,Purdue Fort Wayne,308,11/06/2018,96,71,Home,,-,"5,931"
 2019,UCLA,110,Long Beach St.,99,11/09/2018,91,80,Home,,-,"7,920"
 2019,UCLA,110,Saint Francis (PA),600,11/16/2018,95,58,Home,,-,"6,127"
@@ -28014,6 +28287,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UNC Greensboro,459,Samford,625,03/09/2019,77,70,Neutral,"Asheville, NC",-,0
 2019,UNC Greensboro,459,Furman,244,03/10/2019,66,62,Neutral,"Asheville, NC",-,"6,273"
 2019,UNC Greensboro,459,Wofford,2915,03/11/2019,58,70,Neutral,"Asheville, NC",-,"6,400"
+2019,UNC Greensboro,459,Campbell,115,03/19/2019,84,69,Home,,-,"4,459"
+2019,UNC Greensboro,459,Lipscomb,28600,03/23/2019,69,86,Home,,-,"4,248"
 2019,UNC Pembroke,537,Newberry,1257,11/09/2018,97,81,Neutral,"Salisbury, N.C.",-,319
 2019,UNC Pembroke,537,Catawba,1001,11/10/2018,80,75,Away,,1 OT,"1,034"
 2019,UNC Pembroke,537,Barton,15646,11/16/2018,72,77,Neutral,"Mount Olive, NC",-,0
@@ -28078,7 +28353,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UNCW,460,Col. of Charleston,1014,03/02/2019,61,70,Away,,-,"4,898"
 2019,UNCW,460,Elon,1068,03/09/2019,93,86,Neutral,"North Charleston, SC",-,"2,578"
 2019,UNCW,460,Northeastern,500,03/10/2019,59,80,Neutral,"North Charleston, SC",-,0
-2019,UNI,504,Bemidji St.,54,11/06/2018,97,51,Home,,-,"3,233"
+2019,UNI,504,Bemidji St.,54,11/06/2018,97,51,Home,,-,"3,392"
 2019,UNI,504,UT Arlington,702,11/10/2018,65,74,Away,,-,"3,789"
 2019,UNI,504,Penn,540,11/16/2018,71,78,Neutral,"St. Thomas, Vir Isl",-,0
 2019,UNI,504,Eastern Ky.,202,11/17/2018,90,85,Neutral,"St. Thomas, Vir Isl",-,"1,253"
@@ -28086,21 +28361,21 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UNI,504,Old Dominion,523,11/23/2018,65,72,Away,,-,"5,529"
 2019,UNI,504,Utah St.,731,11/28/2018,52,71,Away,,-,"5,134"
 2019,UNI,504,South Dakota St.,649,12/01/2018,50,82,Neutral,"Minneapolis, MN",-,"3,184"
-2019,UNI,504,Dubuque,192,12/08/2018,75,67,Home,,-,"3,314"
+2019,UNI,504,Dubuque,192,12/08/2018,75,67,Home,,-,"3,465"
 2019,UNI,504,Iowa,312,12/15/2018,54,77,Neutral,"Des Moines, IA",-,"12,236"
-2019,UNI,504,Grand Canyon,1104,12/19/2018,62,73,Home,,-,"3,394"
-2019,UNI,504,North Dakota,494,12/22/2018,64,62,Home,,-,"3,619"
-2019,UNI,504,Stony Brook,683,12/29/2018,63,73,Home,,-,"3,262"
+2019,UNI,504,Grand Canyon,1104,12/19/2018,62,73,Home,,-,"3,395"
+2019,UNI,504,North Dakota,494,12/22/2018,64,62,Home,,-,"3,627"
+2019,UNI,504,Stony Brook,683,12/29/2018,63,73,Home,,-,"3,416"
 2019,UNI,504,Bradley,72,01/02/2019,65,47,Away,,-,"5,252"
-2019,UNI,504,Southern Ill.,659,01/05/2019,51,58,Home,,-,"3,783"
+2019,UNI,504,Southern Ill.,659,01/05/2019,51,58,Home,,-,"3,815"
 2019,UNI,504,Illinois St.,299,01/08/2019,69,70,Away,,-,"4,107"
-2019,UNI,504,Drake,189,01/13/2019,57,54,Home,,-,"4,141"
-2019,UNI,504,Indiana St.,305,01/16/2019,69,64,Home,,-,"3,457"
+2019,UNI,504,Drake,189,01/13/2019,57,54,Home,,-,"4,361"
+2019,UNI,504,Indiana St.,305,01/16/2019,69,64,Home,,-,"3,697"
 2019,UNI,504,Valparaiso,735,01/19/2019,66,75,Away,,-,0
 2019,UNI,504,Southern Ill.,659,01/23/2019,62,70,Away,,-,"4,419"
-2019,UNI,504,Evansville,219,01/26/2019,81,74,Home,,-,"3,677"
+2019,UNI,504,Evansville,219,01/26/2019,81,74,Home,,-,"3,923"
 2019,UNI,504,Loyola Chicago,371,01/30/2019,60,61,Away,,-,"3,011"
-2019,UNI,504,Missouri St.,669,02/02/2019,64,59,Home,,-,"3,882"
+2019,UNI,504,Missouri St.,669,02/02/2019,64,59,Home,,-,"4,178"
 2019,UNI,504,Bradley,72,02/06/2019,71,79,Home,,-,"3,345"
 2019,UNI,504,Drake,189,02/09/2019,77,83,Away,,-,"5,632"
 2019,UNI,504,Illinois St.,299,02/13/2019,77,64,Home,,-,"3,364"
@@ -28467,6 +28742,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Utah St.,731,New Mexico,473,03/14/2019,91,83,Neutral,"Las Vegas, NV",-,0
 2019,Utah St.,731,Fresno St.,96,03/15/2019,85,60,Neutral,"Las Vegas, NV",-,"8,764"
 2019,Utah St.,731,San Diego St.,626,03/16/2019,64,57,Neutral,"Las Vegas, NV",-,"8,969"
+2019,Utah St.,731,Washington,756,03/22/2019,61,78,Neutral,"Columbus, OH",-,"19,426"
 2019,Utah Valley,30024,Westminster (UT),30209,11/06/2018,96,71,Home,,-,"4,327"
 2019,Utah Valley,30024,BYU,77,11/09/2018,65,75,Away,,-,"14,628"
 2019,Utah Valley,30024,Saint Mary's (CA),610,11/11/2018,63,92,Away,,-,"2,751"
@@ -28500,6 +28776,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Utah Valley,30024,CSU Bakersfield,94,03/09/2019,76,61,Home,,-,"4,167"
 2019,Utah Valley,30024,UMKC,2707,03/14/2019,71,64,Neutral,"Las Vegas, NV",-,"1,837"
 2019,Utah Valley,30024,Grand Canyon,1104,03/15/2019,74,78,Neutral,"Las Vegas, NV",-,0
+2019,Utah Valley,30024,CSUN,101,03/19/2019,92,84,Home,,-,375
+2019,Utah Valley,30024,South Fla.,651,03/25/2019,57,66,Away,,-,"1,679"
 2019,UTEP,704,Tex. Permian Basin,30088,11/06/2018,90,63,Home,,-,"4,227"
 2019,UTEP,704,New Mexico St.,472,11/09/2018,69,96,Away,,-,"6,125"
 2019,UTEP,704,Arizona,29,11/14/2018,46,79,Away,,-,"13,651"
@@ -28589,6 +28867,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,UTRGV,536,California Baptist,30135,03/07/2019,79,82,Home,,1 OT,"1,162"
 2019,UTRGV,536,CSU Bakersfield,94,03/14/2019,85,70,Neutral,"Las Vegas, NV",-,0
 2019,UTRGV,536,New Mexico St.,472,03/15/2019,72,79,Neutral,"Las Vegas, NV",-,0
+2019,UTRGV,536,Grambling,261,03/20/2019,74,73,Home,,-,"2,071"
+2019,UTRGV,536,Texas Southern,699,03/25/2019,85,94,Home,,-,"2,216"
 2019,UTSA,706,St. Edward's,1334,11/07/2018,76,77,Home,,-,"1,006"
 2019,UTSA,706,Oklahoma,522,11/12/2018,67,87,Home,,-,"2,494"
 2019,UTSA,706,Oklahoma St.,521,11/14/2018,60,82,Away,,-,"6,571"
@@ -28850,6 +29130,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,VCU,740,George Mason,248,03/05/2019,71,36,Away,,-,"6,177"
 2019,VCU,740,Saint Joseph's,606,03/08/2019,75,63,Home,,-,"7,637"
 2019,VCU,740,Rhode Island,572,03/15/2019,70,75,Neutral,"Brooklyn, NY",-,0
+2019,VCU,740,UCF,128,03/22/2019,58,73,Neutral,"Columbia, SC",-,"16,219"
 2019,Vermont,738,Boston U.,68,11/09/2018,78,72,Away,,-,"1,185"
 2019,Vermont,738,Kansas,328,11/12/2018,68,84,Away,,-,"16,300"
 2019,Vermont,738,NVU-Lyndon,30065,11/14/2018,122,56,Home,,-,"2,053"
@@ -28883,6 +29164,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Vermont,738,Maine,380,03/09/2019,73,57,Home,,-,"2,750"
 2019,Vermont,738,Binghamton,62,03/12/2019,84,51,Home,,-,"2,890"
 2019,Vermont,738,UMBC,391,03/16/2019,66,49,Home,,-,"3,070"
+2019,Vermont,738,Florida St.,234,03/21/2019,69,76,Neutral,"Hartford, CT",-,"14,838"
 2019,Villanova,739,Morgan St.,446,11/06/2018,100,77,Home,,-,"6,501"
 2019,Villanova,739,Quinnipiac,562,11/10/2018,86,53,Home,,-,"10,216"
 2019,Villanova,739,Michigan,418,11/14/2018,46,73,Home,,-,"6,501"
@@ -28917,6 +29199,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Villanova,739,Providence,556,03/14/2019,73,62,Neutral,"New York, NY",-,"19,534"
 2019,Villanova,739,Xavier,812,03/15/2019,71,67,Neutral,"New York, NY",1 OT,0
 2019,Villanova,739,Seton Hall,635,03/16/2019,74,72,Neutral,"New York, NY",-,"19,812"
+2019,Villanova,739,Saint Mary's (CA),610,03/21/2019,61,57,Neutral,"Hartford, CT",-,"14,695"
+2019,Villanova,739,Purdue,559,03/23/2019,61,87,Neutral,"Hartford, CT",-,"15,031"
 2019,Virginia,746,Towson,711,11/06/2018,73,42,Home,,-,"13,807"
 2019,Virginia,746,George Washington,249,11/11/2018,76,57,Home,,-,"13,574"
 2019,Virginia,746,Coppin St.,165,11/16/2018,97,40,Home,,-,"13,971"
@@ -28949,6 +29233,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Virginia,746,Louisville,367,03/09/2019,73,68,Home,,-,"14,629"
 2019,Virginia,746,NC State,490,03/14/2019,76,56,Neutral,"Charlotte, NC",-,"19,691"
 2019,Virginia,746,Florida St.,234,03/15/2019,59,69,Neutral,"Charlotte, NC",-,0
+2019,Virginia,746,Gardner-Webb,1092,03/22/2019,71,56,Neutral,"Columbia, SC",-,"15,417"
+2019,Virginia,746,Oklahoma,522,03/24/2019,63,51,Neutral,"Columbia, SC",-,"16,332"
+2019,Virginia,746,Oregon,529,03/28/2019,53,49,Neutral,"Louisville, KY",-,"19,831"
+2019,Virginia,746,Purdue,559,03/30/2019,80,75,Neutral,"Louisville, KY",1 OT,"21,623"
+2019,Virginia,746,Auburn,37,04/06/2019,63,62,Neutral,"Minneapolis, MN",-,0
+2019,Virginia,746,Texas Tech,700,04/08/2019,85,77,Neutral,"Minneapolis, MN",1 OT,"72,062"
 2019,Virginia St.,743,Pitt.-Johnstown,546,11/09/2018,58,59,Neutral,"Indiana, PA",-,144
 2019,Virginia St.,743,Indiana (PA),307,11/10/2018,67,70,Away,,-,"1,170"
 2019,Virginia St.,743,Wingate,1462,11/14/2018,77,70,Home,,-,"2,031"
@@ -28981,7 +29271,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Virginia St.,743,Livingstone,359,03/01/2019,75,65,Neutral,"Charlotte, NC",-,"5,101"
 2019,Virginia St.,743,Shaw,636,03/02/2019,77,66,Neutral,"Charlotte, NC",-,0
 2019,Virginia St.,743,Notre Dame (OH),30126,03/16/2019,89,81,Neutral,"Indiana, PA",-,0
-2019,Virginia St.,743,West Liberty,1438,03/17/2019,0,0,Neutral,"Indiana, PA",-,0
+2019,Virginia St.,743,West Liberty,1438,03/17/2019,80,82,Neutral,"Indiana, PA",-,0
 2019,Virginia Tech,742,Gardner-Webb,1092,11/09/2018,87,59,Home,,-,"7,736"
 2019,Virginia Tech,742,Ball St.,47,11/15/2018,73,64,Neutral,"Charleston, S.C.",-,0
 2019,Virginia Tech,742,Northeastern,500,11/16/2018,88,60,Neutral,"Charleston, SC",-,"2,752"
@@ -29014,6 +29304,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Virginia Tech,742,Miami (FL),415,03/08/2019,84,70,Home,,-,"9,275"
 2019,Virginia Tech,742,Miami (FL),415,03/13/2019,71,56,Neutral,"Charlotte, NC",-,"19,691"
 2019,Virginia Tech,742,Florida St.,234,03/14/2019,63,65,Neutral,"Charlotte, NC",1 OT,"19,691"
+2019,Virginia Tech,742,Saint Louis,609,03/22/2019,66,52,Neutral,"San Jose, CA",-,"12,824"
+2019,Virginia Tech,742,Liberty,355,03/24/2019,67,58,Neutral,"San Jose, CA",-,0
+2019,Virginia Tech,742,Duke,193,03/29/2019,73,75,Neutral,"Washington, DC",-,"20,006"
 2019,Virginia Union,744,Shippensburg,638,11/10/2018,60,65,Away,,-,486
 2019,Virginia Union,744,Lock Haven,360,11/11/2018,67,59,Neutral,"Shippensburg, PA (Heiges Field House)",-,145
 2019,Virginia Union,744,Shepherd,10870,11/13/2018,68,78,Away,,-,259
@@ -29342,6 +29635,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Washington,756,Southern California,657,03/14/2019,78,75,Neutral,"Las Vegas, NV",-,"10,556"
 2019,Washington,756,Colorado,157,03/15/2019,66,61,Neutral,"Las Vegas, NV",-,"13,955"
 2019,Washington,756,Oregon,529,03/16/2019,48,68,Neutral,"Las Vegas, NV",-,"12,877"
+2019,Washington,756,Utah St.,731,03/22/2019,78,61,Neutral,"Columbus, OH",-,"19,426"
+2019,Washington,756,North Carolina,457,03/24/2019,59,81,Neutral,"Columbus, OH",-,"19,610"
 2019,Washington Col.,753,VMI,741,11/06/2018,56,89,Away,,-,762
 2019,Washington Col.,753,Cairn,1305,11/09/2018,86,76,Away,,-,250
 2019,Washington Col.,753,Elizabethtown,211,11/13/2018,73,71,Home,,-,355
@@ -29449,7 +29744,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Wayne St. (MI),757,Ferris St.,224,02/09/2019,78,104,Away,,-,"1,344"
 2019,Wayne St. (MI),757,Wis.-Parkside,799,02/14/2019,71,70,Home,,-,531
 2019,Wayne St. (MI),757,Purdue Northwest,30222,02/16/2019,90,74,Home,,-,586
-2019,Wayne St. (MI),757,Purdue Northwest,30222,02/16/2019,7,9,Home,,-1 OT,0
 2019,Wayne St. (MI),757,Saginaw Valley,591,02/21/2019,59,72,Away,,-,234
 2019,Wayne St. (MI),757,Northwood,510,02/23/2019,77,76,Away,,-,436
 2019,Wayne St. (MI),757,Ashland,35,02/28/2019,63,70,Away,,-,979
@@ -29705,7 +29999,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,West Ala.,358,Lee,30013,03/05/2019,74,69,Home,,1 OT,619
 2019,West Ala.,358,Ala.-Huntsville,10,03/09/2019,69,82,Neutral,"Birmingham, AL",-,0
 2019,West Ala.,358,Valdosta St.,734,03/16/2019,95,87,Neutral,"Ft. Lauderdale, FL",-,834
-2019,West Ala.,358,Nova Southeastern,24639,03/17/2019,0,0,Away,,-,0
+2019,West Ala.,358,Nova Southeastern,24639,03/17/2019,80,89,Away,,-,684
 2019,West Chester,765,West Va. Wesleyan,9630,11/09/2018,72,80,Neutral,"West Liberty, PA",-,327
 2019,West Chester,765,West Liberty,1438,11/10/2018,80,94,Away,,-,"1,074"
 2019,West Chester,765,Chestnut Hill,21323,11/19/2018,107,70,Home,,-,211
@@ -29824,7 +30118,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,West Liberty,1438,Concord,1028,03/09/2019,88,84,Home,,-,"2,969"
 2019,West Liberty,1438,Notre Dame (OH),30126,03/10/2019,96,100,Neutral,"Wheeling, WV",-,"3,781"
 2019,West Liberty,1438,East Stroudsburg,197,03/16/2019,106,99,Neutral,"Indiana, PA",1 OT,605
-2019,West Liberty,1438,Virginia St.,743,03/17/2019,0,0,Neutral,"Indiana, PA",-,0
+2019,West Liberty,1438,Virginia St.,743,03/17/2019,82,80,Neutral,"Indiana, PA",-,0
+2019,West Liberty,1438,Mercyhurst,408,03/19/2019,70,82,Neutral,"Indiana, PA",-,759
 2019,West Tex. A&M,767,Drury,1057,11/02/2018,68,62,Neutral,"Orange, CA",1 OT,123
 2019,West Tex. A&M,767,Lindenwood (MO),30136,11/03/2018,65,62,Neutral,"Orange, CA",-,74
 2019,West Tex. A&M,767,Concordia (CA),30199,11/04/2018,65,57,Neutral,"Orange, CA",-,93
@@ -29861,6 +30156,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,West Tex. A&M,767,Tex. A&M-Commerce,199,03/10/2019,57,55,Neutral,"Frisco, TX",-,"1,045"
 2019,West Tex. A&M,767,N.M. Highlands,8577,03/15/2019,109,95,Home,,-,"2,189"
 2019,West Tex. A&M,767,Tex. A&M-Commerce,199,03/16/2019,77,61,Home,,-,"2,514"
+2019,West Tex. A&M,767,St. Edward's,1334,03/19/2019,89,70,Home,,-,"3,402"
+2019,West Tex. A&M,767,Southern Ind.,661,03/27/2019,84,94,Neutral,"Evansville, IN",-,"7,330"
 2019,West Va. Wesleyan,9630,West Chester,765,11/09/2018,80,72,Neutral,"West Liberty, PA",-,327
 2019,West Va. Wesleyan,9630,Kutztown,339,11/10/2018,74,72,Neutral,"West Liberty, WV",-,275
 2019,West Va. Wesleyan,9630,Ohio Valley,15207,11/15/2018,58,72,Away,,-,250
@@ -29924,6 +30221,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,West Virginia,768,Oklahoma,522,03/13/2019,72,71,Neutral,"Kansas City, MO",-,"18,858"
 2019,West Virginia,768,Texas Tech,700,03/14/2019,79,74,Neutral,"Kansas City, MO",-,0
 2019,West Virginia,768,Kansas,328,03/15/2019,74,88,Neutral,"Kansas City, MO",-,"19,066"
+2019,West Virginia,768,Grand Canyon,1104,03/20/2019,77,63,Home,,-,"5,313"
+2019,West Virginia,768,Coastal Caro.,149,03/25/2019,91,109,Home,,-,"6,775"
 2019,West Virginia St.,1439,Elizabeth City St.,210,11/09/2018,89,82,Home,,-,611
 2019,West Virginia St.,1439,Livingstone,359,11/10/2018,81,83,Home,,-,1
 2019,West Virginia St.,1439,Shepherd,10870,11/17/2018,88,80,Away,,-,345
@@ -30564,6 +30863,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Wichita St.,782,East Carolina,196,03/14/2019,73,57,Neutral,"Memphis, TN",-,"7,476"
 2019,Wichita St.,782,Temple,690,03/15/2019,80,74,Neutral,"Memphis, TN",-,"7,356"
 2019,Wichita St.,782,Cincinnati,140,03/16/2019,63,66,Neutral,"Memphis, TN",-,"7,819"
+2019,Wichita St.,782,Furman,244,03/20/2019,76,70,Away,,-,"2,102"
+2019,Wichita St.,782,Clemson,147,03/24/2019,63,55,Away,,-,"3,266"
+2019,Wichita St.,782,Indiana,306,03/26/2019,73,63,Away,,-,"10,312"
+2019,Wichita St.,782,Lipscomb,28600,04/02/2019,64,71,Neutral,"New York, NY",-,"4,599"
 2019,Widener,783,Penn St.-Brandywine,,11/08/2018,79,87,Neutral,"Glassboro, NJ",-,79
 2019,Widener,783,Rosemont,15882,11/09/2018,85,82,Neutral,"Glassboro, NJ",-,0
 2019,Widener,783,Penn St.-Berks,30044,11/16/2018,80,51,Home,,-,507
@@ -31072,8 +31375,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Wis.-Oshkosh,798,Wis.-Stevens Point,802,02/21/2019,56,76,Home,,-,900
 2019,Wis.-Oshkosh,798,Lake Forest,344,03/01/2019,86,62,Neutral,"Collegeville, MN",-,313
 2019,Wis.-Oshkosh,798,Northwestern-St.Paul,30031,03/02/2019,108,86,Neutral,"Collegeville, MN",-,289
-2019,Wis.-Oshkosh,798,Loras,364,03/08/2019,86,75,Home,,-,"1,913"
-2019,Wis.-Oshkosh,798,Guilford,1112,03/09/2019,82,79,Home,,-,"1,012"
+2019,Wis.-Oshkosh,798,Loras,364,03/08/2019,86,75,Home,,-,"1,870"
+2019,Wis.-Oshkosh,798,Guilford,1112,03/09/2019,82,79,Home,,-,"1,242"
 2019,Wis.-Oshkosh,798,Wheaton (IL),778,03/15/2019,104,85,Neutral,"Ft. Wayne, IN",-,"1,982"
 2019,Wis.-Oshkosh,798,Swarthmore,686,03/16/2019,96,82,Neutral,"Ft. Wayne, IN",-,"1,710"
 2019,Wis.-Parkside,799,Bradley,72,11/07/2018,58,74,Away,,-,"4,610"
@@ -31299,6 +31602,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Wisconsin,796,Ohio St.,518,03/10/2019,73,67,Away,,1 OT,"18,231"
 2019,Wisconsin,796,Nebraska,463,03/15/2019,66,62,Neutral,"Chicago , IL",-,"17,369"
 2019,Wisconsin,796,Michigan St.,416,03/16/2019,55,67,Neutral,"Chicago , IL",-,0
+2019,Wisconsin,796,Oregon,529,03/22/2019,54,72,Neutral,"San Jose, CA",-,"14,331"
 2019,Wittenberg,806,Goucher,1467,11/16/2018,65,51,Neutral,"Allentown, PA",-,116
 2019,Wittenberg,806,Juniata,325,11/17/2018,80,60,Neutral,"Allentown, PA",-,155
 2019,Wittenberg,806,Capital,117,11/20/2018,88,78,Neutral,"Delaware, OH",-,325
@@ -31388,6 +31692,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Wofford,2915,VMI,741,03/09/2019,99,72,Neutral,"Asheville, NC",-,0
 2019,Wofford,2915,ETSU,198,03/10/2019,81,72,Neutral,"Asheville, NC",-,0
 2019,Wofford,2915,UNC Greensboro,459,03/11/2019,70,58,Neutral,"Asheville, NC",-,"6,400"
+2019,Wofford,2915,Seton Hall,635,03/21/2019,84,68,Neutral,"Jacksonville, FL",-,"13,495"
+2019,Wofford,2915,Kentucky,334,03/23/2019,56,62,Neutral,"Jacksonville, FL",-,"14,250"
 2019,Wooster,807,Muskingum,455,11/14/2018,108,100,Home,,-,"1,567"
 2019,Wooster,807,Mt. St. Joseph,8567,11/17/2018,84,54,Home,,-,"1,623"
 2019,Wooster,807,Hanover,1115,11/20/2018,57,47,Away,,-,206
@@ -31506,6 +31812,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Wright St.,810,IUPUI,2699,03/05/2019,71,56,Home,,-,"4,936"
 2019,Wright St.,810,Green Bay,794,03/11/2019,66,54,Neutral,"Detriot, MI",-,"5,280"
 2019,Wright St.,810,Northern Ky.,505,03/12/2019,66,77,Neutral,"Detriot, MI",-,"5,612"
+2019,Wright St.,810,Clemson,147,03/19/2019,69,75,Away,,-,"1,718"
 2019,Wyoming,811,UC Santa Barbara,104,11/06/2018,66,76,Home,,-,"3,373"
 2019,Wyoming,811,Oregon St.,528,11/10/2018,64,83,Away,,-,"3,931"
 2019,Wyoming,811,Grambling,261,11/14/2018,86,78,Home,,-,"3,374"
@@ -31571,6 +31878,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Xavier,812,St. John's (NY),603,03/09/2019,81,68,Home,,-,"10,391"
 2019,Xavier,812,Creighton,169,03/14/2019,63,61,Neutral,"New York, NY",-,"19,534"
 2019,Xavier,812,Villanova,739,03/15/2019,67,71,Neutral,"New York, NY",1 OT,0
+2019,Xavier,812,Toledo,709,03/20/2019,78,64,Home,,-,"5,769"
+2019,Xavier,812,Texas,703,03/24/2019,76,78,Away,,1 OT,"3,204"
 2019,Yale,813,California,107,11/09/2018,76,59,Neutral,"Shanghai, China",-,"4,048"
 2019,Yale,813,Memphis,404,11/17/2018,102,109,Away,,2 OT,"14,656"
 2019,Yale,813,Vermont,738,11/21/2018,70,79,Away,,-,"2,582"
@@ -31600,6 +31909,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2019,Yale,813,Princeton,554,03/09/2019,81,59,Away,,-,"2,794"
 2019,Yale,813,Princeton,554,03/16/2019,83,77,Home,,-,"2,633"
 2019,Yale,813,Harvard,275,03/17/2019,97,85,Home,,-,"2,572"
+2019,Yale,813,LSU,365,03/21/2019,74,79,Neutral,"Jacksonville, FL",-,"12,429"
 2019,Yeshiva,814,FDU-Florham,221,11/11/2018,68,69,Away,,-,176
 2019,Yeshiva,814,Ramapo,564,11/14/2018,69,72,Away,,-,325
 2019,Yeshiva,814,Sarah Lawrence,30163,11/20/2018,88,91,Home,,-,811
