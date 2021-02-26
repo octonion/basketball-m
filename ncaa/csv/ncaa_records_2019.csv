@@ -32,7 +32,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,13028,Anderson (SC),16,13,0,29
 2019,25,Angelo St.,22,10,0,32
 2019,26,Anna Maria,7,18,0,25
-2019,27,Appalachian St.,11,21,0,32
+2019,27,App State,11,21,0,32
 2019,966,Arcadia,23,6,0,29
 2019,29,Arizona,17,15,0,32
 2019,28,Arizona St.,23,11,0,34
@@ -102,7 +102,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,74,Bridgeport,18,13,0,31
 2019,75,Bridgewater (VA),12,15,0,27
 2019,76,Bridgewater St.,9,18,0,27
-2019,78,Brockport,17,11,0,28
+2019,78,SUNY Brockport,17,11,0,28
 2019,79,Brooklyn,15,13,0,28
 2019,80,Brown,20,12,0,32
 2019,81,Bryant,10,20,0,30
@@ -199,7 +199,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,154,Colorado Col.,8,18,0,26
 2019,11416,Colorado Mesa,19,10,0,29
 2019,156,Colorado St.,12,20,0,32
-2019,2720,Colorado St.-Pueblo,6,22,0,28
+2019,2720,CSU Pueblo,6,22,0,28
 2019,158,Columbia,10,18,0,28
 2019,159,Columbus St.,13,16,0,29
 2019,1028,Concord,20,10,0,30
@@ -448,7 +448,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,1163,La Roche,24,3,0,27
 2019,340,La Salle,10,21,0,31
 2019,341,La Verne,1,25,0,26
-2019,498,La.-Monroe,19,16,0,35
+2019,498,ULM,19,16,0,35
 2019,342,Lafayette,10,20,0,30
 2019,1162,LaGrange,17,11,0,28
 2019,2746,Lake Erie,17,12,0,29
@@ -773,10 +773,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,587,Rutgers,14,17,0,31
 2019,588,Rutgers-Camden,2,23,0,25
 2019,589,Rutgers-Newark,16,13,0,29
-2019,11276,S.C. Aiken,27,6,0,33
+2019,11276,USC Aiken,27,6,0,33
 2019,102,Sacramento St.,15,16,0,31
 2019,590,Sacred Heart,15,17,0,32
-2019,11036,Sage Colleges,10,15,0,25
+2019,11036,Russell Sage,10,15,0,25
 2019,591,Saginaw Valley,10,18,0,28
 2019,594,Saint Augustine's,10,17,0,27
 2019,600,Saint Francis (PA),18,15,0,33
@@ -795,7 +795,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,621,Salem St.,18,10,0,28
 2019,622,Salisbury,19,9,0,28
 2019,623,Salve Regina,9,16,0,25
-2019,624,Sam Houston St.,21,12,0,33
+2019,624,Sam Houston,21,12,0,33
 2019,625,Samford,17,16,0,33
 2019,627,San Diego,21,15,0,36
 2019,626,San Diego St.,21,13,0,34
@@ -862,11 +862,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2019,596,St. Bonaventure,18,16,0,34
 2019,598,St. Cloud St.,22,9,0,31
 2019,1334,St. Edward's,31,6,0,37
-2019,9684,St. Elizabeth,13,13,0,26
+2019,9684,Saint Elizabeth,13,13,0,26
 2019,599,St. Francis Brooklyn,17,16,0,33
 2019,601,St. John Fisher,18,9,0,27
 2019,603,St. John's (NY),21,13,0,34
-2019,8687,St. Joseph (CT),16,12,0,28
+2019,8687,Saint Joseph (CT),16,12,0,28
 2019,30072,St. Joseph's (Brkln),9,17,0,26
 2019,1340,St. Joseph's (L.I.),5,20,0,25
 2019,605,St. Joseph's (ME),19,8,0,27

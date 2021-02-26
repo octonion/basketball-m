@@ -1,16 +1,16 @@
 year,team_id,team_name,wins,losses,ties,total_games
-2020,26172,A&M-Corpus Christi,14,17,0,31
+2020,26172,A&M-Corpus Christi,14,18,0,32
 2020,2,Abilene Christian,20,11,0,31
 2020,30123,Academy of Art,12,18,0,30
 2020,929,Adams St.,9,20,0,29
 2020,3,Adelphi,18,11,0,29
 2020,4,Adrian,17,12,0,29
 2020,721,Air Force,12,20,0,32
-2020,5,Akron,24,7,0,31
+2020,5,Akron,24,7,1,32
 2020,10,Alabama Huntsville,26,5,0,31
-2020,8,Alabama,16,15,0,31
-2020,6,Alabama A&M,8,21,0,29
-2020,7,Alabama St.,8,23,0,31
+2020,8,Alabama,16,15,1,32
+2020,6,Alabama A&M,8,22,0,30
+2020,7,Alabama St.,8,24,0,32
 2020,11,Alas. Anchorage,20,14,0,34
 2020,12,Alas. Fairbanks,12,18,0,30
 2020,14,Albany (NY),14,18,0,32
@@ -18,7 +18,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,2798,Albertus Magnus,22,5,0,27
 2020,15,Albion,21,5,0,26
 2020,16,Albright,16,12,0,28
-2020,17,Alcorn,15,14,0,29
+2020,17,Alcorn,15,15,0,30
 2020,934,Alderson Broaddus,9,19,0,28
 2020,18,Alfred,11,14,0,25
 2020,30170,Alfred St.,7,18,0,25
@@ -32,14 +32,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,13028,Anderson (SC),17,12,0,29
 2020,25,Angelo St.,20,8,0,28
 2020,26,Anna Maria,11,16,0,27
-2020,27,Appalachian St.,18,14,0,32
+2020,27,App State,18,15,0,33
 2020,966,Arcadia,16,11,0,27
-2020,29,Arizona,20,11,0,31
-2020,28,Arizona St.,20,11,0,31
+2020,29,Arizona,21,11,1,33
+2020,28,Arizona St.,20,11,1,32
 2020,30105,Ark.-Fort Smith,13,16,0,29
 2020,8411,Ark.-Monticello,19,14,0,33
 2020,2678,Ark.-Pine Bluff,4,26,0,30
-2020,31,Arkansas,19,12,0,31
+2020,31,Arkansas,20,12,1,33
 2020,30,Arkansas St.,16,16,0,32
 2020,947,Arkansas Tech,12,17,0,29
 2020,725,Army West Point,15,15,0,30
@@ -58,13 +58,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,30146,Azusa Pacific,25,4,0,29
 2020,45,Babson,20,7,0,27
 2020,46,Baldwin Wallace,14,12,0,26
-2020,47,Ball St.,18,13,0,31
+2020,47,Ball St.,18,13,1,32
 2020,962,Bard,0,24,0,24
 2020,49,Barry,18,10,0,28
 2020,15646,Barton,13,15,0,28
 2020,58,Baruch,19,11,0,30
 2020,50,Bates,12,13,0,25
-2020,51,Baylor,26,4,0,30
+2020,51,Baylor,26,4,1,31
 2020,26107,Becker,11,15,0,26
 2020,30197,Belhaven,10,16,0,26
 2020,52,Bellarmine,20,8,0,28
@@ -80,7 +80,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,59,Bethany (WV),4,21,0,25
 2020,30038,Bethany Lutheran,21,8,0,29
 2020,60,Bethel (MN),16,10,0,26
-2020,61,Bethune-Cookman,16,14,0,30
+2020,61,Bethune-Cookman,16,14,1,31
 2020,62,Binghamton,10,19,0,29
 2020,30220,Biola,19,12,0,31
 2020,28593,Birmingham-So.,8,19,0,27
@@ -91,18 +91,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,985,Bluefield St.,11,17,0,28
 2020,987,Bluffton,15,11,0,26
 2020,66,Boise St.,20,12,0,32
-2020,67,Boston College,13,18,0,31
-2020,68,Boston U.,20,13,0,33
+2020,67,Boston College,13,19,0,32
+2020,68,Boston U.,21,13,0,34
 2020,69,Bowdoin,8,16,0,24
 2020,70,Bowie St.,16,13,0,29
-2020,71,Bowling Green,21,10,0,31
+2020,71,Bowling Green,21,10,1,32
 2020,72,Bradley,23,11,0,34
 2020,73,Brandeis,17,8,0,25
 2020,30094,Brevard,7,20,0,27
 2020,74,Bridgeport,24,4,0,28
 2020,75,Bridgewater (VA),9,19,0,28
 2020,76,Bridgewater St.,10,15,0,25
-2020,78,Brockport,26,3,0,29
+2020,78,SUNY Brockport,26,3,0,29
 2020,79,Brooklyn,13,16,0,29
 2020,80,Brown,15,12,0,27
 2020,81,Bryant,15,17,0,32
@@ -111,7 +111,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,84,Buena Vista,18,9,0,27
 2020,86,Buffalo,20,12,0,32
 2020,85,Buffalo St.,6,16,0,22
-2020,87,Butler,22,9,0,31
+2020,87,Butler,22,9,1,32
 2020,77,BYU,24,8,0,32
 2020,88,Cabrini,9,17,0,26
 2020,1305,Cairn,18,11,0,29
@@ -120,20 +120,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,91,Cal Poly Pomona,23,7,0,30
 2020,92,Cal St. Dom. Hills,14,15,0,29
 2020,98,Cal St. East Bay,17,13,0,30
-2020,97,Cal St. Fullerton,11,20,0,31
+2020,97,Cal St. Fullerton,11,20,1,32
 2020,100,Cal State LA,13,17,0,30
 2020,30055,Cal St. Monterey Bay,10,18,0,28
 2020,93,Cal St. San B'dino,21,9,0,30
 2020,30198,Cal St. San Marcos,12,16,0,28
 2020,995,Caldwell,12,15,0,27
-2020,107,California,13,18,0,31
+2020,107,California,14,18,1,33
 2020,106,Cal U (PA),19,11,0,30
 2020,30135,California Baptist,21,10,0,31
 2020,89,Caltech,11,14,0,25
 2020,114,Calvin,15,11,0,26
 2020,996,Cameron,9,19,0,28
 2020,115,Campbell,15,16,0,31
-2020,116,Canisius,12,19,0,31
+2020,116,Canisius,12,20,0,32
 2020,117,Capital,13,13,0,26
 2020,118,Carleton,11,14,0,25
 2020,119,Carnegie Mellon,11,14,0,25
@@ -162,12 +162,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,134,Chapman,15,10,0,25
 2020,1013,Charleston (WV),25,6,0,31
 2020,48,Charleston So.,14,18,0,32
-2020,458,Charlotte,16,13,0,29
+2020,458,Charlotte,16,13,1,30
 2020,10972,Chatham,17,10,0,27
 2020,693,Chattanooga,20,13,0,33
 2020,21323,Chestnut Hill,6,22,0,28
 2020,137,Chicago,12,14,0,26
-2020,136,Chicago St.,4,25,0,29
+2020,136,Chicago St.,4,25,1,30
 2020,95,Chico St.,23,7,0,30
 2020,8875,Chowan,10,16,0,26
 2020,139,Chris. Newport,23,6,0,29
@@ -181,7 +181,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,958,Clarks Summit,3,23,0,26
 2020,146,Clarkson,8,17,0,25
 2020,20576,Clayton St.,7,20,0,27
-2020,147,Clemson,15,15,0,30
+2020,147,Clemson,16,15,1,32
 2020,148,Cleveland St.,11,21,0,32
 2020,451,CMSV,9,17,0,26
 2020,722,Coast Guard,14,14,0,28
@@ -192,14 +192,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,1014,Col. of Charleston,17,14,0,31
 2020,151,Colby,24,4,0,28
 2020,152,Colby-Sawyer,10,15,0,25
-2020,153,Colgate,25,8,0,33
+2020,153,Colgate,25,9,0,34
 2020,11403,Colo. Christian,6,23,0,29
 2020,155,Colo. Sch. of Mines,22,10,0,32
-2020,157,Colorado,21,10,0,31
+2020,157,Colorado,21,11,0,32
 2020,154,Colorado Col.,8,17,0,25
 2020,11416,Colorado Mesa,21,10,0,31
 2020,156,Colorado St.,20,12,0,32
-2020,2720,Colorado St.-Pueblo,11,17,0,28
+2020,2720,CSU Pueblo,11,17,0,28
 2020,158,Columbia,6,24,0,30
 2020,159,Columbus St.,18,13,0,31
 2020,1028,Concord,12,20,0,32
@@ -212,14 +212,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,161,Concordia-M'head,3,23,0,26
 2020,9081,Concordia-St. Paul,9,18,0,27
 2020,163,Connecticut Col.,4,20,0,24
-2020,165,Coppin St.,11,20,0,31
+2020,165,Coppin St.,11,20,1,32
 2020,167,Cornell,7,20,0,27
 2020,166,Cornell College,14,13,0,27
 2020,30111,Covenant,15,12,0,27
-2020,169,Creighton,24,7,0,31
+2020,169,Creighton,24,7,1,32
 2020,30035,Crown (MN),10,17,0,27
-2020,94,CSU Bakersfield,12,19,0,31
-2020,101,CSUN,15,17,0,32
+2020,94,CSU Bakersfield,12,19,1,32
+2020,101,CSUN,15,17,1,33
 2020,170,Curry,5,21,0,26
 2020,122,CWRU,13,12,0,25
 2020,1059,D'Youville,5,21,0,26
@@ -227,19 +227,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,1044,Dallas,12,13,0,25
 2020,172,Dartmouth,12,17,0,29
 2020,30221,Davenport,20,12,0,32
-2020,173,Davidson,16,14,0,30
+2020,173,Davidson,16,14,1,31
 2020,174,Davis & Elkins,8,20,0,28
 2020,175,Dayton,29,2,0,31
 2020,1045,DBU,21,9,0,30
 2020,30219,Dean,12,15,0,27
 2020,1050,Defiance,11,15,0,26
 2020,180,Delaware,22,11,0,33
-2020,178,Delaware St.,5,25,0,30
+2020,178,Delaware St.,6,26,0,32
 2020,179,Delaware Valley,6,18,0,24
 2020,181,Delta St.,11,18,0,29
 2020,182,Denison,11,16,0,27
 2020,183,Denver,7,24,0,31
-2020,176,DePaul,15,16,0,31
+2020,176,DePaul,16,16,1,33
 2020,177,DePauw,14,12,0,26
 2020,20,DeSales,17,9,0,26
 2020,184,Detroit Mercy,8,23,0,31
@@ -254,10 +254,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,191,Drexel,14,19,0,33
 2020,1057,Drury,20,9,0,29
 2020,192,Dubuque,14,11,0,25
-2020,193,Duke,25,6,0,31
-2020,194,Duquesne,21,9,0,30
+2020,193,Duke,25,6,1,32
+2020,194,Duquesne,21,9,1,31
 2020,195,Earlham,10,15,0,25
-2020,196,East Carolina,11,20,0,31
+2020,196,East Carolina,11,20,1,32
 2020,8965,East Central,17,13,0,30
 2020,197,East Stroudsburg,20,9,0,29
 2020,1062,East Tex. Baptist,21,8,0,29
@@ -269,7 +269,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,204,Eastern Mich.,16,16,0,32
 2020,206,Eastern N.M.,8,21,0,29
 2020,1064,Eastern Nazarene,14,13,0,27
-2020,207,Eastern Wash.,23,8,0,31
+2020,207,Eastern Wash.,23,8,1,32
 2020,208,Eckerd,10,18,0,28
 2020,1066,Edgewood,8,17,0,25
 2020,209,Edinboro,6,21,0,27
@@ -291,7 +291,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,198,ETSU,30,4,0,34
 2020,218,Eureka,16,10,0,26
 2020,219,Evansville,9,23,0,32
-2020,220,Fairfield,12,19,0,31
+2020,220,Fairfield,12,20,0,32
 2020,222,Fairleigh Dickinson,11,19,0,30
 2020,1076,Fairmont St.,23,8,0,31
 2020,27892,Farmingdale St.,14,14,0,28
@@ -304,16 +304,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,1079,Findlay,21,8,0,29
 2020,30032,Finlandia,0,20,0,20
 2020,227,Fitchburg St.,9,17,0,26
-2020,231,FIU,18,13,0,31
-2020,229,Fla. Atlantic,16,15,0,31
+2020,231,FIU,19,13,1,33
+2020,229,Fla. Atlantic,17,15,1,33
 2020,233,Fla. Southern,29,2,0,31
 2020,30092,Flagler,14,16,0,30
-2020,235,Florida,19,12,0,31
+2020,235,Florida,19,12,1,32
 2020,228,Florida A&M,12,15,0,27
-2020,234,Florida St.,26,5,0,31
+2020,234,Florida St.,26,5,1,32
 2020,230,Florida Tech,11,18,0,29
 2020,11538,Fontbonne,14,13,0,27
-2020,236,Fordham,8,22,0,30
+2020,236,Fordham,9,22,1,32
 2020,9011,Fort Hays St.,14,14,0,28
 2020,1083,Fort Lewis,13,15,0,28
 2020,237,Fort Valley St.,7,22,0,29
@@ -328,29 +328,29 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,96,Fresno St.,11,19,0,30
 2020,243,Frostburg St.,10,18,0,28
 2020,244,Furman,25,7,0,32
-2020,253,Ga. Southern,19,13,0,32
+2020,253,Ga. Southern,20,13,0,33
 2020,1097,Ga. Southwestern,10,16,0,26
 2020,245,Gallaudet,5,20,0,25
 2020,246,Gannon,14,13,0,27
 2020,1092,Gardner-Webb,16,16,0,32
 2020,30084,Geneva,14,14,0,28
 2020,1094,George Fox,8,17,0,25
-2020,248,George Mason,16,15,0,31
-2020,249,George Washington,12,19,0,31
-2020,251,Georgetown,15,16,0,31
-2020,257,Georgia,15,16,0,31
+2020,248,George Mason,17,15,1,33
+2020,249,George Washington,12,20,0,32
+2020,251,Georgetown,15,17,0,32
+2020,257,Georgia,16,16,1,33
 2020,1096,Georgia College,14,16,0,30
-2020,254,Georgia St.,19,12,0,31
+2020,254,Georgia St.,19,13,0,32
 2020,255,Georgia Tech,17,14,0,31
 2020,9004,Georgian Court,9,19,0,28
 2020,258,Gettysburg,12,14,0,26
 2020,1098,Glenville St.,14,15,0,29
 2020,8366,Goldey-Beacom,15,14,0,29
-2020,260,Gonzaga,30,2,0,32
+2020,260,Gonzaga,31,2,0,33
 2020,1099,Gordon,13,15,0,28
 2020,1467,Goucher,6,21,0,27
-2020,261,Grambling,17,14,0,31
-2020,1104,Grand Canyon,13,17,0,30
+2020,261,Grambling,17,15,0,32
+2020,1104,Grand Canyon,13,17,1,31
 2020,262,Grand Valley St.,23,7,0,30
 2020,794,Green Bay,17,16,0,33
 2020,263,Greensboro,12,15,0,27
@@ -367,11 +367,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,1115,Hanover,17,9,0,26
 2020,271,Hardin-Simmons,12,16,0,28
 2020,1116,Harding,9,19,0,28
-2020,272,Hartford,17,15,0,32
+2020,272,Hartford,18,15,0,33
 2020,273,Hartwick,14,12,0,26
 2020,275,Harvard,21,8,0,29
 2020,276,Haverford,16,10,0,26
-2020,277,Hawaii,17,13,0,30
+2020,277,Hawaii,17,13,1,31
 2020,2697,Hawaii Hilo,12,14,0,26
 2020,2696,Hawaii Pacific,10,19,0,29
 2020,278,Heidelberg,12,16,0,28
@@ -382,7 +382,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,280,Hillsdale,19,9,0,28
 2020,281,Hiram,7,19,0,26
 2020,282,Hobart,23,5,0,28
-2020,283,Hofstra,25,8,0,33
+2020,283,Hofstra,26,8,0,34
 2020,285,Holy Cross,3,29,0,32
 2020,1126,Holy Family,10,18,0,28
 2020,30175,Holy Names,8,21,0,29
@@ -391,14 +391,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,30160,Houghton,5,20,0,25
 2020,288,Houston,23,8,0,31
 2020,287,Houston Baptist,4,25,0,29
-2020,290,Howard,3,28,0,31
+2020,290,Howard,4,29,0,33
 2020,2741,Howard Payne,2,25,0,27
 2020,291,Humboldt St.,9,18,0,27
 2020,292,Hunter,10,16,0,26
 2020,1130,Huntingdon,14,14,0,28
 2020,1133,Husson,12,15,0,27
-2020,295,Idaho,8,23,0,31
-2020,294,Idaho St.,7,22,0,29
+2020,295,Idaho,8,24,0,32
+2020,294,Idaho St.,8,22,1,31
 2020,30172,IIT,12,15,0,27
 2020,300,Ill. Wesleyan,19,10,0,29
 2020,30050,Ill. Springfield,14,15,0,29
@@ -407,16 +407,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,299,Illinois St.,10,21,0,31
 2020,303,Immaculata,10,17,0,27
 2020,2743,UIW,9,22,0,31
-2020,306,Indiana,19,12,0,31
+2020,306,Indiana,20,12,1,33
 2020,307,Indiana (PA),28,2,0,30
 2020,305,Indiana St.,18,12,0,30
-2020,310,Iona,11,16,0,27
-2020,312,Iowa,20,11,0,31
-2020,311,Iowa St.,12,19,0,31
+2020,310,Iona,12,17,0,29
+2020,312,Iowa,20,11,1,32
+2020,311,Iowa St.,12,20,0,32
 2020,30173,Iowa Wesleyan,8,19,0,27
 2020,313,Ithaca,24,6,0,30
 2020,2699,IUPUI,7,25,0,32
-2020,314,Jackson St.,14,17,0,31
+2020,314,Jackson St.,15,17,0,32
 2020,316,Jacksonville,14,18,0,32
 2020,315,Jacksonville St.,13,19,0,32
 2020,317,James Madison,9,21,0,30
@@ -429,12 +429,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,323,Johnson C. Smith,20,8,0,28
 2020,325,Juniata,6,19,0,25
 2020,326,Kalamazoo,7,18,0,25
-2020,328,Kansas,28,3,0,31
-2020,327,Kansas St.,10,21,0,31
+2020,328,Kansas,28,3,1,32
+2020,327,Kansas St.,11,21,1,33
 2020,329,Kean,6,20,0,26
 2020,330,Keene St.,10,16,0,26
 2020,1157,Kennesaw St.,1,28,0,29
-2020,331,Kent St.,20,12,0,32
+2020,331,Kent St.,20,12,1,33
 2020,334,Kentucky,25,6,0,31
 2020,332,Kentucky St.,10,17,0,27
 2020,335,Kenyon,6,19,0,25
@@ -446,16 +446,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,339,Kutztown,11,17,0,28
 2020,333,Ky. Wesleyan,13,17,0,30
 2020,1163,La Roche,21,7,0,28
-2020,340,La Salle,15,15,0,30
+2020,340,La Salle,15,15,1,31
 2020,341,La Verne,2,23,0,25
-2020,498,La.-Monroe,9,20,0,29
+2020,498,ULM,9,20,0,29
 2020,342,Lafayette,19,12,0,31
 2020,1162,LaGrange,7,19,0,26
 2020,2746,Lake Erie,14,15,0,29
 2020,344,Lake Forest,13,13,0,26
 2020,345,Lake Superior St.,12,16,0,28
 2020,1164,Lakeland,13,13,0,26
-2020,346,Lamar University,16,15,0,31
+2020,346,Lamar University,17,15,1,33
 2020,30085,Lancaster Bible,14,14,0,28
 2020,1167,Lander,23,8,0,31
 2020,347,Lane,11,17,0,28
@@ -486,13 +486,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,359,Livingstone,13,17,0,30
 2020,370,LMU (CA),11,21,0,32
 2020,360,Lock Haven,12,15,0,27
-2020,99,Long Beach St.,11,21,0,32
+2020,99,Long Beach St.,11,21,1,33
 2020,363,Longwood,14,18,0,32
 2020,364,Loras,17,9,0,26
 2020,671,Louisiana,14,19,0,33
 2020,1182,Louisiana Col.,13,15,0,28
-2020,366,Louisiana Tech,22,8,0,30
-2020,367,Louisville,24,7,0,31
+2020,366,Louisiana Tech,22,8,1,31
+2020,367,Louisville,24,7,1,32
 2020,371,Loyola Chicago,21,11,0,32
 2020,369,Loyola Maryland,15,17,0,32
 2020,365,LSU,21,10,0,31
@@ -507,16 +507,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,378,Maine Maritime,4,23,0,27
 2020,30137,Malone,17,14,0,31
 2020,1192,Manchester,8,18,0,26
-2020,381,Manhattan,12,17,0,29
+2020,381,Manhattan,13,18,0,31
 2020,382,Manhattanville,16,10,0,26
 2020,384,Mansfield,6,21,0,27
 2020,1194,Maranatha Baptist,8,13,0,21
 2020,1196,Marian (WI),4,21,0,25
 2020,385,Marietta,21,7,0,28
-2020,386,Marist,7,22,0,29
-2020,387,Marquette,18,12,0,30
+2020,386,Marist,7,23,0,30
+2020,387,Marquette,18,12,1,31
 2020,1199,Mars Hill,12,20,0,32
-2020,388,Marshall,16,15,0,31
+2020,388,Marshall,17,15,1,33
 2020,8597,Martin Luther,6,20,0,26
 2020,30075,Mary,12,17,0,29
 2020,1203,Mary Hardin-Baylor,15,12,0,27
@@ -526,17 +526,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,395,Maryville (MO),5,24,0,29
 2020,396,Maryville (TN),9,18,0,27
 2020,397,Marywood,8,19,0,27
-2020,400,Massachusetts,14,17,0,31
+2020,400,Massachusetts,14,17,1,32
 2020,773,McDaniel,6,19,0,25
 2020,30138,McKendree,15,14,0,29
 2020,486,MCLA,15,11,0,26
 2020,8530,McMurry,7,18,0,25
-2020,402,McNeese,15,16,0,31
+2020,402,McNeese,15,17,0,32
 2020,379,Me.-Farmington,22,5,0,27
 2020,30040,Me.-Presque Isle,13,14,0,27
 2020,23725,Medaille,11,14,0,25
 2020,403,Medgar Evers,7,20,0,27
-2020,404,Memphis,21,10,0,31
+2020,404,Memphis,21,10,1,32
 2020,406,Mercer,17,15,0,32
 2020,724,Merchant Marine,10,17,0,27
 2020,407,Mercy,5,21,0,26
@@ -544,9 +544,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,410,Merrimack,20,11,0,31
 2020,411,Messiah,11,14,0,25
 2020,412,Methodist,18,11,0,29
-2020,415,Miami (FL),15,15,0,30
-2020,414,Miami (OH),13,19,0,32
-2020,418,Michigan,19,12,0,31
+2020,415,Miami (FL),15,16,0,31
+2020,414,Miami (OH),13,19,1,33
+2020,418,Michigan,19,12,1,32
 2020,416,Michigan St.,22,9,0,31
 2020,417,Michigan Tech,23,8,0,31
 2020,419,Middle Tenn.,8,23,0,31
@@ -559,14 +559,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,427,Minn. Duluth,22,9,0,31
 2020,27854,Minn.-Crookston,11,18,0,29
 2020,1226,Minn.-Morris,8,19,0,27
-2020,428,Minnesota,14,16,0,30
+2020,428,Minnesota,15,16,1,32
 2020,383,Minnesota St.,17,15,0,32
 2020,30125,Minot St.,10,19,0,29
 2020,16142,Misericordia,8,18,0,26
 2020,429,Mississippi Col.,8,18,0,26
 2020,430,Mississippi St.,20,11,0,31
 2020,432,Mississippi Val.,3,27,0,30
-2020,434,Missouri,15,16,0,31
+2020,434,Missouri,15,16,1,32
 2020,435,Missouri S&T,6,21,0,27
 2020,669,Missouri St.,16,17,0,33
 2020,9013,Missouri Western,18,14,0,32
@@ -575,17 +575,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,9012,Mo. Southern St.,23,8,0,31
 2020,436,Mo.-St. Louis,27,7,0,34
 2020,437,Molloy,12,17,0,29
-2020,439,Monmouth,18,13,0,31
+2020,439,Monmouth,18,13,1,32
 2020,438,Monmouth (IL),14,11,0,25
 2020,205,Mont. St. Billings,11,17,0,28
-2020,441,Montana,18,13,0,31
-2020,440,Montana St.,16,15,0,31
+2020,441,Montana,18,13,1,32
+2020,440,Montana St.,16,15,1,32
 2020,442,Montclair St.,11,14,0,25
 2020,1238,Montevallo,12,18,0,30
 2020,443,Moravian,14,12,0,26
 2020,444,Morehead St.,13,19,0,32
 2020,445,Morehouse,16,14,0,30
-2020,446,Morgan St.,15,16,0,31
+2020,446,Morgan St.,15,16,1,32
 2020,30067,Morrisville St.,16,11,0,27
 2020,30036,Mount Aloysius,14,12,0,26
 2020,1245,Mount Olive,16,13,0,29
@@ -601,16 +601,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,454,Murray St.,23,9,0,32
 2020,455,Muskingum,8,17,0,25
 2020,431,MUW,1,4,0,5
-2020,488,N.C. A&T,16,15,0,31
-2020,489,N.C. Central,17,13,0,30
+2020,488,N.C. A&T,17,15,0,32
+2020,489,N.C. Central,18,13,0,31
 2020,491,N.C. Wesleyan,13,15,0,28
 2020,8577,N.M. Highlands,18,11,0,29
 2020,726,Navy,14,16,0,30
 2020,461,Nazareth,21,7,0,28
-2020,490,NC State,19,12,0,31
+2020,490,NC State,20,12,1,33
 2020,462,Neb. Wesleyan,25,5,0,30
 2020,1156,Neb.-Kearney,16,14,0,30
-2020,463,Nebraska,7,24,0,31
+2020,463,Nebraska,7,25,0,32
 2020,1254,Neumann,8,18,0,26
 2020,466,Nevada,19,12,0,31
 2020,467,New England Col.,21,7,0,28
@@ -618,44 +618,44 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,470,New Haven,15,15,0,30
 2020,319,New Jersey City,14,14,0,28
 2020,473,New Mexico,19,14,0,33
-2020,472,New Mexico St.,25,6,0,31
+2020,472,New Mexico St.,25,6,1,32
 2020,474,New Orleans,9,21,0,30
 2020,1257,Newberry,14,16,0,30
 2020,30054,Newman,9,19,0,28
-2020,482,Niagara,11,20,0,31
-2020,483,Nicholls St.,21,10,0,31
+2020,482,Niagara,12,20,1,33
+2020,483,Nicholls St.,21,10,1,32
 2020,484,Nichols,21,9,0,30
 2020,471,NJIT,9,21,0,30
-2020,485,Norfolk St.,16,15,0,31
+2020,485,Norfolk St.,16,15,1,32
 2020,487,North Ala.,13,17,0,30
-2020,457,North Carolina,13,18,0,31
+2020,457,North Carolina,14,19,0,33
 2020,492,North Central (IL),23,5,0,28
 2020,30039,North Central (MN),6,21,0,27
-2020,494,North Dakota,15,17,0,32
-2020,493,North Dakota St.,24,8,0,32
+2020,494,North Dakota,15,18,0,33
+2020,493,North Dakota St.,25,8,0,33
 2020,2711,North Florida,21,12,0,33
 2020,30052,North Georgia,14,15,0,29
 2020,9223,North Greenville,11,19,0,30
 2020,496,North Park,4,22,0,26
-2020,497,North Texas,20,11,0,31
-2020,500,Northeastern,17,15,0,32
+2020,497,North Texas,20,11,1,32
+2020,500,Northeastern,17,16,0,33
 2020,12810,Northeastern St.,18,11,0,29
-2020,501,Northern Ariz.,16,13,0,29
-2020,502,Northern Colo.,22,9,0,31
-2020,503,Northern Ill.,18,13,0,31
-2020,505,Northern Ky.,22,9,0,31
+2020,501,Northern Ariz.,16,14,0,30
+2020,502,Northern Colo.,22,9,1,32
+2020,503,Northern Ill.,18,13,1,32
+2020,505,Northern Ky.,23,9,0,32
 2020,506,Northern Mich.,13,17,0,30
 2020,1266,Northern St.,26,6,0,32
 2020,1267,Northland,6,21,0,27
 2020,507,Northwest Mo. St.,31,1,0,32
 2020,1274,Northwest Nazarene,15,11,0,26
-2020,509,Northwestern,8,22,0,30
+2020,509,Northwestern,8,23,0,31
 2020,30178,Northwestern Okla.,10,18,0,28
-2020,508,Northwestern St.,14,15,0,29
+2020,508,Northwestern St.,15,15,1,31
 2020,30031,Northwestern-St. Paul,20,7,0,27
 2020,510,Northwood,18,13,0,31
 2020,511,Norwich,6,19,0,25
-2020,513,Notre Dame,19,12,0,31
+2020,513,Notre Dame,20,12,1,33
 2020,30126,Notre Dame (OH),9,20,0,29
 2020,30056,Notre Dame de Namur,4,26,0,30
 2020,24639,Nova Southeastern,23,6,0,29
@@ -669,24 +669,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,515,Oberlin,15,13,0,28
 2020,516,Occidental,16,8,0,24
 2020,2713,Oglethorpe,14,12,0,26
-2020,519,Ohio,17,15,0,32
+2020,519,Ohio,17,15,1,33
 2020,30119,Ohio Dominican,12,17,0,29
 2020,517,Ohio Northern,9,16,0,25
-2020,518,Ohio St.,21,10,0,31
+2020,518,Ohio St.,21,10,1,32
 2020,15207,Ohio Valley,5,23,0,28
 2020,520,Ohio Wesleyan,12,14,0,26
 2020,30202,Okla. Baptist,22,9,0,31
 2020,30179,Okla. Christian,10,18,0,28
-2020,522,Oklahoma,19,12,0,31
-2020,521,Oklahoma St.,17,14,0,31
-2020,523,Old Dominion,13,18,0,31
+2020,522,Oklahoma,19,12,1,32
+2020,521,Oklahoma St.,18,14,1,33
+2020,523,Old Dominion,13,19,0,32
 2020,524,Old Westbury,15,11,0,26
-2020,433,Ole Miss,15,16,0,31
+2020,433,Ole Miss,15,17,0,32
 2020,525,Olivet,6,20,0,26
 2020,464,Omaha,16,16,0,32
 2020,527,Oral Roberts,17,14,0,31
-2020,529,Oregon,24,7,0,31
-2020,528,Oregon St.,17,13,0,30
+2020,529,Oregon,24,7,1,32
+2020,528,Oregon St.,18,13,1,32
 2020,530,Oswego St.,19,8,0,27
 2020,531,Otterbein,8,18,0,26
 2020,1289,Ouachita Baptist,12,16,0,28
@@ -702,7 +702,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,30045,Palm Beach Atl.,21,10,0,31
 2020,540,Penn,16,11,0,27
 2020,30190,Penn College,7,19,0,26
-2020,539,Penn St.,21,10,0,31
+2020,539,Penn St.,21,10,1,32
 2020,30081,Penn St. Harrisburg,21,8,0,29
 2020,30114,Penn St.-Abington,12,13,0,25
 2020,25719,Penn St.-Altoona,16,13,0,29
@@ -716,28 +716,28 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,11839,Pitt.-Greensburg,20,6,0,26
 2020,546,Pitt.-Johnstown,22,9,0,31
 2020,1314,Pittsburg St.,12,18,0,30
-2020,545,Pittsburgh,15,16,0,31
+2020,545,Pittsburgh,16,17,0,33
 2020,547,Plattsburgh St.,8,17,0,25
 2020,548,Plymouth St.,16,11,0,27
 2020,30149,Point Loma,24,6,0,30
 2020,549,Pomona-Pitzer,23,5,0,28
 2020,551,Portland,9,23,0,32
-2020,550,Portland St.,18,14,0,32
+2020,550,Portland St.,18,14,1,33
 2020,1318,Post,18,10,0,28
-2020,553,Prairie View,18,13,0,31
+2020,553,Prairie View,19,13,0,32
 2020,1320,Presbyterian,10,22,0,32
 2020,554,Princeton,14,13,0,27
 2020,555,Principia,5,20,0,25
-2020,556,Providence,19,12,0,31
+2020,556,Providence,19,12,1,32
 2020,557,Puget Sound,12,15,0,27
 2020,30029,Purchase,18,11,0,29
-2020,559,Purdue,16,15,0,31
+2020,559,Purdue,16,15,1,32
 2020,308,Purdue Fort Wayne,14,19,0,33
 2020,30222,Purdue Northwest,10,19,0,29
 2020,11504,Queens (NC),24,7,0,31
 2020,560,Queens (NY),8,19,0,27
 2020,561,Quincy,14,16,0,30
-2020,562,Quinnipiac,15,15,0,30
+2020,562,Quinnipiac,15,15,1,31
 2020,563,Radford,21,11,0,32
 2020,564,Ramapo,15,11,0,26
 2020,566,Randolph,7,19,0,26
@@ -749,14 +749,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,572,Rhode Island,21,9,0,30
 2020,571,Rhode Island Col.,16,10,0,26
 2020,573,Rhodes,5,22,0,27
-2020,574,Rice,15,16,0,31
+2020,574,Rice,15,17,0,32
 2020,575,Richmond,24,7,0,31
-2020,576,Rider,18,12,0,30
+2020,576,Rider,18,12,1,31
 2020,577,Ripon,21,8,0,29
 2020,580,RIT,9,16,0,25
 2020,18422,Rivier,4,20,0,24
 2020,578,Roanoke,17,10,0,27
-2020,579,Robert Morris,19,14,0,33
+2020,579,Robert Morris,20,14,0,34
 2020,30150,Roberts Wesleyan,7,20,0,27
 2020,581,Rochester (NY),16,9,0,25
 2020,582,Rockford,11,15,0,26
@@ -767,32 +767,32 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,585,Rose-Hulman,15,13,0,28
 2020,15882,Rosemont,10,17,0,27
 2020,259,Rowan,15,12,0,27
-2020,587,Rutgers,20,11,0,31
+2020,587,Rutgers,20,11,1,32
 2020,588,Rutgers-Camden,7,18,0,25
 2020,589,Rutgers-Newark,18,13,0,31
-2020,11276,S.C. Aiken,17,14,0,31
-2020,102,Sacramento St.,15,14,0,29
+2020,11276,USC Aiken,17,14,0,31
+2020,102,Sacramento St.,16,14,1,31
 2020,590,Sacred Heart,20,13,0,33
-2020,11036,Sage Colleges,15,11,0,26
+2020,11036,Russell Sage,15,11,0,26
 2020,591,Saginaw Valley,16,13,0,29
 2020,594,Saint Augustine's,12,18,0,30
-2020,600,Saint Francis (PA),22,9,0,31
+2020,600,Saint Francis (PA),22,10,0,32
 2020,602,Saint John's (MN),27,2,0,29
-2020,606,Saint Joseph's,6,25,0,31
+2020,606,Saint Joseph's,6,26,0,32
 2020,608,Saint Leo,16,13,0,29
 2020,609,Saint Louis,23,8,0,31
 2020,1343,Saint Martin's,6,23,0,29
-2020,610,Saint Mary's (CA),26,7,0,33
+2020,610,Saint Mary's (CA),26,8,0,34
 2020,612,Saint Mary's (MN),14,13,0,27
 2020,613,Saint Michael's,7,19,0,26
-2020,617,Saint Peter's,17,12,0,29
+2020,617,Saint Peter's,18,12,0,30
 2020,1347,Saint Rose,6,22,0,28
 2020,30064,Saint Vincent,13,14,0,27
 2020,19117,Salem (WV),18,8,0,26
 2020,621,Salem St.,6,21,0,27
 2020,622,Salisbury,10,16,0,26
 2020,623,Salve Regina,12,14,0,26
-2020,624,Sam Houston St.,18,13,0,31
+2020,624,Sam Houston,18,13,1,32
 2020,625,Samford,10,23,0,33
 2020,627,San Diego,9,23,0,32
 2020,626,San Diego St.,30,2,0,32
@@ -805,8 +805,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,1355,Schreiner,11,18,0,29
 2020,633,Scranton,19,8,0,27
 2020,634,Seattle Pacific,22,7,0,29
-2020,1356,Seattle U,14,15,0,29
-2020,635,Seton Hall,21,9,0,30
+2020,1356,Seattle U,14,15,1,30
+2020,635,Seton Hall,21,9,1,31
 2020,30063,Seton Hill,4,22,0,26
 2020,652,Sewanee,12,14,0,26
 2020,676,SFA,28,3,0,31
@@ -815,27 +815,27 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,10870,Shepherd,14,15,0,29
 2020,638,Shippensburg,24,7,0,31
 2020,30151,Shorter,3,26,0,29
-2020,639,Siena,19,10,0,29
+2020,639,Siena,20,10,0,30
 2020,30127,Simon Fraser,16,13,0,29
 2020,641,Simpson,14,15,0,29
 2020,30128,Sioux Falls,22,8,0,30
 2020,660,SIUE,8,23,0,31
 2020,642,Skidmore,7,18,0,25
 2020,643,Slippery Rock,15,14,0,29
-2020,663,SMU,19,11,0,30
+2020,663,SMU,19,11,1,31
 2020,645,Sonoma St.,5,24,0,29
 2020,646,South Alabama,20,11,0,31
-2020,648,South Carolina,18,13,0,31
-2020,647,South Carolina St.,11,17,0,28
+2020,648,South Carolina,18,13,1,32
+2020,647,South Carolina St.,11,18,0,29
 2020,650,South Dakota,20,12,0,32
 2020,30139,South Dakota Mines,17,13,0,30
 2020,649,South Dakota St.,22,10,0,32
-2020,651,South Fla.,14,17,0,31
+2020,651,South Fla.,14,17,1,32
 2020,654,Southeast Mo. St.,7,24,0,31
 2020,655,Southeastern La.,8,23,0,31
 2020,1371,Southeastern Okla.,23,8,0,31
 2020,1376,Southern Ark.,13,16,0,29
-2020,657,Southern California,22,9,0,31
+2020,657,Southern California,22,9,1,32
 2020,658,Southern Conn. St.,16,11,0,27
 2020,659,Southern Ill.,16,16,0,32
 2020,661,Southern Ind.,22,8,0,30
@@ -843,8 +843,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,664,Southern Miss.,9,22,0,31
 2020,468,Southern N.H.,16,12,0,28
 2020,30152,Southern Nazarene,24,8,0,32
-2020,665,Southern U.,16,15,0,31
-2020,667,Southern Utah,16,15,0,31
+2020,665,Southern U.,17,15,0,32
+2020,667,Southern Utah,17,15,1,33
 2020,30164,Southern Va.,1,25,0,26
 2020,30192,Southern Wesleyan,20,12,0,32
 2020,2755,Southwest Baptist,20,10,0,30
@@ -855,14 +855,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,30191,Spring Hill,8,23,0,31
 2020,673,Springfield,23,5,0,28
 2020,593,St. Anselm,21,8,0,29
-2020,596,St. Bonaventure,19,12,0,31
+2020,596,St. Bonaventure,19,12,1,32
 2020,598,St. Cloud St.,14,15,0,29
 2020,1334,St. Edward's,27,4,0,31
-2020,9684,St. Elizabeth,12,13,0,25
+2020,9684,Saint Elizabeth,12,13,0,25
 2020,599,St. Francis Brooklyn,13,18,0,31
 2020,601,St. John Fisher,19,9,0,28
-2020,603,St. John's (NY),16,15,0,31
-2020,8687,St. Joseph (CT),26,3,0,29
+2020,603,St. John's (NY),17,15,1,33
+2020,8687,Saint Joseph (CT),26,3,0,29
 2020,30072,St. Joseph's (Brkln),8,17,0,25
 2020,1340,St. Joseph's (L.I.),7,17,0,24
 2020,605,St. Joseph's (ME),12,14,0,26
@@ -874,7 +874,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,618,St. Scholastica,15,13,0,28
 2020,620,St. Thomas (MN),26,3,0,29
 2020,1348,St. Thomas Aquinas,25,5,0,30
-2020,674,Stanford,20,11,0,31
+2020,674,Stanford,20,12,0,32
 2020,103,Stanislaus St.,15,15,0,30
 2020,675,Staten Island,10,16,0,26
 2020,678,Stetson,16,17,0,33
@@ -882,12 +882,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,21852,Stevenson,6,19,0,25
 2020,681,Stockton,18,9,0,27
 2020,682,Stonehill,18,11,0,29
-2020,683,Stony Brook,20,12,0,32
+2020,683,Stony Brook,20,13,0,33
 2020,684,Suffolk,14,12,0,26
 2020,1390,Sul Ross St.,18,11,0,29
 2020,30165,SUNY Canton,16,12,0,28
 2020,168,SUNY Cortland,17,10,0,27
-2020,30225,SUNY Delhi,19,7,0,26
+2020,30225,SUNY Delhi,20,7,0,27
 2020,247,SUNY Geneseo,9,17,0,26
 2020,478,SUNY Maritime,10,15,0,25
 2020,475,SUNY New Paltz,7,18,0,25
@@ -896,32 +896,32 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,552,SUNY Potsdam,20,7,0,27
 2020,685,Susquehanna,21,8,0,29
 2020,686,Swarthmore,28,1,0,29
-2020,688,Syracuse,17,14,0,31
+2020,688,Syracuse,18,14,1,33
 2020,689,Tampa,7,22,0,29
 2020,1395,Tarleton St.,19,12,0,31
 2020,712,TCNJ,20,9,0,29
-2020,698,TCU,16,15,0,31
-2020,690,Temple,14,17,0,31
-2020,694,Tennessee,17,14,0,31
+2020,698,TCU,16,16,0,32
+2020,690,Temple,14,17,1,32
+2020,694,Tennessee,17,14,1,32
 2020,691,Tennessee St.,18,15,0,33
 2020,692,Tennessee Tech,9,22,0,31
 2020,30090,Tex. A&M Int'l,3,26,0,29
 2020,199,Tex. A&M-Commerce,18,12,0,30
 2020,696,Tex. A&M-Kingsville,21,9,0,30
 2020,30088,Tex. Permian Basin,16,18,0,34
-2020,703,Texas,19,12,0,31
-2020,697,Texas A&M,16,14,0,30
+2020,703,Texas,19,12,1,32
+2020,697,Texas A&M,16,14,1,31
 2020,1400,Texas Lutheran,16,14,0,30
-2020,699,Texas Southern,15,16,0,31
-2020,670,Texas St.,20,11,0,31
-2020,700,Texas Tech,18,13,0,31
+2020,699,Texas Southern,16,16,0,32
+2020,670,Texas St.,21,11,0,32
+2020,700,Texas Tech,18,13,1,32
 2020,23121,Texas-Dallas,22,8,0,30
 2020,30028,Texas-Tyler,8,19,0,27
 2020,141,The Citadel,6,24,0,30
 2020,707,Thiel,6,19,0,25
 2020,2758,Thomas (ME),14,13,0,27
 2020,1403,Tiffin,8,21,0,29
-2020,709,Toledo,17,15,0,32
+2020,709,Toledo,17,15,1,33
 2020,711,Towson,19,13,0,32
 2020,28749,Transylvania,19,9,0,28
 2020,30002,Trevecca Nazarene,6,21,0,27
@@ -931,30 +931,30 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,716,Troy,9,22,0,31
 2020,499,Truman,23,8,0,31
 2020,717,Tufts,23,6,0,29
-2020,718,Tulane,12,18,0,30
+2020,718,Tulane,12,18,1,31
 2020,719,Tulsa,21,10,0,31
 2020,12830,Tusculum,19,13,0,32
 2020,720,Tuskegee,17,10,0,27
 2020,1255,U New England,13,12,0,25
-2020,9,UAB,18,13,0,31
-2020,108,UC Davis,14,18,0,32
-2020,109,UC Irvine,21,11,0,32
-2020,111,UC Riverside,17,15,0,32
+2020,9,UAB,19,13,1,33
+2020,108,UC Davis,14,18,1,33
+2020,109,UC Irvine,21,11,1,33
+2020,111,UC Riverside,17,15,1,33
 2020,112,UC San Diego,30,1,0,31
-2020,104,UC Santa Barbara,21,10,0,31
+2020,104,UC Santa Barbara,21,10,1,32
 2020,113,UC Santa Cruz,9,17,0,26
 2020,9754,UC-Colo. Springs,17,11,0,28
-2020,128,UCF,16,14,0,30
-2020,110,UCLA,19,12,0,31
-2020,164,UConn,19,12,0,31
-2020,302,UIC,18,16,0,34
+2020,128,UCF,16,14,1,31
+2020,110,UCLA,19,12,1,32
+2020,164,UConn,19,12,1,32
+2020,302,UIC,18,17,0,35
 2020,309,UIndy,24,6,0,30
 2020,401,UMass Boston,17,12,0,29
 2020,656,UMass Dartmouth,16,11,0,27
 2020,368,UMass Lowell,13,19,0,32
-2020,391,UMBC,16,16,0,32
-2020,393,UMES,5,26,0,31
-2020,2707,Kansas City,16,14,0,30
+2020,391,UMBC,16,17,0,33
+2020,393,UMES,5,27,0,32
+2020,2707,Kansas City,16,14,1,31
 2020,456,UNC Asheville,15,16,0,31
 2020,459,UNC Greensboro,23,9,0,32
 2020,537,UNC Pembroke,24,6,0,30
@@ -970,44 +970,44 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,28594,USciences,6,20,0,26
 2020,702,UT Arlington,14,18,0,32
 2020,695,UT Martin,9,20,0,29
-2020,732,Utah,16,14,0,30
+2020,732,Utah,16,15,0,31
 2020,731,Utah St.,26,8,0,34
-2020,30024,Utah Valley,11,19,0,30
-2020,704,UTEP,17,14,0,31
+2020,30024,Utah Valley,11,19,1,31
+2020,704,UTEP,17,15,0,32
 2020,733,Utica,18,8,0,26
-2020,536,UTRGV,14,16,0,30
-2020,706,UTSA,13,18,0,31
+2020,536,UTRGV,14,16,1,31
+2020,706,UTSA,13,19,0,32
 2020,30181,UVa-Wise,6,23,0,29
 2020,745,Va. Wesleyan,23,5,0,28
 2020,734,Valdosta St.,26,4,0,30
 2020,30166,Valley Forge,12,12,0,24
 2020,735,Valparaiso,19,16,0,35
-2020,736,Vanderbilt,11,20,0,31
+2020,736,Vanderbilt,11,21,0,32
 2020,737,Vassar,11,15,0,26
-2020,740,VCU,18,13,0,31
-2020,738,Vermont,25,7,0,32
-2020,739,Villanova,24,7,0,31
-2020,746,Virginia,23,7,0,30
+2020,740,VCU,18,13,1,32
+2020,738,Vermont,26,7,0,33
+2020,739,Villanova,24,7,1,32
+2020,746,Virginia,23,7,1,31
 2020,743,Virginia St.,19,9,0,28
-2020,742,Virginia Tech,16,15,0,31
+2020,742,Virginia Tech,16,16,0,32
 2020,744,Virginia Union,18,11,0,29
 2020,741,VMI,9,24,0,33
 2020,747,Wabash,17,9,0,26
 2020,748,Wagner,8,21,0,29
-2020,749,Wake Forest,13,17,0,30
+2020,749,Wake Forest,13,18,0,31
 2020,30141,Walsh,25,6,0,31
 2020,750,Wartburg,12,15,0,27
 2020,751,Wash. & Jeff.,14,12,0,26
 2020,752,Wash. & Lee,20,6,0,26
 2020,2814,Washburn,16,13,0,29
-2020,756,Washington,15,16,0,31
+2020,756,Washington,15,17,0,32
 2020,753,Washington Col.,10,17,0,27
-2020,754,Washington St.,15,16,0,31
+2020,754,Washington St.,16,16,1,33
 2020,755,WashU,22,5,0,27
 2020,757,Wayne St. (MI),7,17,0,24
 2020,1433,Wayne St. (NE),10,22,0,32
 2020,1434,Waynesburg,6,20,0,26
-2020,758,Weber St.,12,19,0,31
+2020,758,Weber St.,12,20,0,32
 2020,759,Webster,19,9,0,28
 2020,761,Wells,5,20,0,25
 2020,762,Wentworth,16,11,0,27
@@ -1020,12 +1020,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,1438,West Liberty,27,4,0,31
 2020,767,West Tex. A&M,32,1,0,33
 2020,9630,West Va. Wesleyan,12,18,0,30
-2020,768,West Virginia,21,10,0,31
+2020,768,West Virginia,21,10,1,32
 2020,1439,West Virginia St.,19,10,0,29
 2020,769,Western Caro.,19,12,0,31
 2020,770,Western Conn. St.,20,8,0,28
 2020,771,Western Ill.,5,21,0,26
-2020,772,Western Ky.,20,10,0,30
+2020,772,Western Ky.,20,10,1,31
 2020,774,Western Mich.,13,19,0,32
 2020,1445,Western N.M.,8,21,0,29
 2020,775,Western New Eng.,15,11,0,26
@@ -1077,7 +1077,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2020,808,WPI,20,8,0,28
 2020,810,Wright St.,25,7,0,32
 2020,811,Wyoming,9,24,0,33
-2020,812,Xavier,19,12,0,31
+2020,812,Xavier,19,13,0,32
 2020,813,Yale,23,7,0,30
 2020,814,Yeshiva,29,1,0,30
 2020,2730,York (NY),8,18,0,26

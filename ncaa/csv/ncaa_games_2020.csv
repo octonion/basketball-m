@@ -30,6 +30,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,A&M-Corpus Christi,26172,Incarnate Word,2743,02/29/2020,78,70,Home,,-,"2,678"
 2020,A&M-Corpus Christi,26172,Sam Houston St.,624,03/04/2020,74,60,Home,,-,"1,202"
 2020,A&M-Corpus Christi,26172,Houston Baptist,287,03/07/2020,84,78,Home,,-,"1,637"
+2020,A&M-Corpus Christi,26172,Northwestern St.,508,03/11/2020,62,79,Neutral,"Katy, TX",-,0
 2020,Abilene Christian,2,Arlington Baptist,,11/05/2019,90,39,Home,,-,"1,439"
 2020,Abilene Christian,2,Drexel,191,11/10/2019,83,86,Away,,1 OT,795
 2020,Abilene Christian,2,Pepperdine,541,11/16/2019,69,73,Home,,-,"2,553"
@@ -241,6 +242,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Akron,5,Buffalo,86,02/29/2020,86,73,Away,,-,"5,870"
 2020,Akron,5,Ohio,519,03/03/2020,74,67,Home,,-,"3,825"
 2020,Akron,5,Kent St.,331,03/06/2020,79,76,Home,,-,"5,500"
+2020,Akron,5,Ohio,519,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Ala.-Huntsville,10,Saint Leo,608,11/09/2019,56,48,Neutral,"Montevallo, AL",-,311
 2020,Ala.-Huntsville,10,Tampa,689,11/10/2019,75,68,Neutral,"Montevallo, AL",-,343
 2020,Ala.-Huntsville,10,Clark Atlanta,144,11/19/2019,74,71,Away,,-,533
@@ -303,6 +305,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Alabama,8,South Carolina,648,02/29/2020,90,86,Home,,-,"11,112"
 2020,Alabama,8,Vanderbilt,736,03/03/2020,79,87,Home,,-,"9,071"
 2020,Alabama,8,Missouri,434,03/07/2020,50,69,Away,,-,"10,047"
+2020,Alabama,8,Tennessee,694,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Alabama A&M,6,Tennessee St.,691,11/05/2019,66,106,Away,,-,"5,638"
 2020,Alabama A&M,6,UAB,9,11/11/2019,52,74,Away,,-,"2,880"
 2020,Alabama A&M,6,Cincinnati,140,11/14/2019,53,85,Away,,-,"9,830"
@@ -332,6 +335,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Alabama A&M,6,Prairie View,553,03/02/2020,62,73,Away,,-,796
 2020,Alabama A&M,6,Grambling,261,03/05/2020,58,57,Home,,-,936
 2020,Alabama A&M,6,Jackson St.,314,03/07/2020,51,54,Home,,-,"1,291"
+2020,Alabama A&M,6,Prairie View,553,03/10/2020,60,82,Away,,-,789
 2020,Alabama St.,7,Gonzaga,260,11/05/2019,64,95,Away,,-,"6,000"
 2020,Alabama St.,7,Missouri St.,669,11/10/2019,50,59,Away,,-,"3,639"
 2020,Alabama St.,7,Houston,288,11/12/2019,56,84,Away,,-,"6,430"
@@ -363,6 +367,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Alabama St.,7,Texas Southern,699,03/02/2020,73,78,Away,,-,"1,019"
 2020,Alabama St.,7,Jackson St.,314,03/05/2020,59,71,Home,,-,"1,289"
 2020,Alabama St.,7,Grambling,261,03/07/2020,58,70,Home,,-,"2,091"
+2020,Alabama St.,7,Southern U.,665,03/10/2020,53,67,Away,,-,"4,758"
 2020,Alas. Anchorage,11,Portland Bible,,11/02/2019,80,34,Home,,-,880
 2020,Alas. Anchorage,11,Coast Guard,722,11/08/2019,88,78,Home,,-,"5,117"
 2020,Alas. Anchorage,11,Hawaii Pacific,2696,11/09/2019,77,48,Home,,-,"1,159"
@@ -600,6 +605,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Alcorn,17,Southern U.,665,02/29/2020,57,71,Home,,-,453
 2020,Alcorn,17,Prairie View,553,03/05/2020,80,71,Home,,-,395
 2020,Alcorn,17,Texas Southern,699,03/07/2020,90,75,Home,,-,265
+2020,Alcorn,17,Jackson St.,314,03/10/2020,52,69,Away,,-,"1,576"
 2020,Alderson Broaddus,934,Grand Valley St.,262,11/09/2019,56,69,Away,,-,665
 2020,Alderson Broaddus,934,Ferris St.,224,11/10/2019,73,77,Away,,-,0
 2020,Alderson Broaddus,934,Seton Hill,30063,11/16/2019,76,83,Home,,-,619
@@ -985,6 +991,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Appalachian St.,27,Coastal Caro.,149,02/29/2020,77,84,Home,,-,"3,027"
 2020,Appalachian St.,27,La.-Monroe,498,03/03/2020,61,57,Away,,-,"1,677"
 2020,Appalachian St.,27,Coastal Caro.,149,03/09/2020,70,65,Home,,-,"1,053"
+2020,Appalachian St.,27,Texas St.,670,03/11/2020,68,85,Away,,-,"6,308"
 2020,Arcadia,966,Rutgers-Camden,588,11/09/2019,71,68,Home,,1 OT,447
 2020,Arcadia,966,Salisbury,622,11/10/2019,76,72,Home,,-,0
 2020,Arcadia,966,Susquehanna,685,11/12/2019,75,65,Away,,-,350
@@ -1043,6 +1050,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Arizona,29,UCLA,110,02/29/2020,64,69,Away,,-,"11,567"
 2020,Arizona,29,Washington St.,754,03/05/2020,83,62,Home,,-,"13,052"
 2020,Arizona,29,Washington,756,03/07/2020,63,69,Home,,-,"13,604"
+2020,Arizona,29,Washington,756,03/11/2020,77,70,Neutral,"Las Vegas, NV",-,"8,048"
+2020,Arizona,29,Southern California,657,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Arizona St.,28,Colorado,157,11/08/2019,71,81,Neutral,"Shanghai, China, TBA",-,"4,328"
 2020,Arizona St.,28,Central Conn. St.,127,11/14/2019,90,49,Home,,-,"7,496"
 2020,Arizona St.,28,Rider,576,11/17/2019,92,55,Home,,-,"7,472"
@@ -1074,6 +1083,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Arizona St.,28,Southern California,657,02/29/2020,61,71,Away,,-,"4,786"
 2020,Arizona St.,28,Washington,756,03/05/2020,83,90,Home,,-,"9,829"
 2020,Arizona St.,28,Washington St.,754,03/07/2020,83,74,Home,,-,"8,829"
+2020,Arizona St.,28,Washington St.,754,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Ark.-Fort Smith,30105,Black Hills St.,30134,11/09/2019,79,76,Home,,-,402
 2020,Ark.-Fort Smith,30105,MSU Denver,413,11/10/2019,83,66,Home,,-,278
 2020,Ark.-Fort Smith,30105,Central Baptist,,11/13/2019,72,70,Home,,-,123
@@ -1197,6 +1207,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Arkansas,31,Georgia,257,02/29/2020,89,99,Away,,-,"10,017"
 2020,Arkansas,31,LSU,365,03/04/2020,99,90,Home,,-,"15,169"
 2020,Arkansas,31,Texas A&M,697,03/07/2020,69,77,Away,,-,"8,443"
+2020,Arkansas,31,Vanderbilt,736,03/11/2020,86,73,Neutral,"Nashville, TN",-,0
+2020,Arkansas,31,South Carolina,648,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Arkansas St.,30,Ark.-Monticello,8411,11/06/2019,65,49,Home,,-,"1,397"
 2020,Arkansas St.,30,Ole Miss,433,11/08/2019,43,71,Away,,-,"8,009"
 2020,Arkansas St.,30,VMI,741,11/14/2019,71,56,Home,,-,"1,104"
@@ -1741,6 +1753,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Ball St.,47,Toledo,709,02/29/2020,63,69,Away,,-,"5,843"
 2020,Ball St.,47,Central Mich.,129,03/03/2020,85,68,Home,,-,"4,008"
 2020,Ball St.,47,Northern Ill.,503,03/06/2020,75,54,Away,,-,"1,749"
+2020,Ball St.,47,Kent St.,331,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Bard,962,Becker,26107,11/08/2019,67,72,Home,,1 OT,115
 2020,Bard,962,Trinity (CT),713,11/15/2019,74,93,Neutral,"Dartmouth, MA",-,150
 2020,Bard,962,Husson,1133,11/16/2019,68,80,Neutral,"Dartmouth, MA",-,50
@@ -1906,6 +1919,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Baylor,51,TCU,698,02/29/2020,72,75,Away,,-,"6,549"
 2020,Baylor,51,Texas Tech,700,03/02/2020,71,68,Home,,1 OT,"8,953"
 2020,Baylor,51,West Virginia,768,03/07/2020,64,76,Away,,-,"14,014"
+2020,Baylor,51,Kansas St.,327,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Becker,26107,Bard,962,11/08/2019,72,67,Away,,1 OT,115
 2020,Becker,26107,Western New Eng.,775,11/12/2019,67,79,Away,,-,300
 2020,Becker,26107,McDaniel,773,11/15/2019,56,53,Neutral,"Owings Mills, MD",-,0
@@ -2353,6 +2367,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Bethune-Cookman,61,Norfolk St.,485,02/24/2020,78,55,Home,,-,805
 2020,Bethune-Cookman,61,N.C. Central,489,03/02/2020,68,71,Away,,1 OT,"1,338"
 2020,Bethune-Cookman,61,Florida A&M,228,03/05/2020,72,70,Home,,1 OT,950
+2020,Bethune-Cookman,61,Morgan St.,446,03/12/2020,0,0,Neutral,"Norfolk, VA",-,0
 2020,Binghamton,62,Cornell,167,11/05/2019,64,84,Away,,-,"1,282"
 2020,Binghamton,62,Michigan St.,416,11/10/2019,47,100,Away,,-,"14,797"
 2020,Binghamton,62,Columbia,158,11/13/2019,63,75,Away,,-,801
@@ -2670,6 +2685,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Boston College,67,Notre Dame,513,02/26/2020,61,62,Home,,-,"5,101"
 2020,Boston College,67,Syracuse,688,03/03/2020,71,84,Home,,-,"6,471"
 2020,Boston College,67,Florida St.,234,03/07/2020,62,80,Away,,-,"11,500"
+2020,Boston College,67,Notre Dame,513,03/11/2020,58,80,Neutral,"Greensboro, NC",-,0
 2020,Boston U.,68,Northeastern,500,11/05/2019,67,72,Home,,-,"1,171"
 2020,Boston U.,68,SUNY Poly,9500,11/09/2019,91,63,Home,,-,652
 2020,Boston U.,68,Vermont,738,11/13/2019,47,62,Away,,-,"2,780"
@@ -2703,6 +2719,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Boston U.,68,Bucknell,83,02/29/2020,74,71,Home,,-,908
 2020,Boston U.,68,Navy,726,03/05/2020,69,63,Home,,-,517
 2020,Boston U.,68,Bucknell,83,03/08/2020,64,61,Home,,-,"1,334"
+2020,Boston U.,68,Colgate,153,03/11/2020,64,61,Away,,-,"1,724"
 2020,Bowdoin,69,Framingham St.,238,11/15/2019,79,70,Neutral,"Bristol, RI",-,70
 2020,Bowdoin,69,Roger Williams,583,11/16/2019,58,79,Away,,-,90
 2020,Bowdoin,69,Southern Me.,662,11/19/2019,77,78,Away,,1 OT,244
@@ -2787,6 +2804,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Bowling Green,71,Miami (OH),414,02/29/2020,55,73,Away,,-,"1,926"
 2020,Bowling Green,71,Kent St.,331,03/03/2020,69,83,Away,,-,"2,875"
 2020,Bowling Green,71,Buffalo,86,03/06/2020,84,88,Home,,-,"3,550"
+2020,Bowling Green,71,Toledo,709,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Bradley,72,Saint Joseph's,606,11/05/2019,81,86,Away,,-,"2,068"
 2020,Bradley,72,IUPUI,2699,11/09/2019,90,56,Home,,-,"5,518"
 2020,Bradley,72,UIC,302,11/16/2019,65,56,Home,,-,"5,411"
@@ -3243,6 +3261,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Butler,87,DePaul,176,02/29/2020,60,42,Home,,-,"9,234"
 2020,Butler,87,St. John's (NY),603,03/04/2020,77,55,Home,,-,"8,675"
 2020,Butler,87,Xavier,812,03/07/2020,72,71,Away,,-,"10,635"
+2020,Butler,87,Providence,556,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,BYU,77,Cal St. Fullerton,97,11/05/2019,76,58,Home,,-,"11,116"
 2020,BYU,77,San Diego St.,626,11/09/2019,71,76,Home,,-,"12,567"
 2020,BYU,77,Southern Utah,667,11/13/2019,68,63,Home,,-,"10,661"
@@ -3507,6 +3526,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Cal St. Fullerton,97,CSUN,101,02/29/2020,92,99,Away,,-,636
 2020,Cal St. Fullerton,97,UC Santa Barbara,104,03/05/2020,53,55,Away,,-,"1,079"
 2020,Cal St. Fullerton,97,Long Beach St.,99,03/07/2020,75,69,Home,,-,"1,821"
+2020,Cal St. Fullerton,97,CSUN,101,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,Cal St. L.A.,100,Concordia (CA),30199,11/08/2019,76,90,Home,,-,157
 2020,Cal St. L.A.,100,Biola,30220,11/09/2019,78,69,Home,,-,94
 2020,Cal St. L.A.,100,Azusa Pacific,30146,11/12/2019,90,82,Away,,-,381
@@ -3681,6 +3701,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,California,107,Utah,732,02/29/2020,86,79,Home,,1 OT,"6,420"
 2020,California,107,Oregon,529,03/05/2020,56,90,Away,,-,"7,651"
 2020,California,107,Oregon St.,528,03/07/2020,56,74,Away,,-,"4,545"
+2020,California,107,Stanford,674,03/11/2020,63,51,Neutral,"Las Vegas, NV",-,0
+2020,California,107,UCLA,110,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,California (PA),106,Bowie St.,70,11/08/2019,84,86,Neutral,"Shepherdstown, WV",-,324
 2020,California (PA),106,Charleston (WV),1013,11/09/2019,71,72,Neutral,"Shepherdstown, WV",-,404
 2020,California (PA),106,Salem (WV),19117,11/13/2019,88,73,Home,,-,336
@@ -3883,6 +3905,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Canisius,116,Saint Peter's,617,02/29/2020,68,69,Home,,-,"1,204"
 2020,Canisius,116,Marist,386,03/04/2020,85,69,Away,,-,"1,124"
 2020,Canisius,116,Niagara,482,03/06/2020,67,63,Home,,-,"1,805"
+2020,Canisius,116,Iona,310,03/10/2020,60,70,Neutral,"Atlantic City, NJ",-,0
 2020,Capital,117,Trine,30037,11/15/2019,69,53,Home,,-,302
 2020,Capital,117,Albion,15,11/16/2019,70,75,Home,,-,398
 2020,Capital,117,Denison,182,11/20/2019,74,80,Away,,-,345
@@ -4697,6 +4720,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Charlotte,458,FIU,231,03/01/2020,52,67,Home,,-,"3,116"
 2020,Charlotte,458,North Texas,497,03/04/2020,56,43,Home,,-,"2,811"
 2020,Charlotte,458,Louisiana Tech,366,03/07/2020,43,66,Away,,-,"3,359"
+2020,Charlotte,458,FIU,231,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Chatham,10972,Penn St.-Du Bois,,11/09/2019,68,77,Home,,-,200
 2020,Chatham,10972,Penn St.-Beaver,,11/12/2019,92,73,Home,,-,0
 2020,Chatham,10972,Hilbert,8398,11/15/2019,78,83,Away,,-,117
@@ -4840,6 +4864,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Chicago St.,136,Grand Canyon,1104,02/15/2020,47,71,Away,,-,"6,888"
 2020,Chicago St.,136,California Baptist,30135,02/22/2020,53,95,Home,,-,368
 2020,Chicago St.,136,UMKC,2707,02/29/2020,58,80,Away,,-,"1,599"
+2020,Chicago St.,136,New Mexico St.,472,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Chico St.,95,Seattle Pacific,634,11/08/2019,75,53,Away,,-,485
 2020,Chico St.,95,Azusa Pacific,30146,11/09/2019,91,97,Neutral,"Seattle, WA",1 OT,320
 2020,Chico St.,95,Holy Names,30175,11/16/2019,69,54,Home,,-,"1,125"
@@ -5231,6 +5256,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Clemson,147,Florida St.,234,02/29/2020,70,69,Home,,-,"9,095"
 2020,Clemson,147,Virginia Tech,742,03/04/2020,58,70,Away,,-,"8,901"
 2020,Clemson,147,Georgia Tech,255,03/06/2020,62,65,Home,,-,"8,188"
+2020,Clemson,147,Miami (FL),415,03/11/2020,69,64,Neutral,"Greensboro, NC",-,"20,809"
+2020,Clemson,147,Florida St.,234,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Cleveland St.,148,Minnesota,428,11/05/2019,50,85,Away,,-,"8,693"
 2020,Cleveland St.,148,Edinboro,209,11/09/2019,79,54,Home,,-,"3,533"
 2020,Cleveland St.,148,Missouri St.,669,11/12/2019,53,73,Away,,-,"3,800"
@@ -5547,6 +5574,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Colgate,153,Army West Point,725,02/29/2020,91,65,Home,,-,984
 2020,Colgate,153,Lehigh,352,03/05/2020,83,70,Home,,-,"1,368"
 2020,Colgate,153,Lafayette,342,03/08/2020,89,64,Home,,-,"1,427"
+2020,Colgate,153,Boston U.,68,03/11/2020,61,64,Home,,-,"1,724"
 2020,Colo. Christian,11403,DBU,1045,11/08/2019,66,78,Home,,-,100
 2020,Colo. Christian,11403,St. Edward's,1334,11/09/2019,68,94,Home,,-,130
 2020,Colo. Christian,11403,Northwest Nazarene,1274,11/15/2019,74,77,Away,,-,491
@@ -5639,6 +5667,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Colorado,157,California,107,02/27/2020,62,76,Away,,-,"5,134"
 2020,Colorado,157,Stanford,674,03/01/2020,64,72,Away,,-,"7,123"
 2020,Colorado,157,Utah,732,03/07/2020,72,74,Away,,1 OT,"10,886"
+2020,Colorado,157,Washington St.,754,03/11/2020,68,82,Neutral,"Las Vegas, NV",-,"7,452"
 2020,Colorado Col.,154,Northern Colo.,502,11/12/2019,38,104,Away,,-,"1,195"
 2020,Colorado Col.,154,George Fox,1094,11/15/2019,82,87,Away,,-,0
 2020,Colorado Col.,154,Lewis & Clark,22235,11/16/2019,66,73,Away,,-,129
@@ -6126,6 +6155,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Coppin St.,165,Delaware St.,178,02/22/2020,98,86,Home,,-,"2,436"
 2020,Coppin St.,165,Morgan St.,446,02/29/2020,72,65,Away,,-,"3,212"
 2020,Coppin St.,165,UMES,393,03/05/2020,63,60,Away,,-,550
+2020,Coppin St.,165,Norfolk St.,485,03/12/2020,0,0,Neutral,"Norfolk, VA",-,0
 2020,Cornell,167,Binghamton,62,11/05/2019,84,64,Home,,-,"1,282"
 2020,Cornell,167,Bryant,81,11/10/2019,81,82,Away,,-,"1,182"
 2020,Cornell,167,NJIT,471,11/13/2019,58,59,Home,,-,274
@@ -6238,6 +6268,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Creighton,169,St. John's (NY),603,03/01/2020,71,91,Away,,-,"4,260"
 2020,Creighton,169,Georgetown,251,03/04/2020,91,76,Home,,-,"17,696"
 2020,Creighton,169,Seton Hall,635,03/07/2020,77,60,Home,,-,"18,519"
+2020,Creighton,169,St. John's (NY),603,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,Crown (MN),30035,North Dakota,494,11/07/2019,61,86,Away,,-,"1,521"
 2020,Crown (MN),30035,Bethel (MN),60,11/09/2019,82,100,Home,,-,374
 2020,Crown (MN),30035,Hamline,268,11/13/2019,83,80,Away,,-,378
@@ -6296,6 +6327,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,CSU Bakersfield,94,UTRGV,536,02/27/2020,79,59,Home,,-,"2,134"
 2020,CSU Bakersfield,94,New Mexico St.,472,02/29/2020,46,62,Home,,-,"2,947"
 2020,CSU Bakersfield,94,Grand Canyon,1104,03/07/2020,61,64,Away,,-,"7,142"
+2020,CSU Bakersfield,94,UTRGV,536,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,CSUN,101,Oregon St.,528,11/05/2019,67,87,Away,,-,"3,422"
 2020,CSUN,101,New Mexico,473,11/09/2019,70,97,Away,,-,"10,335"
 2020,CSUN,101,Pepperdine,541,11/12/2019,82,94,Home,,-,"1,321"
@@ -6328,6 +6360,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,CSUN,101,Cal St. Fullerton,97,02/29/2020,99,92,Home,,-,636
 2020,CSUN,101,UC Irvine,109,03/04/2020,72,70,Away,,-,"2,954"
 2020,CSUN,101,Hawaii,277,03/07/2020,86,82,Home,,-,"1,624"
+2020,CSUN,101,Cal St. Fullerton,97,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,Curry,170,New Hampshire,469,11/05/2019,29,93,Away,,-,222
 2020,Curry,170,Rivier,18422,11/08/2019,76,72,Away,,-,100
 2020,Curry,170,Lesley,24317,11/09/2019,86,77,Away,,-,100
@@ -6553,6 +6586,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Davidson,173,Dayton,175,02/28/2020,67,82,Away,,-,"13,407"
 2020,Davidson,173,Richmond,575,03/03/2020,63,80,Away,,-,"6,501"
 2020,Davidson,173,VCU,740,03/06/2020,75,65,Home,,-,"3,763"
+2020,Davidson,173,La Salle,340,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,Davis & Elkins,174,Ferris St.,224,11/09/2019,58,85,Away,,-,250
 2020,Davis & Elkins,174,Grand Valley St.,262,11/10/2019,68,84,Away,,-,387
 2020,Davis & Elkins,174,Ohio Valley,15207,11/14/2019,88,83,Home,,-,321
@@ -6758,6 +6792,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Delaware St.,178,UMES,393,02/29/2020,84,63,Away,,-,"2,043"
 2020,Delaware St.,178,Norfolk St.,485,03/02/2020,73,79,Home,,-,"1,511"
 2020,Delaware St.,178,Howard,290,03/05/2020,100,88,Away,,-,"1,121"
+2020,Delaware St.,178,UMES,393,03/10/2020,68,64,Neutral,"Norfolk, VA",-,0
+2020,Delaware St.,178,N.C. Central,489,03/11/2020,75,92,Neutral,"Norfolk, VA",-,0
 2020,Delaware Valley,179,Penn St.-Berks,30044,11/09/2019,77,66,Home,,-,260
 2020,Delaware Valley,179,Muhlenberg,453,11/15/2019,72,74,Away,,-,303
 2020,Delaware Valley,179,Lebanon Valley,351,11/20/2019,70,56,Home,,-,487
@@ -6900,6 +6936,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,DePaul,176,Butler,87,02/29/2020,42,60,Away,,-,"9,234"
 2020,DePaul,176,Marquette,387,03/03/2020,69,68,Home,,-,"6,901"
 2020,DePaul,176,Providence,556,03/07/2020,55,93,Away,,-,"12,103"
+2020,DePaul,176,Xavier,812,03/11/2020,71,67,Neutral,"New York, NY",-,"17,534"
+2020,DePaul,176,Villanova,739,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,DePauw,177,Franklin,2694,11/12/2019,73,80,Home,,-,250
 2020,DePauw,177,Rose-Hulman,585,11/15/2019,66,61,Home,,-,325
 2020,DePauw,177,Chicago,137,11/23/2019,75,59,Away,,-,413
@@ -7330,6 +7368,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Duke,193,Virginia,746,02/29/2020,50,52,Away,,-,"14,629"
 2020,Duke,193,NC State,490,03/02/2020,88,69,Home,,-,"9,314"
 2020,Duke,193,North Carolina,457,03/07/2020,89,76,Home,,-,"9,314"
+2020,Duke,193,NC State,490,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Duquesne,194,Princeton,554,11/05/2019,94,67,Home,,-,"2,213"
 2020,Duquesne,194,Lamar University,346,11/12/2019,66,56,Home,,-,859
 2020,Duquesne,194,Lipscomb,28600,11/15/2019,58,36,Home,,-,"1,143"
@@ -7360,6 +7399,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Duquesne,194,George Mason,248,02/29/2020,81,78,Home,,-,"2,292"
 2020,Duquesne,194,VCU,740,03/03/2020,80,77,Away,,1 OT,"7,637"
 2020,Duquesne,194,Richmond,575,03/06/2020,62,73,Home,,-,"3,211"
+2020,Duquesne,194,Fordham,236,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,Earlham,195,Adrian,4,11/09/2019,102,94,Away,,1 OT,400
 2020,Earlham,195,Denison,182,11/13/2019,56,49,Home,,-,182
 2020,Earlham,195,Wabash,747,11/19/2019,72,85,Away,,-,671
@@ -7416,6 +7456,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,East Carolina,196,South Fla.,651,02/26/2020,68,73,Away,,1 OT,"2,692"
 2020,East Carolina,196,UConn,164,02/29/2020,63,84,Home,,-,"5,003"
 2020,East Carolina,196,UCF,128,03/08/2020,62,94,Away,,-,"4,819"
+2020,East Carolina,196,Memphis,404,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,East Central,8965,Wayne St. (NE),1433,11/08/2019,89,76,Neutral,"Shawnee, OK",-,75
 2020,East Central,8965,Neb.-Kearney,1156,11/09/2019,86,78,Neutral,"Shawnee, Okla.",-,50
 2020,East Central,8965,McKendree,30138,11/16/2019,81,73,Away,,-,236
@@ -7765,6 +7806,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Eastern Wash.,207,Northern Colo.,502,02/29/2020,68,64,Away,,-,"2,582"
 2020,Eastern Wash.,207,Idaho St.,294,03/05/2020,100,77,Home,,-,"1,531"
 2020,Eastern Wash.,207,Weber St.,758,03/07/2020,78,69,Home,,-,"1,922"
+2020,Eastern Wash.,207,Sacramento St.,102,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Eckerd,208,West Ala.,358,11/09/2019,63,82,Away,,-,582
 2020,Eckerd,208,Delta St.,181,11/10/2019,87,50,Neutral,"Livingston, AL",-,253
 2020,Eckerd,208,P.R.-Mayaguez,24361,11/18/2019,113,66,Home,,-,259
@@ -8388,6 +8430,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Fairfield,220,Rider,576,03/01/2020,51,65,Home,,-,"2,321"
 2020,Fairfield,220,Monmouth,439,03/04/2020,45,69,Away,,-,"1,752"
 2020,Fairfield,220,Manhattan,381,03/06/2020,66,50,Away,,-,"1,002"
+2020,Fairfield,220,Manhattan,381,03/10/2020,43,61,Neutral,"Atlantic City, NJ",-,0
 2020,Fairleigh Dickinson,222,FDU-Florham,221,11/05/2019,101,52,Home,,-,518
 2020,Fairleigh Dickinson,222,DePaul,176,11/08/2019,59,70,Away,,-,"3,945"
 2020,Fairleigh Dickinson,222,Fordham,236,11/13/2019,50,53,Away,,-,"1,463"
@@ -8764,6 +8807,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,FIU,231,Charlotte,458,03/01/2020,67,52,Away,,-,"3,116"
 2020,FIU,231,Louisiana Tech,366,03/04/2020,73,76,Away,,-,"2,631"
 2020,FIU,231,Western Ky.,772,03/07/2020,85,91,Home,,-,"1,014"
+2020,FIU,231,Rice,574,03/11/2020,85,76,Neutral,"Frisco, TX",-,0
+2020,FIU,231,Charlotte,458,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Fla. Atlantic,229,Flagler,30092,11/05/2019,92,81,Home,,-,"1,112"
 2020,Fla. Atlantic,229,Miami (FL),415,11/08/2019,60,74,Away,,-,"5,168"
 2020,Fla. Atlantic,229,Alabama,8,11/11/2019,59,78,Away,,-,"9,117"
@@ -8795,6 +8840,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Fla. Atlantic,229,UTSA,706,02/27/2020,80,71,Home,,-,"1,164"
 2020,Fla. Atlantic,229,Old Dominion,523,03/01/2020,80,85,Away,,1 OT,"5,031"
 2020,Fla. Atlantic,229,Marshall,388,03/04/2020,82,94,Away,,-,"5,426"
+2020,Fla. Atlantic,229,Old Dominion,523,03/11/2020,66,56,Neutral,"Frisco, TX",-,0
+2020,Fla. Atlantic,229,North Texas,497,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Fla. Southern,233,Delta St.,181,11/09/2019,92,74,Neutral,"Livingston, AL",-,287
 2020,Fla. Southern,233,West Ala.,358,11/10/2019,76,59,Away,,-,352
 2020,Fla. Southern,233,S.C. Aiken,11276,11/16/2019,96,80,Away,,-,679
@@ -8887,6 +8934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Florida,235,Tennessee,694,02/29/2020,58,63,Away,,-,"19,743"
 2020,Florida,235,Georgia,257,03/04/2020,68,54,Away,,-,"10,007"
 2020,Florida,235,Kentucky,334,03/07/2020,70,71,Home,,-,"9,767"
+2020,Florida,235,Georgia,257,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Florida A&M,228,Southern California,657,11/05/2019,48,77,Away,,-,"3,021"
 2020,Florida A&M,228,Hawaii,277,11/08/2019,52,65,Away,,-,"5,093"
 2020,Florida A&M,228,Pacific,534,11/10/2019,54,76,Neutral,"Honolulu, HI",-,0
@@ -8945,6 +8993,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Florida St.,234,Clemson,147,02/29/2020,69,70,Away,,-,"9,095"
 2020,Florida St.,234,Notre Dame,513,03/04/2020,73,71,Away,,-,"7,165"
 2020,Florida St.,234,Boston College,67,03/07/2020,80,62,Home,,-,"11,500"
+2020,Florida St.,234,Clemson,147,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Florida Tech,230,Benedict,55,11/08/2019,75,92,Neutral,"Montgomery, AL",-,237
 2020,Florida Tech,230,AUM,30093,11/09/2019,84,88,Away,,-,517
 2020,Florida Tech,230,Johnson (FL),,11/14/2019,111,71,Home,,-,56
@@ -9031,6 +9080,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Fordham,236,Saint Joseph's,606,02/29/2020,69,73,Away,,-,"2,257"
 2020,Fordham,236,George Washington,249,03/04/2020,63,52,Away,,-,"2,554"
 2020,Fordham,236,George Mason,248,03/07/2020,61,65,Home,,-,"1,884"
+2020,Fordham,236,George Washington,249,03/11/2020,72,52,Neutral,"Brooklyn, NY",-,"2,461"
+2020,Fordham,236,Duquesne,194,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,Fort Hays St.,9011,Arkansas Tech,947,11/08/2019,88,78,Away,,-,365
 2020,Fort Hays St.,9011,Southwestern Okla.,8744,11/09/2019,58,53,Neutral,"Russellville, AR",-,123
 2020,Fort Hays St.,9011,Colo. Sch. of Mines,155,11/16/2019,72,91,Away,,-,280
@@ -9449,6 +9500,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Ga. Southern,253,Georgia St.,254,02/28/2020,79,70,Away,,-,"3,854"
 2020,Ga. Southern,253,Arkansas St.,30,03/03/2020,75,76,Home,,-,"1,217"
 2020,Ga. Southern,253,Louisiana,671,03/09/2020,82,81,Home,,-,"1,244"
+2020,Ga. Southern,253,Georgia St.,254,03/11/2020,81,62,Away,,-,"2,843"
 2020,Ga. Southwestern,1097,Fort Valley St.,237,11/12/2019,72,68,Away,,-,789
 2020,Ga. Southwestern,1097,Middle Ga. St.,,11/16/2019,79,72,Home,,-,780
 2020,Ga. Southwestern,1097,Albany St. (GA),13,11/18/2019,75,66,Home,,-,748
@@ -9643,6 +9695,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,George Mason,248,Duquesne,194,02/29/2020,78,81,Away,,-,"2,292"
 2020,George Mason,248,Saint Louis,609,03/04/2020,57,69,Home,,-,"3,062"
 2020,George Mason,248,Fordham,236,03/07/2020,65,61,Away,,-,"1,884"
+2020,George Mason,248,Saint Joseph's,606,03/11/2020,77,70,Neutral,"Brooklyn, NY",-,0
+2020,George Mason,248,St. Bonaventure,596,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,George Washington,249,Towson,711,11/05/2019,58,72,Away,,-,"2,005"
 2020,George Washington,249,Howard,290,11/09/2019,76,62,Home,,-,"3,677"
 2020,George Washington,249,American,23,11/12/2019,65,67,Home,,-,"2,353"
@@ -9674,6 +9728,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,George Washington,249,VCU,740,02/29/2020,51,75,Away,,-,"7,637"
 2020,George Washington,249,Fordham,236,03/04/2020,52,63,Home,,-,"2,554"
 2020,George Washington,249,Dayton,175,03/07/2020,51,76,Away,,-,"13,407"
+2020,George Washington,249,Fordham,236,03/11/2020,52,72,Neutral,"Brooklyn, NY",-,"2,461"
 2020,Georgetown,251,Mt. St. Mary's,450,11/06/2019,81,68,Home,,-,"5,214"
 2020,Georgetown,251,Central Ark.,1004,11/10/2019,89,78,Home,,-,"5,785"
 2020,Georgetown,251,Penn St.,539,11/14/2019,66,81,Home,,-,"8,691"
@@ -9705,6 +9760,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Georgetown,251,Xavier,812,03/01/2020,63,66,Home,,-,"10,610"
 2020,Georgetown,251,Creighton,169,03/04/2020,76,91,Away,,-,"17,696"
 2020,Georgetown,251,Villanova,739,03/07/2020,69,70,Home,,-,"13,168"
+2020,Georgetown,251,St. John's (NY),603,03/11/2020,62,75,Away,,-,0
 2020,Georgia,257,Western Caro.,769,11/05/2019,91,72,Home,,-,"8,722"
 2020,Georgia,257,The Citadel,141,11/12/2019,95,86,Home,,-,"8,058"
 2020,Georgia,257,Delaware St.,178,11/15/2019,100,66,Home,,-,"8,167"
@@ -9736,6 +9792,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Georgia,257,Arkansas,31,02/29/2020,99,89,Home,,-,"10,017"
 2020,Georgia,257,Florida,235,03/04/2020,54,68,Home,,-,"10,007"
 2020,Georgia,257,LSU,365,03/07/2020,64,94,Away,,-,"11,697"
+2020,Georgia,257,Ole Miss,433,03/11/2020,81,63,Neutral,"Nashville, TN",-,0
+2020,Georgia,257,Florida,235,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Georgia College,1096,Erskine,1072,11/08/2019,62,78,Away,,-,230
 2020,Georgia College,1096,North Greenville,9223,11/09/2019,72,63,Neutral,"Due West, SC",-,110
 2020,Georgia College,1096,Saint Leo,608,11/16/2019,52,76,Away,,-,397
@@ -9797,6 +9855,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Georgia St.,254,Texas St.,670,02/22/2020,76,86,Away,,-,"2,718"
 2020,Georgia St.,254,Ga. Southern,253,02/28/2020,70,79,Home,,-,"3,854"
 2020,Georgia St.,254,Little Rock,32,03/03/2020,89,70,Home,,-,"1,855"
+2020,Georgia St.,254,Ga. Southern,253,03/11/2020,62,81,Home,,-,"2,843"
 2020,Georgia Tech,255,NC State,490,11/05/2019,82,81,Away,,1 OT,"17,133"
 2020,Georgia Tech,255,Elon,1068,11/11/2019,64,41,Home,,-,"4,624"
 2020,Georgia Tech,255,Georgia,257,11/20/2019,78,82,Away,,-,"10,205"
@@ -9972,6 +10031,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Gonzaga,260,San Diego,627,02/27/2020,94,59,Home,,-,"6,000"
 2020,Gonzaga,260,Saint Mary's (CA),610,02/29/2020,86,76,Home,,-,"6,000"
 2020,Gonzaga,260,San Francisco,629,03/09/2020,81,77,Neutral,"Las Vegas, NV",-,0
+2020,Gonzaga,260,Saint Mary's (CA),610,03/10/2020,84,66,Neutral,"Las Vegas, NV",-,"7,210"
 2020,Gordon,1099,Emerson,214,11/12/2019,79,99,Home,,-,374
 2020,Gordon,1099,Hartford,272,11/16/2019,79,86,Away,,-,660
 2020,Gordon,1099,Lesley,24317,11/19/2019,112,74,Away,,-,120
@@ -10058,6 +10118,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Grambling,261,Mississippi Val.,432,03/02/2020,81,61,Home,,-,"1,401"
 2020,Grambling,261,Alabama A&M,6,03/05/2020,57,58,Away,,-,936
 2020,Grambling,261,Alabama St.,7,03/07/2020,70,58,Away,,-,"2,091"
+2020,Grambling,261,Texas Southern,699,03/10/2020,62,75,Away,,-,"1,544"
 2020,Grand Canyon,1104,Davenport,30221,11/05/2019,73,82,Home,,-,"7,074"
 2020,Grand Canyon,1104,Illinois,301,11/08/2019,71,83,Home,,-,"7,498"
 2020,Grand Canyon,1104,San Diego St.,626,11/13/2019,61,86,Away,,-,"10,440"
@@ -10088,6 +10149,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Grand Canyon,1104,New Mexico St.,472,02/27/2020,53,67,Home,,-,"7,155"
 2020,Grand Canyon,1104,UTRGV,536,02/29/2020,80,88,Home,,-,"7,002"
 2020,Grand Canyon,1104,CSU Bakersfield,94,03/07/2020,64,61,Home,,-,"7,142"
+2020,Grand Canyon,1104,UMKC,2707,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Grand Valley St.,262,Alderson Broaddus,934,11/09/2019,69,56,Home,,-,665
 2020,Grand Valley St.,262,Davis & Elkins,174,11/10/2019,84,68,Home,,-,387
 2020,Grand Valley St.,262,Truman,499,11/14/2019,85,76,Home,,-,549
@@ -10567,6 +10629,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Hartford,272,Stony Brook,683,02/26/2020,65,54,Away,,-,"2,468"
 2020,Hartford,272,Maine,380,03/03/2020,65,71,Home,,-,859
 2020,Hartford,272,UMass Lowell,368,03/07/2020,89,75,Home,,-,"1,069"
+2020,Hartford,272,Stony Brook,683,03/10/2020,64,58,Away,,-,"1,861"
 2020,Hartwick,273,Union (NY),727,11/08/2019,64,73,Away,,-,324
 2020,Hartwick,273,Skidmore,642,11/12/2019,66,56,Home,,-,175
 2020,Hartwick,273,CCNY,480,11/15/2019,91,65,Home,,-,175
@@ -10678,6 +10741,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Hawaii,277,UC Riverside,111,02/29/2020,43,49,Home,,-,"6,884"
 2020,Hawaii,277,UC Davis,108,03/05/2020,67,65,Away,,-,"1,648"
 2020,Hawaii,277,CSUN,101,03/07/2020,82,86,Away,,-,"1,624"
+2020,Hawaii,277,UC Davis,108,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,Hawaii Hilo,2697,Concordia Portland,30200,11/15/2019,74,69,Neutral,"Monmouth, OR",-,125
 2020,Hawaii Hilo,2697,Western Ore.,1446,11/16/2019,69,74,Away,,-,255
 2020,Hawaii Hilo,2697,Azusa Pacific,30146,12/02/2019,82,79,Home,,-,412
@@ -10994,6 +11058,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Hofstra,283,James Madison,317,02/29/2020,97,81,Home,,-,"3,843"
 2020,Hofstra,283,Drexel,191,03/08/2020,61,43,Neutral,"Washington D.C., DC",-,0
 2020,Hofstra,283,Delaware,180,03/09/2020,75,61,Neutral,"Washington D.C., DC",-,0
+2020,Hofstra,283,Northeastern,500,03/10/2020,70,61,Neutral,"Washington D.C., DC",-,"1,926"
 2020,Holy Cross,285,Maryland,392,11/05/2019,71,95,Away,,-,"13,633"
 2020,Holy Cross,285,New Hampshire,469,11/09/2019,83,87,Away,,-,501
 2020,Holy Cross,285,Fairfield,220,11/12/2019,63,68,Home,,1 OT,"1,712"
@@ -11253,6 +11318,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Howard,290,Norfolk St.,485,02/29/2020,59,89,Away,,-,"4,127"
 2020,Howard,290,UMES,393,03/02/2020,62,60,Home,,-,"1,287"
 2020,Howard,290,Delaware St.,178,03/05/2020,88,100,Home,,-,"1,121"
+2020,Howard,290,South Carolina St.,647,03/10/2020,70,63,Neutral,"Norfolk, VA",-,0
+2020,Howard,290,N.C. A&T,488,03/11/2020,77,86,Neutral,"Norfolk, VA",-,0
 2020,Howard Payne,2741,Austin,953,11/08/2019,59,98,Away,,-,163
 2020,Howard Payne,2741,UTRGV,536,11/11/2019,42,93,Away,,-,976
 2020,Howard Payne,2741,Texas Lutheran,1400,11/15/2019,78,69,Away,,-,300
@@ -11419,6 +11486,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Idaho,295,Southern Utah,667,02/29/2020,55,87,Away,,-,"2,174"
 2020,Idaho,295,Weber St.,758,03/05/2020,64,72,Home,,-,807
 2020,Idaho,295,Idaho St.,294,03/07/2020,80,76,Home,,-,"1,510"
+2020,Idaho,295,Southern Utah,667,03/11/2020,69,75,Neutral,"Boise , ID",-,0
 2020,Idaho St.,294,Wyoming,811,11/05/2019,40,54,Away,,-,"3,010"
 2020,Idaho St.,294,Air Force,721,11/07/2019,89,79,Away,,-,"1,633"
 2020,Idaho St.,294,Montana Western,,11/14/2019,80,48,Home,,-,"1,245"
@@ -11448,6 +11516,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Idaho St.,294,Weber St.,758,03/02/2020,78,70,Away,,-,"4,033"
 2020,Idaho St.,294,Eastern Wash.,207,03/05/2020,77,100,Away,,-,"1,531"
 2020,Idaho St.,294,Idaho,295,03/07/2020,76,80,Away,,-,"1,510"
+2020,Idaho St.,294,Northern Ariz.,501,03/11/2020,64,62,Neutral,"Boise , ID",-,"2,503"
+2020,Idaho St.,294,Montana,441,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,IIT,30172,Trine,30037,11/09/2019,71,75,Home,,-,175
 2020,IIT,30172,Ferris St.,224,11/13/2019,49,76,Away,,-,798
 2020,IIT,30172,Elmhurst,212,11/19/2019,61,83,Away,,-,314
@@ -11710,6 +11780,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Indiana,306,Illinois,301,03/01/2020,66,67,Away,,-,"15,544"
 2020,Indiana,306,Minnesota,428,03/04/2020,72,67,Home,,-,"17,222"
 2020,Indiana,306,Wisconsin,796,03/07/2020,56,60,Home,,-,"17,222"
+2020,Indiana,306,Nebraska,463,03/11/2020,89,64,Neutral,"Indianapolis, IN",-,0
+2020,Indiana,306,Penn St.,539,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Indiana (PA),307,West Va. Wesleyan,9630,11/08/2019,75,52,Home,,-,"2,123"
 2020,Indiana (PA),307,Concord,1028,11/09/2019,80,73,Home,,-,675
 2020,Indiana (PA),307,Le Moyne,349,11/15/2019,82,78,Away,,-,482
@@ -11797,6 +11869,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Iona,310,Niagara,482,02/29/2020,91,100,Away,,1 OT,"1,193"
 2020,Iona,310,Quinnipiac,562,03/04/2020,68,69,Home,,-,"1,592"
 2020,Iona,310,Saint Peter's,617,03/06/2020,65,68,Away,,-,505
+2020,Iona,310,Canisius,116,03/10/2020,70,60,Neutral,"Atlantic City, NJ",-,0
+2020,Iona,310,Saint Peter's,617,03/11/2020,54,56,Neutral,"Atlantic City, NJ",-,0
 2020,Iowa,312,SIUE,660,11/08/2019,87,60,Home,,-,"10,300"
 2020,Iowa,312,DePaul,176,11/11/2019,78,93,Home,,-,"9,961"
 2020,Iowa,312,Oral Roberts,527,11/15/2019,87,74,Home,,-,"11,021"
@@ -11828,6 +11902,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Iowa,312,Penn St.,539,02/29/2020,77,68,Home,,-,"15,056"
 2020,Iowa,312,Purdue,559,03/03/2020,68,77,Home,,-,"13,216"
 2020,Iowa,312,Illinois,301,03/08/2020,76,78,Away,,-,"15,544"
+2020,Iowa,312,Minnesota,428,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Iowa St.,311,Mississippi Val.,432,11/05/2019,110,74,Home,,-,"13,744"
 2020,Iowa St.,311,Oregon St.,528,11/09/2019,74,80,Away,,-,"6,173"
 2020,Iowa St.,311,Northern Ill.,503,11/12/2019,70,52,Home,,-,"13,762"
@@ -11859,6 +11934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Iowa St.,311,Oklahoma St.,521,02/29/2020,61,73,Away,,-,"8,129"
 2020,Iowa St.,311,West Virginia,768,03/03/2020,71,77,Home,,-,"13,870"
 2020,Iowa St.,311,Kansas St.,327,03/07/2020,63,79,Away,,-,"8,439"
+2020,Iowa St.,311,Oklahoma St.,521,03/11/2020,71,72,Neutral,"Kansas City, MO",-,0
 2020,Iowa Wesleyan,30173,Culver-Stockton,,11/09/2019,67,64,Away,,-,655
 2020,Iowa Wesleyan,30173,Dubuque,192,11/12/2019,84,112,Away,,-,357
 2020,Iowa Wesleyan,30173,Wartburg,750,11/15/2019,69,82,Away,,-,500
@@ -11979,6 +12055,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Jackson St.,314,Ark.-Pine Bluff,2678,03/02/2020,76,56,Home,,-,"1,207"
 2020,Jackson St.,314,Alabama St.,7,03/05/2020,71,59,Away,,-,"1,289"
 2020,Jackson St.,314,Alabama A&M,6,03/07/2020,54,51,Away,,-,"1,291"
+2020,Jackson St.,314,Alcorn,17,03/10/2020,69,52,Home,,-,"1,576"
 2020,Jacksonville,316,Xavier,812,11/05/2019,57,76,Away,,-,"10,050"
 2020,Jacksonville,316,Johnson (FL),,11/08/2019,83,65,Home,,-,878
 2020,Jacksonville,316,Bowling Green,71,11/11/2019,59,75,Neutral,"Miami, FL",-,316
@@ -12347,6 +12424,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Kansas,328,Kansas St.,327,02/29/2020,62,58,Away,,-,"9,003"
 2020,Kansas,328,TCU,698,03/04/2020,75,66,Home,,-,"16,300"
 2020,Kansas,328,Texas Tech,700,03/07/2020,66,62,Away,,-,"15,098"
+2020,Kansas,328,Oklahoma St.,521,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Kansas St.,327,North Dakota St.,493,11/05/2019,67,54,Home,,-,"8,145"
 2020,Kansas St.,327,UNLV,465,11/09/2019,60,56,Away,,1 OT,"8,796"
 2020,Kansas St.,327,Monmouth,439,11/13/2019,73,54,Home,,-,"7,635"
@@ -12378,6 +12456,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Kansas St.,327,Kansas,328,02/29/2020,58,62,Home,,-,"9,003"
 2020,Kansas St.,327,Oklahoma St.,521,03/04/2020,63,69,Away,,-,"6,983"
 2020,Kansas St.,327,Iowa St.,311,03/07/2020,79,63,Home,,-,"8,439"
+2020,Kansas St.,327,TCU,698,03/11/2020,53,49,Neutral,"Kansas City, MO",-,"17,606"
+2020,Kansas St.,327,Baylor,51,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Kean,329,Neumann,1254,11/09/2019,75,89,Home,,-,134
 2020,Kean,329,Moravian,443,11/15/2019,48,47,Neutral,"Chester, PA",-,76
 2020,Kean,329,Widener,783,11/16/2019,62,72,Away,,-,403
@@ -12491,6 +12571,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Kent St.,331,Bowling Green,71,03/03/2020,83,69,Home,,-,"2,875"
 2020,Kent St.,331,Akron,5,03/06/2020,76,79,Away,,-,"5,500"
 2020,Kent St.,331,Eastern Mich.,204,03/09/2020,86,76,Home,,-,"2,005"
+2020,Kent St.,331,Ball St.,47,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Kentucky,334,Michigan St.,416,11/05/2019,69,62,Neutral,"New York, NY",-,"19,812"
 2020,Kentucky,334,Eastern Ky.,202,11/08/2019,91,49,Home,,-,"20,163"
 2020,Kentucky,334,Evansville,219,11/12/2019,64,67,Home,,-,"19,101"
@@ -12818,6 +12899,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,La Salle,340,St. Bonaventure,596,02/29/2020,73,65,Home,,-,"2,374"
 2020,La Salle,340,Massachusetts,400,03/04/2020,64,75,Home,,-,"1,352"
 2020,La Salle,340,Saint Joseph's,606,03/07/2020,78,77,Away,,-,"2,390"
+2020,La Salle,340,Davidson,173,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,La Verne,341,Southwestern (TX),8746,11/15/2019,54,73,Neutral,"Redlands, CA",-,53
 2020,La Verne,341,Luther,372,11/16/2019,72,79,Neutral,"Redlands, CA",-,120
 2020,La Verne,341,George Fox,1094,11/22/2019,85,91,Away,,-,301
@@ -13069,6 +13151,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Lamar University,346,Incarnate Word,2743,02/26/2020,86,66,Home,,-,"1,755"
 2020,Lamar University,346,SFA,676,02/29/2020,77,95,Away,,-,"4,184"
 2020,Lamar University,346,McNeese,402,03/07/2020,66,70,Home,,-,"3,847"
+2020,Lamar University,346,McNeese,402,03/11/2020,80,59,Neutral,"Katy, TX",-,0
+2020,Lamar University,346,Nicholls St.,483,03/12/2020,0,0,Neutral,"Katy, TX",-,0
 2020,Lancaster Bible,30085,Neumann,1254,11/12/2019,74,85,Home,,-,419
 2020,Lancaster Bible,30085,Franklin & Marshall,239,11/15/2019,54,68,Away,,-,721
 2020,Lancaster Bible,30085,Marywood,397,11/16/2019,85,74,Neutral,"Lancaster, PA",-,0
@@ -13970,6 +14054,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Long Beach St.,99,UC Davis,108,02/29/2020,76,77,Away,,-,"2,377"
 2020,Long Beach St.,99,Cal Poly,90,03/05/2020,80,73,Home,,1 OT,"1,641"
 2020,Long Beach St.,99,Cal St. Fullerton,97,03/07/2020,69,75,Away,,-,"1,821"
+2020,Long Beach St.,99,UC Irvine,109,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,Longwood,363,Marymount (VA),394,11/05/2019,73,51,Home,,-,"1,214"
 2020,Longwood,363,George Mason,248,11/08/2019,65,76,Away,,-,"5,113"
 2020,Longwood,363,UMES,393,11/12/2019,85,55,Home,,-,"1,225"
@@ -14119,6 +14204,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Louisiana Tech,366,Western Ky.,772,02/27/2020,91,95,Away,,1 OT,"5,030"
 2020,Louisiana Tech,366,FIU,231,03/04/2020,76,73,Home,,-,"2,631"
 2020,Louisiana Tech,366,Charlotte,458,03/07/2020,66,43,Home,,-,"3,359"
+2020,Louisiana Tech,366,Marshall,388,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Louisville,367,Miami (FL),415,11/05/2019,87,74,Away,,-,"7,576"
 2020,Louisville,367,Youngstown St.,817,11/10/2019,78,55,Home,,-,"14,761"
 2020,Louisville,367,Indiana St.,305,11/13/2019,91,62,Home,,-,"14,808"
@@ -14150,6 +14236,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Louisville,367,Florida St.,234,02/24/2020,67,82,Away,,-,"11,500"
 2020,Louisville,367,Virginia Tech,742,03/01/2020,68,52,Home,,-,"18,104"
 2020,Louisville,367,Virginia,746,03/07/2020,54,57,Away,,-,"14,629"
+2020,Louisville,367,Syracuse,688,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Loyola Chicago,371,UC Davis,108,11/05/2019,82,48,Home,,-,"3,244"
 2020,Loyola Chicago,371,Furman,244,11/08/2019,63,87,Away,,-,"2,496"
 2020,Loyola Chicago,371,Coppin St.,165,11/12/2019,72,76,Home,,-,"2,491"
@@ -14578,6 +14665,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Manhattan,381,Monmouth,439,03/01/2020,60,80,Away,,-,"3,271"
 2020,Manhattan,381,Rider,576,03/04/2020,59,71,Away,,-,"1,611"
 2020,Manhattan,381,Fairfield,220,03/06/2020,50,66,Home,,-,"1,002"
+2020,Manhattan,381,Fairfield,220,03/10/2020,61,43,Neutral,"Atlantic City, NJ",-,0
+2020,Manhattan,381,Siena,639,03/11/2020,49,63,Neutral,"Atlantic City, NJ",-,0
 2020,Manhattanville,382,$game.opponentName,2715,11/19/2019,92,68,Away,,-,0
 2020,Manhattanville,382,Wesley,763,11/22/2019,82,75,Home,,1 OT,209
 2020,Manhattanville,382,Trinity (CT),713,11/23/2019,60,80,Home,,-,105
@@ -14734,6 +14823,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Marist,386,Siena,639,02/28/2020,50,52,Home,,-,"1,705"
 2020,Marist,386,Quinnipiac,562,03/01/2020,52,71,Away,,-,"1,724"
 2020,Marist,386,Canisius,116,03/04/2020,69,85,Home,,-,"1,124"
+2020,Marist,386,Niagara,482,03/10/2020,54,56,Neutral,"Atlantic City, NJ",-,0
 2020,Marquette,387,Loyola Maryland,369,11/05/2019,88,53,Home,,-,"13,103"
 2020,Marquette,387,Purdue,559,11/13/2019,65,55,Home,,-,"15,659"
 2020,Marquette,387,Wisconsin,796,11/17/2019,61,77,Away,,-,"17,287"
@@ -14764,6 +14854,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Marquette,387,Seton Hall,635,02/29/2020,79,88,Home,,-,"17,538"
 2020,Marquette,387,DePaul,176,03/03/2020,68,69,Away,,-,"6,901"
 2020,Marquette,387,St. John's (NY),603,03/07/2020,86,88,Away,,-,"7,720"
+2020,Marquette,387,Seton Hall,635,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,Mars Hill,1199,Elon,1068,11/05/2019,84,90,Away,,-,"1,456"
 2020,Mars Hill,1199,Belmont Abbey,2683,11/08/2019,95,120,Away,,-,315
 2020,Mars Hill,1199,Limestone,1174,11/09/2019,90,77,Neutral,"Belmont, NC",-,325
@@ -14826,7 +14917,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Marshall,388,Old Dominion,523,02/22/2020,74,66,Home,,-,"5,916"
 2020,Marshall,388,UAB,9,02/27/2020,80,88,Away,,-,"2,342"
 2020,Marshall,388,Fla. Atlantic,229,03/04/2020,94,82,Home,,-,"5,426"
-2020,Marshall,388,UTSA,706,03/07/2020,82,77,Away,,-,402
+2020,Marshall,388,UTSA,706,03/07/2020,82,77,Away,,-,902
+2020,Marshall,388,UTEP,704,03/11/2020,86,78,Neutral,"Frisco, TX",-,"2,061"
+2020,Marshall,388,Louisiana Tech,366,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Martin Luther,8597,Oak Hills Christian,,11/15/2019,104,37,Neutral,"Bemidji, MN",-,63
 2020,Martin Luther,8597,Bemidji St.,54,11/16/2019,59,127,Away,,-,206
 2020,Martin Luther,8597,Silver Lake,,11/22/2019,59,61,Away,,-,0
@@ -15109,6 +15202,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Massachusetts,400,Richmond,575,02/29/2020,71,95,Away,,-,"7,201"
 2020,Massachusetts,400,La Salle,340,03/04/2020,75,64,Away,,-,"1,352"
 2020,Massachusetts,400,Rhode Island,572,03/07/2020,63,64,Home,,-,"4,053"
+2020,Massachusetts,400,VCU,740,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,McDaniel,773,Becker,26107,11/15/2019,53,56,Neutral,"Owings Mills, MD",-,0
 2020,McDaniel,773,SUNY Maritime,478,11/16/2019,67,55,Neutral,"Owings Mills, MD",-,150
 2020,McDaniel,773,Wilson,12973,11/19/2019,60,58,Away,,-,119
@@ -15245,6 +15339,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,McNeese,402,Houston Baptist,287,02/29/2020,100,80,Away,,-,853
 2020,McNeese,402,Nicholls St.,483,03/04/2020,56,80,Away,,-,879
 2020,McNeese,402,Lamar University,346,03/07/2020,70,66,Away,,-,"3,847"
+2020,McNeese,402,Lamar University,346,03/11/2020,59,80,Neutral,"Katy, TX",-,0
 2020,Me.-Farmington,379,Me.-Augusta,,11/09/2019,111,81,Home,,-,471
 2020,Me.-Farmington,379,Colby,151,11/19/2019,65,91,Away,,-,250
 2020,Me.-Farmington,379,New England Col.,467,11/22/2019,71,67,Neutral,"Waterville, ME",-,163
@@ -15382,6 +15477,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Memphis,404,Tulane,718,02/29/2020,74,67,Away,,1 OT,"3,023"
 2020,Memphis,404,Wichita St.,782,03/05/2020,68,60,Home,,-,"17,021"
 2020,Memphis,404,Houston,288,03/08/2020,57,64,Away,,-,"7,129"
+2020,Memphis,404,East Carolina,196,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,Mercer,406,St. John's (NY),603,11/06/2019,79,109,Away,,-,"3,354"
 2020,Mercer,406,Columbia Int'l,,11/08/2019,84,76,Home,,-,"2,027"
 2020,Mercer,406,Kennesaw St.,1157,11/11/2019,74,62,Home,,-,"2,373"
@@ -15610,6 +15706,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Miami (FL),415,Georgia Tech,255,02/29/2020,57,63,Away,,-,"6,681"
 2020,Miami (FL),415,Virginia,746,03/04/2020,44,46,Home,,-,"5,318"
 2020,Miami (FL),415,Syracuse,688,03/07/2020,69,65,Home,,1 OT,"6,025"
+2020,Miami (FL),415,Clemson,147,03/11/2020,64,69,Neutral,"Greensboro, NC",-,"20,809"
 2020,Miami (OH),414,Wright St.,810,11/09/2019,81,88,Home,,-,"2,034"
 2020,Miami (OH),414,Purdue Fort Wayne,308,11/13/2019,84,80,Away,,-,"1,355"
 2020,Miami (OH),414,Alabama A&M,6,11/16/2019,79,63,Home,,-,"1,480"
@@ -15642,6 +15739,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Miami (OH),414,Buffalo,86,03/03/2020,69,75,Away,,-,"3,252"
 2020,Miami (OH),414,Ohio,519,03/06/2020,65,67,Home,,-,"2,289"
 2020,Miami (OH),414,Buffalo,86,03/09/2020,85,79,Away,,-,"3,741"
+2020,Miami (OH),414,Northern Ill.,503,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Michigan,418,Appalachian St.,27,11/05/2019,79,71,Home,,-,"11,325"
 2020,Michigan,418,Creighton,169,11/12/2019,79,69,Home,,-,"11,398"
 2020,Michigan,418,Elon,1068,11/15/2019,70,50,Home,,-,"12,707"
@@ -15673,6 +15771,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Michigan,418,Ohio St.,518,03/01/2020,63,77,Away,,-,"18,809"
 2020,Michigan,418,Nebraska,463,03/05/2020,82,58,Home,,-,"12,707"
 2020,Michigan,418,Maryland,392,03/08/2020,70,83,Away,,-,"17,950"
+2020,Michigan,418,Rutgers,587,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Michigan St.,416,Kentucky,334,11/05/2019,62,69,Neutral,"New York, NY",-,"19,812"
 2020,Michigan St.,416,Binghamton,62,11/10/2019,100,47,Home,,-,"14,797"
 2020,Michigan St.,416,Seton Hall,635,11/14/2019,76,73,Away,,-,"14,051"
@@ -16053,6 +16152,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Minnesota,428,Wisconsin,796,03/01/2020,69,71,Away,,-,"17,287"
 2020,Minnesota,428,Indiana,306,03/04/2020,67,72,Away,,-,"17,222"
 2020,Minnesota,428,Nebraska,463,03/08/2020,107,75,Home,,-,"9,984"
+2020,Minnesota,428,Northwestern,509,03/11/2020,74,57,Neutral,"Indianapolis, IN",-,0
+2020,Minnesota,428,Iowa,312,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Minnesota St.,383,Washburn,2814,11/08/2019,71,78,Neutral,"Kansas City, MO",1 OT,525
 2020,Minnesota St.,383,Mo. Southern St.,9012,11/09/2019,69,74,Neutral,"Kansas City, MO",-,525
 2020,Minnesota St.,383,St. Cloud St.,598,11/16/2019,73,61,Home,,-,521
@@ -16258,6 +16359,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Missouri,434,Mississippi St.,430,02/29/2020,63,67,Home,,-,"10,397"
 2020,Missouri,434,Ole Miss,433,03/04/2020,67,75,Away,,-,"6,887"
 2020,Missouri,434,Alabama,8,03/07/2020,69,50,Home,,-,"10,047"
+2020,Missouri,434,Texas A&M,697,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Missouri S&T,435,Lincoln (MO),356,11/13/2019,55,66,Home,,-,130
 2020,Missouri S&T,435,Missouri Western,9013,11/17/2019,64,66,Away,,1 OT,"1,185"
 2020,Missouri S&T,435,Lindenwood (IL),,11/19/2019,77,59,Home,,-,104
@@ -16528,6 +16630,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Monmouth,439,Manhattan,381,03/01/2020,80,60,Home,,-,"3,271"
 2020,Monmouth,439,Fairfield,220,03/04/2020,69,45,Home,,-,"1,752"
 2020,Monmouth,439,Siena,639,03/06/2020,72,86,Home,,-,"2,657"
+2020,Monmouth,439,Quinnipiac,562,03/12/2020,0,0,Neutral,"Atlantic City, NJ",-,0
 2020,Monmouth (IL),438,Eureka,218,11/15/2019,83,71,Home,,-,325
 2020,Monmouth (IL),438,MacMurray,377,11/16/2019,86,75,Home,,-,225
 2020,Monmouth (IL),438,Wis.-Whitewater,805,11/22/2019,71,66,Away,,-,275
@@ -16612,6 +16715,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Montana,441,Sacramento St.,102,02/29/2020,79,71,Away,,-,"1,172"
 2020,Montana,441,Northern Colo.,502,03/05/2020,64,71,Home,,-,"4,822"
 2020,Montana,441,Southern Utah,667,03/07/2020,80,85,Home,,1 OT,"5,052"
+2020,Montana,441,Idaho St.,294,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Montana St.,440,Utah St.,731,11/05/2019,73,81,Away,,-,"7,331"
 2020,Montana St.,440,Rocky Mountain,,11/09/2019,93,60,Home,,-,"2,697"
 2020,Montana St.,440,Appalachian St.,27,11/15/2019,59,56,Neutral,"Greensboro, NC",-,214
@@ -16643,6 +16747,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Montana St.,440,Northern Ariz.,501,02/29/2020,63,57,Away,,-,"1,164"
 2020,Montana St.,440,Southern Utah,667,03/05/2020,73,65,Home,,-,"3,073"
 2020,Montana St.,440,Northern Colo.,502,03/07/2020,61,75,Home,,-,"3,519"
+2020,Montana St.,440,Portland St.,550,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Montclair St.,442,Whitman,780,11/08/2019,104,114,Neutral,"Salem, OR",-,70
 2020,Montclair St.,442,Willamette,785,11/09/2019,107,74,Away,,-,125
 2020,Montclair St.,442,Bridgewater (VA),75,11/16/2019,112,101,Neutral,"Arlington, VA",-,100
@@ -16817,6 +16922,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Morgan St.,446,Delaware St.,178,02/24/2020,90,80,Home,,-,"1,167"
 2020,Morgan St.,446,Coppin St.,165,02/29/2020,65,72,Home,,-,"3,212"
 2020,Morgan St.,446,Norfolk St.,485,03/05/2020,62,68,Home,,-,"1,198"
+2020,Morgan St.,446,Bethune-Cookman,61,03/12/2020,0,0,Neutral,"Norfolk, VA",-,0
 2020,Morrisville St.,30067,Brockport,78,11/12/2019,73,70,Home,,-,341
 2020,Morrisville St.,30067,Wash. & Jeff.,751,11/15/2019,59,63,Neutral,"Buffalo, NY",-,102
 2020,Morrisville St.,30067,Medaille,23725,11/16/2019,77,79,Neutral,"Buffalo, NY",-,79
@@ -17250,6 +17356,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,N.C. A&T,488,UMES,393,02/24/2020,83,62,Home,,-,"2,835"
 2020,N.C. A&T,488,South Carolina St.,647,03/02/2020,76,65,Away,,-,0
 2020,N.C. A&T,488,N.C. Central,489,03/05/2020,80,86,Away,,-,"3,026"
+2020,N.C. A&T,488,Howard,290,03/11/2020,86,77,Neutral,"Norfolk, VA",-,0
 2020,N.C. Central,489,SFA,676,11/09/2019,64,94,Away,,-,"3,167"
 2020,N.C. Central,489,USC Upstate,10411,11/11/2019,73,64,Home,,-,973
 2020,N.C. Central,489,Akron,5,11/15/2019,47,57,Away,,-,"2,103"
@@ -17280,6 +17387,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,N.C. Central,489,South Carolina St.,647,02/29/2020,83,82,Away,,2 OT,477
 2020,N.C. Central,489,Bethune-Cookman,61,03/02/2020,71,68,Home,,1 OT,"1,338"
 2020,N.C. Central,489,N.C. A&T,488,03/05/2020,86,80,Home,,-,"3,026"
+2020,N.C. Central,489,Delaware St.,178,03/11/2020,92,75,Neutral,"Norfolk, VA",-,0
 2020,N.C. Wesleyan,491,Lynchburg,374,11/13/2019,68,88,Home,,-,424
 2020,N.C. Wesleyan,491,Mary Hardin-Baylor,1203,11/16/2019,68,75,Neutral,"Greensboro, NC",-,100
 2020,N.C. Wesleyan,491,Guilford,1112,11/17/2019,50,67,Away,,-,250
@@ -17426,6 +17534,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,NC State,490,Pittsburgh,545,02/29/2020,77,73,Home,,-,"15,818"
 2020,NC State,490,Duke,193,03/02/2020,69,88,Away,,-,"9,314"
 2020,NC State,490,Wake Forest,749,03/06/2020,84,64,Home,,-,"15,824"
+2020,NC State,490,Pittsburgh,545,03/11/2020,73,58,Neutral,"Greensboro, NC",-,0
+2020,NC State,490,Duke,193,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Neb. Wesleyan,462,Saint John's (MN),602,11/08/2019,78,56,Neutral,"Superior, WI",-,107
 2020,Neb. Wesleyan,462,Wis.-Superior,804,11/09/2019,87,51,Away,,-,0
 2020,Neb. Wesleyan,462,McMurry,8530,11/16/2019,108,86,Home,,-,447
@@ -17517,6 +17627,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Nebraska,463,Northwestern,509,03/01/2020,76,81,Home,,1 OT,"15,842"
 2020,Nebraska,463,Michigan,418,03/05/2020,58,82,Away,,-,"12,707"
 2020,Nebraska,463,Minnesota,428,03/08/2020,75,107,Away,,-,"9,984"
+2020,Nebraska,463,Indiana,306,03/11/2020,64,89,Neutral,"Indianapolis, IN",-,0
 2020,Neumann,1254,Kean,329,11/09/2019,89,75,Away,,-,134
 2020,Neumann,1254,Lancaster Bible,30085,11/12/2019,85,74,Away,,-,419
 2020,Neumann,1254,Swarthmore,686,11/16/2019,76,86,Home,,-,634
@@ -17754,6 +17865,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,New Mexico St.,472,Grand Canyon,1104,02/27/2020,67,53,Away,,-,"7,155"
 2020,New Mexico St.,472,CSU Bakersfield,94,02/29/2020,62,46,Away,,-,"2,947"
 2020,New Mexico St.,472,California Baptist,30135,03/05/2020,83,50,Home,,-,"7,015"
+2020,New Mexico St.,472,Chicago St.,136,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,New Orleans,474,Spring Hill,30191,11/05/2019,114,58,Home,,-,"1,427"
 2020,New Orleans,474,Butler,87,11/09/2019,53,79,Away,,-,"9,118"
 2020,New Orleans,474,SMU,663,11/12/2019,64,77,Away,,-,"3,665"
@@ -17873,6 +17985,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Niagara,482,Iona,310,02/29/2020,100,91,Home,,1 OT,"1,193"
 2020,Niagara,482,Siena,639,03/04/2020,55,77,Away,,-,"7,146"
 2020,Niagara,482,Canisius,116,03/06/2020,63,67,Away,,-,"1,805"
+2020,Niagara,482,Marist,386,03/10/2020,56,54,Neutral,"Atlantic City, NJ",-,0
+2020,Niagara,482,Rider,576,03/12/2020,0,0,Neutral,"Atlantic City, NJ",-,0
 2020,Nicholls St.,483,Illinois,301,11/05/2019,70,78,Away,,1 OT,"10,034"
 2020,Nicholls St.,483,Pittsburgh,545,11/09/2019,75,70,Away,,-,"7,956"
 2020,Nicholls St.,483,Paul Quinn,,11/13/2019,81,66,Home,,-,721
@@ -17904,6 +18018,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Nicholls St.,483,Houston Baptist,287,02/26/2020,93,85,Away,,-,595
 2020,Nicholls St.,483,New Orleans,474,02/29/2020,92,68,Home,,-,737
 2020,Nicholls St.,483,McNeese,402,03/04/2020,80,56,Home,,-,879
+2020,Nicholls St.,483,Lamar University,346,03/12/2020,0,0,Neutral,"Katy, TX",-,0
 2020,Nichols,484,Eastern Conn. St.,200,11/15/2019,74,56,Neutral,"Worcester, MA",-,500
 2020,Nichols,484,New England Col.,467,11/16/2019,107,104,Neutral,"Worcester, MA",-,400
 2020,Nichols,484,Anna Maria,26,11/19/2019,82,77,Away,,-,132
@@ -17995,6 +18110,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Norfolk St.,485,Howard,290,02/29/2020,89,59,Home,,-,"4,127"
 2020,Norfolk St.,485,Delaware St.,178,03/02/2020,79,73,Away,,-,"1,511"
 2020,Norfolk St.,485,Morgan St.,446,03/05/2020,68,62,Away,,-,"1,198"
+2020,Norfolk St.,485,Coppin St.,165,03/12/2020,0,0,Neutral,"Norfolk, VA",-,0
 2020,North Ala.,487,South Carolina,648,11/06/2019,55,77,Away,,-,"11,927"
 2020,North Ala.,487,Carver,,11/10/2019,95,64,Home,,-,476
 2020,North Ala.,487,Indiana,306,11/12/2019,65,91,Away,,-,"17,222"
@@ -18056,6 +18172,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,North Carolina,457,Syracuse,688,02/29/2020,92,79,Away,,-,"29,312"
 2020,North Carolina,457,Wake Forest,749,03/03/2020,93,83,Home,,-,"21,280"
 2020,North Carolina,457,Duke,193,03/07/2020,76,89,Away,,-,"9,314"
+2020,North Carolina,457,Virginia Tech,742,03/10/2020,78,56,Neutral,"Greensboro, NC",-,"13,310"
+2020,North Carolina,457,Syracuse,688,03/11/2020,53,81,Neutral,"Greensboro, NC",-,"20,809"
 2020,North Central (IL),492,Wis.-Oshkosh,798,11/12/2019,66,76,Home,,-,"1,250"
 2020,North Central (IL),492,Greenville,1111,11/15/2019,122,103,Home,,-,550
 2020,North Central (IL),492,Rose-Hulman,585,11/25/2019,77,54,Home,,-,225
@@ -18143,6 +18261,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,North Dakota,494,South Dakota,650,02/29/2020,67,77,Away,,-,"3,929"
 2020,North Dakota,494,South Dakota,650,03/08/2020,74,71,Neutral,"Sioux Falls, SD",-,"6,414"
 2020,North Dakota,494,Purdue Fort Wayne,308,03/09/2020,73,56,Neutral,"Sioux Falls, SD",-,"4,761"
+2020,North Dakota,494,North Dakota St.,493,03/10/2020,53,89,Neutral,"Sioux Falls, SD",-,"4,306"
 2020,North Dakota St.,493,Kansas St.,327,11/05/2019,54,67,Away,,-,"8,145"
 2020,North Dakota St.,493,Mayville St.,,11/07/2019,93,53,Home,,-,"1,770"
 2020,North Dakota St.,493,Cal Poly,90,11/11/2019,74,67,Home,,-,"2,006"
@@ -18175,6 +18294,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,North Dakota St.,493,Omaha,464,02/29/2020,87,67,Home,,-,"3,758"
 2020,North Dakota St.,493,Denver,183,03/07/2020,71,69,Neutral,"Sioux Falls, SD",-,0
 2020,North Dakota St.,493,Oral Roberts,527,03/09/2020,75,69,Neutral,"Sioux Falls, SD",-,0
+2020,North Dakota St.,493,North Dakota,494,03/10/2020,89,53,Neutral,"Sioux Falls, SD",-,"4,306"
 2020,North Florida,2711,Florida,235,11/05/2019,59,74,Away,,-,"9,685"
 2020,North Florida,2711,Fla. National,,11/07/2019,89,81,Home,,-,"1,748"
 2020,North Florida,2711,Ga. Southern,253,11/11/2019,80,77,Home,,-,"1,659"
@@ -18324,6 +18444,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,North Texas,497,FIU,231,02/27/2020,78,59,Away,,-,644
 2020,North Texas,497,Western Ky.,772,03/01/2020,78,72,Home,,1 OT,"4,471"
 2020,North Texas,497,Charlotte,458,03/04/2020,43,56,Away,,-,"2,811"
+2020,North Texas,497,Fla. Atlantic,229,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Northeastern,500,Boston U.,68,11/05/2019,72,67,Away,,-,"1,171"
 2020,Northeastern,500,Harvard,275,11/08/2019,84,79,Home,,-,"1,557"
 2020,Northeastern,500,Massachusetts,400,11/12/2019,71,80,Away,,-,"2,145"
@@ -18356,6 +18477,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northeastern,500,Towson,711,03/01/2020,72,75,Home,,-,"1,803"
 2020,Northeastern,500,Towson,711,03/08/2020,72,62,Neutral,"Washington D.C., DC",-,"2,718"
 2020,Northeastern,500,Elon,1068,03/09/2020,68,60,Neutral,"Washington D.C., DC",-,"1,821"
+2020,Northeastern,500,Hofstra,283,03/10/2020,61,70,Neutral,"Washington D.C., DC",-,"1,926"
 2020,Northeastern St.,12810,Northwestern Okla.,30178,11/08/2019,74,53,Away,,-,411
 2020,Northeastern St.,12810,Mary,30075,11/09/2019,85,54,Neutral,"Alva, OK",-,42
 2020,Northeastern St.,12810,Bacone,,11/13/2019,106,46,Home,,-,843
@@ -18414,6 +18536,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northern Ariz.,501,Montana,441,02/27/2020,57,56,Home,,-,918
 2020,Northern Ariz.,501,Montana St.,440,02/29/2020,57,63,Home,,-,"1,164"
 2020,Northern Ariz.,501,Portland St.,550,03/05/2020,66,80,Away,,-,"1,205"
+2020,Northern Ariz.,501,Idaho St.,294,03/11/2020,62,64,Neutral,"Boise , ID",-,"2,503"
 2020,Northern Colo.,502,Texas,703,11/05/2019,45,69,Away,,-,"8,208"
 2020,Northern Colo.,502,Incarnate Word,2743,11/08/2019,83,61,Home,,-,"1,455"
 2020,Northern Colo.,502,Colorado Col.,154,11/12/2019,104,38,Home,,-,"1,195"
@@ -18445,6 +18568,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northern Colo.,502,Eastern Wash.,207,02/29/2020,64,68,Home,,-,"2,582"
 2020,Northern Colo.,502,Montana,441,03/05/2020,71,64,Away,,-,"4,822"
 2020,Northern Colo.,502,Montana St.,440,03/07/2020,75,61,Away,,-,"3,519"
+2020,Northern Colo.,502,Southern Utah,667,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Northern Ill.,503,UNI,504,11/09/2019,54,64,Home,,-,"1,003"
 2020,Northern Ill.,503,Iowa St.,311,11/12/2019,52,70,Away,,-,"13,762"
 2020,Northern Ill.,503,Coppin St.,165,11/15/2019,81,69,Home,,-,695
@@ -18476,6 +18600,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northern Ill.,503,Western Mich.,774,02/29/2020,69,72,Away,,-,"2,488"
 2020,Northern Ill.,503,Toledo,709,03/03/2020,71,50,Home,,-,"1,019"
 2020,Northern Ill.,503,Ball St.,47,03/06/2020,54,75,Home,,-,"1,749"
+2020,Northern Ill.,503,Miami (OH),414,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Northern Ky.,505,UC Clermont,,11/05/2019,105,55,Home,,-,"2,857"
 2020,Northern Ky.,505,Missouri,434,11/08/2019,56,71,Away,,-,"8,486"
 2020,Northern Ky.,505,Coastal Caro.,149,11/12/2019,69,68,Away,,-,"1,015"
@@ -18507,6 +18632,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northern Ky.,505,Youngstown St.,817,02/22/2020,61,59,Away,,-,"4,213"
 2020,Northern Ky.,505,Wright St.,810,02/28/2020,62,64,Home,,-,"6,776"
 2020,Northern Ky.,505,Green Bay,794,03/09/2020,80,69,Neutral,"Indianapolis, IN",-,"1,923"
+2020,Northern Ky.,505,UIC,302,03/10/2020,71,62,Neutral,"Indianapolis, IN",-,"1,861"
 2020,Northern Mich.,506,Lewis,354,11/09/2019,76,63,Neutral,"Lebanon, IL",-,273
 2020,Northern Mich.,506,McKendree,30138,11/10/2019,46,69,Away,,-,273
 2020,Northern Mich.,506,Minn. Duluth,427,11/15/2019,62,84,Away,,-,808
@@ -18684,6 +18810,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northwestern,509,Nebraska,463,03/01/2020,81,76,Away,,1 OT,"15,842"
 2020,Northwestern,509,Wisconsin,796,03/04/2020,48,63,Away,,-,"16,897"
 2020,Northwestern,509,Penn St.,539,03/07/2020,80,69,Home,,-,"6,084"
+2020,Northwestern,509,Minnesota,428,03/11/2020,57,74,Neutral,"Indianapolis, IN",-,0
 2020,Northwestern Okla.,30178,Northeastern St.,12810,11/08/2019,53,74,Home,,-,411
 2020,Northwestern Okla.,30178,Central Okla.,1009,11/09/2019,63,55,Home,,-,410
 2020,Northwestern Okla.,30178,Newman,30054,11/16/2019,53,65,Away,,-,253
@@ -18741,6 +18868,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Northwestern St.,508,Southeastern La.,655,02/29/2020,92,95,Away,,-,603
 2020,Northwestern St.,508,New Orleans,474,03/04/2020,95,73,Home,,-,"1,212"
 2020,Northwestern St.,508,Central Ark.,1004,03/07/2020,100,85,Away,,-,"1,245"
+2020,Northwestern St.,508,A&M-Corpus Christi,26172,03/11/2020,79,62,Neutral,"Katy, TX",-,0
+2020,Northwestern St.,508,Sam Houston St.,624,03/12/2020,0,0,Neutral,"Katy, TX",-,0
 2020,Northwestern-St.Paul,30031,MSOE,20220,11/08/2019,75,76,Home,,-,692
 2020,Northwestern-St.Paul,30031,Wis. Lutheran,8911,11/09/2019,87,82,Home,,-,286
 2020,Northwestern-St.Paul,30031,Macalester,376,11/13/2019,94,69,Away,,-,221
@@ -18855,6 +18984,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Notre Dame,513,Wake Forest,749,02/29/2020,73,84,Away,,-,"8,870"
 2020,Notre Dame,513,Florida St.,234,03/04/2020,71,73,Home,,-,"7,165"
 2020,Notre Dame,513,Virginia Tech,742,03/07/2020,64,56,Home,,-,"8,301"
+2020,Notre Dame,513,Boston College,67,03/11/2020,80,58,Neutral,"Greensboro, NC",-,0
+2020,Notre Dame,513,Virginia,746,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Notre Dame (OH),30126,Slippery Rock,643,11/08/2019,76,78,Neutral,"Fairmont, WV",-,275
 2020,Notre Dame (OH),30126,Millersville,423,11/09/2019,61,82,Neutral,"Fairmont, WV",-,359
 2020,Notre Dame (OH),30126,Edinboro,209,11/18/2019,66,70,Home,,-,458
@@ -19247,6 +19378,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Ohio,519,Akron,5,03/03/2020,67,74,Away,,-,"3,825"
 2020,Ohio,519,Miami (OH),414,03/06/2020,67,65,Away,,-,"2,289"
 2020,Ohio,519,Central Mich.,129,03/09/2020,85,65,Home,,-,"3,312"
+2020,Ohio,519,Akron,5,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Ohio Dominican,30119,Wayne St. (MI),757,11/08/2019,87,86,Away,,2 OT,433
 2020,Ohio Dominican,30119,Ashland,35,11/10/2019,82,85,Home,,-,393
 2020,Ohio Dominican,30119,Pitt.-Johnstown,546,11/16/2019,76,94,Away,,-,300
@@ -19332,6 +19464,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Ohio St.,518,Michigan,418,03/01/2020,77,63,Home,,-,"18,809"
 2020,Ohio St.,518,Illinois,301,03/05/2020,71,63,Home,,-,"16,382"
 2020,Ohio St.,518,Michigan St.,416,03/08/2020,69,80,Away,,-,"14,797"
+2020,Ohio St.,518,Purdue,559,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Ohio Valley,15207,Ill.-Springfield,30050,11/08/2019,71,91,Away,,-,649
 2020,Ohio Valley,15207,Lindenwood (MO),30136,11/09/2019,73,108,Neutral,"Springfield, IL",-,75
 2020,Ohio Valley,15207,Davis & Elkins,174,11/14/2019,83,88,Away,,-,321
@@ -19476,6 +19609,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Oklahoma,522,West Virginia,768,02/29/2020,73,62,Away,,-,"14,044"
 2020,Oklahoma,522,Texas,703,03/03/2020,51,52,Home,,-,"10,110"
 2020,Oklahoma,522,TCU,698,03/07/2020,78,76,Away,,-,"6,036"
+2020,Oklahoma,522,West Virginia,768,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Oklahoma St.,521,Oral Roberts,527,11/06/2019,80,75,Home,,-,"7,319"
 2020,Oklahoma St.,521,UMKC,2707,11/09/2019,69,51,Home,,-,"6,239"
 2020,Oklahoma St.,521,Col. of Charleston,1014,11/13/2019,73,54,Away,,-,"5,005"
@@ -19507,6 +19641,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Oklahoma St.,521,Iowa St.,311,02/29/2020,73,61,Home,,-,"8,129"
 2020,Oklahoma St.,521,Kansas St.,327,03/04/2020,69,63,Home,,-,"6,983"
 2020,Oklahoma St.,521,Texas,703,03/07/2020,81,59,Away,,-,"12,733"
+2020,Oklahoma St.,521,Iowa St.,311,03/11/2020,72,71,Neutral,"Kansas City, MO",-,0
+2020,Oklahoma St.,521,Kansas,328,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Old Dominion,523,UNI,504,11/05/2019,53,58,Away,,-,"3,705"
 2020,Old Dominion,523,Saint Joseph's,606,11/10/2019,82,69,Home,,-,"6,086"
 2020,Old Dominion,523,Loyola Maryland,369,11/13/2019,62,53,Home,,-,"5,863"
@@ -19538,6 +19674,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Old Dominion,523,Fla. Atlantic,229,03/01/2020,85,80,Home,,1 OT,"5,031"
 2020,Old Dominion,523,UTSA,706,03/04/2020,84,59,Home,,-,"4,969"
 2020,Old Dominion,523,UAB,9,03/07/2020,63,72,Away,,-,"2,594"
+2020,Old Dominion,523,Fla. Atlantic,229,03/11/2020,56,66,Neutral,"Frisco, TX",-,0
 2020,Old Westbury,524,Drew,190,11/16/2019,69,75,Away,,-,688
 2020,Old Westbury,524,TCNJ,712,11/17/2019,69,84,Neutral,"Madison, NJ",-,288
 2020,Old Westbury,524,Marywood,397,11/22/2019,88,91,Away,,1 OT,170
@@ -19595,6 +19732,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Ole Miss,433,Vanderbilt,736,02/29/2020,86,60,Home,,-,"7,495"
 2020,Ole Miss,433,Missouri,434,03/04/2020,75,67,Home,,-,"6,887"
 2020,Ole Miss,433,Mississippi St.,430,03/07/2020,44,69,Away,,-,"7,569"
+2020,Ole Miss,433,Georgia,257,03/11/2020,63,81,Neutral,"Nashville, TN",-,0
 2020,Olivet,525,Davenport,30221,11/12/2019,74,95,Away,,-,70
 2020,Olivet,525,Great Lake Christian,,11/15/2019,80,87,Neutral,"Defiance, OH",-,103
 2020,Olivet,525,Spalding,23260,11/16/2019,95,75,Neutral,"Defiance, OH",-,100
@@ -19715,6 +19853,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Oregon,529,Oregon St.,528,02/27/2020,69,54,Home,,-,"10,098"
 2020,Oregon,529,California,107,03/05/2020,90,56,Home,,-,"7,651"
 2020,Oregon,529,Stanford,674,03/07/2020,80,67,Home,,-,"10,862"
+2020,Oregon,529,Oregon St.,528,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Oregon St.,528,CSUN,101,11/05/2019,87,67,Home,,-,"3,422"
 2020,Oregon St.,528,Iowa St.,311,11/09/2019,80,74,Home,,-,"6,173"
 2020,Oregon St.,528,Oklahoma,522,11/12/2019,69,77,Neutral,"Portland, OR",-,"7,246"
@@ -19745,6 +19884,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Oregon St.,528,Oregon,529,02/27/2020,54,69,Away,,-,"10,098"
 2020,Oregon St.,528,Stanford,674,03/05/2020,68,65,Home,,-,"3,718"
 2020,Oregon St.,528,California,107,03/07/2020,74,56,Home,,-,"4,545"
+2020,Oregon St.,528,Utah,732,03/11/2020,71,69,Neutral,"Las Vegas, NV",-,0
+2020,Oregon St.,528,Oregon,529,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Oswego St.,530,Ithaca,313,11/15/2019,85,80,Neutral,"Elmira, NY",-,125
 2020,Oswego St.,530,Keystone,30047,11/16/2019,92,81,Neutral,"Elmira, NY",-,75
 2020,Oswego St.,530,Clarkson,146,11/19/2019,80,72,Away,,-,185
@@ -20120,6 +20261,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Penn St.,539,Iowa,312,02/29/2020,68,77,Away,,-,"15,056"
 2020,Penn St.,539,Michigan St.,416,03/03/2020,71,79,Home,,-,"13,437"
 2020,Penn St.,539,Northwestern,509,03/07/2020,69,80,Away,,-,"6,084"
+2020,Penn St.,539,Indiana,306,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Penn St. Harrisburg,30081,Marywood,397,11/09/2019,73,62,Home,,-,460
 2020,Penn St. Harrisburg,30081,Widener,783,11/10/2019,74,82,Home,,-,210
 2020,Penn St. Harrisburg,30081,Immaculata,303,11/13/2019,87,76,Home,,-,205
@@ -20513,6 +20655,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Pittsburgh,545,Syracuse,688,02/26/2020,49,72,Home,,-,"9,001"
 2020,Pittsburgh,545,NC State,490,02/29/2020,73,77,Away,,-,"15,818"
 2020,Pittsburgh,545,Georgia Tech,255,03/04/2020,57,73,Away,,-,"4,746"
+2020,Pittsburgh,545,Wake Forest,749,03/10/2020,81,72,Neutral,"Greensboro, NC",-,0
+2020,Pittsburgh,545,NC State,490,03/11/2020,58,73,Neutral,"Greensboro, NC",-,0
 2020,Plattsburgh St.,547,Farmingdale St.,27892,11/15/2019,84,95,Neutral,"Oneonta, NY",-,100
 2020,Plattsburgh St.,547,CCNY,480,11/16/2019,79,62,Neutral,"Oneonta, NY",-,50
 2020,Plattsburgh St.,547,St. Lawrence,607,11/19/2019,89,84,Home,,-,867
@@ -20687,6 +20831,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Portland St.,550,Weber St.,758,02/29/2020,89,83,Away,,-,"5,422"
 2020,Portland St.,550,Northern Ariz.,501,03/05/2020,80,66,Home,,-,"1,205"
 2020,Portland St.,550,Sacramento St.,102,03/07/2020,76,72,Home,,-,"1,225"
+2020,Portland St.,550,Montana St.,440,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Post,1318,Southern Conn. St.,658,11/08/2019,69,64,Neutral,"Bridgeport, CT",-,266
 2020,Post,1318,Bridgeport,74,11/10/2019,90,87,Away,,-,263
 2020,Post,1318,Mercy,407,11/16/2019,99,77,Home,,-,220
@@ -20746,6 +20891,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Prairie View,553,Alabama A&M,6,03/02/2020,73,62,Home,,-,796
 2020,Prairie View,553,Alcorn,17,03/05/2020,71,80,Away,,-,395
 2020,Prairie View,553,Southern U.,665,03/07/2020,80,89,Away,,1 OT,"4,275"
+2020,Prairie View,553,Alabama A&M,6,03/10/2020,82,60,Home,,-,789
 2020,Presbyterian,1320,Clemson,147,11/07/2019,45,79,Away,,-,"5,713"
 2020,Presbyterian,1320,VMI,741,11/11/2019,80,77,Away,,1 OT,985
 2020,Presbyterian,1320,Morehead St.,444,11/14/2019,55,77,Home,,-,498
@@ -20861,6 +21007,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Providence,556,Villanova,739,02/29/2020,58,54,Away,,-,"15,516"
 2020,Providence,556,Xavier,812,03/04/2020,80,74,Home,,-,"11,736"
 2020,Providence,556,DePaul,176,03/07/2020,93,55,Home,,-,"12,103"
+2020,Providence,556,Butler,87,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,Puget Sound,557,Portland St.,550,11/05/2019,69,94,Away,,-,856
 2020,Puget Sound,557,UC Santa Cruz,113,11/15/2019,79,81,Away,,-,81
 2020,Puget Sound,557,Caltech,89,11/16/2019,72,62,Neutral,"Santa Cruz, CA",-,95
@@ -20948,6 +21095,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Purdue,559,Indiana,306,02/27/2020,57,49,Home,,-,"14,804"
 2020,Purdue,559,Iowa,312,03/03/2020,77,68,Away,,-,"13,216"
 2020,Purdue,559,Rutgers,587,03/07/2020,68,71,Home,,1 OT,"14,804"
+2020,Purdue,559,Ohio St.,518,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Purdue Fort Wayne,308,UNLV,465,11/05/2019,71,86,Away,,-,"7,728"
 2020,Purdue Fort Wayne,308,Manchester,1192,11/07/2019,91,80,Home,,-,"1,360"
 2020,Purdue Fort Wayne,308,Southeast Mo. St.,654,11/10/2019,78,79,Away,,-,"1,685"
@@ -21128,6 +21276,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Quinnipiac,562,Fairfield,220,02/28/2020,60,58,Away,,-,"1,921"
 2020,Quinnipiac,562,Marist,386,03/01/2020,71,52,Home,,-,"1,724"
 2020,Quinnipiac,562,Iona,310,03/04/2020,69,68,Away,,-,"1,592"
+2020,Quinnipiac,562,Monmouth,439,03/12/2020,0,0,Neutral,"Atlantic City, NJ",-,0
 2020,Radford,563,Liberty,355,11/08/2019,60,66,Away,,-,"7,872"
 2020,Radford,563,Bridgewater (VA),75,11/12/2019,91,40,Home,,-,"1,360"
 2020,Radford,563,Ga. Southern,253,11/15/2019,73,76,Away,,-,"1,599"
@@ -21468,6 +21617,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Rice,574,Middle Tenn.,419,03/01/2020,77,66,Home,,-,"1,677"
 2020,Rice,574,Southern Miss.,664,03/04/2020,72,57,Away,,-,"3,065"
 2020,Rice,574,UTEP,704,03/07/2020,72,77,Home,,-,"1,608"
+2020,Rice,574,FIU,231,03/11/2020,76,85,Neutral,"Frisco, TX",-,0
 2020,Richmond,575,Saint Francis (PA),600,11/08/2019,100,98,Home,,1 OT,"6,602"
 2020,Richmond,575,Vanderbilt,736,11/14/2019,93,92,Home,,1 OT,"5,602"
 2020,Richmond,575,CSUN,101,11/17/2019,90,62,Home,,-,"4,604"
@@ -21529,6 +21679,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Rider,576,Monmouth,439,02/28/2020,79,67,Home,,-,"1,650"
 2020,Rider,576,Fairfield,220,03/01/2020,65,51,Away,,-,"2,321"
 2020,Rider,576,Manhattan,381,03/04/2020,71,59,Home,,-,"1,611"
+2020,Rider,576,Niagara,482,03/12/2020,0,0,Neutral,"Atlantic City, NJ",-,0
 2020,Ripon,577,Hope,286,11/08/2019,72,84,Away,,-,"2,355"
 2020,Ripon,577,Kalamazoo,326,11/09/2019,90,88,Away,,-,342
 2020,Ripon,577,Wis.-Whitewater,805,11/19/2019,71,70,Away,,-,362
@@ -21667,6 +21818,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Robert Morris,579,Saint Francis (PA),600,02/29/2020,78,68,Home,,-,"2,174"
 2020,Robert Morris,579,St. Francis Brooklyn,599,03/04/2020,59,58,Home,,-,659
 2020,Robert Morris,579,LIU Brooklyn,361,03/07/2020,86,66,Home,,-,"1,342"
+2020,Robert Morris,579,Saint Francis (PA),600,03/10/2020,77,67,Home,,-,"4,034"
 2020,Roberts Wesleyan,30150,Nyack,1277,11/08/2019,78,75,Neutral,"Amherst, NY",-,0
 2020,Roberts Wesleyan,30150,Felician,23157,11/09/2019,74,82,Neutral,"Amherst, NY",-,0
 2020,Roberts Wesleyan,30150,Edinboro,209,11/14/2019,65,67,Home,,-,225
@@ -21973,6 +22125,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Rutgers,587,Penn St.,539,02/26/2020,64,65,Away,,-,"8,345"
 2020,Rutgers,587,Maryland,392,03/03/2020,78,67,Home,,-,"8,000"
 2020,Rutgers,587,Purdue,559,03/07/2020,71,68,Away,,1 OT,"14,804"
+2020,Rutgers,587,Michigan,418,03/12/2020,0,0,Neutral,"Indianapolis, IN",-,0
 2020,Rutgers-Camden,588,Arcadia,966,11/09/2019,68,71,Away,,1 OT,447
 2020,Rutgers-Camden,588,Rosemont,15882,11/10/2019,89,83,Neutral,"Glenside, PA",-,85
 2020,Rutgers-Camden,588,John Jay,321,11/13/2019,82,71,Home,,-,140
@@ -22089,6 +22242,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Sacramento St.,102,Montana St.,440,02/27/2020,81,52,Home,,-,786
 2020,Sacramento St.,102,Montana,441,02/29/2020,71,79,Home,,-,"1,172"
 2020,Sacramento St.,102,Portland St.,550,03/07/2020,72,76,Away,,-,"1,225"
+2020,Sacramento St.,102,Weber St.,758,03/11/2020,62,54,Neutral,"Boise , ID",-,0
+2020,Sacramento St.,102,Eastern Wash.,207,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Sacred Heart,590,Providence,556,11/05/2019,60,106,Away,,-,"8,103"
 2020,Sacred Heart,590,UConn,164,11/08/2019,67,89,Away,,-,"10,167"
 2020,Sacred Heart,590,Binghamton,62,11/16/2019,72,76,Away,,-,"2,510"
@@ -22238,6 +22393,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Saint Francis (PA),600,Robert Morris,579,02/29/2020,68,78,Away,,-,"2,174"
 2020,Saint Francis (PA),600,Bryant,81,03/04/2020,87,61,Home,,-,"1,025"
 2020,Saint Francis (PA),600,Sacred Heart,590,03/07/2020,84,72,Home,,-,"1,423"
+2020,Saint Francis (PA),600,Robert Morris,579,03/10/2020,67,77,Away,,-,"4,034"
 2020,Saint John's (MN),602,Neb. Wesleyan,462,11/08/2019,56,78,Neutral,"Superior, WI",-,107
 2020,Saint John's (MN),602,Marian (WI),1196,11/09/2019,71,43,Neutral,"Superior, WI",-,106
 2020,Saint John's (MN),602,Minn.-Morris,1226,11/13/2019,86,80,Away,,-,152
@@ -22298,6 +22454,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Saint Joseph's,606,Fordham,236,02/29/2020,73,69,Home,,-,"2,257"
 2020,Saint Joseph's,606,St. Bonaventure,596,03/04/2020,73,89,Away,,-,"3,973"
 2020,Saint Joseph's,606,La Salle,340,03/07/2020,77,78,Home,,-,"2,390"
+2020,Saint Joseph's,606,George Mason,248,03/11/2020,70,77,Neutral,"Brooklyn, NY",-,0
 2020,Saint Leo,608,Ala.-Huntsville,10,11/09/2019,48,56,Neutral,"Montevallo, AL",-,311
 2020,Saint Leo,608,Montevallo,1238,11/10/2019,71,58,Away,,-,692
 2020,Saint Leo,608,Georgia College,1096,11/16/2019,76,52,Home,,-,397
@@ -22420,6 +22577,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Saint Mary's (CA),610,Gonzaga,260,02/29/2020,76,86,Away,,-,"6,000"
 2020,Saint Mary's (CA),610,Pepperdine,541,03/07/2020,89,82,Neutral,"Las Vegas, NV",2 OT,"4,350"
 2020,Saint Mary's (CA),610,BYU,77,03/09/2020,51,50,Neutral,"Las Vegas, NV",-,0
+2020,Saint Mary's (CA),610,Gonzaga,260,03/10/2020,66,84,Neutral,"Las Vegas, NV",-,"7,210"
 2020,Saint Mary's (MN),612,Crown (MN),30035,11/15/2019,68,52,Home,,-,211
 2020,Saint Mary's (MN),612,St. Olaf,615,11/23/2019,80,74,Home,,-,388
 2020,Saint Mary's (MN),612,Saint John's (MN),602,11/26/2019,63,77,Home,,-,42
@@ -22502,6 +22660,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Saint Peter's,617,Niagara,482,02/27/2020,54,63,Away,,-,985
 2020,Saint Peter's,617,Canisius,116,02/29/2020,69,68,Away,,-,"1,204"
 2020,Saint Peter's,617,Iona,310,03/06/2020,68,65,Home,,-,505
+2020,Saint Peter's,617,Iona,310,03/11/2020,56,54,Neutral,"Atlantic City, NJ",-,0
 2020,Saint Rose,1347,Chestnut Hill,21323,11/09/2019,98,87,Home,,-,298
 2020,Saint Rose,1347,Bloomfield,984,11/10/2019,63,75,Home,,-,185
 2020,Saint Rose,1347,Caldwell,995,11/16/2019,90,88,Away,,-,103
@@ -22693,6 +22852,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Sam Houston St.,624,Abilene Christian,2,02/26/2020,69,85,Away,,-,"1,439"
 2020,Sam Houston St.,624,A&M-Corpus Christi,26172,03/04/2020,60,74,Away,,-,"1,202"
 2020,Sam Houston St.,624,SFA,676,03/07/2020,57,68,Away,,-,"4,631"
+2020,Sam Houston St.,624,Northwestern St.,508,03/12/2020,0,0,Neutral,"Katy, TX",-,0
 2020,Samford,625,Morehead St.,444,11/05/2019,86,90,Away,,2 OT,"2,043"
 2020,Samford,625,Ky. Wesleyan,333,11/07/2019,68,42,Home,,-,"1,018"
 2020,Samford,625,Belmont,14927,11/11/2019,63,95,Away,,-,"2,638"
@@ -23082,6 +23242,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Seattle U,1356,Grand Canyon,1104,02/20/2020,95,89,Home,,-,0
 2020,Seattle U,1356,CSU Bakersfield,94,02/22/2020,69,54,Home,,-,999
 2020,Seattle U,1356,California Baptist,30135,02/29/2020,87,88,Away,,1 OT,"5,058"
+2020,Seattle U,1356,Utah Valley,30024,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Seton Hall,635,Wagner,748,11/05/2019,105,71,Home,,-,"1,655"
 2020,Seton Hall,635,Stony Brook,683,11/09/2019,74,57,Home,,-,"1,655"
 2020,Seton Hall,635,Michigan St.,416,11/14/2019,73,76,Home,,-,"14,051"
@@ -23112,6 +23273,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Seton Hall,635,Marquette,387,02/29/2020,88,79,Away,,-,"17,538"
 2020,Seton Hall,635,Villanova,739,03/04/2020,77,79,Home,,-,"16,863"
 2020,Seton Hall,635,Creighton,169,03/07/2020,60,77,Away,,-,"18,519"
+2020,Seton Hall,635,Marquette,387,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,Seton Hill,30063,Wheeling Jesuit,12799,11/13/2019,61,73,Away,,-,577
 2020,Seton Hill,30063,Alderson Broaddus,934,11/16/2019,83,76,Away,,-,619
 2020,Seton Hill,30063,Mansfield,384,11/23/2019,73,87,Home,,-,140
@@ -23367,6 +23529,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Siena,639,Marist,386,02/28/2020,52,50,Away,,-,"1,705"
 2020,Siena,639,Niagara,482,03/04/2020,77,55,Home,,-,"7,146"
 2020,Siena,639,Monmouth,439,03/06/2020,86,72,Away,,-,"2,657"
+2020,Siena,639,Manhattan,381,03/11/2020,63,49,Neutral,"Atlantic City, NJ",-,0
 2020,Simon Fraser,30127,UC San Diego,112,11/08/2019,70,95,Neutral,"Bellingham, WA",-,101
 2020,Simon Fraser,30127,Cal St. Dom. Hills,92,11/09/2019,82,60,Neutral,"Bellingham, WA",-,76
 2020,Simon Fraser,30127,Trinity Western (CN),,11/16/2019,98,93,Home,,-,100
@@ -23570,6 +23733,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,SMU,663,Wichita St.,782,03/01/2020,62,66,Home,,-,"5,483"
 2020,SMU,663,UCF,128,03/04/2020,58,61,Away,,-,"4,591"
 2020,SMU,663,South Fla.,651,03/07/2020,60,61,Away,,-,"3,587"
+2020,SMU,663,Temple,690,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,Sonoma St.,645,San Francisco,629,11/05/2019,50,101,Away,,-,"1,002"
 2020,Sonoma St.,645,Dominican (CA),30118,11/08/2019,87,82,Away,,-,287
 2020,Sonoma St.,645,Academy of Art,30123,11/09/2019,60,64,Neutral,"San Rafael, CA",-,73
@@ -23661,6 +23825,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,South Carolina,648,Alabama,8,02/29/2020,86,90,Away,,-,"11,112"
 2020,South Carolina,648,Mississippi St.,430,03/03/2020,83,71,Home,,-,"10,889"
 2020,South Carolina,648,Vanderbilt,736,03/07/2020,74,83,Away,,-,"10,852"
+2020,South Carolina,648,Arkansas,31,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,South Carolina St.,647,Memphis,404,11/05/2019,64,97,Away,,-,"16,002"
 2020,South Carolina St.,647,$game.opponentName,30232,11/08/2019,79,64,Home,,-,"5,025"
 2020,South Carolina St.,647,Liberty,355,11/12/2019,39,65,Away,,-,"3,084"
@@ -23689,6 +23854,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,South Carolina St.,647,Florida A&M,228,02/24/2020,56,62,Away,,-,"1,793"
 2020,South Carolina St.,647,N.C. Central,489,02/29/2020,82,83,Home,,2 OT,477
 2020,South Carolina St.,647,N.C. A&T,488,03/02/2020,65,76,Home,,-,0
+2020,South Carolina St.,647,Howard,290,03/10/2020,63,70,Neutral,"Norfolk, VA",-,0
 2020,South Dakota,650,Pacific,534,11/08/2019,72,62,Neutral,"Honolulu, HI",-,0
 2020,South Dakota,650,Hawaii,277,11/10/2019,81,75,Away,,-,"5,200"
 2020,South Dakota,650,Florida A&M,228,11/11/2019,85,82,Neutral,"Honolulu, HI",-,0
@@ -23814,6 +23980,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,South Fla.,651,Temple,690,03/01/2020,64,58,Away,,-,"6,656"
 2020,South Fla.,651,Cincinnati,140,03/03/2020,67,79,Home,,-,"3,008"
 2020,South Fla.,651,SMU,663,03/07/2020,61,60,Home,,-,"3,587"
+2020,South Fla.,651,UCF,128,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,Southeast Mo. St.,654,Vanderbilt,736,11/06/2019,65,83,Away,,-,"8,097"
 2020,Southeast Mo. St.,654,Purdue Fort Wayne,308,11/10/2019,79,78,Home,,-,"1,685"
 2020,Southeast Mo. St.,654,The Citadel,141,11/19/2019,69,74,Home,,-,"1,087"
@@ -23967,6 +24134,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Southern California,657,Arizona,29,02/27/2020,57,48,Home,,-,"4,121"
 2020,Southern California,657,Arizona St.,28,02/29/2020,71,61,Home,,-,"4,786"
 2020,Southern California,657,UCLA,110,03/07/2020,54,52,Home,,-,"7,622"
+2020,Southern California,657,Arizona,29,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Southern Conn. St.,658,Post,1318,11/08/2019,64,69,Neutral,"Bridgeport, CT",-,266
 2020,Southern Conn. St.,658,Goldey-Beacom,8366,11/10/2019,72,67,Neutral,"Bridgeport, CT",-,133
 2020,Southern Conn. St.,658,Caldwell,995,11/13/2019,67,78,Away,,-,625
@@ -24203,6 +24371,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Southern U.,665,Alcorn,17,02/29/2020,71,57,Away,,-,453
 2020,Southern U.,665,Texas Southern,699,03/05/2020,89,74,Home,,-,"4,672"
 2020,Southern U.,665,Prairie View,553,03/07/2020,89,80,Home,,1 OT,"4,275"
+2020,Southern U.,665,Alabama St.,7,03/10/2020,67,53,Home,,-,"4,758"
 2020,Southern Utah,667,Bethesda (CA),,11/05/2019,110,66,Home,,-,"2,087"
 2020,Southern Utah,667,Nebraska,463,11/09/2019,79,78,Away,,2 OT,"15,828"
 2020,Southern Utah,667,BYU,77,11/13/2019,63,68,Away,,-,"10,661"
@@ -24234,6 +24403,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Southern Utah,667,Idaho,295,02/29/2020,87,55,Home,,-,"2,174"
 2020,Southern Utah,667,Montana St.,440,03/05/2020,65,73,Away,,-,"3,073"
 2020,Southern Utah,667,Montana,441,03/07/2020,85,80,Away,,1 OT,"5,052"
+2020,Southern Utah,667,Idaho,295,03/11/2020,75,69,Neutral,"Boise , ID",-,0
+2020,Southern Utah,667,Northern Colo.,502,03/12/2020,0,0,Neutral,"Boise, ID",-,0
 2020,Southern Va.,30164,Hood,8404,11/08/2019,91,93,Away,,-,0
 2020,Southern Va.,30164,Albertus Magnus,2798,11/09/2019,62,112,Neutral,"Frederick, MD",-,134
 2020,Southern Va.,30164,Randolph,566,11/12/2019,64,83,Home,,-,211
@@ -24552,6 +24723,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,St. Bonaventure,596,La Salle,340,02/29/2020,65,73,Away,,-,"2,374"
 2020,St. Bonaventure,596,Saint Joseph's,606,03/04/2020,89,73,Home,,-,"3,973"
 2020,St. Bonaventure,596,Saint Louis,609,03/07/2020,49,72,Away,,-,"9,274"
+2020,St. Bonaventure,596,George Mason,248,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,St. Cloud St.,598,Ouachita Baptist,1289,11/08/2019,51,56,Neutral,"Searcy, AR",-,162
 2020,St. Cloud St.,598,Harding,1116,11/09/2019,60,61,Away,,-,802
 2020,St. Cloud St.,598,Oak Hills Christian,,11/12/2019,126,48,Home,,-,893
@@ -24727,6 +24899,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,St. John's (NY),603,Creighton,169,03/01/2020,91,71,Home,,-,"4,260"
 2020,St. John's (NY),603,Butler,87,03/04/2020,55,77,Away,,-,"8,675"
 2020,St. John's (NY),603,Marquette,387,03/07/2020,88,86,Home,,-,"7,720"
+2020,St. John's (NY),603,Georgetown,251,03/11/2020,75,62,Home,,-,0
+2020,St. John's (NY),603,Creighton,169,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,St. Joseph (CT),8687,Rhode Island Col.,571,11/16/2019,68,92,Home,,-,500
 2020,St. Joseph (CT),8687,Trinity (CT),713,11/19/2019,83,73,Away,,-,400
 2020,St. Joseph (CT),8687,Tufts,717,11/23/2019,71,89,Away,,-,312
@@ -25086,6 +25260,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Stanford,674,Colorado,157,03/01/2020,72,64,Home,,-,"7,123"
 2020,Stanford,674,Oregon St.,528,03/05/2020,65,68,Away,,-,"3,718"
 2020,Stanford,674,Oregon,529,03/07/2020,67,80,Away,,-,"10,862"
+2020,Stanford,674,California,107,03/11/2020,51,63,Neutral,"Las Vegas, NV",-,0
 2020,Stanislaus St.,103,Pacific,534,11/05/2019,47,69,Away,,-,"2,802"
 2020,Stanislaus St.,103,Notre Dame de Namur,30056,11/08/2019,87,77,Neutral,"Oakland, CA",-,60
 2020,Stanislaus St.,103,Holy Names,30175,11/09/2019,81,75,Away,,-,79
@@ -25316,6 +25491,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Stony Brook,683,Albany (NY),14,02/29/2020,52,49,Away,,-,"2,564"
 2020,Stony Brook,683,UMBC,391,03/03/2020,67,75,Away,,-,"1,636"
 2020,Stony Brook,683,Albany (NY),14,03/07/2020,76,73,Home,,-,"2,166"
+2020,Stony Brook,683,Hartford,272,03/10/2020,58,64,Home,,-,"1,861"
 2020,Suffolk,684,Salem St.,621,11/09/2019,94,81,Neutral,"Babson Park, MA",-,375
 2020,Suffolk,684,Babson,45,11/10/2019,70,97,Away,,-,510
 2020,Suffolk,684,Lasell,8486,11/16/2019,90,64,Home,,-,0
@@ -25452,6 +25628,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,SUNY Delhi,30225,Pine Manor,544,02/15/2020,83,82,Away,,-,125
 2020,SUNY Delhi,30225,Valley Forge,30166,02/29/2020,118,70,Home,,-,241
 2020,SUNY Delhi,30225,Pine Manor,544,03/01/2020,94,42,Home,,-,304
+2020,SUNY Delhi,30225,Silver Lake,,03/12/2020,70,56,Neutral,"Uniontown, Pa.",-,0
 2020,SUNY Geneseo,247,Rochester (NY),581,11/12/2019,61,72,Home,,-,322
 2020,SUNY Geneseo,247,Wilson,12973,11/15/2019,92,56,Neutral,"Gettysburg, PA",-,145
 2020,SUNY Geneseo,247,Gettysburg,258,11/16/2019,58,78,Away,,-,0
@@ -25699,6 +25876,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Syracuse,688,North Carolina,457,02/29/2020,79,92,Home,,-,"29,312"
 2020,Syracuse,688,Boston College,67,03/03/2020,84,71,Away,,-,"6,471"
 2020,Syracuse,688,Miami (FL),415,03/07/2020,65,69,Away,,1 OT,"6,025"
+2020,Syracuse,688,North Carolina,457,03/11/2020,81,53,Neutral,"Greensboro, NC",-,"20,809"
+2020,Syracuse,688,Louisville,367,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Tampa,689,Montevallo,1238,11/09/2019,64,72,Away,,-,573
 2020,Tampa,689,Ala.-Huntsville,10,11/10/2019,68,75,Neutral,"Montevallo, AL",-,343
 2020,Tampa,689,Flagler,30092,11/16/2019,72,89,Neutral,"Saint Leo, FL",-,75
@@ -25819,6 +25998,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,TCU,698,Baylor,51,02/29/2020,75,72,Home,,-,"6,549"
 2020,TCU,698,Kansas,328,03/04/2020,66,75,Away,,-,"16,300"
 2020,TCU,698,Oklahoma,522,03/07/2020,76,78,Home,,-,"6,036"
+2020,TCU,698,Kansas St.,327,03/11/2020,49,53,Neutral,"Kansas City, MO",-,"17,606"
 2020,Temple,690,Drexel,191,11/05/2019,70,62,Home,,-,"7,025"
 2020,Temple,690,Morgan St.,446,11/09/2019,75,57,Home,,-,"5,889"
 2020,Temple,690,La Salle,340,11/16/2019,70,65,Away,,-,"2,941"
@@ -25850,6 +26030,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Temple,690,South Fla.,651,03/01/2020,58,64,Home,,-,"6,656"
 2020,Temple,690,Tulsa,719,03/04/2020,51,61,Home,,-,"5,068"
 2020,Temple,690,Cincinnati,140,03/07/2020,63,64,Away,,-,"12,365"
+2020,Temple,690,SMU,663,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,Tennessee,694,UNC Asheville,456,11/05/2019,78,63,Home,,-,"19,273"
 2020,Tennessee,694,Murray St.,454,11/12/2019,82,63,Home,,-,"16,913"
 2020,Tennessee,694,Washington,756,11/16/2019,75,62,Neutral,"Toronto, Ontario, CAN",-,"6,802"
@@ -25881,6 +26062,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Tennessee,694,Florida,235,02/29/2020,63,58,Home,,-,"19,743"
 2020,Tennessee,694,Kentucky,334,03/03/2020,81,73,Away,,-,"20,413"
 2020,Tennessee,694,Auburn,37,03/07/2020,63,85,Home,,-,"21,156"
+2020,Tennessee,694,Alabama,8,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Tennessee St.,691,Alabama A&M,6,11/05/2019,106,66,Home,,-,"5,638"
 2020,Tennessee St.,691,Chattanooga,693,11/09/2019,57,59,Away,,-,"2,694"
 2020,Tennessee St.,691,Lipscomb,28600,11/12/2019,79,78,Home,,-,"4,582"
@@ -26099,6 +26281,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Texas,703,Texas Tech,700,02/29/2020,68,58,Away,,-,"15,098"
 2020,Texas,703,Oklahoma,522,03/03/2020,52,51,Away,,-,"10,110"
 2020,Texas,703,Oklahoma St.,521,03/07/2020,59,81,Home,,-,"12,733"
+2020,Texas,703,Texas Tech,700,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Texas A&M,697,Northwestern St.,508,11/06/2019,77,63,Home,,-,"5,751"
 2020,Texas A&M,697,La.-Monroe,498,11/11/2019,63,57,Home,,-,"5,018"
 2020,Texas A&M,697,Gonzaga,260,11/15/2019,49,79,Home,,-,"10,344"
@@ -26129,6 +26312,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Texas A&M,697,LSU,365,02/29/2020,50,64,Away,,-,"10,889"
 2020,Texas A&M,697,Auburn,37,03/04/2020,78,75,Away,,-,"9,121"
 2020,Texas A&M,697,Arkansas,31,03/07/2020,77,69,Home,,-,"8,443"
+2020,Texas A&M,697,Missouri,434,03/12/2020,0,0,Neutral,"Nashville, TN",-,0
 2020,Texas Lutheran,1400,Texas St.,670,11/05/2019,45,103,Away,,-,"2,752"
 2020,Texas Lutheran,1400,Hardin-Simmons,271,11/08/2019,81,86,Away,,1 OT,553
 2020,Texas Lutheran,1400,McMurry,8530,11/09/2019,60,59,Away,,-,246
@@ -26190,6 +26374,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Texas Southern,699,Alabama St.,7,03/02/2020,78,73,Home,,-,"1,019"
 2020,Texas Southern,699,Southern U.,665,03/05/2020,74,89,Away,,-,"4,672"
 2020,Texas Southern,699,Alcorn,17,03/07/2020,75,90,Away,,-,265
+2020,Texas Southern,699,Grambling,261,03/10/2020,75,62,Home,,-,"1,544"
 2020,Texas St.,670,Texas Lutheran,1400,11/05/2019,103,45,Home,,-,"2,752"
 2020,Texas St.,670,Air Force,721,11/09/2019,71,78,Away,,-,"1,526"
 2020,Texas St.,670,Prairie View,553,11/12/2019,75,48,Home,,-,"2,889"
@@ -26221,6 +26406,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Texas St.,670,Georgia St.,254,02/22/2020,86,76,Home,,-,"2,718"
 2020,Texas St.,670,UT Arlington,702,02/28/2020,87,85,Away,,3 OT,"3,309"
 2020,Texas St.,670,South Alabama,646,03/03/2020,54,58,Away,,-,"3,319"
+2020,Texas St.,670,Appalachian St.,27,03/11/2020,85,68,Home,,-,"6,308"
 2020,Texas Tech,700,Eastern Ill.,201,11/05/2019,85,60,Home,,-,"15,098"
 2020,Texas Tech,700,Bethune-Cookman,61,11/09/2019,79,44,Home,,-,"15,098"
 2020,Texas Tech,700,Houston Baptist,287,11/13/2019,103,74,Neutral,"Midland, TX",-,"4,535"
@@ -26252,6 +26438,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Texas Tech,700,Texas,703,02/29/2020,58,68,Home,,-,"15,098"
 2020,Texas Tech,700,Baylor,51,03/02/2020,68,71,Away,,1 OT,"8,953"
 2020,Texas Tech,700,Kansas,328,03/07/2020,62,66,Home,,-,"15,098"
+2020,Texas Tech,700,Texas,703,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,Texas-Dallas,23121,UT Arlington,702,11/05/2019,50,84,Away,,-,"1,727"
 2020,Texas-Dallas,23121,Redlands,567,11/08/2019,74,71,Away,,1 OT,97
 2020,Texas-Dallas,23121,Whittier,781,11/09/2019,86,91,Away,,-,685
@@ -26452,6 +26639,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Toledo,709,Northern Ill.,503,03/03/2020,50,71,Away,,-,"1,019"
 2020,Toledo,709,Eastern Mich.,204,03/06/2020,79,57,Home,,-,"4,823"
 2020,Toledo,709,Western Mich.,774,03/09/2020,76,73,Home,,-,"3,286"
+2020,Toledo,709,Bowling Green,71,03/12/2020,0,0,Neutral,"Cleveland, OH",-,0
 2020,Towson,711,George Washington,249,11/05/2019,72,58,Home,,-,"2,005"
 2020,Towson,711,Bryn Athyn,30188,11/08/2019,100,31,Home,,-,"1,210"
 2020,Towson,711,Kent St.,331,11/11/2019,80,84,Home,,1 OT,"1,823"
@@ -26742,6 +26930,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Tulane,718,Tulsa,719,02/25/2020,57,62,Away,,-,"3,443"
 2020,Tulane,718,Memphis,404,02/29/2020,67,74,Home,,1 OT,"3,023"
 2020,Tulane,718,UConn,164,03/08/2020,76,80,Home,,-,"1,897"
+2020,Tulane,718,UConn,164,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,Tulsa,719,Houston Baptist,287,11/05/2019,80,72,Home,,-,"5,607"
 2020,Tulsa,719,UT Arlington,702,11/09/2019,59,73,Away,,-,"3,722"
 2020,Tulsa,719,Oral Roberts,527,11/12/2019,74,67,Home,,-,"3,705"
@@ -26888,6 +27077,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UAB,9,Marshall,388,02/27/2020,88,80,Home,,-,"2,342"
 2020,UAB,9,UTSA,706,03/01/2020,59,66,Away,,-,"1,165"
 2020,UAB,9,Old Dominion,523,03/07/2020,72,63,Home,,-,"2,594"
+2020,UAB,9,UTSA,706,03/11/2020,74,69,Neutral,"Frisco, TX",-,0
+2020,UAB,9,Western Ky.,772,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,UC Davis,108,Loyola Chicago,371,11/05/2019,48,82,Away,,-,"3,244"
 2020,UC Davis,108,William Jessup,,11/07/2019,109,63,Home,,-,"1,339"
 2020,UC Davis,108,Idaho,295,11/14/2019,65,64,Neutral,"Jonesboro, AR",-,108
@@ -26920,6 +27111,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UC Davis,108,Long Beach St.,99,02/29/2020,77,76,Home,,-,"2,377"
 2020,UC Davis,108,Hawaii,277,03/05/2020,65,67,Home,,-,"1,648"
 2020,UC Davis,108,UC Riverside,111,03/07/2020,61,66,Away,,-,879
+2020,UC Davis,108,Hawaii,277,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,UC Irvine,109,San Diego,627,11/05/2019,76,73,Away,,-,"1,517"
 2020,UC Irvine,109,Pepperdine,541,11/09/2019,73,77,Away,,-,"1,475"
 2020,UC Irvine,109,LIFE Pacific,,11/12/2019,98,52,Home,,-,"1,392"
@@ -26952,6 +27144,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UC Irvine,109,Cal Poly,90,02/27/2020,82,76,Away,,-,"2,703"
 2020,UC Irvine,109,UC Santa Barbara,104,02/29/2020,69,58,Home,,-,"5,000"
 2020,UC Irvine,109,CSUN,101,03/04/2020,70,72,Home,,-,"2,954"
+2020,UC Irvine,109,Long Beach St.,99,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,UC Riverside,111,Nebraska,463,11/05/2019,66,47,Away,,-,"15,745"
 2020,UC Riverside,111,Idaho,295,11/09/2019,58,51,Home,,-,463
 2020,UC Riverside,111,Sacramento St.,102,11/15/2019,49,62,Away,,-,635
@@ -26984,6 +27177,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UC Riverside,111,UC Santa Barbara,104,02/27/2020,60,65,Home,,-,607
 2020,UC Riverside,111,Hawaii,277,02/29/2020,49,43,Away,,-,"6,884"
 2020,UC Riverside,111,UC Davis,108,03/07/2020,66,61,Home,,-,879
+2020,UC Riverside,111,UC Santa Barbara,104,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,UC San Diego,112,Simon Fraser,30127,11/08/2019,95,70,Neutral,"Bellingham, WA",-,101
 2020,UC San Diego,112,Western Wash.,1448,11/09/2019,76,69,Away,,-,474
 2020,UC San Diego,112,Saint Martin's,1343,11/11/2019,88,55,Away,,-,438
@@ -27046,6 +27240,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UC Santa Barbara,104,UC Irvine,109,02/29/2020,58,69,Away,,-,"5,000"
 2020,UC Santa Barbara,104,Cal St. Fullerton,97,03/05/2020,55,53,Home,,-,"1,079"
 2020,UC Santa Barbara,104,Cal Poly,90,03/07/2020,69,67,Home,,-,"3,218"
+2020,UC Santa Barbara,104,UC Riverside,111,03/12/2020,0,0,Neutral,"Anaheim, CA",-,0
 2020,UC Santa Cruz,113,Santa Clara,631,11/05/2019,52,97,Away,,-,"1,420"
 2020,UC Santa Cruz,113,Pacific (OR),2751,11/08/2019,111,115,Home,,1 OT,104
 2020,UC Santa Cruz,113,Pacific Lutheran,1297,11/09/2019,60,57,Home,,-,75
@@ -27130,6 +27325,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UCF,128,Tulsa,719,02/29/2020,54,65,Away,,-,"5,304"
 2020,UCF,128,SMU,663,03/04/2020,61,58,Home,,-,"4,591"
 2020,UCF,128,East Carolina,196,03/08/2020,94,62,Home,,-,"4,819"
+2020,UCF,128,South Fla.,651,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,UCLA,110,Long Beach St.,99,11/06/2019,69,65,Home,,-,"6,265"
 2020,UCLA,110,UC Santa Barbara,104,11/10/2019,77,61,Home,,-,"6,235"
 2020,UCLA,110,UNLV,465,11/15/2019,71,54,Home,,-,"6,601"
@@ -27161,6 +27357,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UCLA,110,Arizona St.,28,02/27/2020,75,72,Home,,-,"9,626"
 2020,UCLA,110,Arizona,29,02/29/2020,69,64,Home,,-,"11,567"
 2020,UCLA,110,Southern California,657,03/07/2020,52,54,Away,,-,"7,622"
+2020,UCLA,110,California,107,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,UConn,164,Sacred Heart,590,11/08/2019,89,67,Home,,-,"10,167"
 2020,UConn,164,Saint Joseph's,606,11/13/2019,87,96,Home,,-,"4,081"
 2020,UConn,164,Florida,235,11/17/2019,62,59,Home,,-,"10,167"
@@ -27192,6 +27389,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UConn,164,East Carolina,196,02/29/2020,84,63,Away,,-,"5,003"
 2020,UConn,164,Houston,288,03/05/2020,77,71,Home,,-,"10,167"
 2020,UConn,164,Tulane,718,03/08/2020,80,76,Away,,-,"1,897"
+2020,UConn,164,Tulane,718,03/12/2020,0,0,Neutral,"Fort Worth, TX",-,0
 2020,UIC,302,Olivet Nazarene,,11/05/2019,75,72,Home,,-,"2,003"
 2020,UIC,302,Memphis,404,11/08/2019,46,92,Away,,-,"15,923"
 2020,UIC,302,Ball St.,47,11/13/2019,48,67,Home,,-,"1,906"
@@ -27226,6 +27424,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UIC,302,IUPUI,2699,03/03/2020,93,59,Home,,-,"1,426"
 2020,UIC,302,Youngstown St.,817,03/05/2020,67,61,Home,,-,642
 2020,UIC,302,Wright St.,810,03/09/2020,73,56,Neutral,"Indianapolis, IN",-,"1,923"
+2020,UIC,302,Northern Ky.,505,03/10/2020,62,71,Neutral,"Indianapolis, IN",-,"1,861"
 2020,UIndy,309,Saginaw Valley,591,11/08/2019,77,73,Neutral,"Louisville, KY",-,324
 2020,UIndy,309,Northwood,510,11/09/2019,72,66,Neutral,"Louisville, KY",-,324
 2020,UIndy,309,Elmhurst,212,11/12/2019,79,78,Home,,-,450
@@ -27376,6 +27575,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UMBC,391,Maine,380,02/29/2020,48,74,Away,,-,912
 2020,UMBC,391,Stony Brook,683,03/03/2020,75,67,Home,,-,"1,636"
 2020,UMBC,391,New Hampshire,469,03/07/2020,73,67,Home,,-,0
+2020,UMBC,391,Vermont,738,03/10/2020,74,81,Away,,-,"3,266"
 2020,UMES,393,Penn St.,539,11/05/2019,46,84,Away,,-,"5,869"
 2020,UMES,393,Liberty,355,11/10/2019,55,66,Away,,-,"3,090"
 2020,UMES,393,Longwood,363,11/12/2019,55,85,Away,,-,"1,225"
@@ -27407,6 +27607,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UMES,393,Delaware St.,178,02/29/2020,63,84,Home,,-,"2,043"
 2020,UMES,393,Howard,290,03/02/2020,60,62,Away,,-,"1,287"
 2020,UMES,393,Coppin St.,165,03/05/2020,60,63,Home,,-,550
+2020,UMES,393,Delaware St.,178,03/10/2020,64,68,Neutral,"Norfolk, VA",-,0
 2020,UMKC,2707,Avila,,11/05/2019,102,49,Home,,-,785
 2020,UMKC,2707,Oklahoma St.,521,11/09/2019,51,69,Away,,-,"6,239"
 2020,UMKC,2707,Drake,189,11/13/2019,58,76,Away,,-,"2,415"
@@ -27437,6 +27638,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UMKC,2707,California Baptist,30135,02/19/2020,69,63,Home,,-,"1,211"
 2020,UMKC,2707,Chicago St.,136,02/29/2020,80,58,Home,,-,"1,599"
 2020,UMKC,2707,Utah Valley,30024,03/05/2020,61,51,Away,,-,"2,613"
+2020,UMKC,2707,Grand Canyon,1104,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,UNC Asheville,456,Tennessee,694,11/05/2019,63,78,Away,,-,"19,273"
 2020,UNC Asheville,456,The Citadel,141,11/09/2019,91,76,Away,,-,742
 2020,UNC Asheville,456,Wake Forest,749,11/13/2019,79,98,Away,,-,"4,187"
@@ -27915,6 +28117,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Utah,732,Stanford,674,02/26/2020,62,70,Away,,-,"2,978"
 2020,Utah,732,California,107,02/29/2020,79,86,Away,,1 OT,"6,420"
 2020,Utah,732,Colorado,157,03/07/2020,74,72,Home,,1 OT,"10,886"
+2020,Utah,732,Oregon St.,528,03/11/2020,69,71,Neutral,"Las Vegas, NV",-,0
 2020,Utah St.,731,Montana St.,440,11/05/2019,81,73,Home,,-,"7,331"
 2020,Utah St.,731,Weber St.,758,11/08/2019,89,34,Home,,-,"8,840"
 2020,Utah St.,731,Denver,183,11/12/2019,97,56,Home,,-,"6,504"
@@ -27979,6 +28182,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Utah Valley,30024,Grand Canyon,1104,02/22/2020,92,80,Home,,-,"5,236"
 2020,Utah Valley,30024,California Baptist,30135,02/26/2020,66,73,Away,,-,"2,834"
 2020,Utah Valley,30024,UMKC,2707,03/05/2020,51,61,Home,,-,"2,613"
+2020,Utah Valley,30024,Seattle U,1356,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,UTEP,704,N.M. Highlands,8577,11/05/2019,93,70,Home,,-,"3,738"
 2020,UTEP,704,New Mexico St.,472,11/12/2019,65,50,Home,,-,"8,993"
 2020,UTEP,704,Eastern N.M.,206,11/15/2019,71,57,Home,,-,"4,476"
@@ -28010,6 +28214,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UTEP,704,Southern Miss.,664,03/01/2020,75,56,Home,,-,"4,975"
 2020,UTEP,704,Middle Tenn.,419,03/04/2020,60,56,Away,,-,"2,022"
 2020,UTEP,704,Rice,574,03/07/2020,77,72,Away,,-,"1,608"
+2020,UTEP,704,Marshall,388,03/11/2020,78,86,Neutral,"Frisco, TX",-,"2,061"
 2020,Utica,733,Westfield St.,777,11/15/2019,73,66,Away,,-,222
 2020,Utica,733,Rutgers-Newark,589,11/16/2019,51,57,Neutral,"Westfield, MA",-,125
 2020,Utica,733,Cazenovia,23624,11/22/2019,115,81,Home,,-,200
@@ -28066,6 +28271,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UTRGV,536,CSU Bakersfield,94,02/27/2020,59,79,Away,,-,"2,134"
 2020,UTRGV,536,Grand Canyon,1104,02/29/2020,88,80,Away,,-,"7,002"
 2020,UTRGV,536,California Baptist,30135,03/07/2020,79,76,Home,,1 OT,"1,523"
+2020,UTRGV,536,CSU Bakersfield,94,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,UTSA,706,Oklahoma,522,11/05/2019,67,85,Away,,-,"7,202"
 2020,UTSA,706,Southern Ill.,659,11/08/2019,60,72,Neutral,"Kissimmee, FL",-,556
 2020,UTSA,706,Oakland,514,11/09/2019,62,75,Neutral,"Kissimmee, FL",-,564
@@ -28096,7 +28302,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,UTSA,706,Fla. Atlantic,229,02/27/2020,71,80,Away,,-,"1,164"
 2020,UTSA,706,UAB,9,03/01/2020,66,59,Home,,-,"1,165"
 2020,UTSA,706,Old Dominion,523,03/04/2020,59,84,Away,,-,"4,969"
-2020,UTSA,706,Marshall,388,03/07/2020,77,82,Home,,-,402
+2020,UTSA,706,Marshall,388,03/07/2020,77,82,Home,,-,902
+2020,UTSA,706,UAB,9,03/11/2020,69,74,Neutral,"Frisco, TX",-,0
 2020,UVa-Wise,30181,King (TN),30051,11/08/2019,74,84,Neutral,"Banner Elk, NC",-,151
 2020,UVa-Wise,30181,Lees-McRae,13302,11/09/2019,78,89,Away,,-,390
 2020,UVa-Wise,30181,Piedmont Int'l,,11/12/2019,88,70,Home,,-,350
@@ -28274,6 +28481,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Vanderbilt,736,Ole Miss,433,02/29/2020,60,86,Away,,-,"7,495"
 2020,Vanderbilt,736,Alabama,8,03/03/2020,87,79,Away,,-,"9,071"
 2020,Vanderbilt,736,South Carolina,648,03/07/2020,83,74,Home,,-,"10,852"
+2020,Vanderbilt,736,Arkansas,31,03/11/2020,73,86,Neutral,"Nashville, TN",-,0
 2020,Vassar,737,Fredonia,242,11/15/2019,56,64,Neutral,"Rochester, NY",-,345
 2020,Vassar,737,Hunter,292,11/16/2019,72,66,Neutral,"Rochester, NY",-,129
 2020,Vassar,737,Hartwick,273,11/23/2019,59,68,Home,,-,100
@@ -28331,6 +28539,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,VCU,740,George Washington,249,02/29/2020,75,51,Home,,-,"7,637"
 2020,VCU,740,Duquesne,194,03/03/2020,77,80,Home,,1 OT,"7,637"
 2020,VCU,740,Davidson,173,03/06/2020,65,75,Away,,-,"3,763"
+2020,VCU,740,Massachusetts,400,03/12/2020,0,0,Neutral,"Brooklyn, NY",-,0
 2020,Vermont,738,St. Bonaventure,596,11/08/2019,61,59,Away,,-,"4,489"
 2020,Vermont,738,Bucknell,83,11/10/2019,66,63,Away,,-,"2,321"
 2020,Vermont,738,Boston U.,68,11/13/2019,62,47,Home,,-,"2,780"
@@ -28363,6 +28572,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Vermont,738,UMass Lowell,368,02/29/2020,94,77,Away,,-,"2,821"
 2020,Vermont,738,Albany (NY),14,03/03/2020,85,62,Home,,-,"3,266"
 2020,Vermont,738,Maine,380,03/07/2020,61,50,Home,,-,"3,266"
+2020,Vermont,738,UMBC,391,03/10/2020,81,74,Home,,-,"3,266"
 2020,Villanova,739,Army West Point,725,11/05/2019,97,54,Home,,-,"6,501"
 2020,Villanova,739,Ohio St.,518,11/13/2019,51,76,Away,,-,"16,419"
 2020,Villanova,739,Ohio,519,11/16/2019,78,54,Home,,-,"13,678"
@@ -28394,6 +28604,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Villanova,739,Providence,556,02/29/2020,54,58,Home,,-,"15,516"
 2020,Villanova,739,Seton Hall,635,03/04/2020,79,77,Away,,-,"16,863"
 2020,Villanova,739,Georgetown,251,03/07/2020,70,69,Away,,-,"13,168"
+2020,Villanova,739,DePaul,176,03/12/2020,0,0,Neutral,"New York, NY",-,0
 2020,Virginia,746,Syracuse,688,11/06/2019,48,34,Away,,-,"22,518"
 2020,Virginia,746,James Madison,317,11/10/2019,65,34,Home,,-,"13,524"
 2020,Virginia,746,Columbia,158,11/16/2019,60,42,Home,,-,"13,736"
@@ -28424,6 +28635,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Virginia,746,Duke,193,02/29/2020,52,50,Home,,-,"14,629"
 2020,Virginia,746,Miami (FL),415,03/04/2020,46,44,Away,,-,"5,318"
 2020,Virginia,746,Louisville,367,03/07/2020,57,54,Home,,-,"14,629"
+2020,Virginia,746,Notre Dame,513,03/12/2020,0,0,Neutral,"Greensboro, NC",-,0
 2020,Virginia St.,743,East Stroudsburg,197,11/08/2019,63,49,Neutral,"Shippensburg, PA",-,93
 2020,Virginia St.,743,Shippensburg,638,11/09/2019,58,54,Away,,-,303
 2020,Virginia St.,743,Wingate,1462,11/13/2019,77,80,Away,,-,787
@@ -28483,6 +28695,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Virginia Tech,742,Louisville,367,03/01/2020,52,68,Away,,-,"18,104"
 2020,Virginia Tech,742,Clemson,147,03/04/2020,70,58,Home,,-,"8,901"
 2020,Virginia Tech,742,Notre Dame,513,03/07/2020,56,64,Away,,-,"8,301"
+2020,Virginia Tech,742,North Carolina,457,03/10/2020,56,78,Neutral,"Greensboro, NC",-,"13,310"
 2020,Virginia Union,744,Shippensburg,638,11/08/2019,62,77,Away,,-,260
 2020,Virginia Union,744,East Stroudsburg,197,11/09/2019,74,84,Neutral,"Shippensburg, PA",-,83
 2020,Virginia Union,744,Catawba,1001,11/13/2019,69,84,Home,,-,"1,576"
@@ -28630,6 +28843,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Wake Forest,749,Notre Dame,513,02/29/2020,84,73,Home,,-,"8,870"
 2020,Wake Forest,749,North Carolina,457,03/03/2020,83,93,Away,,-,"21,280"
 2020,Wake Forest,749,NC State,490,03/06/2020,64,84,Away,,-,"15,824"
+2020,Wake Forest,749,Pittsburgh,545,03/10/2020,72,81,Neutral,"Greensboro, NC",-,0
 2020,Walsh,30141,Maryville (MO),395,11/09/2019,87,63,Neutral,"Tiffin, OH",-,170
 2020,Walsh,30141,Mo.-St. Louis,436,11/10/2019,76,58,Neutral,"Tiffin, OH",-,156
 2020,Walsh,30141,Franciscan,30069,11/12/2019,110,52,Home,,-,"1,000"
@@ -28800,6 +29014,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Washington,756,Washington St.,754,02/28/2020,74,78,Home,,-,"9,131"
 2020,Washington,756,Arizona St.,28,03/05/2020,90,83,Away,,-,"9,829"
 2020,Washington,756,Arizona,29,03/07/2020,69,63,Away,,-,"13,604"
+2020,Washington,756,Arizona,29,03/11/2020,70,77,Neutral,"Las Vegas, NV",-,"8,048"
 2020,Washington Col.,753,St. Mary's (MD),611,11/08/2019,77,75,Away,,1 OT,405
 2020,Washington Col.,753,Randolph-Macon,565,11/09/2019,47,74,Neutral,"Saint Marys City, MD",-,52
 2020,Washington Col.,753,Navy,726,11/10/2019,56,87,Away,,-,719
@@ -28858,6 +29073,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Washington St.,754,Washington,756,02/28/2020,78,74,Away,,-,"9,131"
 2020,Washington St.,754,Arizona,29,03/05/2020,62,83,Away,,-,"13,052"
 2020,Washington St.,754,Arizona St.,28,03/07/2020,74,83,Away,,-,"8,829"
+2020,Washington St.,754,Colorado,157,03/11/2020,82,68,Neutral,"Las Vegas, NV",-,"7,452"
+2020,Washington St.,754,Arizona St.,28,03/12/2020,0,0,Neutral,"Las Vegas, NV",-,0
 2020,Washington-St. Louis,755,Illinois Col.,297,11/10/2019,85,76,Away,,-,462
 2020,Washington-St. Louis,755,Wis.-Whitewater,805,11/15/2019,90,86,Away,,-,553
 2020,Washington-St. Louis,755,Wis.-Platteville,800,11/16/2019,63,76,Away,,-,473
@@ -28998,6 +29215,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Weber St.,758,Idaho St.,294,03/02/2020,70,78,Home,,-,"4,033"
 2020,Weber St.,758,Idaho,295,03/05/2020,72,64,Away,,-,807
 2020,Weber St.,758,Eastern Wash.,207,03/07/2020,69,78,Away,,-,"1,922"
+2020,Weber St.,758,Sacramento St.,102,03/11/2020,54,62,Neutral,"Boise , ID",-,0
 2020,Webster,759,Illinois Col.,297,11/08/2019,55,77,Home,,-,592
 2020,Webster,759,Mo. Baptist,,11/12/2019,70,80,Home,,1 OT,393
 2020,Webster,759,Piedmont,21830,11/16/2019,64,71,Neutral,"Maryville, TN",-,227
@@ -29371,6 +29589,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,West Virginia,768,Oklahoma,522,02/29/2020,62,73,Home,,-,"14,044"
 2020,West Virginia,768,Iowa St.,311,03/03/2020,77,71,Away,,-,"13,870"
 2020,West Virginia,768,Baylor,51,03/07/2020,76,64,Home,,-,"14,014"
+2020,West Virginia,768,Oklahoma,522,03/12/2020,0,0,Neutral,"Kansas City, MO",-,0
 2020,West Virginia St.,1439,Elizabeth City St.,210,11/08/2019,90,88,Home,,-,556
 2020,West Virginia St.,1439,Livingstone,359,11/09/2019,99,93,Home,,-,820
 2020,West Virginia St.,1439,Bluefield St.,985,11/19/2019,94,86,Away,,-,0
@@ -29515,6 +29734,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Western Ky.,772,Louisiana Tech,366,02/27/2020,95,91,Home,,1 OT,"5,030"
 2020,Western Ky.,772,North Texas,497,03/01/2020,72,78,Away,,1 OT,"4,471"
 2020,Western Ky.,772,FIU,231,03/07/2020,91,85,Away,,-,"1,014"
+2020,Western Ky.,772,UAB,9,03/12/2020,0,0,Neutral,"Frisco, TX",-,0
 2020,Western Mich.,774,McNeese,402,11/06/2019,75,65,Home,,-,"1,690"
 2020,Western Mich.,774,Milwaukee,797,11/09/2019,115,110,Away,,3 OT,"2,038"
 2020,Western Mich.,774,Mississippi Val.,432,11/12/2019,91,81,Home,,-,"1,591"
@@ -30983,6 +31203,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2020,Xavier,812,Georgetown,251,03/01/2020,66,63,Away,,-,"10,610"
 2020,Xavier,812,Providence,556,03/04/2020,74,80,Away,,-,"11,736"
 2020,Xavier,812,Butler,87,03/07/2020,71,72,Home,,-,"10,635"
+2020,Xavier,812,DePaul,176,03/11/2020,67,71,Neutral,"New York, NY",-,"17,534"
 2020,Yale,813,Stony Brook,683,11/05/2019,74,69,Away,,1 OT,"3,183"
 2020,Yale,813,Oberlin,515,11/08/2019,94,37,Home,,-,642
 2020,Yale,813,San Francisco,629,11/11/2019,79,84,Away,,1 OT,"1,727"
