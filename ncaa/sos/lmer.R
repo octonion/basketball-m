@@ -113,8 +113,9 @@ model <- log_ps ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|
 fit <- lmer(model,
             data=g,
             verbose=TRUE,
+            control=lmerControl(calc.derivs = FALSE))
 #            nAGQ=0,
-            control=lmerControl(optimizer = "nloptwrap"))
+#            control=lmerControl(optimizer = "nloptwrap"))
 
 fit
 summary(fit)
