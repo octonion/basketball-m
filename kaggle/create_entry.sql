@@ -23,14 +23,14 @@ join ncaa._schedule_factors sf
 join alias.kaggle k
   on (k.ncaa_id)=(r.school_id)
 where
-r.year=2017
+r.year=2021
 and r.round_id=3
 );
 
 copy
 (
 select
-'2017_'||t1.kaggle_id::text||'_'||t2.kaggle_id as id,
+'2021_'||t1.kaggle_id::text||'_'||t2.kaggle_id as id,
 t1.strength^10.25/(t1.strength^10.25+t2.strength^10.25) as pred
 from teams t1
 join teams t2
