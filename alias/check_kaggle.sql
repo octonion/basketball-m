@@ -11,5 +11,3 @@ right join ncaa.rounds r
 where r.round_id=3
 and k.team_id is null)
 to '/tmp/kaggle_missing.csv' csv header;
-
-

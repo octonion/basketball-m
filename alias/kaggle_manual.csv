@@ -1,22 +1,36 @@
 school_id,school_name,team_id,team_name
+2,Abilene Christian,1101,Abilene Chr
+27,Appalachian St.,1111,Appalachian St
+104,UC Santa Barbara,1364,Santa Barbara
+148,Cleveland St.,1156,Cleveland St
+164,UConn,1163,Connecticut
 198,East Tenn. St.,1190,ETSU
+207,Eastern Wash.,1186,E Washington
 234,Florida St.,1199,Florida St
 311,Iowa St.,1235,Iowa St
 315,Jacksonville St.,1240,Jacksonville St
 327,Kansas St.,1243,Kansas St
 331,Kent St.,1245,Kent
+371,Loyola Chicago,1260,Loyola-Chicago
 415,Miami (FL),1274,Miami FL
 416,Michigan St.,1277,Michigan St
 419,Middle Tenn.,1292,MTSU
+444,Morehead St.,1287,Morehead St
 450,Mt. St. Marys,1291,Mt St Mary's
 472,New Mexico St.,1308,New Mexico St
+485,Norfolk St.,1313,Norfolk St
 489,N.C. Central,1300,NC Central
 505,Northern Ky.,1297,N Kentucky
+518,Ohio St.,1326,Ohio St
 521,Oklahoma St.,1329,Oklahoma St
+528,Oregon St.,1333,Oregon St
+596,St. Bonaventure,1382,St Bonaventure
 610,St. Marys (CA),1388,St Mary's CA
+626,San Diego St.,1361,San Diego St
 649,South Dakota St.,1355,S Dakota St
 657,Southern California,1425,USC
 699,Texas Southern,1411,TX Southern
+731,Utah St.,1429,Utah St
 740,VCU,1433,VA Commonwealth
 782,Wichita St.,1455,Wichita St
 28755,Fla. Gulf Coast,1195,FL Gulf Coast
