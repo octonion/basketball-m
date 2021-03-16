@@ -1,0 +1,99 @@
+1 Gonzaga
+16 NORF/APPST
+
+8 Oklahoma
+9 Missouri
+
+5 Creighton
+12 UCSB
+
+4 Virginia
+13 Ohio
+
+6 USC
+11 WICH/DRKE
+
+3 Kansas
+14 E. Washington
+
+7 Oregon
+10 VCU
+
+2 Iowa
+15 Grand Canyon
+
+1 Michigan
+16 MTSM/TXSO
+
+8 LSU
+9 St. Bona.
+
+5 Colorado
+12 Georgetown
+
+4 Florida St.
+13 UNCG
+
+6 BYU
+11 MSU/UCLA
+
+3 Texas
+14 Abilene Chr.
+
+7 Connecticut
+10 Maryland
+
+2 Alabama
+15 Iona 
+
+1 Baylor
+16 Hartford
+
+8 N. Carolina
+9 Wisconsin
+
+5 Villanova
+12 Winthrop
+
+4 Purdue
+13 North Texas
+
+6 Texas Tech
+11 Utah St.
+
+3 Arkansas
+14 Colgate
+
+7 Florida
+10 Va. Tech
+
+2 Ohio St.
+15 Oral Roberts
+
+1 Illinois
+16 Drexel
+
+8 Loyola Chi.
+9 Georgia Tech
+
+5 Tennessee
+12 Oregon St.
+
+4 Oklahoma St.
+13 Liberty
+
+6 San Diego St
+11 Syracuse
+
+3 W. Virginia
+14 Morehead St.
+
+7 Clemson
+10 Rutgers
+
+2 Houston
+15 Clev. St.
+
+16 Norfolk St. W 16 App. St. 11 Wichita St. 11 Drake W
+16 Mt St Mary's E 16 Texas So. 11 Michigan St. 11 UCLA
+
