@@ -1,355 +1,130 @@
 BEGIN
  rd |        name         |   p   
 ----+---------------------+-------
-  2 | UCLA                | 0.627
-  2 | Mt. St. Mary's      | 0.609
-  2 | Drake               | 0.555
-  2 | Appalachian St.     | 0.529
-  2 | Norfolk St.         | 0.471
-  2 | Wichita St.         | 0.445
-  2 | Texas Southern      | 0.391
-  2 | Michigan St.        | 0.373
-  3 | Gonzaga             | 0.977
-  3 | Houston             | 0.962
-  3 | Baylor              | 0.959
-  3 | Michigan            | 0.957
-  3 | Illinois            | 0.941
-  3 | Alabama             | 0.904
-  3 | Ohio St.            | 0.904
-  3 | West Virginia       | 0.884
-  3 | Iowa                | 0.866
-  3 | Kansas              | 0.843
-  3 | Tennessee           | 0.826
-  3 | Virginia            | 0.811
-  3 | Florida St.         | 0.782
-  3 | Texas               | 0.781
-  3 | Colorado            | 0.773
-  3 | Villanova           | 0.773
-  3 | Southern California | 0.754
-  3 | Creighton           | 0.737
-  3 | Oklahoma St.        | 0.735
-  3 | Purdue              | 0.706
-  3 | Loyola Chicago      | 0.669
-  3 | BYU                 | 0.652
-  3 | Texas Tech          | 0.619
-  3 | Colgate             | 0.595
-  3 | Florida             | 0.589
-  3 | UConn               | 0.570
-  3 | Wisconsin           | 0.557
-  3 | San Diego St.       | 0.554
-  3 | Oklahoma            | 0.551
-  3 | Oregon              | 0.516
-  3 | St. Bonaventure     | 0.515
-  3 | Rutgers             | 0.503
-  3 | Clemson             | 0.497
-  3 | LSU                 | 0.485
-  3 | VCU                 | 0.484
-  3 | Missouri            | 0.449
-  3 | Syracuse            | 0.446
-  3 | North Carolina      | 0.443
-  3 | Maryland            | 0.430
-  3 | Virginia Tech       | 0.411
-  3 | Arkansas            | 0.405
-  3 | Utah St.            | 0.381
-  3 | Georgia Tech        | 0.331
-  3 | North Texas         | 0.294
-  3 | Liberty             | 0.265
-  3 | UC Santa Barbara    | 0.263
-  3 | UCLA                | 0.245
-  3 | Winthrop            | 0.227
-  3 | Georgetown          | 0.227
-  3 | Abilene Christian   | 0.219
-  3 | UNC Greensboro      | 0.218
-  3 | Ohio                | 0.189
-  3 | Oregon St.          | 0.174
-  3 | Eastern Wash.       | 0.157
-  3 | Drake               | 0.147
-  3 | Grand Canyon        | 0.134
-  3 | Morehead St.        | 0.116
-  3 | Michigan St.        | 0.103
-  3 | Wichita St.         | 0.100
-  3 | Oral Roberts        | 0.096
-  3 | Iona                | 0.096
-  3 | Drexel              | 0.059
-  3 | Hartford            | 0.041
-  3 | Cleveland St.       | 0.038
-  3 | Mt. St. Mary's      | 0.031
-  3 | Texas Southern      | 0.013
-  3 | Appalachian St.     | 0.013
-  3 | Norfolk St.         | 0.010
-  4 | Gonzaga             | 0.820
-  4 | Houston             | 0.754
-  4 | Baylor              | 0.690
-  4 | Illinois            | 0.672
-  4 | Michigan            | 0.664
-  4 | Iowa                | 0.635
-  4 | Alabama             | 0.585
-  4 | Ohio St.            | 0.567
-  4 | Tennessee           | 0.558
-  4 | West Virginia       | 0.496
-  4 | Colorado            | 0.477
-  4 | Virginia            | 0.465
-  4 | Villanova           | 0.456
-  4 | Kansas              | 0.454
-  4 | Texas               | 0.443
-  4 | Southern California | 0.435
-  4 | Creighton           | 0.404
-  4 | Florida St.         | 0.395
-  4 | Colgate             | 0.384
-  4 | Purdue              | 0.376
-  4 | BYU                 | 0.355
-  4 | Oklahoma St.        | 0.324
-  4 | San Diego St.       | 0.282
-  4 | Texas Tech          | 0.270
-  4 | Florida             | 0.265
-  4 | Loyola Chicago      | 0.243
-  4 | UConn               | 0.243
-  4 | Arkansas            | 0.224
-  4 | Syracuse            | 0.205
-  4 | Wisconsin           | 0.181
-  4 | St. Bonaventure     | 0.174
-  4 | Oregon              | 0.171
-  4 | LSU                 | 0.158
-  4 | Maryland            | 0.157
-  4 | VCU                 | 0.154
-  4 | Virginia Tech       | 0.153
-  4 | North Carolina      | 0.124
-  4 | Utah St.            | 0.123
-  4 | Rutgers             | 0.122
-  4 | Clemson             | 0.119
-  4 | UCLA                | 0.108
-  4 | Oklahoma            | 0.105
-  4 | North Texas         | 0.098
-  4 | UC Santa Barbara    | 0.084
-  4 | Georgetown          | 0.077
-  4 | Georgia Tech        | 0.077
-  4 | Missouri            | 0.073
-  4 | Winthrop            | 0.069
-  4 | Liberty             | 0.063
-  4 | Abilene Christian   | 0.060
-  4 | Oregon St.          | 0.056
-  4 | UNC Greensboro      | 0.051
-  4 | Drake               | 0.051
-  4 | Ohio                | 0.047
-  4 | Grand Canyon        | 0.040
-  4 | Michigan St.        | 0.034
-  4 | Eastern Wash.       | 0.030
-  4 | Wichita St.         | 0.030
-  4 | Morehead St.        | 0.017
-  4 | Iona                | 0.016
-  4 | Oral Roberts        | 0.015
-  4 | Drexel              | 0.009
-  4 | Cleveland St.       | 0.005
-  4 | Hartford            | 0.004
-  4 | Mt. St. Mary's      | 0.003
-  4 | Appalachian St.     | 0.002
-  4 | Texas Southern      | 0.001
-  4 | Norfolk St.         | 0.001
-  5 | Gonzaga             | 0.628
-  5 | Houston             | 0.561
-  5 | Baylor              | 0.512
-  5 | Illinois            | 0.491
-  5 | Michigan            | 0.443
-  5 | Iowa                | 0.406
-  5 | Alabama             | 0.385
-  5 | Ohio St.            | 0.280
-  5 | Colgate             | 0.244
-  5 | Tennessee           | 0.224
-  5 | Colorado            | 0.217
-  5 | Southern California | 0.215
-  5 | Kansas              | 0.214
-  5 | Texas               | 0.199
-  5 | West Virginia       | 0.178
-  5 | Villanova           | 0.168
-  5 | Florida St.         | 0.157
-  5 | BYU                 | 0.153
-  5 | Virginia            | 0.153
-  5 | Texas Tech          | 0.145
-  5 | Loyola Chicago      | 0.140
-  5 | UConn               | 0.132
-  5 | Creighton           | 0.129
-  5 | Purdue              | 0.128
-  5 | Arkansas            | 0.122
-  5 | Florida             | 0.106
-  5 | Wisconsin           | 0.101
-  5 | Oklahoma St.        | 0.096
-  5 | San Diego St.       | 0.092
-  5 | St. Bonaventure     | 0.084
-  5 | LSU                 | 0.074
-  5 | Maryland            | 0.074
-  5 | Oregon              | 0.070
-  5 | North Carolina      | 0.063
-  5 | VCU                 | 0.060
-  5 | Syracuse            | 0.059
-  5 | Rutgers             | 0.055
-  5 | Clemson             | 0.053
-  5 | Utah St.            | 0.052
-  5 | Virginia Tech       | 0.049
-  5 | Oklahoma            | 0.044
-  5 | UCLA                | 0.036
-  5 | Georgia Tech        | 0.032
-  5 | Missouri            | 0.027
-  5 | North Texas         | 0.018
-  5 | Georgetown          | 0.016
-  5 | Drake               | 0.014
-  5 | UC Santa Barbara    | 0.013
-  5 | Abilene Christian   | 0.012
-  5 | Winthrop            | 0.011
-  5 | Grand Canyon        | 0.009
-  5 | Liberty             | 0.009
-  5 | Michigan St.        | 0.008
-  5 | UNC Greensboro      | 0.008
-  5 | Wichita St.         | 0.007
-  5 | Oregon St.          | 0.007
-  5 | Ohio                | 0.006
-  5 | Eastern Wash.       | 0.005
-  5 | Iona                | 0.003
-  5 | Oral Roberts        | 0.001
-  5 | Cleveland St.       | 0.001
-  5 | Morehead St.        | 0.001
-  5 | Drexel              | 0.001
-  5 | Hartford            | 0.000
-  5 | Norfolk St.         | 0.000
-  5 | Texas Southern      | 0.000
-  5 | Mt. St. Mary's      | 0.000
-  5 | Appalachian St.     | 0.000
-  6 | Gonzaga             | 0.451
-  6 | Baylor              | 0.343
-  6 | Houston             | 0.333
-  6 | Illinois            | 0.305
-  6 | Michigan            | 0.290
-  6 | Alabama             | 0.201
-  6 | Iowa                | 0.190
-  6 | Colgate             | 0.130
-  6 | Ohio St.            | 0.126
-  6 | Colorado            | 0.118
-  6 | Tennessee           | 0.103
-  6 | Texas               | 0.081
-  6 | Southern California | 0.081
-  6 | Villanova           | 0.078
-  6 | Florida St.         | 0.077
-  6 | Kansas              | 0.076
-  6 | Virginia            | 0.073
-  6 | West Virginia       | 0.067
-  6 | Loyola Chicago      | 0.065
-  6 | Texas Tech          | 0.063
-  6 | BYU                 | 0.060
-  6 | Creighton           | 0.060
-  6 | Purdue              | 0.056
-  6 | UConn               | 0.054
-  6 | Arkansas            | 0.054
-  6 | Wisconsin           | 0.048
-  6 | Florida             | 0.039
-  6 | St. Bonaventure     | 0.039
-  6 | LSU                 | 0.034
-  6 | Oklahoma St.        | 0.033
-  6 | San Diego St.       | 0.032
-  6 | Maryland            | 0.026
-  6 | North Carolina      | 0.026
-  6 | Syracuse            | 0.018
-  6 | Oregon              | 0.018
-  6 | Rutgers             | 0.017
-  6 | Utah St.            | 0.017
-  6 | Oklahoma            | 0.016
-  6 | Clemson             | 0.016
-  6 | VCU                 | 0.015
-  6 | Virginia Tech       | 0.014
-  6 | UCLA                | 0.011
-  6 | Georgia Tech        | 0.010
-  6 | Missouri            | 0.009
-  6 | North Texas         | 0.004
-  6 | Georgetown          | 0.004
-  6 | Drake               | 0.003
-  6 | UC Santa Barbara    | 0.003
-  6 | Abilene Christian   | 0.002
-  6 | UNC Greensboro      | 0.002
-  6 | Winthrop            | 0.002
-  6 | Michigan St.        | 0.002
-  6 | Wichita St.         | 0.001
-  6 | Liberty             | 0.001
-  6 | Grand Canyon        | 0.001
-  6 | Ohio                | 0.001
-  6 | Oregon St.          | 0.001
-  6 | Norfolk St.         | 0.000
-  6 | Mt. St. Mary's      | 0.000
-  6 | Morehead St.        | 0.000
-  6 | Oral Roberts        | 0.000
-  6 | Iona                | 0.000
-  6 | Hartford            | 0.000
-  6 | Eastern Wash.       | 0.000
-  6 | Texas Southern      | 0.000
-  6 | Drexel              | 0.000
-  6 | Cleveland St.       | 0.000
-  6 | Appalachian St.     | 0.000
-  7 | Gonzaga             | 0.320
-  7 | Houston             | 0.203
-  7 | Baylor              | 0.199
-  7 | Illinois            | 0.190
-  7 | Michigan            | 0.148
-  7 | Iowa                | 0.111
-  7 | Alabama             | 0.089
-  7 | Colgate             | 0.065
-  7 | Ohio St.            | 0.053
-  7 | Colorado            | 0.048
-  7 | Tennessee           | 0.047
-  7 | Southern California | 0.039
-  7 | Kansas              | 0.035
-  7 | Virginia            | 0.034
-  7 | Villanova           | 0.030
-  7 | Loyola Chicago      | 0.029
-  7 | Creighton           | 0.028
-  7 | Florida St.         | 0.027
-  7 | Texas               | 0.027
-  7 | West Virginia       | 0.026
-  7 | Texas Tech          | 0.025
-  7 | Arkansas            | 0.022
-  7 | Purdue              | 0.020
-  7 | BYU                 | 0.019
-  7 | UConn               | 0.018
-  7 | Wisconsin           | 0.018
-  7 | St. Bonaventure     | 0.013
-  7 | Florida             | 0.013
-  7 | Oklahoma St.        | 0.011
-  7 | San Diego St.       | 0.011
-  7 | LSU                 | 0.011
-  7 | North Carolina      | 0.009
-  7 | Maryland            | 0.007
-  7 | Oregon              | 0.006
-  7 | Clemson             | 0.005
-  7 | Syracuse            | 0.005
-  7 | Utah St.            | 0.005
-  7 | Oklahoma            | 0.005
-  7 | Rutgers             | 0.005
-  7 | VCU                 | 0.005
-  7 | Virginia Tech       | 0.004
-  7 | UCLA                | 0.003
-  7 | Georgia Tech        | 0.003
-  7 | Missouri            | 0.003
-  7 | Drake               | 0.001
-  7 | North Texas         | 0.001
-  7 | UC Santa Barbara    | 0.001
-  7 | Georgetown          | 0.001
-  7 | UNC Greensboro      | 0.000
-  7 | Mt. St. Mary's      | 0.000
-  7 | Morehead St.        | 0.000
-  7 | Michigan St.        | 0.000
-  7 | Liberty             | 0.000
-  7 | Iona                | 0.000
-  7 | Texas Southern      | 0.000
-  7 | Hartford            | 0.000
-  7 | Eastern Wash.       | 0.000
-  7 | Drexel              | 0.000
-  7 | Cleveland St.       | 0.000
-  7 | Appalachian St.     | 0.000
-  7 | Wichita St.         | 0.000
-  7 | Winthrop            | 0.000
-  7 | Abilene Christian   | 0.000
-  7 | Ohio                | 0.000
-  7 | Grand Canyon        | 0.000
+  4 | Florida             | 0.866
+  4 | Gonzaga             | 0.827
+  4 | Creighton           | 0.804
+  4 | Houston             | 0.783
+  4 | Oklahoma St.        | 0.741
+  4 | Villanova           | 0.731
+  4 | Iowa                | 0.727
+  4 | Michigan            | 0.700
+  4 | Baylor              | 0.699
+  4 | Alabama             | 0.684
+  4 | UCLA                | 0.681
+  4 | West Virginia       | 0.591
+  4 | Colorado            | 0.560
+  4 | Southern California | 0.525
+  4 | Arkansas            | 0.508
+  4 | Texas Tech          | 0.492
+  4 | Kansas              | 0.475
+  4 | Florida St.         | 0.440
+  4 | Syracuse            | 0.409
+  4 | Abilene Christian   | 0.319
+  4 | Maryland            | 0.316
+  4 | Wisconsin           | 0.301
+  4 | LSU                 | 0.300
+  4 | Oregon              | 0.273
+  4 | North Texas         | 0.269
+  4 | Oregon St.          | 0.259
+  4 | Rutgers             | 0.217
+  4 | Ohio                | 0.196
+  4 | Oklahoma            | 0.173
+  4 | Oral Roberts        | 0.134
+  5 | Loyola Chicago      | 0.675
+  5 | Gonzaga             | 0.649
+  5 | Houston             | 0.584
+  5 | Alabama             | 0.526
+  5 | Baylor              | 0.522
+  5 | Michigan            | 0.447
+  5 | Iowa                | 0.446
+  5 | Florida             | 0.365
+  5 | Arkansas            | 0.317
+  5 | Texas Tech          | 0.304
+  5 | Oklahoma St.        | 0.280
+  5 | Villanova           | 0.261
+  5 | Creighton           | 0.252
+  5 | Colorado            | 0.251
+  5 | Southern California | 0.244
+  5 | UCLA                | 0.221
+  5 | Kansas              | 0.209
+  5 | West Virginia       | 0.206
+  5 | Maryland            | 0.193
+  5 | Florida St.         | 0.172
+  5 | Wisconsin           | 0.170
+  5 | LSU                 | 0.129
+  5 | Syracuse            | 0.113
+  5 | Oregon              | 0.102
+  5 | Rutgers             | 0.098
+  5 | Oklahoma            | 0.078
+  5 | Abilene Christian   | 0.060
+  5 | North Texas         | 0.047
+  5 | Oregon St.          | 0.045
+  5 | Ohio                | 0.022
+  5 | Oral Roberts        | 0.014
+  6 | Gonzaga             | 0.457
+  6 | Houston             | 0.408
+  6 | Baylor              | 0.369
+  6 | Loyola Chicago      | 0.307
+  6 | Michigan            | 0.299
+  6 | Alabama             | 0.271
+  6 | Iowa                | 0.208
+  6 | Colorado            | 0.142
+  6 | Arkansas            | 0.138
+  6 | Villanova           | 0.132
+  6 | Florida             | 0.131
+  6 | Texas Tech          | 0.129
+  6 | Creighton           | 0.113
+  6 | West Virginia       | 0.099
+  6 | Oklahoma St.        | 0.096
+  6 | Southern California | 0.091
+  6 | Florida St.         | 0.088
+  6 | Wisconsin           | 0.087
+  6 | Kansas              | 0.074
+  6 | Maryland            | 0.065
+  6 | UCLA                | 0.063
+  6 | LSU                 | 0.062
+  6 | Syracuse            | 0.044
+  6 | Rutgers             | 0.039
+  6 | Oregon              | 0.027
+  6 | Oklahoma            | 0.027
+  6 | North Texas         | 0.013
+  6 | Abilene Christian   | 0.010
+  6 | Oregon St.          | 0.007
+  6 | Ohio                | 0.004
+  6 | Oral Roberts        | 0.001
+  7 | Gonzaga             | 0.323
+  7 | Houston             | 0.254
+  7 | Baylor              | 0.232
+  7 | Michigan            | 0.151
+  7 | Loyola Chicago      | 0.143
+  7 | Iowa                | 0.120
+  7 | Alabama             | 0.119
+  7 | Arkansas            | 0.063
+  7 | Texas Tech          | 0.058
+  7 | Villanova           | 0.057
+  7 | Colorado            | 0.056
+  7 | Creighton           | 0.051
+  7 | Florida             | 0.050
+  7 | Southern California | 0.044
+  7 | West Virginia       | 0.040
+  7 | Wisconsin           | 0.038
+  7 | Kansas              | 0.034
+  7 | Oklahoma St.        | 0.034
+  7 | Florida St.         | 0.030
+  7 | LSU                 | 0.019
+  7 | Maryland            | 0.018
+  7 | UCLA                | 0.015
+  7 | Syracuse            | 0.014
+  7 | Rutgers             | 0.013
+  7 | Oregon              | 0.009
+  7 | Oklahoma            | 0.009
+  7 | North Texas         | 0.003
+  7 | Oregon St.          | 0.001
+  7 | Abilene Christian   | 0.001
+  7 | Ohio                | 0.001
   7 | Oral Roberts        | 0.000
-  7 | Oregon St.          | 0.000
-  7 | Norfolk St.         | 0.000
-(348 rows)
+(123 rows)
 
-COPY 348
+COPY 123
 COMMIT
