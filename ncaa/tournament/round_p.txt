@@ -120,11 +120,42 @@ BEGIN
   7 | Oregon              | 0.009
   7 | Oklahoma            | 0.009
   7 | North Texas         | 0.003
-  7 | Oregon St.          | 0.001
   7 | Abilene Christian   | 0.001
+  7 | Oregon St.          | 0.001
   7 | Ohio                | 0.001
   7 | Oral Roberts        | 0.000
-(123 rows)
+  8 | Gonzaga             | 0.217
+  8 | Houston             | 0.141
+  8 | Baylor              | 0.131
+  8 | Michigan            | 0.085
+  8 | Iowa                | 0.065
+  8 | Alabama             | 0.059
+  8 | Loyola Chicago      | 0.058
+  8 | Arkansas            | 0.025
+  8 | Colorado            | 0.025
+  8 | Texas Tech          | 0.023
+  8 | Creighton           | 0.021
+  8 | Villanova           | 0.021
+  8 | Southern California | 0.019
+  8 | Florida             | 0.016
+  8 | West Virginia       | 0.014
+  8 | Kansas              | 0.014
+  8 | Wisconsin           | 0.014
+  8 | Florida St.         | 0.012
+  8 | Oklahoma St.        | 0.010
+  8 | LSU                 | 0.007
+  8 | Maryland            | 0.006
+  8 | Syracuse            | 0.004
+  8 | UCLA                | 0.004
+  8 | Rutgers             | 0.003
+  8 | Oklahoma            | 0.003
+  8 | Oregon              | 0.003
+  8 | North Texas         | 0.001
+  8 | Abilene Christian   | 0.000
+  8 | Ohio                | 0.000
+  8 | Oregon St.          | 0.000
+  8 | Oral Roberts        | 0.000
+(154 rows)
 
-COPY 123
+COPY 154
 COMMIT
