@@ -11655,8 +11655,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Texas A&M,697,Vanderbilt,736,03/10/2021,68,79,Neutral,"Nashville, TN",-,"1,149"
 2021,Texas Lutheran,1400,Centenary (LA),125,01/15/2021,52,61,Away,,-,0
 2021,Texas Lutheran,1400,Centenary (LA),125,01/16/2021,68,55,Away,,-,19
-2021,Texas Lutheran,1400,Trinity (TX),715,01/30/2021,66,77,Home,,-,50
 2021,Texas Lutheran,1400,Trinity (TX),715,01/30/2021,50,51,Home,,-,40
+2021,Texas Lutheran,1400,Trinity (TX),715,01/30/2021,66,77,Home,,-,50
 2021,Texas Lutheran,1400,Southwestern (TX),8746,02/05/2021,84,79,Away,,1 OT,0
 2021,Texas Lutheran,1400,Southwestern (TX),8746,02/06/2021,76,78,Away,,-,0
 2021,Texas Lutheran,1400,$game.opponentName,2810,02/12/2021,41,65,Home,,-,55
@@ -11940,8 +11940,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Trinity (TX),715,$game.opponentName,2810,01/16/2021,77,73,Away,,-,0
 2021,Trinity (TX),715,Colorado Col.,154,01/22/2021,82,63,Home,,-,0
 2021,Trinity (TX),715,Colorado Col.,154,01/23/2021,65,56,Home,,-,0
-2021,Trinity (TX),715,Texas Lutheran,1400,01/30/2021,77,66,Away,,-,50
 2021,Trinity (TX),715,Texas Lutheran,1400,01/30/2021,51,50,Away,,-,40
+2021,Trinity (TX),715,Texas Lutheran,1400,01/30/2021,77,66,Away,,-,50
 2021,Trinity (TX),715,Austin,953,02/13/2021,89,66,Home,,-,0
 2021,Trinity (TX),715,Schreiner,1355,02/26/2021,93,77,Home,,-,0
 2021,Trinity (TX),715,Schreiner,1355,02/27/2021,92,81,Home,,-,0
