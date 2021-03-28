@@ -1,13 +1,13 @@
 year,team_id,team_name,wins,losses,ties,total_games
 2021,26172,A&M-Corpus Christi,5,19,0,24
-2021,2,Abilene Christian,22,4,0,26
+2021,2,Abilene Christian,23,4,0,27
 2021,30123,Academy of Art,3,10,0,13
 2021,929,Adams St.,10,11,0,21
 2021,4,Adrian,3,15,0,18
 2021,721,Air Force,5,20,0,25
 2021,5,Akron,15,8,0,23
-2021,10,Alabama Huntsville,14,3,0,17
-2021,8,Alabama,22,6,0,28
+2021,10,Alabama Huntsville,14,3,1,18
+2021,8,Alabama,24,6,0,30
 2021,6,Alabama A&M,6,9,0,15
 2021,7,Alabama St.,4,14,0,18
 2021,14,Albany (NY),7,9,0,16
@@ -16,7 +16,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,16,Albright,6,3,0,9
 2021,17,Alcorn,6,13,0,19
 2021,934,Alderson Broaddus,6,11,0,17
-2021,18,Alfred,2,0,0,2
+2021,18,Alfred,2,1,0,3
 2021,21,Alma,2,12,0,14
 2021,938,Alvernia,5,2,0,7
 2021,23,American,4,6,0,10
@@ -29,13 +29,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,29,Arizona,17,9,0,26
 2021,28,Arizona St.,11,14,0,25
 2021,30105,Ark.-Fort Smith,5,11,0,16
-2021,8411,Ark.-Monticello,16,4,0,20
+2021,8411,Ark.-Monticello,16,5,0,21
 2021,2678,Ark.-Pine Bluff,4,21,0,25
-2021,31,Arkansas,22,5,0,27
+2021,31,Arkansas,22,6,0,28
 2021,30,Arkansas St.,11,13,0,24
 2021,947,Arkansas Tech,7,11,0,18
 2021,725,Army West Point,12,9,0,21
-2021,35,Ashland,14,8,0,22
+2021,35,Ashland,15,8,1,24
 2021,37,Auburn,13,14,0,27
 2021,38,Augsburg,4,3,0,7
 2021,39,Augusta,9,7,0,16
@@ -43,34 +43,34 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,41,Augustana (SD),9,7,0,16
 2021,30093,AUM,3,14,0,17
 2021,42,Aurora,7,4,0,11
-2021,953,Austin,5,5,0,10
+2021,953,Austin,5,6,0,11
 2021,43,Austin Peay,14,13,0,27
 2021,44,Averett,6,7,0,13
 2021,30146,Azusa Pacific,5,7,0,12
-2021,45,Babson,6,2,0,8
+2021,45,Babson,8,2,0,10
 2021,46,Baldwin Wallace,2,6,0,8
 2021,47,Ball St.,10,13,0,23
-2021,49,Barry,2,3,0,5
+2021,49,Barry,2,4,0,6
 2021,15646,Barton,4,10,0,14
 2021,51,Baylor,22,2,0,24
 2021,30197,Belhaven,4,15,0,19
 2021,52,Bellarmine,13,7,0,20
 2021,14927,Belmont,26,4,0,30
-2021,2683,Belmont Abbey,19,4,0,23
+2021,2683,Belmont Abbey,19,4,1,24
 2021,54,Bemidji St.,7,9,0,16
 2021,55,Benedict,9,1,0,10
 2021,296,Benedictine (IL),9,4,0,13
 2021,30171,Berea,1,9,0,10
-2021,973,Berry,12,1,0,13
-2021,59,Bethany (WV),2,7,0,9
+2021,973,Berry,13,1,0,14
+2021,59,Bethany (WV),2,8,0,10
 2021,30038,Bethany Lutheran,6,4,0,10
 2021,60,Bethel (MN),3,5,0,8
 2021,62,Binghamton,4,14,0,18
-2021,30220,Biola,10,3,0,13
+2021,30220,Biola,10,4,0,14
 2021,28593,Birmingham-So.,11,6,0,17
 2021,30134,Black Hills St.,11,7,0,18
 2021,64,Blackburn,3,1,0,4
-2021,984,Bloomfield,6,3,0,9
+2021,984,Bloomfield,7,3,1,11
 2021,985,Bluefield St.,3,6,0,9
 2021,987,Bluffton,11,5,0,16
 2021,66,Boise St.,18,8,0,26
@@ -81,17 +81,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,30094,Brevard,1,6,0,7
 2021,75,Bridgewater (VA),2,5,0,7
 2021,81,Bryant,15,6,0,21
-2021,30188,Bryn Athyn,0,3,1,4
+2021,30188,Bryn Athyn,0,3,0,3
 2021,83,Bucknell,5,7,0,12
-2021,84,Buena Vista,9,2,0,11
-2021,86,Buffalo,16,7,0,23
+2021,84,Buena Vista,9,3,0,12
+2021,86,Buffalo,16,8,0,24
 2021,87,Butler,10,15,0,25
 2021,77,BYU,20,6,0,26
 2021,88,Cabrini,0,1,0,1
 2021,1305,Cairn,5,3,0,8
 2021,90,Cal Poly,4,20,0,24
 2021,97,Cal St. Fullerton,6,10,0,16
-2021,995,Caldwell,5,4,0,9
+2021,995,Caldwell,6,4,1,11
 2021,107,California,9,20,0,29
 2021,30135,California Baptist,13,10,0,23
 2021,114,Calvin,8,4,0,12
@@ -100,13 +100,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,116,Canisius,7,6,0,13
 2021,117,Capital,4,4,0,8
 2021,120,Carroll (WI),5,8,0,13
-2021,1000,Carson-Newman,16,5,0,21
+2021,1000,Carson-Newman,16,6,0,22
 2021,121,Carthage,5,7,0,12
 2021,123,Castleton,0,1,0,1
 2021,1001,Catawba,9,12,0,21
 2021,124,Catholic,4,4,0,8
 2021,30124,Cedarville,12,10,0,22
-2021,125,Centenary (LA),8,3,0,11
+2021,125,Centenary (LA),8,4,0,12
 2021,126,Central (IA),3,4,0,7
 2021,1004,Central Ark.,5,19,0,24
 2021,127,Central Conn. St.,5,16,0,21
@@ -117,7 +117,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,132,Centre,3,5,0,8
 2021,1012,Chadron St.,5,8,0,13
 2021,133,Chaminade,5,7,0,12
-2021,1013,Charleston (WV),14,3,0,17
+2021,1013,Charleston (WV),14,4,0,18
 2021,48,Charleston So.,3,18,0,21
 2021,458,Charlotte,9,16,0,25
 2021,10972,Chatham,5,4,0,9
@@ -126,10 +126,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,8875,Chowan,6,9,0,15
 2021,139,Chris. Newport,0,1,0,1
 2021,1015,Christian Brothers,3,11,0,14
-2021,140,Cincinnati,11,10,0,21
+2021,140,Cincinnati,12,11,0,23
 2021,143,Clarion,4,6,0,10
 2021,958,Clarks Summit,0,4,0,4
-2021,146,Clarkson,4,3,0,7
+2021,146,Clarkson,5,3,0,8
 2021,20576,Clayton St.,0,9,0,9
 2021,147,Clemson,16,7,0,23
 2021,148,Cleveland St.,19,7,0,26
@@ -138,13 +138,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,150,Coe,6,6,0,12
 2021,1023,Coker,4,12,0,16
 2021,1014,Col. of Charleston,9,10,0,19
-2021,151,Colby,2,0,0,2
-2021,153,Colgate,13,1,0,14
+2021,151,Colby,4,0,0,4
+2021,153,Colgate,14,1,0,15
 2021,11403,Colo. Christian,4,15,0,19
-2021,155,Colo. Sch. of Mines,16,2,0,18
-2021,157,Colorado,22,7,0,29
+2021,155,Colo. Sch. of Mines,17,2,0,19
+2021,157,Colorado,22,8,0,30
 2021,154,Colorado Col.,0,8,0,8
-2021,11416,Colorado Mesa,21,1,0,22
+2021,11416,Colorado Mesa,21,2,0,23
 2021,156,Colorado St.,18,6,0,24
 2021,2720,CSU Pueblo,3,16,0,19
 2021,159,Columbus St.,5,7,0,12
@@ -152,27 +152,27 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,30199,Concordia (CA),1,13,0,14
 2021,162,Concordia (NY),2,5,0,7
 2021,24400,Concordia (TX),5,6,0,11
-2021,160,Concordia Chicago,4,11,0,15
+2021,160,Concordia Chicago,5,11,0,16
 2021,1036,Concordia Wisconsin,7,5,0,12
 2021,161,Concordia-M'head,0,4,0,4
 2021,9081,Concordia-St. Paul,1,13,0,14
-2021,163,Connecticut Col.,1,2,0,3
+2021,163,Connecticut Col.,1,4,0,5
 2021,165,Coppin St.,9,13,0,22
 2021,166,Cornell College,3,5,0,8
 2021,30111,Covenant,10,11,0,21
-2021,169,Creighton,20,7,0,27
+2021,169,Creighton,20,8,0,28
 2021,30035,Crown (MN),4,7,0,11
 2021,94,CSU Bakersfield,15,11,0,26
 2021,101,CSUN,9,13,0,22
-2021,170,Curry,0,3,0,3
+2021,170,Curry,0,4,0,4
 2021,1059,D'Youville,2,12,0,14
-2021,30174,Daemen,8,5,0,13
+2021,30174,Daemen,8,5,1,14
 2021,1044,Dallas,4,7,0,11
 2021,30221,Davenport,5,11,0,16
 2021,173,Davidson,13,8,0,21
 2021,174,Davis & Elkins,4,11,0,15
 2021,175,Dayton,14,9,0,23
-2021,1045,DBU,16,4,0,20
+2021,1045,DBU,17,4,1,22
 2021,1050,Defiance,1,6,0,7
 2021,180,Delaware,7,8,0,15
 2021,178,Delaware St.,3,16,0,19
@@ -182,17 +182,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,183,Denver,2,19,0,21
 2021,176,DePaul,5,14,0,19
 2021,177,DePauw,12,1,0,13
-2021,20,DeSales,8,1,0,9
+2021,20,DeSales,9,1,0,10
 2021,184,Detroit Mercy,12,10,0,22
 2021,30095,Dixie St.,8,13,0,21
 2021,30118,Dominican (CA),4,5,0,9
 2021,1332,Dominican (IL),1,8,0,9
-2021,8956,Dominican (NY),4,3,0,7
+2021,8956,Dominican (NY),4,4,0,8
 2021,189,Drake,25,4,0,29
-2021,190,Drew,7,1,0,8
+2021,190,Drew,7,2,0,9
 2021,191,Drexel,12,7,0,19
 2021,1057,Drury,11,10,0,21
-2021,192,Dubuque,13,0,0,13
+2021,192,Dubuque,14,0,0,14
 2021,193,Duke,13,11,0,24
 2021,194,Duquesne,9,9,0,18
 2021,195,Earlham,1,8,0,9
@@ -205,22 +205,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,201,Eastern Ill.,9,18,0,27
 2021,202,Eastern Ky.,22,7,0,29
 2021,204,Eastern Mich.,6,12,0,18
-2021,207,Eastern Wash.,15,7,0,22
+2021,1064,Eastern Nazarene,0,2,0,2
+2021,207,Eastern Wash.,16,7,0,23
 2021,1066,Edgewood,10,7,0,17
 2021,212,Elmhurst,7,3,0,10
-2021,213,Elmira,0,3,0,3
+2021,213,Elmira,1,3,0,4
 2021,1068,Elon,10,9,0,19
-2021,30193,Emmanuel (GA),15,6,0,21
+2021,30193,Emmanuel (GA),16,6,1,23
 2021,216,Emory & Henry,2,8,0,10
 2021,1071,Emporia St.,11,13,0,24
-2021,8981,Endicott,2,1,0,3
+2021,8981,Endicott,3,1,0,4
 2021,1072,Erskine,2,14,0,16
 2021,198,ETSU,13,12,0,25
-2021,218,Eureka,5,2,0,7
+2021,218,Eureka,6,2,0,8
 2021,219,Evansville,9,16,0,25
-2021,220,Fairfield,10,16,0,26
+2021,220,Fairfield,10,17,0,27
 2021,222,Fairleigh Dickinson,9,15,0,24
-2021,1076,Fairmont St.,15,4,0,19
+2021,1076,Fairmont St.,15,5,0,20
 2021,221,FDU-Florham,0,6,0,6
 2021,23157,Felician,5,4,0,9
 2021,224,Ferris St.,9,11,0,20
@@ -230,19 +231,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,30032,Finlandia,0,6,0,6
 2021,231,FIU,9,17,0,26
 2021,229,Fla. Atlantic,13,10,0,23
-2021,233,Fla. Southern,4,4,0,8
-2021,30092,Flagler,15,5,0,20
+2021,233,Fla. Southern,5,4,0,9
+2021,30092,Flagler,15,5,1,21
 2021,235,Florida,14,9,0,23
 2021,228,Florida A&M,8,12,0,20
-2021,234,Florida St.,16,5,0,21
-2021,230,Florida Tech,2,3,0,5
+2021,234,Florida St.,16,6,0,22
+2021,230,Florida Tech,3,3,0,6
 2021,11538,Fontbonne,2,6,0,8
 2021,236,Fordham,2,12,0,14
 2021,9011,Fort Hays St.,12,11,0,23
 2021,1083,Fort Lewis,7,9,0,16
 2021,237,Fort Valley St.,0,2,0,2
 2021,1085,Francis Marion,3,11,0,14
-2021,30069,Franciscan,2,7,0,9
+2021,30069,Franciscan,3,7,0,10
 2021,2694,Franklin,9,6,0,15
 2021,241,Franklin Pierce,0,1,0,1
 2021,30147,Fresno Pacific,11,7,0,18
@@ -250,24 +251,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,243,Frostburg St.,4,12,0,16
 2021,244,Furman,16,9,0,25
 2021,253,Ga. Southern,13,13,0,26
-2021,1097,Ga. Southwestern,13,5,0,18
+2021,1097,Ga. Southwestern,13,6,0,19
 2021,246,Gannon,10,4,0,14
 2021,1092,Gardner-Webb,11,15,0,26
 2021,30084,Geneva,7,2,0,9
-2021,1094,George Fox,0,4,0,4
+2021,1094,George Fox,0,5,0,5
 2021,248,George Mason,13,9,0,22
 2021,249,George Washington,5,12,0,17
-2021,251,Georgetown,12,12,0,24
+2021,251,Georgetown,13,12,0,25
 2021,257,Georgia,14,12,0,26
 2021,1096,Georgia College,10,3,0,13
 2021,254,Georgia St.,16,6,0,22
-2021,255,Georgia Tech,16,8,0,24
+2021,255,Georgia Tech,17,8,0,25
 2021,9004,Georgian Court,2,5,0,7
 2021,1098,Glenville St.,9,4,0,13
 2021,260,Gonzaga,26,0,0,26
-2021,1099,Gordon,3,0,0,3
+2021,1099,Gordon,3,1,0,4
 2021,261,Grambling,12,12,0,24
-2021,1104,Grand Canyon,16,6,0,22
+2021,1104,Grand Canyon,17,6,0,23
 2021,262,Grand Valley St.,12,7,0,19
 2021,794,Green Bay,8,17,0,25
 2021,263,Greensboro,7,13,0,20
@@ -280,9 +281,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,269,Hampden-Sydney,2,4,0,6
 2021,270,Hampton,11,14,0,25
 2021,1115,Hanover,8,5,0,13
-2021,271,Hardin-Simmons,16,9,0,25
+2021,271,Hardin-Simmons,16,9,1,26
 2021,1116,Harding,4,11,0,15
-2021,272,Hartford,14,8,0,22
+2021,272,Hartford,15,8,0,23
 2021,273,Hartwick,0,1,0,1
 2021,277,Hawaii,11,10,0,21
 2021,2697,Hawaii Hilo,10,3,0,13
@@ -291,33 +292,33 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,1123,Henderson St.,11,9,0,20
 2021,1124,Hendrix,6,5,0,11
 2021,19651,High Point,9,15,0,24
-2021,280,Hillsdale,20,2,0,22
-2021,281,Hiram,0,1,0,1
+2021,280,Hillsdale,20,2,1,23
+2021,281,Hiram,0,2,0,2
 2021,283,Hofstra,13,10,0,23
 2021,285,Holy Cross,5,11,0,16
 2021,286,Hope,7,5,0,12
-2021,30160,Houghton,0,3,0,3
-2021,288,Houston,22,3,0,25
+2021,30160,Houghton,0,4,0,4
+2021,288,Houston,24,3,0,27
 2021,287,Houston Baptist,6,19,0,25
 2021,290,Howard,1,4,0,5
 2021,2741,Howard Payne,0,22,0,22
 2021,291,Humboldt St.,3,3,0,6
 2021,1130,Huntingdon,4,10,0,14
-2021,1133,Husson,6,0,0,6
+2021,1133,Husson,7,0,0,7
 2021,295,Idaho,1,21,0,22
 2021,294,Idaho St.,13,11,0,24
 2021,300,Ill. Wesleyan,8,1,0,9
 2021,30050,Ill. Springfield,8,12,0,20
-2021,301,Illinois,21,6,0,27
-2021,297,Illinois Col.,5,2,0,7
+2021,301,Illinois,23,6,0,29
+2021,297,Illinois Col.,7,2,0,9
 2021,299,Illinois St.,7,18,0,25
 2021,303,Immaculata,0,1,0,1
 2021,2743,UIW,8,14,0,22
 2021,306,Indiana,12,15,0,27
 2021,307,Indiana (PA),1,1,0,2
 2021,305,Indiana St.,15,10,0,25
-2021,310,Iona,11,5,0,16
-2021,312,Iowa,21,7,0,28
+2021,310,Iona,12,5,0,17
+2021,312,Iowa,21,8,0,29
 2021,311,Iowa St.,2,22,0,24
 2021,30173,Iowa Wesleyan,3,6,0,9
 2021,2699,IUPUI,8,10,0,18
@@ -336,15 +337,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,331,Kent St.,15,8,0,23
 2021,334,Kentucky,9,16,0,25
 2021,332,Kentucky St.,0,4,0,4
-2021,1159,Keuka,0,4,0,4
+2021,1159,Keuka,0,5,0,5
 2021,30051,King (TN),6,12,0,18
+2021,337,Knox,0,2,0,2
 2021,333,Ky. Wesleyan,10,6,0,16
 2021,340,La Salle,9,16,0,25
 2021,498,ULM,7,19,0,26
 2021,342,Lafayette,9,6,0,15
 2021,1162,LaGrange,7,4,0,11
 2021,2746,Lake Erie,4,14,0,18
-2021,344,Lake Forest,0,6,0,6
+2021,344,Lake Forest,0,7,0,7
 2021,345,Lake Superior St.,8,11,0,19
 2021,1164,Lakeland,7,8,0,15
 2021,346,Lamar University,10,18,0,28
@@ -352,17 +354,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,1167,Lander,7,10,0,17
 2021,8486,Lasell,0,2,0,2
 2021,351,Lebanon Valley,8,2,0,10
-2021,30013,Lee,14,6,0,20
+2021,30013,Lee,15,6,1,22
 2021,13302,Lees-McRae,6,6,0,12
 2021,352,Lehigh,4,11,0,15
 2021,1170,Lenoir-Rhyne,9,7,0,16
 2021,8490,LeTourneau,7,9,0,16
-2021,354,Lewis,14,11,0,25
+2021,354,Lewis,14,12,0,26
 2021,355,Liberty,23,5,0,28
 2021,1174,Limestone,2,13,0,15
 2021,356,Lincoln (MO),12,11,0,23
 2021,357,Lincoln (PA),3,2,0,5
-2021,1176,Lincoln Memorial,16,3,0,19
+2021,1176,Lincoln Memorial,17,3,0,20
 2021,30136,Lindenwood (MO),10,10,0,20
 2021,28600,Lipscomb,15,12,0,27
 2021,32,Little Rock,11,15,0,26
@@ -372,19 +374,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,363,Longwood,12,16,0,28
 2021,364,Loras,7,5,0,12
 2021,671,Louisiana,17,9,0,26
-2021,1182,Louisiana Col.,10,4,0,14
+2021,1182,Louisiana Col.,11,4,0,15
 2021,366,Louisiana Tech,21,7,0,28
 2021,367,Louisville,13,7,0,20
 2021,371,Loyola Chicago,24,4,0,28
-2021,369,Loyola Maryland,6,10,0,16
-2021,365,LSU,17,8,0,25
-2021,30177,Lubbock Christian,17,2,0,19
+2021,369,Loyola Maryland,6,11,0,17
+2021,365,LSU,18,9,0,27
+2021,30177,Lubbock Christian,17,2,1,20
 2021,372,Luther,1,8,0,9
-2021,373,Lycoming,4,1,0,5
+2021,373,Lycoming,4,2,0,6
 2021,374,Lynchburg,6,4,0,10
 2021,380,Maine,2,7,0,9
-2021,378,Maine Maritime,1,2,0,3
-2021,30137,Malone,17,7,0,24
+2021,378,Maine Maritime,1,3,0,4
+2021,30137,Malone,17,8,0,25
 2021,1192,Manchester,4,10,0,14
 2021,381,Manhattan,7,13,0,20
 2021,382,Manhattanville,0,2,0,2
@@ -397,7 +399,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,388,Marshall,15,7,0,22
 2021,8597,Martin Luther,2,11,0,13
 2021,30075,Mary,4,12,0,16
-2021,1203,Mary Hardin-Baylor,16,6,0,22
+2021,1203,Mary Hardin-Baylor,16,7,0,23
 2021,392,Maryland,16,13,0,29
 2021,394,Marymount (VA),3,0,0,3
 2021,395,Maryville (MO),8,12,0,20
@@ -408,19 +410,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,402,McNeese,10,14,0,24
 2021,379,Me.-Farmington,2,1,0,3
 2021,30040,Me.-Presque Isle,3,3,0,6
-2021,404,Memphis,16,7,0,23
+2021,23725,Medaille,0,1,0,1
+2021,404,Memphis,16,8,0,24
 2021,406,Mercer,18,11,0,29
 2021,724,Merchant Marine,2,2,0,4
 2021,407,Mercy,2,5,0,7
-2021,408,Mercyhurst,11,1,0,12
+2021,408,Mercyhurst,12,1,1,14
 2021,410,Merrimack,9,9,0,18
 2021,411,Messiah,4,6,0,10
 2021,412,Methodist,5,7,0,12
 2021,415,Miami (FL),10,17,0,27
 2021,414,Miami (OH),12,11,0,23
-2021,418,Michigan,20,3,0,23
+2021,418,Michigan,20,4,0,24
 2021,416,Michigan St.,15,12,0,27
-2021,417,Michigan Tech,14,7,0,21
+2021,417,Michigan Tech,14,7,1,22
 2021,419,Middle Tenn.,5,18,0,23
 2021,422,Miles,9,1,0,10
 2021,424,Millikin,1,12,0,13
@@ -438,25 +441,25 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,434,Missouri,16,9,0,25
 2021,435,Missouri S&T,4,17,0,21
 2021,669,Missouri St.,17,7,0,24
-2021,9013,Missouri Western,14,10,0,24
+2021,9013,Missouri Western,14,11,0,25
 2021,30042,Mitchell,0,5,0,5
 2021,9012,Mo. Southern St.,13,10,0,23
 2021,436,Mo.-St. Louis,13,6,0,19
 2021,437,Molloy,3,8,0,11
 2021,439,Monmouth,12,8,0,20
 2021,441,Montana,15,13,0,28
-2021,440,Montana St.,13,9,0,22
+2021,440,Montana St.,13,10,0,23
 2021,442,Montclair St.,6,3,0,9
 2021,1238,Montevallo,8,9,0,17
 2021,443,Moravian,1,8,0,9
 2021,444,Morehead St.,23,7,0,30
-2021,446,Morgan St.,14,7,0,21
+2021,446,Morgan St.,14,8,0,22
 2021,30036,Mount Aloysius,0,3,0,3
 2021,1245,Mount Olive,5,10,0,15
 2021,452,Mount Union,8,4,0,12
 2021,20220,MSOE,6,7,0,13
 2021,413,MSU Denver,9,8,0,17
-2021,1240,MSU Moorhead,10,4,0,14
+2021,1240,MSU Moorhead,11,4,1,16
 2021,1222,Midwestern St.,11,9,0,20
 2021,8567,Mt. St. Joseph,2,10,0,12
 2021,450,Mount St. Mary's,12,10,0,22
@@ -467,7 +470,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,489,N.C. Central,5,9,0,14
 2021,491,N.C. Wesleyan,11,8,0,19
 2021,726,Navy,15,3,0,18
-2021,461,Nazareth,4,1,0,5
+2021,461,Nazareth,5,1,0,6
 2021,490,NC State,13,10,0,23
 2021,462,Neb. Wesleyan,3,3,0,6
 2021,1156,Neb.-Kearney,8,14,0,22
@@ -478,15 +481,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,469,New Hampshire,10,9,0,19
 2021,319,New Jersey City,6,1,0,7
 2021,473,New Mexico,6,16,0,22
-2021,472,New Mexico St.,12,7,0,19
+2021,472,New Mexico St.,12,8,0,20
 2021,474,New Orleans,10,15,0,25
 2021,1257,Newberry,9,7,0,16
 2021,30054,Newman,4,19,0,23
 2021,482,Niagara,9,11,0,20
-2021,483,Nicholls,18,6,0,24
-2021,484,Nichols,2,3,0,5
+2021,483,Nicholls,18,7,0,25
+2021,484,Nichols,2,4,0,6
 2021,471,NJIT,7,12,0,19
-2021,485,Norfolk St.,15,7,0,22
+2021,485,Norfolk St.,16,7,0,23
 2021,487,North Ala.,13,11,0,24
 2021,457,North Carolina,18,10,0,28
 2021,492,North Central (IL),5,5,0,10
@@ -497,7 +500,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,30052,North Georgia,2,11,0,13
 2021,9223,North Greenville,10,7,0,17
 2021,496,North Park,3,11,0,14
-2021,497,North Texas,16,9,0,25
+2021,497,North Texas,17,9,0,26
 2021,500,Northeastern,10,9,0,19
 2021,12810,Northeastern St.,5,18,0,23
 2021,501,Northern Ariz.,6,16,0,22
@@ -505,45 +508,45 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,503,Northern Ill.,3,16,0,19
 2021,505,Northern Ky.,14,11,0,25
 2021,506,Northern Mich.,8,8,0,16
-2021,1266,Northern St.,18,1,0,19
+2021,1266,Northern St.,18,1,1,20
 2021,1267,Northland,0,8,0,8
-2021,507,Northwest Mo. St.,23,2,0,25
-2021,1274,Northwest Nazarene,12,4,0,16
+2021,507,Northwest Mo. St.,23,2,1,26
+2021,1274,Northwest Nazarene,13,4,0,17
 2021,509,Northwestern,9,15,0,24
 2021,30178,Northwestern Okla.,3,12,0,15
 2021,508,Northwestern St.,11,18,0,29
-2021,30031,Northwestern-St. Paul,13,3,0,16
+2021,30031,Northwestern-St. Paul,14,3,0,17
 2021,510,Northwood,6,12,0,18
-2021,511,Norwich,0,5,0,5
+2021,511,Norwich,0,6,0,6
 2021,513,Notre Dame,11,15,0,26
 2021,30126,Notre Dame (OH),8,9,0,17
 2021,324,NVU-Johnson,2,5,0,7
 2021,30065,NVU-Lyndon,5,5,0,10
-2021,1277,Nyack,4,4,0,8
+2021,1277,Nyack,4,5,0,9
 2021,514,Oakland,12,18,0,30
-2021,2713,Oglethorpe,9,3,0,12
-2021,519,Ohio,15,7,0,22
+2021,2713,Oglethorpe,9,4,0,13
+2021,519,Ohio,16,7,0,23
 2021,30119,Ohio Dominican,5,14,0,19
 2021,517,Ohio Northern,5,7,0,12
-2021,518,Ohio St.,20,8,0,28
+2021,518,Ohio St.,21,9,0,30
 2021,15207,Ohio Valley,4,15,0,19
-2021,520,Ohio Wesleyan,5,6,0,11
-2021,30202,Okla. Baptist,15,5,0,20
+2021,520,Ohio Wesleyan,6,6,0,12
+2021,30202,Okla. Baptist,16,5,1,22
 2021,30179,Okla. Christian,6,12,0,18
 2021,522,Oklahoma,15,10,0,25
-2021,521,Oklahoma St.,20,7,0,27
+2021,521,Oklahoma St.,20,8,0,28
 2021,523,Old Dominion,15,8,0,23
 2021,433,Ole Miss,16,11,0,27
 2021,525,Olivet,2,16,0,18
 2021,464,Omaha,5,20,0,25
 2021,527,Oral Roberts,16,10,0,26
 2021,529,Oregon,20,6,0,26
-2021,528,Oregon St.,16,12,0,28
+2021,528,Oregon St.,17,12,0,29
 2021,531,Otterbein,2,7,0,9
 2021,1289,Ouachita Baptist,5,12,0,17
-2021,23008,Ozarks (AR),8,5,0,13
+2021,23008,Ozarks (AR),8,5,1,14
 2021,534,Pacific,9,9,0,18
-2021,1297,Pacific Lutheran,7,1,0,8
+2021,1297,Pacific Lutheran,7,3,0,10
 2021,30045,Palm Beach Atl.,2,4,0,6
 2021,539,Penn St.,11,14,0,25
 2021,541,Pepperdine,12,12,0,24
@@ -555,20 +558,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,30149,Point Loma,8,3,0,11
 2021,551,Portland,6,15,0,21
 2021,550,Portland St.,9,13,0,22
-2021,553,Prairie View,16,4,0,20
+2021,553,Prairie View,16,5,0,21
 2021,1320,Presbyterian,7,15,0,22
 2021,556,Providence,13,13,0,26
 2021,557,Puget Sound,3,10,0,13
 2021,559,Purdue,18,9,0,27
 2021,308,Purdue Fort Wayne,8,15,0,23
 2021,30222,Purdue Northwest,8,12,0,20
-2021,11504,Queens (NC),16,6,0,22
+2021,11504,Queens (NC),16,7,0,23
 2021,561,Quincy,6,17,0,23
 2021,562,Quinnipiac,9,13,0,22
 2021,563,Radford,15,12,0,27
 2021,566,Randolph,3,6,0,9
-2021,565,Randolph-Macon,10,0,0,10
-2021,567,Redlands,0,1,1,2
+2021,565,Randolph-Macon,11,0,0,11
+2021,567,Redlands,0,2,0,2
 2021,568,Regis (CO),6,12,0,18
 2021,572,Rhode Island,10,15,0,25
 2021,571,Rhode Island Col.,1,7,0,8
@@ -580,8 +583,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,578,Roanoke,10,2,0,12
 2021,579,Robert Morris,4,15,0,19
 2021,30150,Roberts Wesleyan,8,7,0,15
-2021,581,Rochester (NY),3,2,0,5
-2021,582,Rockford,9,4,0,13
+2021,581,Rochester (NY),4,2,0,6
+2021,582,Rockford,9,5,0,14
 2021,1328,Rockhurst,9,13,0,22
 2021,30180,Rogers St.,11,13,0,24
 2021,585,Rose-Hulman,10,2,0,12
@@ -591,7 +594,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,11276,USC Aiken,9,8,0,17
 2021,102,Sacramento St.,8,12,0,20
 2021,590,Sacred Heart,9,9,0,18
-2021,11036,Russell Sage,1,0,0,1
+2021,11036,Russell Sage,1,1,0,2
 2021,591,Saginaw Valley,5,12,0,17
 2021,600,Saint Francis (PA),6,16,0,22
 2021,602,Saint John's (MN),3,4,0,7
@@ -603,18 +606,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,612,Saint Mary's (MN),6,2,0,8
 2021,617,Saint Peter's,14,11,0,25
 2021,1347,Saint Rose,4,3,0,7
-2021,30064,Saint Vincent,2,7,0,9
+2021,30064,Saint Vincent,3,7,0,10
 2021,19117,Salem (WV),6,7,0,13
 2021,622,Salisbury,4,3,0,7
 2021,624,Sam Houston,19,9,0,28
 2021,625,Samford,6,13,0,19
 2021,627,San Diego,3,11,0,14
-2021,626,San Diego St.,22,4,0,26
+2021,626,San Diego St.,23,4,0,27
 2021,629,San Francisco,11,14,0,25
 2021,630,San Jose St.,5,16,0,21
 2021,631,Santa Clara,12,8,0,20
+2021,30163,Sarah Lawrence,2,0,0,2
 2021,632,Savannah St.,0,3,0,3
-2021,1355,Schreiner,3,7,0,10
+2021,1355,Schreiner,2,7,0,9
 2021,633,Scranton,7,3,0,10
 2021,634,Seattle Pacific,10,3,0,13
 2021,1356,Seattle U,12,11,0,23
@@ -638,10 +642,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,654,Southeast Mo. St.,11,16,0,27
 2021,655,Southeastern La.,8,18,0,26
 2021,1371,Southeastern Okla.,8,11,0,19
-2021,1376,Southern Ark.,15,5,0,20
+2021,1376,Southern Ark.,15,6,0,21
 2021,657,Southern California,22,7,0,29
 2021,659,Southern Ill.,12,14,0,26
-2021,661,Southern Ind.,11,4,0,15
+2021,661,Southern Ind.,12,4,1,17
 2021,662,Southern Me.,2,4,0,6
 2021,664,Southern Miss.,8,17,0,25
 2021,30152,Southern Nazarene,11,8,0,19
@@ -651,48 +655,49 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,30192,Southern Wesleyan,10,7,0,17
 2021,2755,Southwest Baptist,15,7,0,22
 2021,8736,Southwest Minn. St.,3,8,0,11
-2021,8746,Southwestern (TX),4,4,0,8
+2021,8746,Southwestern (TX),4,3,0,7
 2021,8744,Southwestern Okla.,7,11,0,18
+2021,23260,Spalding,0,1,0,1
 2021,30191,Spring Hill,3,8,0,11
-2021,596,St. Bonaventure,15,4,0,19
+2021,596,St. Bonaventure,16,4,0,20
 2021,598,St. Cloud St.,8,9,0,17
 2021,1334,St. Edward's,12,8,0,20
 2021,599,St. Francis Brooklyn,9,10,0,19
-2021,601,St. John Fisher,2,1,0,3
+2021,601,St. John Fisher,3,1,0,4
 2021,603,St. John's (NY),16,11,0,27
 2021,8687,Saint Joseph (CT),3,2,0,5
-2021,605,St. Joseph's (ME),2,0,0,2
+2021,605,St. Joseph's (ME),2,2,0,4
 2021,607,St. Lawrence,0,1,0,1
 2021,611,St. Mary's (MD),1,7,0,8
 2021,1346,St. Mary's (TX),4,9,0,13
 2021,618,St. Scholastica,10,1,0,11
 2021,620,St. Thomas (MN),7,0,0,7
-2021,1348,St. Thomas Aquinas,13,1,0,14
+2021,1348,St. Thomas Aquinas,13,1,1,15
 2021,674,Stanford,14,13,0,27
 2021,678,Stetson,11,14,0,25
 2021,679,Stevens,0,4,0,4
 2021,21852,Stevenson,4,6,0,10
 2021,681,Stockton,5,3,0,8
 2021,683,Stony Brook,9,14,0,23
-2021,684,Suffolk,4,1,0,5
+2021,684,Suffolk,5,1,0,6
 2021,1390,Sul Ross St.,9,14,0,23
 2021,688,Syracuse,16,9,0,25
-2021,689,Tampa,3,2,0,5
+2021,689,Tampa,3,3,0,6
 2021,1395,Tarleton St.,10,10,0,20
 2021,712,TCNJ,7,1,0,8
 2021,698,TCU,12,14,0,26
 2021,690,Temple,5,11,0,16
-2021,694,Tennessee,18,7,0,25
+2021,694,Tennessee,18,8,0,26
 2021,691,Tennessee St.,4,19,0,23
 2021,692,Tennessee Tech,5,22,0,27
 2021,30090,Tex. A&M Int'l,1,15,0,16
 2021,199,Tex. A&M-Commerce,7,7,0,14
 2021,696,Tex. A&M-Kingsville,15,3,0,18
 2021,30088,Tex. Permian Basin,8,14,0,22
-2021,703,Texas,18,7,0,25
+2021,703,Texas,19,7,0,26
 2021,697,Texas A&M,8,10,0,18
 2021,1400,Texas Lutheran,4,7,0,11
-2021,699,Texas Southern,15,8,0,23
+2021,699,Texas Southern,16,8,0,24
 2021,670,Texas St.,18,7,0,25
 2021,700,Texas Tech,17,10,0,27
 2021,23121,Texas-Dallas,9,5,0,14
@@ -705,21 +710,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,711,Towson,4,14,0,18
 2021,28749,Transylvania,8,9,0,17
 2021,30002,Trevecca Nazarene,5,18,0,23
-2021,30037,Trine,17,0,0,17
-2021,715,Trinity (TX),9,1,0,10
+2021,30037,Trine,17,1,0,18
+2021,715,Trinity (TX),10,1,0,11
 2021,716,Troy,11,17,0,28
-2021,499,Truman,18,3,0,21
+2021,499,Truman,18,3,1,22
 2021,718,Tulane,10,13,0,23
 2021,719,Tulsa,11,12,0,23
-2021,12830,Tusculum,13,6,0,19
+2021,12830,Tusculum,14,7,0,21
 2021,720,Tuskegee,6,8,0,14
 2021,1255,U New England,1,5,0,6
 2021,9,UAB,22,7,0,29
 2021,108,UC Davis,10,8,0,18
-2021,109,UC Irvine,18,8,0,26
+2021,109,UC Irvine,18,9,0,27
 2021,111,UC Riverside,14,8,0,22
 2021,112,UC San Diego,7,10,0,17
-2021,104,UC Santa Barbara,21,4,0,25
+2021,104,UC Santa Barbara,22,4,0,26
 2021,9754,UC-Colo. Springs,7,9,0,16
 2021,128,UCF,11,12,0,23
 2021,110,UCLA,17,9,0,26
@@ -727,7 +732,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,302,UIC,9,13,0,22
 2021,309,UIndy,11,12,0,23
 2021,656,UMass Dartmouth,8,2,0,10
-2021,368,UMass Lowell,11,11,0,22
+2021,368,UMass Lowell,11,12,0,23
 2021,391,UMBC,14,6,0,20
 2021,2707,Kansas City,11,13,0,24
 2021,456,UNC Asheville,10,10,0,20
@@ -742,19 +747,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,702,UT Arlington,13,13,0,26
 2021,695,UT Martin,8,16,0,24
 2021,732,Utah,12,13,0,25
-2021,731,Utah St.,20,7,0,27
+2021,731,Utah St.,20,8,0,28
 2021,30024,Utah Valley,11,11,0,22
 2021,704,UTEP,12,12,0,24
-2021,733,Utica,2,0,0,2
+2021,733,Utica,3,0,0,3
 2021,536,UTRGV,9,10,0,19
 2021,706,UTSA,15,11,0,26
 2021,30181,UVa-Wise,5,13,0,18
 2021,745,Va. Wesleyan,3,5,0,8
-2021,734,Valdosta St.,17,4,0,21
+2021,734,Valdosta St.,17,5,0,22
 2021,30166,Valley Forge,0,2,0,2
 2021,735,Valparaiso,10,18,0,28
 2021,736,Vanderbilt,9,16,0,25
-2021,740,VCU,19,6,0,25
+2021,740,VCU,19,7,0,26
 2021,738,Vermont,10,5,0,15
 2021,739,Villanova,16,6,0,22
 2021,746,Virginia,18,6,0,24
@@ -767,38 +772,37 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,750,Wartburg,4,7,0,11
 2021,751,Wash. & Jeff.,7,2,0,9
 2021,752,Wash. & Lee,4,1,0,5
-2021,2814,Washburn,19,7,0,26
+2021,2814,Washburn,20,7,1,28
 2021,756,Washington,5,21,0,26
 2021,754,Washington St.,14,13,0,27
-2021,757,Wayne St. (MI),12,6,0,18
-2021,1433,Wayne St. (NE),11,6,0,17
-2021,1434,Waynesburg,3,6,0,9
+2021,757,Wayne St. (MI),12,7,0,19
+2021,1433,Wayne St. (NE),11,7,0,18
+2021,1434,Waynesburg,3,7,0,10
 2021,758,Weber St.,17,6,0,23
 2021,759,Webster,3,2,0,5
-2021,763,Wesley,0,1,1,2
 2021,358,West Ala.,8,6,0,14
 2021,11740,West Florida,7,12,0,19
-2021,766,West Ga.,13,7,0,20
-2021,1438,West Liberty,15,4,0,19
-2021,767,West Tex. A&M,15,2,0,17
+2021,766,West Ga.,14,7,1,22
+2021,1438,West Liberty,17,4,0,21
+2021,767,West Tex. A&M,15,2,1,18
 2021,9630,West Va. Wesleyan,0,14,0,14
 2021,768,West Virginia,18,9,0,27
 2021,1439,West Virginia St.,9,7,0,16
 2021,769,Western Caro.,11,16,0,27
 2021,771,Western Ill.,7,15,0,22
-2021,772,Western Ky.,20,6,0,26
+2021,772,Western Ky.,20,7,0,27
 2021,774,Western Mich.,5,16,0,21
 2021,1445,Western N.M.,0,12,0,12
-2021,775,Western New Eng.,0,3,0,3
+2021,775,Western New Eng.,1,3,0,4
 2021,2759,Western Colo.,6,12,0,18
 2021,1450,Westminster (MO),1,4,0,5
 2021,1451,Westminster (PA),8,1,0,9
 2021,30209,Westminster (UT),9,13,0,22
 2021,778,Wheaton (IL),12,1,0,13
 2021,12799,Wheeling,6,12,0,18
-2021,780,Whitman,4,5,0,9
-2021,1454,Whitworth,10,5,0,15
-2021,782,Wichita St.,16,4,0,20
+2021,780,Whitman,5,5,0,10
+2021,1454,Whitworth,12,5,0,17
+2021,782,Wichita St.,16,5,0,21
 2021,783,Widener,4,6,0,10
 2021,784,Wilkes,4,5,0,9
 2021,786,William & Mary,7,10,0,17
@@ -808,7 +812,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2021,1462,Wingate,11,10,0,21
 2021,790,Winona St.,7,6,0,13
 2021,792,Winthrop,23,1,0,24
-2021,8911,Wis. Lutheran,10,3,0,13
+2021,8911,Wis. Lutheran,11,3,0,14
 2021,793,Wis.-Eau Claire,2,3,0,5
 2021,795,Wis.-La Crosse,8,3,0,11
 2021,798,Wis.-Oshkosh,5,2,0,7

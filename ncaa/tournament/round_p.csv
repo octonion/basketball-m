@@ -1,113 +1,45 @@
 rd,name,p
-4,Gonzaga,0.827
-4,Creighton,0.804
-4,Iowa,0.727
-4,Michigan,0.700
-4,Alabama,0.684
-4,UCLA,0.681
-4,Colorado,0.560
-4,Southern California,0.525
-4,Kansas,0.475
-4,Florida St.,0.440
-4,Abilene Christian,0.319
-4,Maryland,0.316
-4,LSU,0.300
-4,Oregon,0.273
-4,Ohio,0.196
-4,Oklahoma,0.173
-5,Arkansas,0.900
-5,Loyola Chicago,0.826
-5,Houston,0.786
-5,Baylor,0.703
-5,Gonzaga,0.649
-5,Alabama,0.526
-5,Michigan,0.447
-5,Iowa,0.446
-5,Villanova,0.297
-5,Creighton,0.252
-5,Colorado,0.251
-5,Southern California,0.244
-5,UCLA,0.221
-5,Syracuse,0.214
-5,Kansas,0.209
-5,Maryland,0.193
-5,Oregon St.,0.174
-5,Florida St.,0.172
-5,LSU,0.129
-5,Oregon,0.102
-5,Oral Roberts,0.100
-5,Oklahoma,0.078
-5,Abilene Christian,0.060
-5,Ohio,0.022
-6,Houston,0.551
-6,Baylor,0.494
-6,Gonzaga,0.457
-6,Arkansas,0.348
-6,Loyola Chicago,0.337
-6,Michigan,0.299
-6,Alabama,0.271
-6,Iowa,0.208
-6,Villanova,0.151
-6,Colorado,0.142
-6,Creighton,0.113
-6,Southern California,0.091
-6,Syracuse,0.088
-6,Florida St.,0.088
-6,Kansas,0.074
-6,Maryland,0.065
-6,UCLA,0.063
-6,LSU,0.062
-6,Oklahoma,0.027
-6,Oregon,0.027
-6,Oregon St.,0.024
-6,Abilene Christian,0.010
-6,Oral Roberts,0.007
-6,Ohio,0.004
-7,Houston,0.324
-7,Gonzaga,0.323
-7,Baylor,0.294
-7,Michigan,0.151
-7,Arkansas,0.147
-7,Loyola Chicago,0.145
-7,Iowa,0.120
-7,Alabama,0.119
-7,Villanova,0.060
-7,Colorado,0.056
-7,Creighton,0.051
-7,Southern California,0.044
-7,Kansas,0.034
-7,Florida St.,0.030
-7,Syracuse,0.025
-7,LSU,0.019
-7,Maryland,0.018
-7,UCLA,0.015
-7,Oklahoma,0.009
-7,Oregon,0.009
-7,Oregon St.,0.004
-7,Abilene Christian,0.001
-7,Ohio,0.001
-7,Oral Roberts,0.001
-8,Gonzaga,0.207
-8,Houston,0.181
-8,Baylor,0.166
-8,Michigan,0.080
-8,Iowa,0.061
-8,Loyola Chicago,0.059
-8,Arkansas,0.058
-8,Alabama,0.055
-8,Colorado,0.023
-8,Villanova,0.022
-8,Creighton,0.020
-8,Southern California,0.018
-8,Kansas,0.013
-8,Florida St.,0.011
-8,Syracuse,0.007
-8,LSU,0.006
-8,Maryland,0.005
+5,Gonzaga,0.780
+5,Alabama,0.730
+5,Michigan,0.674
+5,Southern California,0.636
+5,Oregon,0.364
+5,Florida St.,0.326
+5,UCLA,0.270
+5,Creighton,0.220
+6,Houston,0.901
+6,Baylor,0.684
+6,Gonzaga,0.596
+6,Michigan,0.418
+6,Alabama,0.362
+6,Arkansas,0.316
+6,Southern California,0.214
+6,Florida St.,0.146
+6,Creighton,0.106
+6,Oregon St.,0.099
+6,Oregon,0.084
+6,UCLA,0.073
+7,Houston,0.508
+7,Gonzaga,0.408
+7,Baylor,0.365
+7,Michigan,0.205
+7,Alabama,0.157
+7,Arkansas,0.114
+7,Southern California,0.097
+7,Florida St.,0.048
+7,Creighton,0.041
+7,Oregon,0.027
+7,UCLA,0.017
+7,Oregon St.,0.013
+8,Houston,0.282
+8,Gonzaga,0.242
+8,Baylor,0.201
+8,Michigan,0.096
+8,Alabama,0.064
+8,Arkansas,0.042
+8,Southern California,0.034
+8,Florida St.,0.015
+8,Creighton,0.012
+8,Oregon,0.007
 8,UCLA,0.004
-8,Oklahoma,0.003
-8,Oregon,0.003
-8,Abilene Christian,0.000
-8,Oral Roberts,0.000
-8,Ohio,0.000
-8,Oregon St.,0.000
+8,Oregon St.,0.002

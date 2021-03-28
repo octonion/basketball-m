@@ -1,31 +1,19 @@
 BEGIN
      school_name     |   p    
 ---------------------+--------
- Gonzaga             | 0.2070
- Houston             | 0.1805
- Baylor              | 0.1663
- Michigan            | 0.0796
- Iowa                | 0.0605
- Loyola Chicago      | 0.0587
- Arkansas            | 0.0581
- Alabama             | 0.0547
- Colorado            | 0.0234
- Villanova           | 0.0218
- Creighton           | 0.0196
- Southern California | 0.0178
- Kansas              | 0.0129
- Florida St.         | 0.0109
- Syracuse            | 0.0068
- LSU                 | 0.0064
- Maryland            | 0.0051
+ Houston             | 0.2825
+ Gonzaga             | 0.2417
+ Baylor              | 0.2006
+ Michigan            | 0.0959
+ Alabama             | 0.0639
+ Arkansas            | 0.0423
+ Southern California | 0.0345
+ Florida St.         | 0.0146
+ Creighton           | 0.0122
+ Oregon              | 0.0066
  UCLA                | 0.0036
- Oregon              | 0.0027
- Oklahoma            | 0.0026
- Oregon St.          | 0.0005
- Abilene Christian   | 0.0002
- Ohio                | 0.0001
- Oral Roberts        | 0.0000
-(24 rows)
+ Oregon St.          | 0.0017
+(12 rows)
 
-COPY 24
+COPY 12
 COMMIT
