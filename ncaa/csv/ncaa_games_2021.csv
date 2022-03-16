@@ -23,6 +23,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,A&M-Corpus Christi,26172,Lamar University,346,03/01/2021,47,66,Away,,-,828
 2021,A&M-Corpus Christi,26172,Sam Houston St.,624,03/03/2021,61,84,Away,,-,684
 2021,A&M-Corpus Christi,26172,Houston Baptist,287,03/06/2021,94,70,Away,,-,140
+2021,A&M-Corpus Christi,26172,Houston Baptist,287,03/06/2021,94,70,Away,,-,140
 2021,Abilene Christian,2,ETSU,198,11/25/2020,70,47,Neutral,"Estero, FL",-,50
 2021,Abilene Christian,2,Austin Peay,43,11/27/2020,80,72,Neutral,"Estero, FL",-,50
 2021,Abilene Christian,2,Omaha,464,11/28/2020,70,58,Neutral,"Estero, FL",-,50
@@ -35,6 +36,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Abilene Christian,2,Dallas Christian,,12/29/2020,82,44,Home,,-,194
 2021,Abilene Christian,2,Lamar University,346,01/02/2021,83,65,Home,,-,245
 2021,Abilene Christian,2,Houston Baptist,287,01/06/2021,66,63,Away,,-,140
+2021,Abilene Christian,2,Houston Baptist,287,01/06/2021,66,63,Away,,-,140
 2021,Abilene Christian,2,Southeastern La.,655,01/16/2021,76,42,Home,,-,332
 2021,Abilene Christian,2,Sam Houston St.,624,01/20/2021,57,64,Away,,-,707
 2021,Abilene Christian,2,Central Ark.,1004,01/23/2021,93,58,Home,,-,411
@@ -43,6 +45,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Abilene Christian,2,Lamar University,346,02/06/2021,77,62,Away,,-,"1,239"
 2021,Abilene Christian,2,A&M-Corpus Christi,26172,02/08/2021,82,69,Away,,-,464
 2021,Abilene Christian,2,Houston Baptist,287,02/10/2021,88,59,Home,,-,294
+2021,Abilene Christian,2,Houston Baptist,287,02/10/2021,88,59,Home,,-,294
 2021,Abilene Christian,2,A&M-Corpus Christi,26172,02/13/2021,83,55,Home,,-,416
 2021,Abilene Christian,2,Sam Houston St.,624,02/24/2021,86,72,Home,,-,507
 2021,Abilene Christian,2,Central Ark.,1004,02/27/2021,82,84,Away,,-,489
@@ -50,6 +53,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Abilene Christian,2,Incarnate Word,2743,03/06/2021,85,60,Home,,-,435
 2021,Abilene Christian,2,Lamar University,346,03/12/2021,93,71,Neutral,"Katy, TX",-,"1,050"
 2021,Abilene Christian,2,Nicholls St.,483,03/13/2021,79,45,Neutral,"Katy, TX",-,"1,205"
+2021,Abilene Christian,2,Texas,703,03/20/2021,53,52,Neutral,"Indianapolis, IN",-,"5,984"
+2021,Abilene Christian,2,UCLA,110,03/22/2021,47,67,Neutral,"Indianapolis, IN",-,0
 2021,Academy of Art,30123,Dominican (CA),30118,01/22/2021,73,77,Home,,-,0
 2021,Academy of Art,30123,Dominican (CA),30118,01/23/2021,72,67,Away,,-,0
 2021,Academy of Art,30123,Fresno Pacific,30147,01/29/2021,77,83,Home,,-,0
@@ -128,6 +133,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Air Force,721,Colorado St.,156,03/01/2021,44,74,Away,,-,0
 2021,Air Force,721,UNLV,465,03/10/2021,52,80,Away,,-,0
 2021,Akron,5,Cedarville,30124,12/12/2020,97,49,Home,,-,1
+2021,Akron,5,Cedarville,30124,12/12/2020,97,49,Home,,-,1
 2021,Akron,5,St. Bonaventure,596,12/15/2020,74,81,Neutral,"Cleveland, OH",-,150
 2021,Akron,5,Malone,30137,12/19/2020,93,83,Home,,-,25
 2021,Akron,5,Ohio,519,12/22/2020,90,70,Home,,-,0
@@ -167,7 +173,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ala.-Huntsville,10,Montevallo,1238,03/02/2021,82,62,Home,,-,436
 2021,Ala.-Huntsville,10,Lee,30013,03/05/2021,54,52,Home,,-,513
 2021,Ala.-Huntsville,10,Valdosta St.,734,03/07/2021,70,75,Neutral,"Montevallo, AL",-,241
-2021,Ala.-Huntsville,10,Lee,30013,03/14/2021,0,0,Neutral,"Valdosta, GA",-,0
+2021,Ala.-Huntsville,10,Lee,30013,03/14/2021,73,66,Neutral,"Valdosta, GA",-,414
+2021,Ala.-Huntsville,10,Flagler,30092,03/16/2021,75,89,Neutral,"Valdosta, GA",-,321
 2021,Alabama,8,Jacksonville St.,315,11/25/2020,81,57,Home,,-,"2,025"
 2021,Alabama,8,Stanford,674,11/30/2020,64,82,Neutral,"Asheville, NC",-,0
 2021,Alabama,8,UNLV,465,12/01/2020,86,74,Neutral,"Asheville, NC",-,0
@@ -198,6 +205,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Alabama,8,Mississippi St.,430,03/12/2021,85,48,Neutral,"Nashville, TN",-,"2,186"
 2021,Alabama,8,Tennessee,694,03/13/2021,73,68,Neutral,"Nashville, TN",-,"3,164"
 2021,Alabama,8,LSU,365,03/14/2021,80,79,Neutral,"Nashville, TN",-,"2,586"
+2021,Alabama,8,Iona,310,03/20/2021,68,55,Neutral,"Indianapolis, IN",-,0
+2021,Alabama,8,Maryland,392,03/22/2021,96,77,Neutral,"Indianapolis, IN",-,0
+2021,Alabama,8,UCLA,110,03/28/2021,78,88,Neutral,"Indianapolis, IN",1 OT,0
 2021,Alabama A&M,6,Samford,625,11/29/2020,78,76,Away,,-,680
 2021,Alabama A&M,6,South Alabama,646,12/19/2020,93,90,Home,,2 OT,57
 2021,Alabama A&M,6,Alabama St.,7,01/16/2021,70,63,Home,,-,275
@@ -281,6 +291,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Albright,16,Stevenson,21852,03/05/2021,79,71,Home,,-,0
 2021,Albright,16,Alvernia,938,03/11/2021,90,83,Away,,-,3
 2021,Albright,16,Alvernia,938,03/12/2021,81,83,Home,,1 OT,0
+2021,Albright,16,Lebanon Valley,351,03/18/2021,82,77,Away,,-,0
 2021,Alcorn,17,UAB,9,11/25/2020,50,99,Away,,-,906
 2021,Alcorn,17,Houston,288,12/20/2020,55,88,Away,,-,"1,859"
 2021,Alcorn,17,Liberty,355,12/22/2020,65,108,Away,,-,250
@@ -320,6 +331,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Alfred,18,Houghton,30160,03/06/2021,74,71,Home,,-,0
 2021,Alfred,18,Keuka,1159,03/09/2021,80,61,Home,,-,0
 2021,Alfred,18,Utica,733,03/14/2021,57,89,Away,,-,0
+2021,Alfred,18,Keuka,1159,03/17/2021,105,67,Away,,-,0
+2021,Alfred,18,St. John Fisher,601,03/20/2021,63,79,Away,,-,0
+2021,Alfred,18,Elmira,213,03/21/2021,63,58,Home,,-,0
+2021,Alfred,18,Houghton,30160,03/25/2021,85,72,Away,,-,0
 2021,Alma,21,Calvin,114,01/19/2021,65,99,Away,,-,55
 2021,Alma,21,Trine,30037,01/21/2021,75,97,Home,,-,0
 2021,Alma,21,Calvin,114,01/23/2021,72,93,Home,,-,0
@@ -341,6 +356,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Alvernia,938,Wilkes,784,03/08/2021,95,81,Home,,-,3
 2021,Alvernia,938,Albright,16,03/11/2021,83,90,Home,,-,3
 2021,Alvernia,938,Albright,16,03/12/2021,83,81,Away,,1 OT,0
+2021,Alvernia,938,Arcadia,966,03/18/2021,82,84,Home,,-,3
 2021,American,23,Navy,726,01/16/2021,86,87,Away,,1 OT,0
 2021,American,23,Navy,726,01/17/2021,59,71,Away,,-,0
 2021,American,23,Loyola Maryland,369,01/23/2021,71,70,Home,,-,0
@@ -359,6 +375,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,American Int'l,22,Saint Rose,1347,02/27/2021,73,78,Away,,-,0
 2021,American Int'l,22,Saint Rose,1347,03/03/2021,73,78,Home,,-,0
 2021,American Int'l,22,Franklin Pierce,241,03/05/2021,88,78,Home,,-,0
+2021,American Int'l,22,Franklin Pierce,241,03/16/2021,77,93,Away,,-,0
 2021,Anderson (IN),939,Transylvania,28749,01/14/2021,79,75,Home,,-,0
 2021,Anderson (IN),939,Transylvania,28749,01/16/2021,82,93,Away,,-,0
 2021,Anderson (IN),939,Manchester,1192,01/22/2021,93,89,Away,,-,12
@@ -438,6 +455,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Appalachian St.,27,Texas St.,670,03/06/2021,76,73,Neutral,"Pensacola, FL",1 OT,0
 2021,Appalachian St.,27,Coastal Caro.,149,03/07/2021,64,61,Neutral,"Pensacola, FL",1 OT,0
 2021,Appalachian St.,27,Georgia St.,254,03/08/2021,80,73,Neutral,"Pensacola, FL",-,0
+2021,Appalachian St.,27,Norfolk St.,485,03/18/2021,53,54,Neutral,"Bloomington, IN",-,0
 2021,Arcadia,966,Delaware Valley,179,02/11/2021,78,72,Home,,-,0
 2021,Arcadia,966,Delaware Valley,179,02/12/2021,81,76,Away,,-,11
 2021,Arcadia,966,Wilkes,784,02/19/2021,86,79,Home,,-,0
@@ -448,6 +466,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Arcadia,966,Lycoming,373,03/05/2021,89,61,Home,,-,0
 2021,Arcadia,966,Widener,783,03/11/2021,70,67,Away,,-,0
 2021,Arcadia,966,Widener,783,03/12/2021,87,78,Home,,-,0
+2021,Arcadia,966,Alvernia,938,03/18/2021,84,82,Away,,-,3
 2021,Arizona,29,Grambling,261,11/27/2020,74,55,Home,,-,0
 2021,Arizona,29,Eastern Wash.,207,12/05/2020,70,67,Home,,-,0
 2021,Arizona,29,Northern Ariz.,501,12/07/2020,96,53,Home,,-,0
@@ -476,6 +495,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Arizona,29,Oregon,529,03/01/2021,69,80,Away,,-,0
 2021,Arizona St.,28,Rhode Island,572,11/25/2020,94,88,Neutral,"Montville, CT",-,0
 2021,Arizona St.,28,Villanova,739,11/26/2020,74,83,Neutral,"Montville, CT",-,0
+2021,Arizona St.,28,Houston Baptist,287,11/29/2020,100,77,Home,,-,0
 2021,Arizona St.,28,Houston Baptist,287,11/29/2020,100,77,Home,,-,0
 2021,Arizona St.,28,California,107,12/03/2020,70,62,Away,,-,0
 2021,Arizona St.,28,San Diego St.,626,12/10/2020,68,80,Home,,-,0
@@ -589,6 +609,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Arkansas,31,Texas A&M,697,03/06/2021,87,80,Home,,-,"4,400"
 2021,Arkansas,31,Missouri,434,03/12/2021,70,64,Neutral,"Nashville, TN",-,"2,155"
 2021,Arkansas,31,LSU,365,03/13/2021,71,78,Neutral,"Nashville, TN",-,"3,164"
+2021,Arkansas,31,Colgate,153,03/19/2021,85,68,Neutral,"Indianapolis, IN",-,0
+2021,Arkansas,31,Texas Tech,700,03/21/2021,68,66,Neutral,"Indianapolis, IN",-,0
+2021,Arkansas,31,Oral Roberts,527,03/27/2021,72,70,Neutral,"Indianapolis, IN",-,0
+2021,Arkansas,31,Baylor,51,03/29/2021,72,81,Neutral,"Indianapolis, IN",-,"7,519"
 2021,Arkansas St.,30,Marshall,388,11/27/2020,56,70,Away,,-,"1,251"
 2021,Arkansas St.,30,Morehead St.,444,11/29/2020,61,69,Away,,-,100
 2021,Arkansas St.,30,Memphis,404,12/02/2020,54,83,Away,,-,"2,829"
@@ -652,6 +676,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Army West Point,725,Boston U.,68,02/28/2021,57,55,Home,,-,0
 2021,Army West Point,725,American,23,03/06/2021,89,66,Home,,-,0
 2021,Army West Point,725,Loyola Maryland,369,03/10/2021,63,67,Home,,-,0
+2021,Army West Point,725,Bellarmine,52,03/22/2021,67,77,Neutral,"Daytona Beach, FL",-,601
 2021,Ashland,35,Mercyhurst,408,12/17/2020,59,73,Away,,-,89
 2021,Ashland,35,Ferris St.,224,01/08/2021,74,52,Home,,-,0
 2021,Ashland,35,Ferris St.,224,01/09/2021,68,69,Home,,-,0
@@ -675,7 +700,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ashland,35,Saginaw Valley,591,03/05/2021,83,57,Neutral,"Hammond, IN",-,0
 2021,Ashland,35,Michigan Tech,417,03/07/2021,85,77,Neutral,"Hammond, IN",-,0
 2021,Ashland,35,Wayne St. (MI),757,03/13/2021,76,61,Neutral,"Evansville, IN",-,790
-2021,Ashland,35,Truman,499,03/14/2021,0,0,Neutral,"Evansville, IN",-,0
+2021,Ashland,35,Truman,499,03/14/2021,63,82,Neutral,"Evansville, IN",-,785
 2021,Auburn,37,Saint Joseph's,606,11/26/2020,96,91,Neutral,"Fort Myers, FL",1 OT,198
 2021,Auburn,37,Gonzaga,260,11/27/2020,67,90,Neutral,"Fort Myers, FL",-,288
 2021,Auburn,37,UCF,128,11/30/2020,55,63,Away,,-,"1,944"
@@ -782,6 +807,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Aurora,42,Illinois Col.,297,02/27/2021,100,81,Home,,-,112
 2021,Aurora,42,Benedictine (IL),296,03/03/2021,74,67,Away,,-,0
 2021,Aurora,42,Rockford,582,03/06/2021,91,97,Away,,-,42
+2021,Aurora,42,Lake Forest,344,03/16/2021,61,58,Away,,-,0
 2021,Austin,953,Dallas,1044,01/15/2021,81,80,Home,,-,0
 2021,Austin,953,Dallas,1044,01/16/2021,78,66,Home,,-,0
 2021,Austin,953,Southwestern (TX),8746,01/22/2021,69,81,Home,,-,0
@@ -892,6 +918,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Barry,49,Fla. Southern,233,03/01/2021,85,90,Home,,-,0
 2021,Barry,49,Saint Leo,608,03/03/2021,73,93,Away,,-,5
 2021,Barry,49,Fla. Southern,233,03/13/2021,66,67,Away,,-,0
+2021,Barry,49,Saint Leo,608,03/16/2021,58,67,Away,,-,5
 2021,Barton,15646,Chowan,8875,01/13/2021,65,95,Away,,-,0
 2021,Barton,15646,Belmont Abbey,2683,01/15/2021,58,77,Away,,-,50
 2021,Barton,15646,Belmont Abbey,2683,01/16/2021,69,83,Away,,-,54
@@ -930,6 +957,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Baylor,51,Texas Tech,700,03/07/2021,88,73,Home,,-,"2,350"
 2021,Baylor,51,Kansas St.,327,03/11/2021,74,68,Neutral,"Kansas City, MO",-,"3,491"
 2021,Baylor,51,Oklahoma St.,521,03/12/2021,74,83,Neutral,"Kansas City, MO",-,"3,298"
+2021,Baylor,51,Hartford,272,03/19/2021,79,55,Neutral,"Indianapolis, IN",-,"5,837"
+2021,Baylor,51,Wisconsin,796,03/21/2021,76,63,Neutral,"Indianapolis, IN",-,0
+2021,Baylor,51,Villanova,739,03/27/2021,62,51,Neutral,"Indianapolis, IN",-,0
+2021,Baylor,51,Arkansas,31,03/29/2021,81,72,Neutral,"Indianapolis, IN",-,"7,519"
+2021,Baylor,51,Houston,288,04/03/2021,78,59,Neutral,"Indianapolis, IN",-,0
+2021,Baylor,51,Gonzaga,260,04/05/2021,86,70,Neutral,"Indianapolis, IN",-,0
 2021,Belhaven,30197,Covenant,30111,12/09/2020,75,89,Home,,-,0
 2021,Belhaven,30197,Birmingham-So.,28593,12/17/2020,78,95,Away,,-,105
 2021,Belhaven,30197,Samford,625,12/21/2020,84,133,Away,,-,425
@@ -969,6 +1002,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Bellarmine,52,North Ala.,487,02/13/2021,87,63,Away,,-,317
 2021,Bellarmine,52,Liberty,355,02/27/2021,78,94,Home,,-,"2,737"
 2021,Bellarmine,52,Stetson,678,03/04/2021,70,73,Neutral,"Jacksonville, FL",-,268
+2021,Bellarmine,52,Army West Point,725,03/22/2021,77,67,Neutral,"Daytona Beach, FL",-,601
+2021,Bellarmine,52,Pepperdine,541,03/23/2021,71,82,Neutral,"Daytona Beach, FL",-,286
 2021,Belmont,14927,Howard,290,11/26/2020,95,78,Neutral,"Washington, DC",-,0
 2021,Belmont,14927,George Mason,248,11/27/2020,77,67,Neutral,"Washington, DC",-,0
 2021,Belmont,14927,Queens (NC),11504,11/28/2020,73,61,Neutral,"Washington, DC",-,0
@@ -1022,7 +1057,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Belmont Abbey,2683,Mount Olive,1245,03/02/2021,63,61,Home,,-,104
 2021,Belmont Abbey,2683,Chowan,8875,03/04/2021,70,58,Home,,-,106
 2021,Belmont Abbey,2683,Emmanuel (GA),30193,03/07/2021,82,70,Away,,-,150
-2021,Belmont Abbey,2683,Emmanuel (GA),30193,03/14/2021,0,0,Neutral,"Harrogate, TN",-,0
+2021,Belmont Abbey,2683,Emmanuel (GA),30193,03/14/2021,53,76,Neutral,"Harrogate, TN",-,25
 2021,Bemidji St.,54,Minnesota St.,383,01/02/2021,74,59,Away,,-,0
 2021,Bemidji St.,54,Minnesota St.,383,01/03/2021,67,91,Away,,-,0
 2021,Bemidji St.,54,Northern St.,1266,01/08/2021,57,71,Home,,-,69
@@ -1185,6 +1220,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Blackburn,64,Eureka,218,03/03/2021,57,74,Away,,-,0
 2021,Blackburn,64,Fontbonne,11538,03/09/2021,73,68,Away,,-,3
 2021,Blackburn,64,Westminster (MO),1450,03/12/2021,62,61,Away,,-,23
+2021,Blackburn,64,Webster,759,03/16/2021,90,86,Home,,2 OT,50
+2021,Blackburn,64,Spalding,23260,03/18/2021,69,61,Home,,1 OT,50
+2021,Blackburn,64,Greenville,1111,03/23/2021,119,99,Away,,-,0
+2021,Blackburn,64,Iowa Wesleyan,30173,03/27/2021,77,76,Away,,-,0
 2021,Bloomfield,984,Nyack,1277,01/28/2021,65,63,Away,,-,0
 2021,Bloomfield,984,Concordia (NY),162,01/30/2021,94,79,Home,,-,12
 2021,Bloomfield,984,Caldwell,995,02/04/2021,71,81,Away,,-,0
@@ -1195,7 +1234,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Bloomfield,984,Dominican (NY),8956,02/20/2021,84,76,Away,,-,0
 2021,Bloomfield,984,Georgian Court,9004,02/21/2021,89,47,Home,,-,0
 2021,Bloomfield,984,Nyack,1277,03/13/2021,71,58,Neutral,"Albany, NY",-,0
-2021,Bloomfield,984,Daemen,30174,03/14/2021,0,0,Neutral,"Albany, NY",-,0
+2021,Bloomfield,984,Daemen,30174,03/14/2021,69,81,Neutral,"Albany, NY",-,0
 2021,Bluefield St.,985,Lincoln (PA),357,11/23/2020,92,111,Home,,-,0
 2021,Bluefield St.,985,King (TN),30051,01/15/2021,94,87,Home,,-,2
 2021,Bluefield St.,985,King (TN),30051,01/16/2021,82,106,Away,,-,2
@@ -1247,6 +1286,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Boise St.,66,San Diego St.,626,02/27/2021,58,62,Away,,-,0
 2021,Boise St.,66,Fresno St.,96,03/02/2021,64,67,Home,,-,799
 2021,Boise St.,66,Nevada,466,03/11/2021,82,89,Neutral,"Las Vegas, NV",-,0
+2021,Boise St.,66,SMU,663,03/18/2021,85,84,Neutral,"Frisco, TX",-,836
+2021,Boise St.,66,Memphis,404,03/25/2021,56,59,Neutral,"Denton, TX",-,935
 2021,Boston College,67,Villanova,739,11/25/2020,67,76,Neutral,"Montville, CT",-,0
 2021,Boston College,67,Rhode Island,572,11/26/2020,69,64,Neutral,"Montville, CT",-,0
 2021,Boston College,67,St. John's (NY),603,11/30/2020,93,97,Neutral,"Montville, CT",-,0
@@ -1310,6 +1351,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Bowling Green,71,Akron,5,02/26/2021,83,71,Away,,-,75
 2021,Bowling Green,71,Miami (OH),414,03/02/2021,79,84,Home,,1 OT,300
 2021,Bowling Green,71,Akron,5,03/11/2021,67,74,Neutral,"Cleveland, OH",-,0
+2021,Bowling Green,71,Stetson,678,03/22/2021,52,53,Neutral,"Daytona Beach, FL",-,101
 2021,Bradley,72,Toledo,709,11/25/2020,61,59,Neutral,"Cincinnati, OH",-,111
 2021,Bradley,72,Xavier,812,11/26/2020,50,51,Away,,-,300
 2021,Bradley,72,Oakland,514,11/27/2020,74,60,Neutral,"Cincinnati, OH",-,58
@@ -1373,6 +1415,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Bryant,81,LIU Brooklyn,361,02/26/2021,63,60,Home,,-,0
 2021,Bryant,81,Sacred Heart,590,03/06/2021,85,55,Home,,-,0
 2021,Bryant,81,Mt. St. Mary's,450,03/09/2021,68,73,Home,,-,0
+2021,Bryant,81,Coastal Caro.,149,03/22/2021,82,93,Neutral,"Daytona Beach, FL",-,75
 2021,Bryn Athyn,30188,Lancaster Bible,30085,02/26/2021,66,104,Home,,-,0
 2021,Bryn Athyn,30188,Lancaster Bible,30085,02/27/2021,67,70,Home,,-,0
 2021,Bryn Athyn,30188,Lancaster Bible,30085,03/06/2021,58,96,Away,,-,125
@@ -1424,6 +1467,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Buffalo,86,Miami (OH),414,03/11/2021,74,63,Neutral,"Cleveland, OH",-,0
 2021,Buffalo,86,Akron,5,03/12/2021,81,74,Neutral,"Cleveland, OH",1 OT,"2,033"
 2021,Buffalo,86,Ohio,519,03/13/2021,69,84,Neutral,"Cleveland, OH",-,0
+2021,Buffalo,86,Colorado St.,156,03/19/2021,73,75,Neutral,"Denton, TX",-,0
 2021,Butler,87,Western Mich.,774,11/25/2020,66,62,Home,,-,"1,500"
 2021,Butler,87,Villanova,739,12/16/2020,66,85,Away,,-,0
 2021,Butler,87,Indiana,306,12/19/2020,60,68,Neutral,"Indianapolis, IN",-,0
@@ -1475,7 +1519,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,BYU,77,Saint Mary's (CA),610,02/27/2021,65,51,Home,,-,0
 2021,BYU,77,Pepperdine,541,03/08/2021,82,77,Neutral,"Las Vegas, NV",1 OT,0
 2021,BYU,77,Gonzaga,260,03/09/2021,78,88,Neutral,"Las Vegas, NV",-,0
+2021,BYU,77,UCLA,110,03/20/2021,62,73,Neutral,"Indianapolis, IN",-,0
 2021,Cabrini,88,Gwynedd Mercy,12399,03/10/2021,71,89,Away,,-,0
+2021,Cabrini,88,Marywood,397,03/29/2021,64,66,Away,,-,1
 2021,Cairn,1305,Valley Forge,30166,02/05/2021,122,70,Home,,-,5
 2021,Cairn,1305,Valley Forge,30166,02/06/2021,96,77,Home,,-,5
 2021,Cairn,1305,Lancaster Bible,30085,02/20/2021,68,86,Away,,-,50
@@ -1534,7 +1580,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Caldwell,995,Concordia (NY),162,02/21/2021,76,82,Away,,-,0
 2021,Caldwell,995,Felician,23157,02/23/2021,80,76,Home,,-,0
 2021,Caldwell,995,Dominican (NY),8956,03/13/2021,65,62,Neutral,"Albany, NY",-,0
-2021,Caldwell,995,St. Thomas Aquinas,1348,03/14/2021,0,0,Neutral,"Albany, NY",-,0
+2021,Caldwell,995,St. Thomas Aquinas,1348,03/14/2021,72,95,Neutral,"Albany, NY",-,0
 2021,California,107,Oregon St.,528,11/25/2020,63,71,Away,,-,0
 2021,California,107,Northwest (WA),,11/26/2020,86,61,Neutral,"Corvallis, OR",-,0
 2021,California,107,Nicholls St.,483,11/30/2020,60,49,Home,,-,0
@@ -1564,6 +1610,29 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,California,107,Oregon,529,02/27/2021,63,74,Home,,-,0
 2021,California,107,Stanford,674,03/10/2021,76,58,Neutral,"Las Vegas, NV",-,0
 2021,California,107,Colorado,157,03/11/2021,58,61,Neutral,"Las Vegas, NV",-,0
+2021,California Baptist,30135,Southern California,657,11/25/2020,87,95,Away,,1 OT,0
+2021,California Baptist,30135,Southeastern La.,655,12/02/2020,80,81,Home,,-,0
+2021,California Baptist,30135,Southeastern La.,655,12/04/2020,83,66,Home,,-,0
+2021,California Baptist,30135,St. Katherine,,12/10/2020,93,47,Home,,-,0
+2021,California Baptist,30135,Fresno Pacific,30147,12/12/2020,110,71,Home,,-,0
+2021,California Baptist,30135,Utah Valley,30024,01/08/2021,50,77,Away,,-,0
+2021,California Baptist,30135,Utah Valley,30024,01/09/2021,77,81,Away,,-,0
+2021,California Baptist,30135,Tarleton St.,1395,01/15/2021,83,74,Home,,-,0
+2021,California Baptist,30135,Tarleton St.,1395,01/16/2021,73,67,Home,,-,0
+2021,California Baptist,30135,San Diego Christian,,01/20/2021,89,37,Home,,-,0
+2021,California Baptist,30135,Long Beach St.,99,01/23/2021,96,75,Home,,-,0
+2021,California Baptist,30135,Dixie St.,30095,01/29/2021,89,74,Home,,-,0
+2021,California Baptist,30135,Dixie St.,30095,01/30/2021,75,79,Home,,-,0
+2021,California Baptist,30135,New Mexico St.,472,02/05/2021,85,75,Neutral,"El Paso, TX",-,0
+2021,California Baptist,30135,New Mexico St.,472,02/06/2021,70,97,Neutral,"El Paso, TX",-,0
+2021,California Baptist,30135,Sacramento St.,102,02/13/2021,83,71,Home,,-,0
+2021,California Baptist,30135,Sacramento St.,102,02/14/2021,69,70,Home,,-,0
+2021,California Baptist,30135,Grand Canyon,1104,02/19/2021,61,71,Away,,-,723
+2021,California Baptist,30135,Grand Canyon,1104,02/20/2021,65,62,Away,,-,723
+2021,California Baptist,30135,Vanguard,,02/27/2021,78,65,Home,,-,0
+2021,California Baptist,30135,Seattle U,1356,03/05/2021,79,80,Home,,-,0
+2021,California Baptist,30135,Seattle U,1356,03/06/2021,79,76,Home,,-,0
+2021,California Baptist,30135,Seattle U,1356,03/11/2021,66,83,Neutral,"Las Vegas, NV",-,0
 2021,California Baptist,30135,Southern California,657,11/25/2020,87,95,Away,,1 OT,0
 2021,California Baptist,30135,Southeastern La.,655,12/02/2020,80,81,Home,,-,0
 2021,California Baptist,30135,Southeastern La.,655,12/04/2020,83,66,Home,,-,0
@@ -1664,6 +1733,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Capital,117,Wilmington (OH),1461,02/06/2021,61,68,Away,,-,0
 2021,Capital,117,Baldwin Wallace,46,02/12/2021,88,79,Away,,-,0
 2021,Capital,117,Baldwin Wallace,46,02/13/2021,65,60,Home,,-,0
+2021,Carnegie Mellon,119,Hiram,281,03/26/2021,93,80,Away,,-,42
+2021,Carnegie Mellon,119,Hiram,281,03/28/2021,74,84,Home,,1 OT,0
 2021,Carroll (WI),120,Ill. Wesleyan,300,01/23/2021,59,74,Home,,-,0
 2021,Carroll (WI),120,Carthage,121,02/02/2021,64,67,Home,,-,0
 2021,Carroll (WI),120,North Park,496,02/06/2021,69,61,Away,,-,1
@@ -1741,6 +1812,28 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Catholic,124,Scranton,633,02/21/2021,67,69,Home,,-,0
 2021,Catholic,124,Juniata,325,02/24/2021,58,68,Home,,-,0
 2021,Catholic,124,Scranton,633,03/03/2021,80,87,Away,,2 OT,20
+2021,Cedarville,30124,Ohio Valley,15207,12/11/2020,95,102,Home,,-,120
+2021,Cedarville,30124,Akron,5,12/12/2020,49,97,Away,,-,1
+2021,Cedarville,30124,Tiffin,1403,01/02/2021,101,77,Home,,-,100
+2021,Cedarville,30124,Ohio Dominican,30119,01/05/2021,57,62,Away,,1 OT,0
+2021,Cedarville,30124,Trevecca Nazarene,30002,01/07/2021,69,56,Away,,-,38
+2021,Cedarville,30124,Ohio Dominican,30119,01/21/2021,99,72,Home,,-,140
+2021,Cedarville,30124,Lake Erie,2746,01/23/2021,80,71,Away,,1 OT,0
+2021,Cedarville,30124,Lake Erie,2746,01/25/2021,70,55,Home,,-,220
+2021,Cedarville,30124,Ohio Valley,15207,01/28/2021,81,65,Away,,-,50
+2021,Cedarville,30124,Hillsdale,280,02/02/2021,79,83,Home,,2 OT,150
+2021,Cedarville,30124,Malone,30137,02/04/2021,87,99,Away,,-,79
+2021,Cedarville,30124,Tiffin,1403,02/06/2021,62,77,Away,,-,40
+2021,Cedarville,30124,Findlay,1079,02/08/2021,90,84,Away,,1 OT,0
+2021,Cedarville,30124,Trevecca Nazarene,30002,02/11/2021,73,59,Home,,-,220
+2021,Cedarville,30124,Walsh,30141,02/17/2021,74,70,Away,,-,78
+2021,Cedarville,30124,Walsh,30141,02/18/2021,74,54,Home,,-,205
+2021,Cedarville,30124,Malone,30137,02/20/2021,73,96,Home,,-,233
+2021,Cedarville,30124,Findlay,1079,02/24/2021,61,65,Home,,-,213
+2021,Cedarville,30124,Hillsdale,280,02/27/2021,54,75,Away,,-,250
+2021,Cedarville,30124,Ky. Wesleyan,333,03/02/2021,64,55,Away,,-,307
+2021,Cedarville,30124,Findlay,1079,03/05/2021,76,73,Neutral,"Hillsdale, MI",-,97
+2021,Cedarville,30124,Malone,30137,03/06/2021,59,77,Neutral,"Hillsdale, MI",-,140
 2021,Cedarville,30124,Ohio Valley,15207,12/11/2020,95,102,Home,,-,120
 2021,Cedarville,30124,Akron,5,12/12/2020,49,97,Away,,-,1
 2021,Cedarville,30124,Tiffin,1403,01/02/2021,101,77,Home,,-,100
@@ -2008,6 +2101,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Chatham,10972,Waynesburg,1434,02/24/2021,66,64,Away,,-,0
 2021,Chatham,10972,Westminster (PA),1451,02/27/2021,81,88,Away,,-,0
 2021,Chatham,10972,Thiel,707,03/08/2021,97,63,Home,,-,0
+2021,Chatham,10972,Grove City,265,03/16/2021,57,78,Away,,-,200
 2021,Chattanooga,693,Lander,1167,11/25/2020,99,63,Home,,-,0
 2021,Chattanooga,693,Tennessee Tech,692,11/30/2020,62,54,Away,,-,644
 2021,Chattanooga,693,Northern Ky.,505,12/05/2020,79,72,Home,,-,0
@@ -2118,6 +2212,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Clarkson,146,St. Lawrence,607,03/09/2021,77,63,Away,,-,0
 2021,Clarkson,146,Norwich,511,03/12/2021,107,81,Home,,-,0
 2021,Clarkson,146,Norwich,511,03/14/2021,70,60,Away,,-,0
+2021,Clarkson,146,SUNY Canton,30165,03/18/2021,78,65,Home,,-,0
 2021,Clayton St.,20576,UNC Pembroke,537,01/06/2021,72,93,Home,,-,54
 2021,Clayton St.,20576,Lander,1167,01/09/2021,73,91,Away,,-,268
 2021,Clayton St.,20576,Columbus St.,159,01/13/2021,66,89,Away,,-,0
@@ -2150,6 +2245,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Clemson,147,Syracuse,688,03/03/2021,54,64,Away,,-,0
 2021,Clemson,147,Pittsburgh,545,03/06/2021,77,62,Home,,-,"1,876"
 2021,Clemson,147,Miami (FL),415,03/10/2021,64,67,Neutral,"Greensboro, NC",-,"2,820"
+2021,Clemson,147,Rutgers,587,03/19/2021,56,60,Neutral,"Indianapolis, IN",-,0
 2021,Cleveland St.,148,Toledo,709,12/01/2020,61,70,Away,,-,0
 2021,Cleveland St.,148,Ohio,519,12/06/2020,46,101,Away,,-,0
 2021,Cleveland St.,148,Ohio St.,518,12/13/2020,61,67,Away,,-,0
@@ -2176,6 +2272,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Cleveland St.,148,Purdue Fort Wayne,308,03/02/2021,108,104,Home,,3 OT,0
 2021,Cleveland St.,148,Milwaukee,797,03/08/2021,71,65,Neutral,"Indianapolis, IN",-,0
 2021,Cleveland St.,148,Oakland,514,03/09/2021,80,69,Neutral,"Indianapolis, IN",-,0
+2021,Cleveland St.,148,Houston,288,03/19/2021,56,87,Neutral,"Bloomington, IN",-,0
 2021,Coast Guard,722,Mitchell,30042,02/27/2021,91,68,Home,,-,0
 2021,Coastal Caro.,149,N.C. Wesleyan,491,11/28/2020,117,68,Home,,-,133
 2021,Coastal Caro.,149,Columbia Int'l,,12/03/2020,113,56,Home,,-,129
@@ -2200,6 +2297,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Coastal Caro.,149,Troy,716,02/27/2021,76,71,Away,,-,940
 2021,Coastal Caro.,149,Troy,716,03/06/2021,86,68,Neutral,"Pensacola, FL",-,228
 2021,Coastal Caro.,149,Appalachian St.,27,03/07/2021,61,64,Neutral,"Pensacola, FL",1 OT,0
+2021,Coastal Caro.,149,Bryant,81,03/22/2021,93,82,Neutral,"Daytona Beach, FL",-,75
+2021,Coastal Caro.,149,Stetson,678,03/23/2021,77,72,Neutral,"Daytona Beach, FL",1 OT,0
+2021,Coastal Caro.,149,Pepperdine,541,03/24/2021,61,84,Neutral,"Daytona Beach, FL",-,193
 2021,Coe,150,UNI,504,01/25/2021,60,70,Away,,-,515
 2021,Coe,150,Dubuque,192,01/27/2021,71,86,Away,,-,100
 2021,Coe,150,Simpson,641,01/30/2021,84,64,Home,,-,0
@@ -2250,7 +2350,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Colby,151,Southern Me.,662,03/07/2021,87,68,Home,,-,50
 2021,Colby,151,Southern Me.,662,03/12/2021,86,68,Away,,-,0
 2021,Colby,151,St. Joseph's (ME),605,03/13/2021,77,61,Away,,-,0
-2021,Colby,151,St. Joseph's (ME),605,03/14/2021,96,80,Home,,-,0
+2021,Colby,151,St. Joseph's (ME),605,03/14/2021,96,80,Home,,-,50
 2021,Colgate,153,Army West Point,725,01/02/2021,101,57,Home,,-,0
 2021,Colgate,153,Army West Point,725,01/03/2021,73,75,Home,,-,0
 2021,Colgate,153,Boston U.,68,01/09/2021,86,79,Away,,-,0
@@ -2266,6 +2366,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Colgate,153,Boston U.,68,03/06/2021,77,69,Home,,-,0
 2021,Colgate,153,Bucknell,83,03/10/2021,105,75,Home,,-,0
 2021,Colgate,153,Loyola Maryland,369,03/14/2021,85,72,Home,,-,0
+2021,Colgate,153,Arkansas,31,03/19/2021,68,85,Neutral,"Indianapolis, IN",-,0
 2021,Colo. Christian,11403,Colorado Mesa,11416,12/04/2020,60,80,Away,,-,0
 2021,Colo. Christian,11403,Westminster (UT),30209,12/05/2020,71,79,Away,,-,23
 2021,Colo. Christian,11403,Northern Colo.,502,12/09/2020,62,87,Away,,-,0
@@ -2302,8 +2403,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Colo. Sch. of Mines,155,Adams St.,929,02/26/2021,68,48,Away,,-,0
 2021,Colo. Sch. of Mines,155,Colorado St.-Pueblo,2720,02/27/2021,74,60,Away,,-,0
 2021,Colo. Sch. of Mines,155,Black Hills St.,30134,03/05/2021,71,64,Neutral,"Grand Junction, CO",-,0
-2021,Colo. Sch. of Mines,155,Colorado Mesa,11416,03/06/2021,74,75,Home,,1 OT,0
+2021,Colo. Sch. of Mines,155,Colorado Mesa,11416,03/06/2021,74,75,Away,,1 OT,0
 2021,Colo. Sch. of Mines,155,Biola,30220,03/13/2021,83,52,Home,,-,0
+2021,Colo. Sch. of Mines,155,Northwest Nazarene,1274,03/15/2021,84,52,Home,,-,0
+2021,Colo. Sch. of Mines,155,Lincoln Memorial,1176,03/24/2021,76,90,Neutral,"Evansville, IN",-,613
 2021,Colorado,157,South Dakota,650,11/25/2020,84,61,Neutral,"Manhattan, KS",-,0
 2021,Colorado,157,Kansas St.,327,11/27/2020,76,58,Away,,-,0
 2021,Colorado,157,Tennessee,694,12/08/2020,47,56,Away,,-,"4,191"
@@ -2334,6 +2437,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Colorado,157,California,107,03/11/2021,61,58,Neutral,"Las Vegas, NV",-,0
 2021,Colorado,157,Southern California,657,03/12/2021,72,70,Neutral,"Las Vegas, NV",-,0
 2021,Colorado,157,Oregon St.,528,03/13/2021,68,70,Neutral,"Las Vegas, NV",-,0
+2021,Colorado,157,Georgetown,251,03/20/2021,96,73,Neutral,"Indianapolis, IN",-,0
+2021,Colorado,157,Florida St.,234,03/22/2021,53,71,Neutral,"Indianapolis, IN",-,989
 2021,Colorado Col.,154,Trinity (TX),715,01/22/2021,63,82,Away,,-,0
 2021,Colorado Col.,154,Trinity (TX),715,01/23/2021,56,65,Away,,-,0
 2021,Colorado Col.,154,Southwestern (TX),8746,01/29/2021,57,66,Home,,-,0
@@ -2363,7 +2468,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Colorado Mesa,11416,Fort Lewis,1083,02/27/2021,78,58,Home,,-,125
 2021,Colorado Mesa,11416,Chadron St.,1012,03/02/2021,67,52,Home,,-,0
 2021,Colorado Mesa,11416,Adams St.,929,03/05/2021,78,66,Home,,-,0
-2021,Colorado Mesa,11416,Colo. Sch. of Mines,155,03/06/2021,75,74,Away,,1 OT,0
+2021,Colorado Mesa,11416,Colo. Sch. of Mines,155,03/06/2021,75,74,Home,,1 OT,0
 2021,Colorado Mesa,11416,Northwest Nazarene,1274,03/13/2021,54,74,Neutral,"Golden, CO",-,0
 2021,Colorado St.,156,Colorado St.-Pueblo,2720,12/12/2020,89,77,Home,,-,0
 2021,Colorado St.,156,Northern Ariz.,501,12/14/2020,91,52,Home,,-,0
@@ -2389,6 +2494,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Colorado St.,156,Nevada,466,03/05/2021,82,85,Away,,-,100
 2021,Colorado St.,156,Fresno St.,96,03/11/2021,72,62,Neutral,"Las Vegas, NV",-,0
 2021,Colorado St.,156,Utah St.,731,03/12/2021,50,62,Neutral,"Las Vegas, NV",-,0
+2021,Colorado St.,156,Buffalo,86,03/19/2021,75,73,Neutral,"Denton, TX",-,0
+2021,Colorado St.,156,NC State,490,03/25/2021,65,61,Neutral,"Frisco, TX",-,0
+2021,Colorado St.,156,Memphis,404,03/27/2021,67,90,Neutral,"Frisco, TX",-,0
+2021,Colorado St.,156,Louisiana Tech,366,03/28/2021,74,76,Neutral,"Frisco, TX",-,"1,027"
 2021,Colorado St.-Pueblo,2720,Adams St.,929,12/09/2020,76,83,Away,,-,0
 2021,Colorado St.-Pueblo,2720,UC-Colo. Springs,9754,12/10/2020,67,83,Away,,-,0
 2021,Colorado St.-Pueblo,2720,Colorado St.,156,12/12/2020,77,89,Away,,-,0
@@ -2550,6 +2659,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Cornell College,166,Eureka,218,03/01/2021,96,71,Home,,-,40
 2021,Cornell College,166,Illinois Col.,297,03/07/2021,65,67,Home,,-,50
 2021,Cornell College,166,Eureka,218,03/11/2021,70,71,Away,,-,0
+2021,Cornell College,166,Knox,337,03/27/2021,71,79,Away,,-,0
 2021,Covenant,30111,Samford,625,12/01/2020,73,98,Away,,-,260
 2021,Covenant,30111,Faulkner,,12/05/2020,63,114,Away,,-,128
 2021,Covenant,30111,East Tex. Baptist,1062,12/08/2020,81,76,Neutral,"Jackson, MS",-,0
@@ -2599,6 +2709,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Creighton,169,Butler,87,03/11/2021,87,56,Neutral,"New York, NY",-,0
 2021,Creighton,169,UConn,164,03/12/2021,59,56,Neutral,"New York, NY",-,824
 2021,Creighton,169,Georgetown,251,03/13/2021,48,73,Neutral,"New York, NY",-,824
+2021,Creighton,169,UC Santa Barbara,104,03/20/2021,63,62,Neutral,"Indianapolis, IN",-,"6,512"
+2021,Creighton,169,Ohio,519,03/22/2021,72,58,Neutral,"Indianapolis, IN",-,0
+2021,Creighton,169,Gonzaga,260,03/28/2021,65,83,Neutral,"Indianapolis, IN",-,0
 2021,Crown (MN),30035,Northwestern-St.Paul,30031,01/27/2021,74,96,Away,,-,150
 2021,Crown (MN),30035,North Central (MN),30039,01/30/2021,62,75,Away,,-,0
 2021,Crown (MN),30035,Bethany Lutheran,30038,02/04/2021,76,88,Away,,-,15
@@ -2662,6 +2775,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Curry,170,Gordon,1099,03/06/2021,67,90,Home,,-,0
 2021,Curry,170,Suffolk,684,03/12/2021,83,95,Home,,-,0
 2021,Curry,170,Suffolk,684,03/13/2021,53,105,Away,,-,0
+2021,Curry,170,Endicott,8981,03/19/2021,57,91,Home,,-,0
+2021,Curry,170,Endicott,8981,03/20/2021,62,86,Away,,-,0
+2021,Curry,170,Nichols,484,03/26/2021,69,81,Away,,-,0
+2021,Curry,170,Nichols,484,03/27/2021,69,97,Home,,-,0
 2021,D'Youville,1059,Villa Maria,,01/30/2021,94,80,Away,,-,1
 2021,D'Youville,1059,Roberts Wesleyan,30150,02/03/2021,71,86,Home,,-,0
 2021,D'Youville,1059,Molloy,437,02/06/2021,80,101,Away,,-,0
@@ -2689,7 +2806,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Daemen,30174,St. Thomas Aquinas,1348,02/28/2021,68,71,Away,,-,0
 2021,Daemen,30174,Roberts Wesleyan,30150,03/05/2021,78,72,Home,,-,0
 2021,Daemen,30174,St. Thomas Aquinas,1348,03/07/2021,67,83,Away,,-,0
-2021,Daemen,30174,Bloomfield,984,03/14/2021,0,0,Neutral,"Albany, NY",-,0
+2021,Daemen,30174,Bloomfield,984,03/14/2021,81,69,Neutral,"Albany, NY",-,0
+2021,Daemen,30174,St. Thomas Aquinas,1348,03/16/2021,71,70,Neutral,"Albany, NY",-,0
+2021,Daemen,30174,West Tex. A&M,767,03/24/2021,83,97,Neutral,"Evansville, IN",-,613
 2021,Dallas,1044,Austin,953,01/15/2021,80,81,Away,,-,0
 2021,Dallas,1044,Austin,953,01/16/2021,66,78,Away,,-,0
 2021,Dallas,1044,$game.opponentName,2810,01/22/2021,77,80,Home,,-,0
@@ -2738,6 +2857,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Davidson,173,VCU,740,02/27/2021,65,57,Home,,-,225
 2021,Davidson,173,George Mason,248,03/05/2021,99,67,Neutral,"Richmond, VA",-,0
 2021,Davidson,173,VCU,740,03/06/2021,52,64,Away,,-,250
+2021,Davidson,173,NC State,490,03/18/2021,61,75,Neutral,"Denton, TX",-,0
 2021,Davis & Elkins,174,Frostburg St.,243,01/07/2021,108,100,Home,,-,0
 2021,Davis & Elkins,174,Fairmont St.,1076,01/10/2021,70,87,Away,,-,0
 2021,Davis & Elkins,174,Glenville St.,1098,01/13/2021,85,90,Away,,-,0
@@ -2776,6 +2896,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Dayton,175,St. Bonaventure,596,03/01/2021,55,52,Away,,-,0
 2021,Dayton,175,Rhode Island,572,03/04/2021,84,72,Neutral,"Richmond, VA",-,250
 2021,Dayton,175,VCU,740,03/05/2021,68,73,Away,,-,250
+2021,Dayton,175,Memphis,404,03/20/2021,60,71,Neutral,"Denton, TX",-,"1,044"
 2021,DBU,1045,Angelo St.,25,12/11/2020,101,75,Home,,-,421
 2021,DBU,1045,Angelo St.,25,12/12/2020,93,86,Home,,-,278
 2021,DBU,1045,Cameron,996,01/02/2021,89,74,Home,,-,141
@@ -2797,7 +2918,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,DBU,1045,MSU Texas,1222,03/02/2021,76,55,Home,,-,799
 2021,DBU,1045,West Tex. A&M,767,03/05/2021,77,88,Away,,-,"1,000"
 2021,DBU,1045,Southern Ark.,1376,03/13/2021,83,61,Neutral,"Lubbock, TX",-,154
-2021,DBU,1045,West Tex. A&M,767,03/14/2021,0,0,Neutral,"Lubbock, TX",-,0
+2021,DBU,1045,West Tex. A&M,767,03/14/2021,65,82,Neutral,"Lubbock, TX",-,302
 2021,Defiance,1050,Bluffton,987,01/15/2021,64,71,Home,,-,0
 2021,Defiance,1050,Bluffton,987,01/16/2021,60,69,Away,,-,0
 2021,Defiance,1050,Franklin,2694,01/22/2021,65,88,Home,,-,0
@@ -2848,6 +2969,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Delaware Valley,179,Wilkes,784,03/05/2021,53,59,Home,,-,11
 2021,Delaware Valley,179,FDU-Florham,221,03/11/2021,63,40,Away,,-,0
 2021,Delaware Valley,179,FDU-Florham,221,03/12/2021,64,49,Home,,-,11
+2021,Delaware Valley,179,Widener,783,03/19/2021,75,71,Home,,-,11
 2021,Delta St.,181,Union (TN),30153,01/08/2021,79,92,Home,,-,143
 2021,Delta St.,181,Union (TN),30153,01/09/2021,74,79,Home,,-,176
 2021,Delta St.,181,Ala.-Huntsville,10,01/15/2021,53,61,Home,,-,250
@@ -2935,6 +3057,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,DeSales,20,Eastern,8968,03/05/2021,86,71,Away,,-,0
 2021,DeSales,20,Lycoming,373,03/12/2021,62,75,Away,,-,40
 2021,DeSales,20,Lycoming,373,03/13/2021,63,59,Home,,-,0
+2021,DeSales,20,Lycoming,373,03/19/2021,53,69,Home,,-,0
 2021,Detroit Mercy,184,Michigan St.,416,12/04/2020,76,83,Away,,-,0
 2021,Detroit Mercy,184,Notre Dame,513,12/06/2020,70,78,Away,,-,84
 2021,Detroit Mercy,184,Kent St.,331,12/09/2020,66,80,Home,,-,0
@@ -2969,6 +3092,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Dixie St.,30095,Grand Canyon,1104,01/22/2021,74,77,Home,,-,738
 2021,Dixie St.,30095,Grand Canyon,1104,01/23/2021,46,81,Home,,-,769
 2021,Dixie St.,30095,California Baptist,30135,01/29/2021,74,89,Away,,-,0
+2021,Dixie St.,30095,California Baptist,30135,01/29/2021,74,89,Away,,-,0
+2021,Dixie St.,30095,California Baptist,30135,01/30/2021,79,75,Away,,-,0
 2021,Dixie St.,30095,California Baptist,30135,01/30/2021,79,75,Away,,-,0
 2021,Dixie St.,30095,Seattle U,1356,02/05/2021,77,76,Home,,-,582
 2021,Dixie St.,30095,Seattle U,1356,02/06/2021,56,77,Home,,-,645
@@ -3033,6 +3158,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Drake,189,Bradley,72,02/27/2021,61,67,Away,,-,0
 2021,Drake,189,Missouri St.,669,03/06/2021,71,69,Neutral,"St. Louis, MO",-,"1,178"
 2021,Drake,189,Loyola Chicago,371,03/07/2021,65,75,Neutral,"St. Louis, MO",-,"1,265"
+2021,Drake,189,Wichita St.,782,03/18/2021,53,52,Neutral,"West Lafayette, IN",-,0
+2021,Drake,189,Southern California,657,03/20/2021,56,72,Neutral,"Indianapolis, IN",-,0
 2021,Drew,190,Catholic,124,02/05/2021,69,65,Home,,-,0
 2021,Drew,190,Scranton,633,02/12/2021,97,68,Home,,-,0
 2021,Drew,190,Scranton,633,02/14/2021,56,65,Away,,-,21
@@ -3061,6 +3188,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Drexel,191,Col. of Charleston,1014,03/07/2021,80,75,Neutral,"Harrisonburg, VA",-,0
 2021,Drexel,191,Northeastern,500,03/08/2021,74,67,Neutral,"Harrisonburg, VA",-,0
 2021,Drexel,191,Elon,1068,03/09/2021,63,56,Neutral,"Harrisonburg, VA",-,250
+2021,Drexel,191,Illinois,301,03/19/2021,49,78,Neutral,"Indianapolis, IN",-,968
 2021,Drury,1057,Missouri S&T,435,12/18/2020,89,96,Home,,-,0
 2021,Drury,1057,Lindenwood (MO),30136,12/20/2020,90,84,Away,,-,0
 2021,Drury,1057,Maryville (MO),395,01/03/2021,86,59,Home,,-,0
@@ -3220,6 +3348,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Eastern,8968,Lebanon Valley,351,03/08/2021,60,73,Away,,-,0
 2021,Eastern,8968,Messiah,411,03/11/2021,59,72,Away,,-,51
 2021,Eastern,8968,Messiah,411,03/12/2021,62,68,Home,,-,2
+2021,Eastern,8968,Stevenson,21852,03/19/2021,61,65,Away,,-,0
 2021,Eastern Conn. St.,200,Rhode Island Col.,571,01/30/2021,75,79,Away,,-,0
 2021,Eastern Conn. St.,200,Keene St.,330,02/10/2021,75,85,Away,,-,0
 2021,Eastern Conn. St.,200,NVU-Johnson,324,02/13/2021,83,71,Home,,-,0
@@ -3305,6 +3434,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Eastern Mich.,204,Western Mich.,774,03/05/2021,64,63,Away,,-,100
 2021,Eastern Nazarene,1064,Babson,45,03/13/2021,64,72,Away,,-,0
 2021,Eastern Nazarene,1064,Babson,45,03/14/2021,59,70,Home,,-,0
+2021,Eastern Nazarene,1064,Fisher,,03/16/2021,101,61,Home,,-,3
+2021,Eastern Nazarene,1064,Wheaton (MA),779,03/31/2021,77,74,Away,,-,0
+2021,Eastern Nazarene,1064,New England Col.,467,04/02/2021,73,82,Home,,-,1
+2021,Eastern Nazarene,1064,New England Col.,467,04/03/2021,68,66,Away,,-,0
 2021,Eastern Wash.,207,Washington St.,754,11/28/2020,68,71,Away,,-,0
 2021,Eastern Wash.,207,Arizona,29,12/05/2020,67,70,Away,,-,0
 2021,Eastern Wash.,207,Oregon,529,12/07/2020,52,69,Away,,-,0
@@ -3328,6 +3461,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Eastern Wash.,207,Northern Ariz.,501,03/11/2021,66,60,Neutral,"Boise, ID",-,0
 2021,Eastern Wash.,207,Montana,441,03/12/2021,78,50,Neutral,"Boise, ID",-,0
 2021,Eastern Wash.,207,Montana St.,440,03/13/2021,65,55,Neutral,"Boise, ID",-,0
+2021,Eastern Wash.,207,Kansas,328,03/20/2021,84,93,Neutral,"Indianapolis, IN",-,961
 2021,Edgewood,1066,Northwestern-St.Paul,30031,12/12/2020,71,63,Away,,-,0
 2021,Edgewood,1066,Wartburg,750,01/03/2021,71,70,Away,,-,100
 2021,Edgewood,1066,Dubuque,192,01/10/2021,69,99,Away,,-,75
@@ -3359,6 +3493,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Elmira,213,St. John Fisher,601,03/05/2021,62,73,Home,,-,0
 2021,Elmira,213,Utica,733,03/10/2021,44,82,Home,,-,0
 2021,Elmira,213,Keuka,1159,03/13/2021,87,75,Home,,-,0
+2021,Elmira,213,Houghton,30160,03/16/2021,57,59,Away,,-,0
+2021,Elmira,213,Sage Colleges,11036,03/17/2021,54,58,Home,,-,0
+2021,Elmira,213,Alfred,18,03/21/2021,58,63,Away,,-,0
+2021,Elmira,213,Sage Colleges,11036,03/23/2021,43,59,Away,,-,0
+2021,Elmira,213,Utica,733,03/29/2021,58,70,Home,,-,0
+2021,Elmira,213,Utica,733,04/01/2021,53,84,Away,,-,0
+2021,Elms,532,Merchant Marine,724,03/31/2021,58,70,Home,,-,0
 2021,Elon,1068,N.C. Wesleyan,491,11/25/2020,82,52,Home,,-,0
 2021,Elon,1068,High Point,19651,11/28/2020,76,75,Home,,-,0
 2021,Elon,1068,Campbell,115,12/16/2020,66,56,Home,,-,0
@@ -3400,7 +3541,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Emmanuel (GA),30193,North Greenville,9223,03/04/2021,89,72,Home,,-,100
 2021,Emmanuel (GA),30193,Belmont Abbey,2683,03/07/2021,70,82,Home,,-,150
 2021,Emmanuel (GA),30193,Queens (NC),11504,03/13/2021,80,78,Neutral,"Harrogate, TN",-,38
-2021,Emmanuel (GA),30193,Belmont Abbey,2683,03/14/2021,0,0,Neutral,"Harrogate, TN",-,0
+2021,Emmanuel (GA),30193,Belmont Abbey,2683,03/14/2021,76,53,Neutral,"Harrogate, TN",-,25
+2021,Emmanuel (GA),30193,Lincoln Memorial,1176,03/16/2021,67,103,Away,,-,535
 2021,Emory & Henry,216,Roanoke,578,02/02/2021,52,81,Away,,-,0
 2021,Emory & Henry,216,Hampden-Sydney,269,02/05/2021,62,76,Home,,-,0
 2021,Emory & Henry,216,Guilford,1112,02/11/2021,76,85,Home,,-,0
@@ -3439,6 +3581,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Endicott,8981,Suffolk,684,03/07/2021,95,91,Home,,-,40
 2021,Endicott,8981,Nichols,484,03/12/2021,91,87,Home,,-,0
 2021,Endicott,8981,Nichols,484,03/13/2021,78,65,Away,,-,0
+2021,Endicott,8981,Curry,170,03/19/2021,91,57,Away,,-,0
+2021,Endicott,8981,Curry,170,03/20/2021,86,62,Home,,-,0
+2021,Endicott,8981,Gordon,1099,03/31/2021,78,92,Away,,-,0
+2021,Endicott,8981,Gordon,1099,04/01/2021,86,61,Home,,-,0
 2021,Erskine,1072,Lees-McRae,13302,01/13/2021,77,109,Away,,-,25
 2021,Erskine,1072,North Greenville,9223,01/28/2021,57,83,Home,,-,0
 2021,Erskine,1072,King (TN),30051,01/30/2021,79,75,Home,,-,0
@@ -3488,6 +3634,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Eureka,218,Iowa Wesleyan,30173,03/06/2021,84,72,Away,,-,0
 2021,Eureka,218,Cornell College,166,03/11/2021,71,70,Home,,-,0
 2021,Eureka,218,Spalding,23260,03/13/2021,84,69,Away,,-,10
+2021,Eureka,218,Greenville,1111,03/19/2021,129,138,Away,,-,0
+2021,Eureka,218,Spalding,23260,03/25/2021,79,63,Home,,-,0
+2021,Eureka,218,Westminster (MO),1450,03/27/2021,84,77,Home,,-,0
 2021,Evansville,219,Louisville,367,11/25/2020,44,79,Away,,-,"2,956"
 2021,Evansville,219,Prairie View,553,11/27/2020,61,64,Neutral,"Louisville, KY",-,0
 2021,Evansville,219,UT Martin,695,12/02/2020,87,93,Away,,2 OT,211
@@ -3590,6 +3739,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,FDU-Florham,221,DeSales,20,02/20/2021,54,104,Away,,-,0
 2021,FDU-Florham,221,Delaware Valley,179,03/11/2021,40,63,Home,,-,0
 2021,FDU-Florham,221,Delaware Valley,179,03/12/2021,49,64,Away,,-,11
+2021,FDU-Florham,221,Messiah,411,03/18/2021,57,66,Home,,-,0
 2021,Felician,23157,Bloomfield,984,02/09/2021,76,67,Home,,-,5
 2021,Felician,23157,Caldwell,995,02/11/2021,84,74,Home,,-,5
 2021,Felician,23157,Dominican (NY),8956,02/13/2021,62,73,Away,,-,0
@@ -3665,13 +3815,16 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Findlay,1079,Lake Erie,2746,02/01/2021,72,62,Away,,-,0
 2021,Findlay,1079,Hillsdale,280,02/06/2021,71,82,Away,,-,250
 2021,Findlay,1079,Cedarville,30124,02/08/2021,84,90,Home,,1 OT,0
+2021,Findlay,1079,Cedarville,30124,02/08/2021,84,90,Home,,1 OT,0
 2021,Findlay,1079,Walsh,30141,02/11/2021,93,63,Home,,-,42
 2021,Findlay,1079,Malone,30137,02/13/2021,83,89,Away,,-,150
 2021,Findlay,1079,Ky. Wesleyan,333,02/16/2021,95,65,Home,,-,1
 2021,Findlay,1079,Ohio Valley,15207,02/18/2021,76,60,Away,,-,50
 2021,Findlay,1079,Ohio Dominican,30119,02/22/2021,62,52,Away,,-,12
 2021,Findlay,1079,Cedarville,30124,02/24/2021,65,61,Away,,-,213
+2021,Findlay,1079,Cedarville,30124,02/24/2021,65,61,Away,,-,213
 2021,Findlay,1079,Ohio Valley,15207,03/02/2021,99,55,Home,,-,0
+2021,Findlay,1079,Cedarville,30124,03/05/2021,73,76,Neutral,"Hillsdale, MI",-,97
 2021,Findlay,1079,Cedarville,30124,03/05/2021,73,76,Neutral,"Hillsdale, MI",-,97
 2021,Finlandia,30032,Martin Luther,8597,02/06/2021,83,91,Away,,-,86
 2021,Finlandia,30032,Iowa Wesleyan,30173,02/13/2021,65,94,Away,,-,0
@@ -3737,6 +3890,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Fla. Southern,233,Florida Tech,230,03/10/2021,75,79,Away,,-,0
 2021,Fla. Southern,233,Palm Beach Atl.,30045,03/12/2021,81,65,Home,,-,0
 2021,Fla. Southern,233,Barry,49,03/13/2021,67,66,Home,,-,0
+2021,Fla. Southern,233,Rollins,584,03/16/2021,88,82,Home,,-,0
+2021,Fla. Southern,233,Palm Beach Atl.,30045,03/18/2021,104,86,Away,,-,0
+2021,Fla. Southern,233,Saint Leo,608,03/21/2021,70,83,Away,,-,0
 2021,Flagler,30092,FIU,231,11/25/2020,81,85,Away,,-,242
 2021,Flagler,30092,FIU,231,11/27/2020,75,82,Away,,-,103
 2021,Flagler,30092,Central Mich.,129,12/02/2020,92,73,Neutral,"Miami, FL",-,43
@@ -3757,7 +3913,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Flagler,30092,Francis Marion,1085,02/27/2021,85,63,Away,,-,209
 2021,Flagler,30092,S.C. Aiken,11276,03/04/2021,76,62,Home,,-,120
 2021,Flagler,30092,Ga. Southwestern,1097,03/07/2021,73,60,Home,,-,120
-2021,Flagler,30092,West Ga.,766,03/14/2021,0,0,Neutral,"Valdosta, GA",-,0
+2021,Flagler,30092,West Ga.,766,03/14/2021,69,53,Neutral,"Valdosta, GA",-,419
+2021,Flagler,30092,Ala.-Huntsville,10,03/16/2021,89,75,Neutral,"Valdosta, GA",-,321
+2021,Flagler,30092,Truman,499,03/24/2021,70,69,Neutral,"Evansville, IN",-,894
+2021,Flagler,30092,Northwest Mo. St.,507,03/25/2021,46,77,Neutral,"Evansville, IN",-,874
 2021,Florida,235,Army West Point,725,12/02/2020,76,69,Neutral,"Montville, CT",-,0
 2021,Florida,235,Boston College,67,12/03/2020,90,70,Neutral,"Montville, CT",-,0
 2021,Florida,235,Stetson,678,12/06/2020,86,40,Home,,-,"2,193"
@@ -3781,6 +3940,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Florida,235,Tennessee,694,03/07/2021,54,65,Away,,-,"4,191"
 2021,Florida,235,Vanderbilt,736,03/11/2021,69,63,Neutral,"Nashville, TN",-,"1,733"
 2021,Florida,235,Tennessee,694,03/12/2021,66,78,Neutral,"Nashville, TN",-,"2,186"
+2021,Florida,235,Virginia Tech,742,03/19/2021,75,70,Neutral,"Indianapolis, IN",1 OT,0
+2021,Florida,235,Oral Roberts,527,03/21/2021,78,81,Neutral,"Indianapolis, IN",-,979
 2021,Florida A&M,228,FGCU,28755,11/25/2020,56,65,Away,,-,851
 2021,Florida A&M,228,Georgia,257,11/29/2020,75,85,Away,,-,"1,638"
 2021,Florida A&M,228,Oregon,529,12/09/2020,66,87,Away,,-,0
@@ -3823,12 +3984,17 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Florida St.,234,Notre Dame,513,03/06/2021,73,83,Away,,-,646
 2021,Florida St.,234,North Carolina,457,03/12/2021,69,66,Neutral,"Greensboro, NC",-,"2,820"
 2021,Florida St.,234,Georgia Tech,255,03/13/2021,75,80,Neutral,"Greensboro, NC",-,"2,820"
+2021,Florida St.,234,UNC Greensboro,459,03/20/2021,64,54,Neutral,"Indianapolis, IN",-,0
+2021,Florida St.,234,Colorado,157,03/22/2021,71,53,Neutral,"Indianapolis, IN",-,989
+2021,Florida St.,234,Michigan,418,03/28/2021,58,76,Neutral,"Indianapolis, IN",-,0
 2021,Florida Tech,230,Barry,49,02/24/2021,83,102,Away,,-,0
 2021,Florida Tech,230,Barry,49,02/25/2021,71,77,Home,,-,0
 2021,Florida Tech,230,Tampa,689,02/27/2021,69,74,Away,,-,0
 2021,Florida Tech,230,Palm Beach Atl.,30045,03/03/2021,73,60,Home,,-,0
 2021,Florida Tech,230,Fla. Southern,233,03/10/2021,79,75,Home,,-,0
 2021,Florida Tech,230,Tampa,689,03/13/2021,86,77,Home,,-,0
+2021,Florida Tech,230,Tampa,689,03/16/2021,90,84,Home,,2 OT,0
+2021,Florida Tech,230,Saint Leo,608,03/18/2021,68,78,Away,,-,0
 2021,Fontbonne,11538,Illinois Col.,297,02/17/2021,75,81,Home,,-,3
 2021,Fontbonne,11538,Illinois Col.,297,02/19/2021,75,83,Away,,-,20
 2021,Fontbonne,11538,Eureka,218,02/23/2021,80,86,Home,,-,2
@@ -3837,6 +4003,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Fontbonne,11538,Greenville,1111,03/06/2021,137,119,Home,,-,3
 2021,Fontbonne,11538,Blackburn,64,03/09/2021,68,73,Home,,-,3
 2021,Fontbonne,11538,Iowa Wesleyan,30173,03/12/2021,70,83,Away,,-,0
+2021,Fontbonne,11538,Webster,759,03/29/2021,79,67,Away,,-,75
+2021,Fontbonne,11538,Iowa Wesleyan,30173,04/03/2021,76,66,Home,,-,15
 2021,Fordham,236,George Washington,249,12/30/2020,47,71,Home,,-,0
 2021,Fordham,236,La Salle,340,01/02/2021,52,89,Away,,-,0
 2021,Fordham,236,Dayton,175,01/05/2021,55,54,Home,,-,0
@@ -3916,6 +4084,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Franciscan,30069,Thiel,707,03/01/2021,83,96,Home,,-,77
 2021,Franciscan,30069,Geneva,30084,03/06/2021,102,129,Away,,-,100
 2021,Franciscan,30069,Bethany (WV),59,03/13/2021,104,98,Home,,-,101
+2021,Franciscan,30069,Westminster (PA),1451,03/16/2021,78,99,Away,,-,100
 2021,Franklin,2694,Hanover,1115,01/09/2021,74,76,Away,,-,0
 2021,Franklin,2694,Hanover,1115,01/10/2021,62,69,Home,,-,0
 2021,Franklin,2694,Rose-Hulman,585,01/14/2021,62,65,Away,,-,25
@@ -3932,7 +4101,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Franklin,2694,Manchester,1192,03/07/2021,78,73,Away,,-,45
 2021,Franklin,2694,Transylvania,28749,03/10/2021,73,54,Away,,-,125
 2021,Franklin Pierce,241,American Int'l,22,03/05/2021,78,88,Away,,-,0
+2021,Franklin Pierce,241,American Int'l,22,03/16/2021,93,77,Home,,-,0
 2021,Fresno Pacific,30147,San Jose St.,630,12/09/2020,79,87,Away,,-,0
+2021,Fresno Pacific,30147,California Baptist,30135,12/12/2020,71,110,Away,,-,0
 2021,Fresno Pacific,30147,California Baptist,30135,12/12/2020,71,110,Away,,-,0
 2021,Fresno Pacific,30147,Santa Clara,631,12/15/2020,65,88,Neutral,"Santa Cruz, CA",-,0
 2021,Fresno Pacific,30147,Fresno St.,96,12/19/2020,65,78,Away,,-,0
@@ -4109,11 +4280,19 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Geneva,30084,Westminster (PA),1451,02/24/2021,78,79,Home,,-,100
 2021,Geneva,30084,Thiel,707,02/27/2021,92,86,Away,,-,1
 2021,Geneva,30084,Franciscan,30069,03/06/2021,129,102,Home,,-,100
+2021,Geneva,30084,Saint Vincent,30064,03/16/2021,94,62,Home,,-,200
+2021,Geneva,30084,Grove City,265,03/18/2021,85,91,Home,,-,200
 2021,George Fox,1094,Idaho St.,294,02/15/2021,59,84,Away,,-,30
 2021,George Fox,1094,Whitworth,1454,03/05/2021,51,86,Away,,-,0
 2021,George Fox,1094,Whitworth,1454,03/06/2021,45,98,Away,,-,0
 2021,George Fox,1094,Whitman,780,03/12/2021,57,82,Away,,-,8
 2021,George Fox,1094,Whitman,780,03/13/2021,72,91,Away,,-,0
+2021,George Fox,1094,Linfield,1179,03/19/2021,106,102,Home,,-,0
+2021,George Fox,1094,Linfield,1179,03/20/2021,74,100,Away,,-,0
+2021,George Fox,1094,Pacific (OR),2751,03/25/2021,98,112,Away,,-,0
+2021,George Fox,1094,Pacific (OR),2751,03/27/2021,105,106,Home,,-,0
+2021,George Fox,1094,Willamette,785,04/01/2021,78,58,Home,,-,0
+2021,George Fox,1094,Multnomah,,04/02/2021,86,87,Away,,-,0
 2021,George Mason,248,Queens (NC),11504,11/26/2020,66,65,Neutral,"Washington, DC",-,0
 2021,George Mason,248,Belmont,14927,11/27/2020,67,77,Neutral,"Washington, DC",-,0
 2021,George Mason,248,Howard,290,11/28/2020,84,70,Neutral,"Washington, DC",-,0
@@ -4178,6 +4357,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Georgetown,251,Villanova,739,03/11/2021,72,71,Neutral,"New York, NY",-,0
 2021,Georgetown,251,Seton Hall,635,03/12/2021,66,58,Neutral,"New York, NY",-,0
 2021,Georgetown,251,Creighton,169,03/13/2021,73,48,Neutral,"New York, NY",-,824
+2021,Georgetown,251,Colorado,157,03/20/2021,73,96,Neutral,"Indianapolis, IN",-,0
 2021,Georgia,257,Florida A&M,228,11/29/2020,85,75,Home,,-,"1,638"
 2021,Georgia,257,North Georgia,30052,12/02/2020,84,62,Home,,-,"1,638"
 2021,Georgia,257,Jacksonville,316,12/04/2020,98,65,Home,,-,"1,638"
@@ -4264,6 +4444,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Georgia Tech,255,Wake Forest,749,03/05/2021,75,63,Away,,-,"1,229"
 2021,Georgia Tech,255,Miami (FL),415,03/11/2021,70,66,Neutral,"Greensboro, NC",-,"2,820"
 2021,Georgia Tech,255,Florida St.,234,03/13/2021,80,75,Neutral,"Greensboro, NC",-,"2,820"
+2021,Georgia Tech,255,Loyola Chicago,371,03/19/2021,60,71,Neutral,"Indianapolis, IN",-,0
 2021,Georgian Court,9004,Dominican (NY),8956,01/28/2021,68,76,Away,,-,0
 2021,Georgian Court,9004,Nyack,1277,01/30/2021,57,61,Home,,-,0
 2021,Georgian Court,9004,Concordia (NY),162,02/06/2021,59,58,Away,,-,0
@@ -4310,10 +4491,22 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Gonzaga,260,LMU (CA),370,02/27/2021,86,69,Home,,-,200
 2021,Gonzaga,260,Saint Mary's (CA),610,03/08/2021,78,55,Neutral,"Las Vegas, NV",-,0
 2021,Gonzaga,260,BYU,77,03/09/2021,88,78,Neutral,"Las Vegas, NV",-,0
+2021,Gonzaga,260,Norfolk St.,485,03/20/2021,98,55,Neutral,"Indianapolis, IN",-,0
+2021,Gonzaga,260,Oklahoma,522,03/22/2021,87,71,Neutral,"Indianapolis, IN",-,0
+2021,Gonzaga,260,Creighton,169,03/28/2021,83,65,Neutral,"Indianapolis, IN",-,0
+2021,Gonzaga,260,Southern California,657,03/30/2021,85,66,Neutral,"Indianapolis, IN",-,"6,166"
+2021,Gonzaga,260,UCLA,110,04/03/2021,93,90,Neutral,"Indianapolis, IN",1 OT,"8,131"
+2021,Gonzaga,260,Baylor,51,04/05/2021,70,86,Neutral,"Indianapolis, IN",-,0
 2021,Gordon,1099,Curry,170,03/05/2021,99,63,Home,,-,0
 2021,Gordon,1099,Curry,170,03/06/2021,90,67,Away,,-,0
 2021,Gordon,1099,Western New Eng.,775,03/12/2021,78,72,Home,,-,0
 2021,Gordon,1099,Western New Eng.,775,03/13/2021,70,72,Away,,-,0
+2021,Gordon,1099,Nichols,484,03/19/2021,99,100,Home,,2 OT,0
+2021,Gordon,1099,Nichols,484,03/20/2021,84,83,Away,,-,0
+2021,Gordon,1099,Suffolk,684,03/24/2021,84,82,Away,,-,0
+2021,Gordon,1099,Suffolk,684,03/25/2021,67,82,Home,,-,0
+2021,Gordon,1099,Endicott,8981,03/31/2021,92,78,Home,,-,0
+2021,Gordon,1099,Endicott,8981,04/01/2021,61,86,Away,,-,0
 2021,Grambling,261,Grand Canyon,1104,11/25/2020,53,69,Away,,-,285
 2021,Grambling,261,Arizona,29,11/27/2020,55,74,Away,,-,0
 2021,Grambling,261,East Tex. Baptist,1062,12/03/2020,68,59,Home,,-,220
@@ -4354,6 +4547,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Grand Canyon,1104,New Mexico St.,472,01/29/2021,70,62,Home,,-,"1,000"
 2021,Grand Canyon,1104,New Mexico St.,472,01/30/2021,65,53,Home,,-,909
 2021,Grand Canyon,1104,California Baptist,30135,02/19/2021,71,61,Home,,-,723
+2021,Grand Canyon,1104,California Baptist,30135,02/19/2021,71,61,Home,,-,723
+2021,Grand Canyon,1104,California Baptist,30135,02/20/2021,62,65,Home,,-,723
 2021,Grand Canyon,1104,California Baptist,30135,02/20/2021,62,65,Home,,-,723
 2021,Grand Canyon,1104,Seattle U,1356,02/26/2021,57,63,Away,,-,0
 2021,Grand Canyon,1104,Seattle U,1356,02/27/2021,81,71,Away,,-,0
@@ -4361,6 +4556,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Grand Canyon,1104,Utah Valley,30024,03/06/2021,74,64,Home,,-,929
 2021,Grand Canyon,1104,Seattle U,1356,03/12/2021,81,47,Neutral,"Las Vegas, NV",-,210
 2021,Grand Canyon,1104,New Mexico St.,472,03/13/2021,74,56,Neutral,"Las Vegas, NV",-,325
+2021,Grand Canyon,1104,Iowa,312,03/20/2021,74,86,Neutral,"Indianapolis, IN",-,986
 2021,Grand Valley St.,262,Saginaw Valley,591,01/09/2021,76,59,Home,,-,0
 2021,Grand Valley St.,262,Saginaw Valley,591,01/10/2021,72,67,Home,,-,0
 2021,Grand Valley St.,262,Ashland,35,01/15/2021,65,52,Away,,-,0
@@ -4435,6 +4631,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Greenville,1111,Fontbonne,11538,03/06/2021,119,137,Away,,-,3
 2021,Greenville,1111,Westminster (MO),1450,03/09/2021,140,137,Home,,-,0
 2021,Greenville,1111,Webster,759,03/12/2021,117,133,Away,,-,0
+2021,Greenville,1111,Eureka,218,03/19/2021,138,129,Home,,-,0
+2021,Greenville,1111,Blackburn,64,03/23/2021,99,119,Home,,-,0
+2021,Greenville,1111,Spalding,23260,03/27/2021,146,130,Home,,-,0
 2021,Grove City,265,Geneva,30084,02/13/2021,87,92,Away,,-,100
 2021,Grove City,265,Chatham,10972,02/17/2021,69,56,Home,,-,125
 2021,Grove City,265,Westminster (PA),1451,02/20/2021,68,78,Away,,-,0
@@ -4444,6 +4643,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Grove City,265,Wash. & Jeff.,751,03/03/2021,72,81,Home,,-,100
 2021,Grove City,265,Bethany (WV),59,03/06/2021,86,64,Home,,-,150
 2021,Grove City,265,Waynesburg,1434,03/10/2021,77,65,Away,,-,0
+2021,Grove City,265,Chatham,10972,03/16/2021,78,57,Home,,-,200
+2021,Grove City,265,Geneva,30084,03/18/2021,91,85,Away,,-,200
+2021,Grove City,265,Westminster (PA),1451,03/20/2021,62,73,Away,,-,125
 2021,Guilford,1112,Randolph,566,02/08/2021,80,60,Away,,-,1
 2021,Guilford,1112,Emory & Henry,216,02/11/2021,85,76,Away,,-,0
 2021,Guilford,1112,Roanoke,578,02/16/2021,57,60,Home,,-,0
@@ -4532,7 +4734,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Hardin-Simmons,271,Ozarks (AR),23008,03/04/2021,62,71,Home,,-,277
 2021,Hardin-Simmons,271,Texas-Dallas,23121,03/06/2021,79,87,Home,,-,311
 2021,Hardin-Simmons,271,Sul Ross St.,1390,03/10/2021,94,71,Home,,-,333
-2021,Hardin-Simmons,271,Ozarks (AR),23008,03/14/2021,0,0,Away,,-,0
+2021,Hardin-Simmons,271,Ozarks (AR),23008,03/14/2021,75,78,Away,,-,355
 2021,Harding,1116,Ouachita Baptist,1289,01/07/2021,84,77,Home,,-,0
 2021,Harding,1116,Henderson St.,1123,01/14/2021,89,79,Home,,-,0
 2021,Harding,1116,Southern Ark.,1376,01/16/2021,53,81,Home,,-,0
@@ -4571,6 +4773,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Hartford,272,Albany (NY),14,02/28/2021,83,77,Home,,-,0
 2021,Hartford,272,Vermont,738,03/06/2021,71,65,Away,,-,0
 2021,Hartford,272,UMass Lowell,368,03/13/2021,64,50,Home,,-,0
+2021,Hartford,272,Baylor,51,03/19/2021,55,79,Neutral,"Indianapolis, IN",-,"5,837"
 2021,Hartwick,273,Sage Colleges,11036,03/01/2021,69,76,Away,,-,0
 2021,Hawaii,277,Hawaii Pacific,2696,12/11/2020,83,50,Home,,-,0
 2021,Hawaii,277,Hawaii Hilo,2697,12/19/2020,89,66,Home,,-,0
@@ -4699,6 +4902,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Hillsdale,280,Lake Erie,2746,01/28/2021,77,63,Home,,-,144
 2021,Hillsdale,280,Ohio Dominican,30119,01/30/2021,57,41,Home,,-,250
 2021,Hillsdale,280,Cedarville,30124,02/02/2021,83,79,Away,,2 OT,150
+2021,Hillsdale,280,Cedarville,30124,02/02/2021,83,79,Away,,2 OT,150
 2021,Hillsdale,280,Findlay,1079,02/06/2021,82,71,Home,,-,250
 2021,Hillsdale,280,Malone,30137,02/11/2021,75,69,Away,,-,97
 2021,Hillsdale,280,Walsh,30141,02/13/2021,89,68,Away,,-,195
@@ -4706,11 +4910,15 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Hillsdale,280,Ohio Valley,15207,02/20/2021,107,66,Home,,-,250
 2021,Hillsdale,280,Tiffin,1403,02/24/2021,85,83,Away,,-,40
 2021,Hillsdale,280,Cedarville,30124,02/27/2021,75,54,Home,,-,250
+2021,Hillsdale,280,Cedarville,30124,02/27/2021,75,54,Home,,-,250
 2021,Hillsdale,280,Trevecca Nazarene,30002,03/02/2021,89,58,Home,,-,126
 2021,Hillsdale,280,Malone,30137,03/05/2021,64,74,Home,,-,247
-2021,Hillsdale,280,Mercyhurst,408,03/14/2021,0,0,Neutral,"West Liberty, WV",-,0
+2021,Hillsdale,280,Mercyhurst,408,03/14/2021,67,48,Neutral,"West Liberty, WV",-,126
+2021,Hillsdale,280,West Liberty,1438,03/16/2021,61,78,Home,,-,210
 2021,Hiram,281,Ohio Wesleyan,520,03/11/2021,55,63,Away,,-,73
 2021,Hiram,281,Ohio Wesleyan,520,03/14/2021,82,84,Home,,1 OT,43
+2021,Hiram,281,Carnegie Mellon,119,03/26/2021,80,93,Home,,-,42
+2021,Hiram,281,Carnegie Mellon,119,03/28/2021,84,74,Away,,1 OT,0
 2021,Hofstra,283,Rutgers,587,11/29/2020,56,70,Away,,-,0
 2021,Hofstra,283,Fairleigh Dickinson,222,11/30/2020,73,58,Home,,-,0
 2021,Hofstra,283,Iona,310,12/05/2020,74,82,Home,,-,0
@@ -4766,6 +4974,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Houghton,30160,Alfred,18,03/06/2021,71,74,Away,,-,0
 2021,Houghton,30160,Nazareth,461,03/12/2021,67,88,Away,,-,0
 2021,Houghton,30160,Nazareth,461,03/13/2021,50,67,Home,,-,0
+2021,Houghton,30160,Elmira,213,03/16/2021,59,57,Home,,-,0
+2021,Houghton,30160,Utica,733,03/20/2021,63,81,Away,,-,0
+2021,Houghton,30160,St. John Fisher,601,03/23/2021,64,85,Away,,-,0
+2021,Houghton,30160,Alfred,18,03/25/2021,72,85,Home,,-,0
 2021,Houston,288,Lamar University,346,11/25/2020,89,45,Home,,-,"1,859"
 2021,Houston,288,Boise St.,66,11/27/2020,68,58,Home,,-,"1,859"
 2021,Houston,288,Texas Tech,700,11/29/2020,64,53,Neutral,"Fort Worth, TX",-,0
@@ -4793,6 +5005,36 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Houston,288,Tulane,718,03/12/2021,77,52,Neutral,"Fort Worth, TX",-,0
 2021,Houston,288,Memphis,404,03/13/2021,76,74,Neutral,"Fort Worth, TX",-,"1,182"
 2021,Houston,288,Cincinnati,140,03/14/2021,91,54,Neutral,"Fort Worth, TX",-,0
+2021,Houston,288,Cleveland St.,148,03/19/2021,87,56,Neutral,"Bloomington, IN",-,0
+2021,Houston,288,Rutgers,587,03/21/2021,63,60,Neutral,"Indianapolis, IN",-,"7,186"
+2021,Houston,288,Syracuse,688,03/27/2021,62,46,Neutral,"Indianapolis, IN",-,0
+2021,Houston,288,Oregon St.,528,03/29/2021,67,61,Neutral,"Indianapolis, IN",-,"6,550"
+2021,Houston,288,Baylor,51,04/03/2021,59,78,Neutral,"Indianapolis, IN",-,0
+2021,Houston Baptist,287,TCU,698,11/25/2020,45,69,Away,,-,"1,672"
+2021,Houston Baptist,287,Arizona St.,28,11/29/2020,77,100,Away,,-,0
+2021,Houston Baptist,287,SMU,663,12/02/2020,75,102,Away,,-,"1,507"
+2021,Houston Baptist,287,Rice,574,12/05/2020,64,86,Home,,-,150
+2021,Houston Baptist,287,Champion Chris.,,12/11/2020,93,60,Home,,-,109
+2021,Houston Baptist,287,Rice,574,12/15/2020,79,90,Away,,-,0
+2021,Houston Baptist,287,North Texas,497,12/17/2020,55,85,Away,,-,"1,251"
+2021,Houston Baptist,287,Oklahoma,522,12/19/2020,65,84,Away,,-,611
+2021,Houston Baptist,287,Northwestern St.,508,01/02/2021,99,93,Home,,1 OT,101
+2021,Houston Baptist,287,Abilene Christian,2,01/06/2021,63,66,Home,,-,140
+2021,Houston Baptist,287,Lamar University,346,01/09/2021,65,71,Away,,-,"1,632"
+2021,Houston Baptist,287,Sam Houston St.,624,01/16/2021,80,87,Away,,-,695
+2021,Houston Baptist,287,Nicholls St.,483,01/20/2021,83,92,Home,,-,140
+2021,Houston Baptist,287,McNeese,402,01/23/2021,71,74,Home,,-,140
+2021,Houston Baptist,287,Incarnate Word,2743,01/27/2021,73,57,Away,,-,176
+2021,Houston Baptist,287,Abilene Christian,2,02/10/2021,59,88,Away,,-,294
+2021,Houston Baptist,287,Lamar University,346,02/13/2021,80,75,Home,,-,0
+2021,Houston Baptist,287,Northwestern St.,508,02/22/2021,80,86,Away,,-,725
+2021,Houston Baptist,287,Nicholls St.,483,02/24/2021,68,83,Away,,-,231
+2021,Houston Baptist,287,McNeese,402,02/27/2021,58,85,Away,,-,291
+2021,Houston Baptist,287,Sam Houston St.,624,03/01/2021,70,83,Home,,-,140
+2021,Houston Baptist,287,Incarnate Word,2743,03/03/2021,72,67,Home,,-,140
+2021,Houston Baptist,287,A&M-Corpus Christi,26172,03/06/2021,70,94,Home,,-,140
+2021,Houston Baptist,287,Incarnate Word,2743,03/09/2021,80,68,Neutral,"Katy, TX",-,416
+2021,Houston Baptist,287,Lamar University,346,03/10/2021,52,62,Neutral,"Katy, TX",-,554
 2021,Houston Baptist,287,TCU,698,11/25/2020,45,69,Away,,-,"1,672"
 2021,Houston Baptist,287,Arizona St.,28,11/29/2020,77,100,Away,,-,0
 2021,Houston Baptist,287,SMU,663,12/02/2020,75,102,Away,,-,"1,507"
@@ -4872,6 +5114,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Husson,1133,Thomas (ME),2758,02/27/2021,96,60,Home,,-,50
 2021,Husson,1133,Me.-Farmington,379,03/06/2021,86,69,Away,,-,0
 2021,Husson,1133,Maine Maritime,378,03/13/2021,75,58,Home,,-,50
+2021,Husson,1133,Me.-Fort Kent,,03/21/2021,93,65,Home,,-,0
+2021,Husson,1133,St. Joseph's (ME),605,03/26/2021,92,75,Home,,-,50
+2021,Husson,1133,St. Joseph's (ME),605,03/28/2021,81,78,Away,,-,20
 2021,Idaho,295,Sacramento St.,102,12/03/2020,55,77,Away,,-,0
 2021,Idaho,295,Sacramento St.,102,12/05/2020,57,73,Away,,-,0
 2021,Idaho,295,Washington St.,754,12/09/2020,58,61,Away,,-,0
@@ -4976,6 +5221,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Illinois,301,Rutgers,587,03/12/2021,90,68,Neutral,"Indianapolis, IN",-,"7,735"
 2021,Illinois,301,Iowa,312,03/13/2021,82,71,Neutral,"Indianapolis, IN",-,"8,000"
 2021,Illinois,301,Ohio St.,518,03/14/2021,91,88,Neutral,"Indianapolis, IN",1 OT,"8,000"
+2021,Illinois,301,Drexel,191,03/19/2021,78,49,Neutral,"Indianapolis, IN",-,968
+2021,Illinois,301,Loyola Chicago,371,03/21/2021,58,71,Neutral,"Indianapolis, IN",-,0
 2021,Illinois Col.,297,Dominican (IL),1332,02/12/2021,85,88,Away,,1 OT,0
 2021,Illinois Col.,297,Cornell College,166,02/14/2021,85,79,Home,,-,25
 2021,Illinois Col.,297,Fontbonne,11538,02/17/2021,81,75,Away,,-,3
@@ -5024,6 +5271,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Incarnate Word,2743,SFA,676,01/16/2021,65,83,Home,,-,176
 2021,Incarnate Word,2743,A&M-Corpus Christi,26172,01/23/2021,72,53,Home,,-,176
 2021,Incarnate Word,2743,Houston Baptist,287,01/27/2021,57,73,Home,,-,176
+2021,Incarnate Word,2743,Houston Baptist,287,01/27/2021,57,73,Home,,-,176
 2021,Incarnate Word,2743,Abilene Christian,2,01/30/2021,67,75,Home,,-,176
 2021,Incarnate Word,2743,Lamar University,346,02/03/2021,67,58,Away,,-,871
 2021,Incarnate Word,2743,A&M-Corpus Christi,26172,02/06/2021,58,53,Away,,-,904
@@ -5031,7 +5279,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Incarnate Word,2743,Lamar University,346,02/24/2021,45,67,Home,,-,176
 2021,Incarnate Word,2743,New Orleans,474,03/01/2021,72,88,Home,,-,176
 2021,Incarnate Word,2743,Houston Baptist,287,03/03/2021,67,72,Away,,-,140
+2021,Incarnate Word,2743,Houston Baptist,287,03/03/2021,67,72,Away,,-,140
 2021,Incarnate Word,2743,Abilene Christian,2,03/06/2021,60,85,Away,,-,435
+2021,Incarnate Word,2743,Houston Baptist,287,03/09/2021,68,80,Neutral,"Katy, TX",-,416
 2021,Incarnate Word,2743,Houston Baptist,287,03/09/2021,68,80,Neutral,"Katy, TX",-,416
 2021,Indiana,306,Tennessee Tech,692,11/25/2020,89,59,Home,,-,125
 2021,Indiana,306,Providence,556,11/30/2020,79,58,Neutral,"Asheville, NC",-,0
@@ -5104,6 +5354,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Iona,310,Siena,639,03/10/2021,55,52,Neutral,"Atlantic City, NJ",-,0
 2021,Iona,310,Niagara,482,03/12/2021,70,64,Neutral,"Atlantic City, NJ",-,0
 2021,Iona,310,Fairfield,220,03/13/2021,60,51,Neutral,"Atlantic City, NJ",-,0
+2021,Iona,310,Alabama,8,03/20/2021,55,68,Neutral,"Indianapolis, IN",-,0
 2021,Iowa,312,N.C. Central,489,11/25/2020,97,67,Home,,-,535
 2021,Iowa,312,Southern U.,665,11/27/2020,103,76,Home,,-,535
 2021,Iowa,312,Western Ill.,771,12/03/2020,99,58,Home,,-,543
@@ -5133,6 +5384,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Iowa,312,Wisconsin,796,03/07/2021,77,73,Home,,-,582
 2021,Iowa,312,Wisconsin,796,03/12/2021,62,57,Neutral,"Indianapolis, IN",-,"7,735"
 2021,Iowa,312,Illinois,301,03/13/2021,71,82,Neutral,"Indianapolis, IN",-,"8,000"
+2021,Iowa,312,Grand Canyon,1104,03/20/2021,86,74,Neutral,"Indianapolis, IN",-,986
+2021,Iowa,312,Oregon,529,03/22/2021,80,95,Neutral,"Indianapolis, IN",-,0
 2021,Iowa St.,311,Ark.-Pine Bluff,2678,11/29/2020,80,63,Home,,-,0
 2021,Iowa St.,311,South Dakota St.,649,12/02/2020,68,71,Home,,-,0
 2021,Iowa St.,311,Iowa,312,12/11/2020,77,105,Away,,-,560
@@ -5166,6 +5419,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Iowa Wesleyan,30173,Eureka,218,03/06/2021,72,84,Home,,-,0
 2021,Iowa Wesleyan,30173,Webster,759,03/09/2021,61,72,Away,,-,0
 2021,Iowa Wesleyan,30173,Fontbonne,11538,03/12/2021,83,70,Home,,-,0
+2021,Iowa Wesleyan,30173,Spalding,23260,03/20/2021,62,64,Away,,-,10
+2021,Iowa Wesleyan,30173,Westminster (MO),1450,03/23/2021,82,78,Away,,-,15
+2021,Iowa Wesleyan,30173,Blackburn,64,03/27/2021,76,77,Home,,-,0
+2021,Iowa Wesleyan,30173,Fontbonne,11538,04/03/2021,66,76,Away,,-,15
 2021,IUPUI,2699,Tennessee St.,691,12/12/2020,69,66,Home,,-,0
 2021,IUPUI,2699,Cleveland St.,148,01/01/2021,62,65,Home,,-,0
 2021,IUPUI,2699,Cleveland St.,148,01/02/2021,49,59,Home,,-,0
@@ -5326,6 +5583,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Kansas,328,Baylor,51,02/27/2021,71,58,Home,,-,"2,600"
 2021,Kansas,328,UTEP,704,03/04/2021,67,62,Home,,-,"2,600"
 2021,Kansas,328,Oklahoma,522,03/11/2021,69,62,Neutral,"Kansas City, MO",-,0
+2021,Kansas,328,Eastern Wash.,207,03/20/2021,93,84,Neutral,"Indianapolis, IN",-,961
+2021,Kansas,328,Southern California,657,03/22/2021,51,85,Neutral,"Indianapolis, IN",-,0
 2021,Kansas St.,327,Drake,189,11/25/2020,70,80,Home,,-,727
 2021,Kansas St.,327,Colorado,157,11/27/2020,58,76,Home,,-,0
 2021,Kansas St.,327,UMKC,2707,11/30/2020,62,58,Home,,-,0
@@ -5453,6 +5712,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Keuka,1159,Alfred,18,03/09/2021,61,80,Away,,-,0
 2021,Keuka,1159,Utica,733,03/12/2021,71,92,Home,,-,0
 2021,Keuka,1159,Elmira,213,03/13/2021,75,87,Away,,-,0
+2021,Keuka,1159,Alfred,18,03/17/2021,67,105,Home,,-,0
+2021,Keuka,1159,Sage Colleges,11036,03/21/2021,91,79,Home,,-,0
+2021,Keuka,1159,St. John Fisher,601,03/25/2021,60,91,Home,,-,0
+2021,Keuka,1159,St. John Fisher,601,03/26/2021,48,79,Away,,-,0
 2021,King (TN),30051,Emmanuel (GA),30193,01/13/2021,81,84,Home,,-,2
 2021,King (TN),30051,Bluefield St.,985,01/15/2021,87,94,Away,,-,2
 2021,King (TN),30051,Bluefield St.,985,01/16/2021,106,82,Home,,-,2
@@ -5473,6 +5736,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,King (TN),30051,Emmanuel (GA),30193,03/02/2021,68,93,Away,,-,75
 2021,Knox,337,Illinois Col.,297,03/13/2021,47,66,Home,,-,0
 2021,Knox,337,Illinois Col.,297,03/14/2021,65,80,Away,,-,1
+2021,Knox,337,Cornell College,166,03/27/2021,79,71,Home,,-,0
 2021,Ky. Wesleyan,333,Camp. Harrodsburg,,11/24/2020,81,64,Home,,-,2
 2021,Ky. Wesleyan,333,Hillsdale,280,12/19/2020,58,72,Away,,-,0
 2021,Ky. Wesleyan,333,Trevecca Nazarene,30002,12/31/2020,53,39,Home,,-,9
@@ -5488,6 +5752,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ky. Wesleyan,333,Lake Erie,2746,02/04/2021,86,72,Home,,-,303
 2021,Ky. Wesleyan,333,Ohio Dominican,30119,02/06/2021,67,43,Home,,-,306
 2021,Ky. Wesleyan,333,Findlay,1079,02/16/2021,65,95,Away,,-,1
+2021,Ky. Wesleyan,333,Cedarville,30124,03/02/2021,55,64,Home,,-,307
 2021,Ky. Wesleyan,333,Cedarville,30124,03/02/2021,55,64,Home,,-,307
 2021,La Salle,340,St. John's (NY),603,11/26/2020,65,82,Away,,-,0
 2021,La Salle,340,Saint Peter's,617,11/27/2020,51,62,Neutral,"Queens, NY",-,0
@@ -5570,6 +5835,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lake Erie,2746,Hillsdale,280,01/04/2021,51,59,Home,,-,0
 2021,Lake Erie,2746,Tiffin,1403,01/21/2021,71,78,Away,,-,40
 2021,Lake Erie,2746,Cedarville,30124,01/23/2021,71,80,Home,,1 OT,0
+2021,Lake Erie,2746,Cedarville,30124,01/23/2021,71,80,Home,,1 OT,0
+2021,Lake Erie,2746,Cedarville,30124,01/25/2021,55,70,Away,,-,220
 2021,Lake Erie,2746,Cedarville,30124,01/25/2021,55,70,Away,,-,220
 2021,Lake Erie,2746,Hillsdale,280,01/28/2021,63,77,Away,,-,144
 2021,Lake Erie,2746,Findlay,1079,01/30/2021,67,83,Away,,-,0
@@ -5591,6 +5858,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lake Forest,344,Ripon,577,03/06/2021,57,80,Home,,-,0
 2021,Lake Forest,344,Wis. Lutheran,8911,03/09/2021,72,78,Away,,-,133
 2021,Lake Forest,344,Concordia Chicago,160,03/13/2021,55,78,Home,,-,0
+2021,Lake Forest,344,Aurora,42,03/16/2021,58,61,Home,,-,0
 2021,Lake Superior St.,345,Wayne St. (MI),757,01/08/2021,76,87,Home,,-,0
 2021,Lake Superior St.,345,Wayne St. (MI),757,01/09/2021,75,64,Home,,-,0
 2021,Lake Superior St.,345,Purdue Northwest,30222,01/15/2021,75,64,Away,,-,0
@@ -5637,6 +5905,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lamar University,346,Abilene Christian,2,01/02/2021,65,83,Away,,-,245
 2021,Lamar University,346,Nicholls St.,483,01/06/2021,69,76,Away,,-,200
 2021,Lamar University,346,Houston Baptist,287,01/09/2021,71,65,Home,,-,"1,632"
+2021,Lamar University,346,Houston Baptist,287,01/09/2021,71,65,Home,,-,"1,632"
 2021,Lamar University,346,Sam Houston St.,624,01/13/2021,71,96,Away,,-,612
 2021,Lamar University,346,SFA,676,01/23/2021,72,102,Away,,-,"1,665"
 2021,Lamar University,346,McNeese,402,01/30/2021,64,56,Home,,-,"2,359"
@@ -5644,12 +5913,14 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lamar University,346,Abilene Christian,2,02/06/2021,62,77,Home,,-,"1,239"
 2021,Lamar University,346,Nicholls St.,483,02/10/2021,71,76,Home,,-,831
 2021,Lamar University,346,Houston Baptist,287,02/13/2021,75,80,Away,,-,0
+2021,Lamar University,346,Houston Baptist,287,02/13/2021,75,80,Away,,-,0
 2021,Lamar University,346,A&M-Corpus Christi,26172,02/20/2021,68,77,Away,,-,756
 2021,Lamar University,346,Sam Houston St.,624,02/22/2021,71,77,Home,,-,881
 2021,Lamar University,346,Incarnate Word,2743,02/24/2021,67,45,Away,,-,176
 2021,Lamar University,346,SFA,676,02/27/2021,88,83,Home,,2 OT,"1,112"
 2021,Lamar University,346,A&M-Corpus Christi,26172,03/01/2021,66,47,Home,,-,828
 2021,Lamar University,346,McNeese,402,03/06/2021,60,51,Away,,-,493
+2021,Lamar University,346,Houston Baptist,287,03/10/2021,62,52,Neutral,"Katy, TX",-,554
 2021,Lamar University,346,Houston Baptist,287,03/10/2021,62,52,Neutral,"Katy, TX",-,554
 2021,Lamar University,346,Sam Houston St.,624,03/11/2021,70,69,Neutral,"Katy, TX",-,633
 2021,Lamar University,346,Abilene Christian,2,03/12/2021,71,93,Neutral,"Katy, TX",-,"1,050"
@@ -5669,6 +5940,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lancaster Bible,30085,Bryn Athyn,30188,03/06/2021,96,58,Home,,-,125
 2021,Lancaster Bible,30085,Concordia (MI),,03/11/2021,84,61,Neutral,"Winona Lake, IN",-,0
 2021,Lancaster Bible,30085,Grace (IN),,03/12/2021,85,89,Away,,-,0
+2021,Lancaster Bible,30085,Northwestern-St.Paul,30031,03/17/2021,65,67,Neutral,"Winona Lake, IN",-,0
+2021,Lancaster Bible,30085,SAGU American Indian,,03/18/2021,107,51,Neutral,"Winona Lake, IN",-,50
+2021,Lancaster Bible,30085,Columbia Int'l,,03/19/2021,87,68,Neutral,"Winona Lake, IN",-,50
 2021,Lander,1167,Chattanooga,693,11/25/2020,63,99,Away,,-,0
 2021,Lander,1167,Augusta,39,12/02/2020,72,87,Away,,-,0
 2021,Lander,1167,S.C. Aiken,11276,12/09/2020,73,66,Away,,-,0
@@ -5698,6 +5972,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lebanon Valley,351,Eastern,8968,03/08/2021,73,60,Home,,-,0
 2021,Lebanon Valley,351,Stevenson,21852,03/11/2021,94,88,Away,,-,0
 2021,Lebanon Valley,351,Stevenson,21852,03/12/2021,69,78,Home,,-,0
+2021,Lebanon Valley,351,Albright,16,03/18/2021,77,82,Home,,-,0
 2021,Lee,30013,West Florida,11740,12/12/2020,66,79,Away,,-,100
 2021,Lee,30013,ETSU,198,12/19/2020,53,62,Away,,-,0
 2021,Lee,30013,West Ga.,766,01/08/2021,81,67,Away,,-,129
@@ -5719,7 +5994,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lee,30013,West Ala.,358,03/02/2021,66,63,Home,,-,182
 2021,Lee,30013,Ala.-Huntsville,10,03/05/2021,52,54,Away,,-,513
 2021,Lee,30013,Ga. Southwestern,1097,03/13/2021,72,69,Neutral,"Valdosta, GA",-,930
-2021,Lee,30013,Ala.-Huntsville,10,03/14/2021,0,0,Neutral,"Valdosta, GA",-,0
+2021,Lee,30013,Ala.-Huntsville,10,03/14/2021,66,73,Neutral,"Valdosta, GA",-,414
 2021,Lees-McRae,13302,Erskine,1072,01/13/2021,109,77,Home,,-,25
 2021,Lees-McRae,13302,Mount Olive,1245,01/15/2021,102,66,Home,,-,0
 2021,Lees-McRae,13302,Mount Olive,1245,01/16/2021,74,59,Home,,-,0
@@ -5833,6 +6108,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Liberty,355,Kennesaw St.,1157,03/04/2021,69,59,Neutral,"Jacksonville, FL",-,218
 2021,Liberty,355,Stetson,678,03/05/2021,77,64,Neutral,"Jacksonville, FL",-,256
 2021,Liberty,355,North Ala.,487,03/07/2021,79,75,Neutral,"Jacksonville, FL",-,422
+2021,Liberty,355,Oklahoma St.,521,03/19/2021,60,69,Neutral,"Indianapolis, IN",-,972
 2021,Limestone,1174,James Madison,317,11/25/2020,55,89,Away,,-,250
 2021,Limestone,1174,Col. of Charleston,1014,11/28/2020,59,99,Away,,-,"1,439"
 2021,Limestone,1174,Queens (NC),11504,12/02/2020,58,66,Home,,-,0
@@ -5896,6 +6172,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lincoln Memorial,1176,Newberry,1257,02/13/2021,66,71,Away,,-,47
 2021,Lincoln Memorial,1176,Tusculum,12830,02/17/2021,74,90,Away,,-,150
 2021,Lincoln Memorial,1176,Tusculum,12830,03/14/2021,80,66,Home,,-,453
+2021,Lincoln Memorial,1176,Emmanuel (GA),30193,03/16/2021,103,67,Home,,-,535
+2021,Lincoln Memorial,1176,Colo. Sch. of Mines,155,03/24/2021,90,76,Neutral,"Evansville, IN",-,613
+2021,Lincoln Memorial,1176,West Tex. A&M,767,03/25/2021,86,87,Neutral,"Evansville, IN",-,874
 2021,Lindenwood (MO),30136,Missouri S&T,435,11/27/2020,89,70,Home,,-,0
 2021,Lindenwood (MO),30136,Maryville (MO),395,12/03/2020,73,69,Away,,-,50
 2021,Lindenwood (MO),30136,Quincy,561,12/05/2020,88,74,Away,,-,0
@@ -5916,6 +6195,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lindenwood (MO),30136,McKendree,30138,02/20/2021,116,109,Home,,2 OT,0
 2021,Lindenwood (MO),30136,UIndy,309,02/27/2021,74,77,Away,,-,0
 2021,Lindenwood (MO),30136,Mo.-St. Louis,436,03/03/2021,78,84,Away,,-,125
+2021,Linfield,1179,George Fox,1094,03/19/2021,102,106,Away,,-,0
+2021,Linfield,1179,George Fox,1094,03/20/2021,100,74,Home,,-,0
+2021,Linfield,1179,Warner Pacific,,03/26/2021,112,78,Away,,-,0
+2021,Linfield,1179,Warner Pacific,,03/27/2021,79,78,Home,,-,0
+2021,Linfield,1179,Pacific (OR),2751,04/02/2021,111,97,Home,,-,0
+2021,Linfield,1179,Pacific (OR),2751,04/03/2021,105,87,Away,,-,0
 2021,Lipscomb,28600,Lamar University,346,11/28/2020,76,73,Neutral,"New Orleans, LA",-,100
 2021,Lipscomb,28600,Tulane,718,11/29/2020,66,68,Away,,-,100
 2021,Lipscomb,28600,Cincinnati,140,12/02/2020,55,67,Away,,-,300
@@ -5969,24 +6254,24 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Little Rock,32,Louisiana,671,02/26/2021,61,66,Home,,-,410
 2021,Little Rock,32,Louisiana,671,02/27/2021,69,59,Home,,-,616
 2021,Little Rock,32,Appalachian St.,27,03/05/2021,60,67,Neutral,"Pensacola, FL",-,148
-2021,LIU Brooklyn,361,Sacred Heart,590,12/16/2020,75,55,Away,,-,0
-2021,LIU Brooklyn,361,Sacred Heart,590,12/17/2020,72,87,Away,,-,0
-2021,LIU Brooklyn,361,Saint Francis (PA),600,01/07/2021,78,75,Home,,-,0
-2021,LIU Brooklyn,361,Saint Francis (PA),600,01/08/2021,71,58,Home,,-,0
-2021,LIU Brooklyn,361,Wagner,748,01/14/2021,77,66,Away,,-,0
-2021,LIU Brooklyn,361,Wagner,748,01/15/2021,74,76,Away,,-,0
-2021,LIU Brooklyn,361,Merrimack,410,01/27/2021,63,68,Home,,-,0
-2021,LIU Brooklyn,361,Merrimack,410,01/28/2021,78,68,Home,,-,0
-2021,LIU Brooklyn,361,St. Francis Brooklyn,599,01/30/2021,102,88,Away,,-,0
-2021,LIU Brooklyn,361,Fairleigh Dickinson,222,02/04/2021,70,78,Home,,-,0
-2021,LIU Brooklyn,361,Fairleigh Dickinson,222,02/05/2021,62,77,Home,,-,0
-2021,LIU Brooklyn,361,St. Francis Brooklyn,599,02/08/2021,96,84,Home,,-,0
-2021,LIU Brooklyn,361,Mt. St. Mary's,450,02/11/2021,60,66,Away,,-,0
-2021,LIU Brooklyn,361,Mt. St. Mary's,450,02/12/2021,46,64,Away,,-,0
-2021,LIU Brooklyn,361,Central Conn. St.,127,02/20/2021,87,74,Home,,-,0
-2021,LIU Brooklyn,361,Central Conn. St.,127,02/21/2021,81,79,Home,,-,0
-2021,LIU Brooklyn,361,Bryant,81,02/25/2021,80,87,Away,,-,0
-2021,LIU Brooklyn,361,Bryant,81,02/26/2021,60,63,Away,,-,0
+2021,LIU,361,Sacred Heart,590,12/16/2020,75,55,Away,,-,0
+2021,LIU,361,Sacred Heart,590,12/17/2020,72,87,Away,,-,0
+2021,LIU,361,Saint Francis (PA),600,01/07/2021,78,75,Home,,-,0
+2021,LIU,361,Saint Francis (PA),600,01/08/2021,71,58,Home,,-,0
+2021,LIU,361,Wagner,748,01/14/2021,77,66,Away,,-,0
+2021,LIU,361,Wagner,748,01/15/2021,74,76,Away,,-,0
+2021,LIU,361,Merrimack,410,01/27/2021,63,68,Home,,-,0
+2021,LIU,361,Merrimack,410,01/28/2021,78,68,Home,,-,0
+2021,LIU,361,St. Francis Brooklyn,599,01/30/2021,102,88,Away,,-,0
+2021,LIU,361,Fairleigh Dickinson,222,02/04/2021,70,78,Home,,-,0
+2021,LIU,361,Fairleigh Dickinson,222,02/05/2021,62,77,Home,,-,0
+2021,LIU,361,St. Francis Brooklyn,599,02/08/2021,96,84,Home,,-,0
+2021,LIU,361,Mt. St. Mary's,450,02/11/2021,60,66,Away,,-,0
+2021,LIU,361,Mt. St. Mary's,450,02/12/2021,46,64,Away,,-,0
+2021,LIU,361,Central Conn. St.,127,02/20/2021,87,74,Home,,-,0
+2021,LIU,361,Central Conn. St.,127,02/21/2021,81,79,Home,,-,0
+2021,LIU,361,Bryant,81,02/25/2021,80,87,Away,,-,0
+2021,LIU,361,Bryant,81,02/26/2021,60,63,Away,,-,0
 2021,LMU (CA),370,Southern Utah,667,11/25/2020,85,83,Home,,-,0
 2021,LMU (CA),370,Minnesota,428,11/28/2020,73,88,Away,,-,0
 2021,LMU (CA),370,Minnesota,428,11/30/2020,64,67,Away,,-,0
@@ -6016,6 +6301,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Long Beach St.,99,CSU Bakersfield,94,01/02/2021,76,89,Home,,-,0
 2021,Long Beach St.,99,Cal St. Fullerton,97,01/08/2021,82,80,Away,,-,0
 2021,Long Beach St.,99,Cal St. Fullerton,97,01/09/2021,72,75,Away,,1 OT,0
+2021,Long Beach St.,99,California Baptist,30135,01/23/2021,75,96,Away,,-,0
 2021,Long Beach St.,99,California Baptist,30135,01/23/2021,75,96,Away,,-,0
 2021,Long Beach St.,99,UC Davis,108,02/12/2021,66,68,Away,,-,0
 2021,Long Beach St.,99,UC Davis,108,02/13/2021,76,78,Away,,1 OT,0
@@ -6055,6 +6341,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Longwood,363,Hampton,270,02/24/2021,68,74,Home,,-,0
 2021,Longwood,363,UNC Asheville,456,03/01/2021,77,61,Away,,-,40
 2021,Longwood,363,Winthrop,792,03/04/2021,61,82,Away,,-,575
+2021,Longwood,363,Pepperdine,541,03/22/2021,66,80,Neutral,"Daytona Beach, FL",-,102
 2021,Loras,364,Concordia Wisconsin,1036,01/13/2021,84,96,Away,,-,230
 2021,Loras,364,Edgewood,1066,01/18/2021,67,65,Away,,-,0
 2021,Loras,364,Rockford,582,01/28/2021,97,90,Home,,-,50
@@ -6108,6 +6395,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Louisiana Col.,1182,East Tex. Baptist,1062,03/06/2021,76,65,Home,,-,346
 2021,Louisiana Col.,1182,Texas-Dallas,23121,03/10/2021,79,72,Home,,-,274
 2021,Louisiana Col.,1182,Mary Hardin-Baylor,1203,03/14/2021,89,72,Neutral,"Clarksville, AR",-,125
+2021,Louisiana Col.,1182,Ozarks (AR),23008,03/15/2021,72,74,Away,,-,435
 2021,Louisiana Tech,366,UT Arlington,702,11/27/2020,76,71,Home,,-,"1,200"
 2021,Louisiana Tech,366,Northwestern St.,508,11/29/2020,91,77,Home,,-,"1,200"
 2021,Louisiana Tech,366,La.-Monroe,498,12/03/2020,78,62,Home,,-,"1,200"
@@ -6136,6 +6424,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Louisiana Tech,366,Our Lady of the Lake,,03/03/2021,99,66,Home,,-,"1,200"
 2021,Louisiana Tech,366,Fla. Atlantic,229,03/11/2021,75,69,Neutral,"Frisco, TX",-,"1,137"
 2021,Louisiana Tech,366,North Texas,497,03/12/2021,48,54,Neutral,"Frisco, TX",-,789
+2021,Louisiana Tech,366,Ole Miss,433,03/19/2021,70,61,Neutral,"Frisco, TX",-,543
+2021,Louisiana Tech,366,Western Ky.,772,03/25/2021,72,65,Neutral,"Frisco, TX",-,737
+2021,Louisiana Tech,366,Mississippi St.,430,03/27/2021,62,84,Neutral,"Frisco, TX",-,887
+2021,Louisiana Tech,366,Colorado St.,156,03/28/2021,76,74,Neutral,"Frisco, TX",-,"1,027"
 2021,Louisville,367,Evansville,219,11/25/2020,79,44,Home,,-,"2,956"
 2021,Louisville,367,Seton Hall,635,11/27/2020,71,70,Home,,-,"2,988"
 2021,Louisville,367,Prairie View,553,11/29/2020,86,64,Home,,-,"2,934"
@@ -6184,6 +6476,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Loyola Chicago,371,Southern Ill.,659,03/05/2021,73,49,Neutral,"St. Louis, MO",-,830
 2021,Loyola Chicago,371,Indiana St.,305,03/06/2021,65,49,Neutral,"St. Louis, MO",-,938
 2021,Loyola Chicago,371,Drake,189,03/07/2021,75,65,Neutral,"St. Louis, MO",-,"1,265"
+2021,Loyola Chicago,371,Georgia Tech,255,03/19/2021,71,60,Neutral,"Indianapolis, IN",-,0
+2021,Loyola Chicago,371,Illinois,301,03/21/2021,71,58,Neutral,"Indianapolis, IN",-,0
+2021,Loyola Chicago,371,Oregon St.,528,03/27/2021,58,65,Neutral,"Indianapolis, IN",-,0
 2021,Loyola Maryland,369,Lafayette,342,01/16/2021,75,77,Away,,-,0
 2021,Loyola Maryland,369,Lafayette,342,01/17/2021,70,72,Home,,-,0
 2021,Loyola Maryland,369,American,23,01/23/2021,70,71,Away,,-,0
@@ -6228,6 +6523,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,LSU,365,Ole Miss,433,03/12/2021,76,73,Neutral,"Nashville, TN",-,"2,155"
 2021,LSU,365,Arkansas,31,03/13/2021,78,71,Neutral,"Nashville, TN",-,"3,164"
 2021,LSU,365,Alabama,8,03/14/2021,79,80,Neutral,"Nashville, TN",-,"2,586"
+2021,LSU,365,St. Bonaventure,596,03/20/2021,76,61,Neutral,"Bloomington, IN",-,0
+2021,LSU,365,Michigan,418,03/22/2021,78,86,Neutral,"Indianapolis, IN",-,"5,546"
 2021,Lubbock Christian,30177,Okla. Christian,30179,12/18/2020,82,70,Away,,-,100
 2021,Lubbock Christian,30177,Okla. Christian,30179,12/19/2020,80,67,Away,,-,100
 2021,Lubbock Christian,30177,Texas-Tyler,30028,01/02/2021,80,64,Away,,-,242
@@ -6247,7 +6544,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lubbock Christian,30177,West Tex. A&M,767,02/25/2021,78,82,Home,,-,974
 2021,Lubbock Christian,30177,West Tex. A&M,767,02/27/2021,103,85,Away,,-,"1,000"
 2021,Lubbock Christian,30177,St. Edward's,1334,03/02/2021,71,72,Home,,-,973
-2021,Lubbock Christian,30177,Okla. Baptist,30202,03/14/2021,0,0,Home,,-,0
+2021,Lubbock Christian,30177,Okla. Baptist,30202,03/14/2021,79,55,Home,,-,305
+2021,Lubbock Christian,30177,West Tex. A&M,767,03/16/2021,92,101,Home,,-,317
 2021,Luther,372,Buena Vista,84,02/06/2021,58,79,Home,,-,75
 2021,Luther,372,Simpson,641,02/08/2021,61,68,Away,,-,105
 2021,Luther,372,Central (IA),126,02/10/2021,65,73,Home,,-,50
@@ -6263,6 +6561,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lycoming,373,Arcadia,966,03/05/2021,61,89,Away,,-,0
 2021,Lycoming,373,DeSales,20,03/12/2021,75,62,Home,,-,40
 2021,Lycoming,373,DeSales,20,03/13/2021,59,63,Away,,-,0
+2021,Lycoming,373,DeSales,20,03/19/2021,69,53,Away,,-,0
 2021,Lynchburg,374,Methodist,412,01/17/2021,78,65,Home,,-,2
 2021,Lynchburg,374,East. Mennonite,203,01/23/2021,95,87,Away,,1 OT,0
 2021,Lynchburg,374,Hampden-Sydney,269,01/27/2021,84,69,Home,,-,2
@@ -6273,6 +6572,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Lynchburg,374,East. Mennonite,203,03/06/2021,79,77,Home,,-,3
 2021,Lynchburg,374,Ferrum,225,03/09/2021,66,62,Away,,1 OT,7
 2021,Lynchburg,374,Randolph-Macon,565,03/11/2021,62,70,Home,,-,10
+2021,Macalester,376,St. Olaf,615,03/19/2021,67,70,Away,,-,0
+2021,Macalester,376,St. Olaf,615,03/21/2021,47,54,Home,,-,0
+2021,Macalester,376,St. Olaf,615,03/28/2021,72,59,Home,,-,0
+2021,Macalester,376,St. Olaf,615,03/30/2021,78,77,Away,,1 OT,1
 2021,Maine,380,Hartford,272,12/19/2020,60,63,Away,,-,0
 2021,Maine,380,Hartford,272,12/20/2020,50,65,Away,,-,0
 2021,Maine,380,Boston College,67,12/22/2020,62,78,Away,,-,0
@@ -6296,6 +6599,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Malone,30137,Ky. Wesleyan,333,01/28/2021,82,90,Home,,-,97
 2021,Malone,30137,Trevecca Nazarene,30002,01/30/2021,70,65,Home,,-,94
 2021,Malone,30137,Cedarville,30124,02/04/2021,99,87,Home,,-,79
+2021,Malone,30137,Cedarville,30124,02/04/2021,99,87,Home,,-,79
 2021,Malone,30137,Walsh,30141,02/06/2021,76,74,Away,,-,195
 2021,Malone,30137,Lake Erie,2746,02/08/2021,81,68,Away,,-,0
 2021,Malone,30137,Tiffin,1403,02/09/2021,101,91,Away,,-,40
@@ -6304,11 +6608,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Malone,30137,Ohio Valley,15207,02/16/2021,101,85,Away,,-,50
 2021,Malone,30137,Tiffin,1403,02/18/2021,86,81,Home,,-,110
 2021,Malone,30137,Cedarville,30124,02/20/2021,96,73,Away,,-,233
+2021,Malone,30137,Cedarville,30124,02/20/2021,96,73,Away,,-,233
 2021,Malone,30137,Walsh,30141,02/23/2021,71,69,Home,,-,150
 2021,Malone,30137,Lake Erie,2746,02/25/2021,94,75,Home,,-,150
 2021,Malone,30137,Ohio Dominican,30119,02/27/2021,77,63,Home,,-,150
 2021,Malone,30137,Walsh,30141,03/02/2021,75,64,Home,,-,150
 2021,Malone,30137,Hillsdale,280,03/05/2021,74,64,Away,,-,247
+2021,Malone,30137,Cedarville,30124,03/06/2021,77,59,Neutral,"Hillsdale, MI",-,140
 2021,Malone,30137,Cedarville,30124,03/06/2021,77,59,Neutral,"Hillsdale, MI",-,140
 2021,Malone,30137,West Liberty,1438,03/13/2021,89,94,Away,,-,215
 2021,Manchester,1192,Adrian,4,11/07/2020,84,81,Away,,-,165
@@ -6556,6 +6862,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Maryland,392,Penn St.,539,03/07/2021,61,66,Home,,-,0
 2021,Maryland,392,Michigan St.,416,03/11/2021,68,57,Neutral,"Indianapolis, IN",-,"6,206"
 2021,Maryland,392,Michigan,418,03/12/2021,66,79,Neutral,"Indianapolis, IN",-,0
+2021,Maryland,392,UConn,164,03/20/2021,63,54,Neutral,"West Lafayette, IN",-,0
+2021,Maryland,392,Alabama,8,03/22/2021,77,96,Neutral,"Indianapolis, IN",-,0
 2021,Marymount (VA),394,Moravian,443,02/20/2021,89,78,Away,,-,16
 2021,Marymount (VA),394,Chris. Newport,139,03/06/2021,87,85,Home,,-,69
 2021,Marymount (VA),394,Drew,190,03/13/2021,82,63,Away,,-,0
@@ -6591,6 +6899,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Maryville (TN),396,LaGrange,1162,02/27/2021,88,81,Away,,-,0
 2021,Maryville (TN),396,Covenant,30111,03/03/2021,81,74,Home,,-,0
 2021,Maryville (TN),396,Piedmont,21830,03/06/2021,81,54,Home,,-,0
+2021,Marywood,397,Cabrini,88,03/29/2021,66,64,Home,,-,1
 2021,Massachusetts,400,Northeastern,500,12/11/2020,94,79,Home,,-,0
 2021,Massachusetts,400,Northeastern,500,12/13/2020,75,78,Away,,-,0
 2021,Massachusetts,400,La Salle,340,12/16/2020,85,66,Away,,-,0
@@ -6665,11 +6974,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,McNeese,402,New Orleans,474,01/16/2021,84,99,Away,,-,486
 2021,McNeese,402,Southeastern La.,655,01/20/2021,88,92,Home,,-,261
 2021,McNeese,402,Houston Baptist,287,01/23/2021,74,71,Away,,-,140
+2021,McNeese,402,Houston Baptist,287,01/23/2021,74,71,Away,,-,140
 2021,McNeese,402,Nicholls St.,483,01/27/2021,69,76,Away,,-,230
 2021,McNeese,402,Lamar University,346,01/30/2021,56,64,Away,,-,"2,359"
 2021,McNeese,402,Central Ark.,1004,02/06/2021,80,70,Away,,-,486
 2021,McNeese,402,Northwestern St.,508,02/13/2021,66,69,Away,,-,602
 2021,McNeese,402,Southeastern La.,655,02/24/2021,95,91,Away,,-,511
+2021,McNeese,402,Houston Baptist,287,02/27/2021,85,58,Home,,-,291
 2021,McNeese,402,Houston Baptist,287,02/27/2021,85,58,Home,,-,291
 2021,McNeese,402,Nicholls St.,483,03/04/2021,67,80,Home,,-,255
 2021,McNeese,402,Lamar University,346,03/06/2021,51,60,Home,,-,493
@@ -6708,6 +7019,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Memphis,404,Houston,288,03/07/2021,64,67,Away,,-,"1,859"
 2021,Memphis,404,UCF,128,03/12/2021,70,62,Neutral,"Fort Worth, TX",-,826
 2021,Memphis,404,Houston,288,03/13/2021,74,76,Neutral,"Fort Worth, TX",-,"1,182"
+2021,Memphis,404,Dayton,175,03/20/2021,71,60,Neutral,"Denton, TX",-,"1,044"
+2021,Memphis,404,Boise St.,66,03/25/2021,59,56,Neutral,"Denton, TX",-,935
+2021,Memphis,404,Colorado St.,156,03/27/2021,90,67,Neutral,"Frisco, TX",-,0
+2021,Memphis,404,Mississippi St.,430,03/28/2021,77,64,Neutral,"Frisco, TX",-,"1,027"
 2021,Mercer,406,North Georgia,30052,11/25/2020,79,48,Home,,-,727
 2021,Mercer,406,Georgia Tech,255,11/27/2020,83,73,Away,,-,"1,200"
 2021,Mercer,406,Georgia St.,254,11/30/2020,86,69,Home,,-,672
@@ -6741,6 +7056,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Merchant Marine,724,Yeshiva,814,02/24/2021,58,77,Away,,-,0
 2021,Merchant Marine,724,Connecticut Col.,163,02/27/2021,77,61,Home,,-,0
 2021,Merchant Marine,724,Connecticut Col.,163,02/28/2021,61,50,Home,,-,0
+2021,Merchant Marine,724,Elms,532,03/31/2021,70,58,Away,,-,0
 2021,Mercy,407,St. Thomas Aquinas,1348,02/06/2021,77,119,Away,,-,0
 2021,Mercy,407,St. Thomas Aquinas,1348,02/08/2021,77,91,Away,,-,0
 2021,Mercy,407,Molloy,437,02/13/2021,82,83,Home,,1 OT,0
@@ -6761,7 +7077,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Mercyhurst,408,Gannon,246,02/20/2021,83,61,Home,,-,87
 2021,Mercyhurst,408,Gannon,246,02/27/2021,73,66,Away,,-,55
 2021,Mercyhurst,408,Fairmont St.,1076,03/13/2021,62,58,Neutral,"West Liberty, WV",-,201
-2021,Mercyhurst,408,Hillsdale,280,03/14/2021,0,0,Neutral,"West Liberty, WV",-,0
+2021,Mercyhurst,408,Hillsdale,280,03/14/2021,48,67,Neutral,"West Liberty, WV",-,126
 2021,Merrimack,410,Sacred Heart,590,01/07/2021,97,90,Home,,1 OT,0
 2021,Merrimack,410,Sacred Heart,590,01/08/2021,62,68,Home,,-,0
 2021,Merrimack,410,Mt. St. Mary's,450,01/14/2021,57,77,Away,,-,0
@@ -6790,6 +7106,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Messiah,411,Widener,783,03/05/2021,61,77,Home,,-,53
 2021,Messiah,411,Eastern,8968,03/11/2021,72,59,Home,,-,51
 2021,Messiah,411,Eastern,8968,03/12/2021,68,62,Away,,-,2
+2021,Messiah,411,FDU-Florham,221,03/18/2021,66,57,Away,,-,0
 2021,Methodist,412,Lynchburg,374,01/17/2021,65,78,Away,,-,2
 2021,Methodist,412,William Peace,17094,01/22/2021,93,73,Away,,-,35
 2021,Methodist,412,William Peace,17094,01/24/2021,83,80,Home,,-,15
@@ -6876,6 +7193,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Michigan,418,Michigan St.,416,03/07/2021,64,70,Away,,-,0
 2021,Michigan,418,Maryland,392,03/12/2021,79,66,Neutral,"Indianapolis, IN",-,0
 2021,Michigan,418,Ohio St.,518,03/13/2021,67,68,Neutral,"Indianapolis, IN",-,"8,000"
+2021,Michigan,418,Texas Southern,699,03/20/2021,82,66,Neutral,"West Lafayette, IN",-,0
+2021,Michigan,418,LSU,365,03/22/2021,86,78,Neutral,"Indianapolis, IN",-,"5,546"
+2021,Michigan,418,Florida St.,234,03/28/2021,76,58,Neutral,"Indianapolis, IN",-,0
+2021,Michigan,418,UCLA,110,03/30/2021,49,51,Neutral,"Indianapolis, IN",-,"7,515"
 2021,Michigan St.,416,Eastern Mich.,204,11/25/2020,83,67,Home,,-,0
 2021,Michigan St.,416,Notre Dame,513,11/28/2020,80,70,Home,,-,0
 2021,Michigan St.,416,Duke,193,12/01/2020,75,69,Away,,-,0
@@ -6903,6 +7224,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Michigan St.,416,Michigan,418,03/04/2021,50,69,Away,,-,133
 2021,Michigan St.,416,Michigan,418,03/07/2021,70,64,Home,,-,0
 2021,Michigan St.,416,Maryland,392,03/11/2021,57,68,Neutral,"Indianapolis, IN",-,"6,206"
+2021,Michigan St.,416,UCLA,110,03/18/2021,80,86,Neutral,"West Lafayette, IN",1 OT,0
 2021,Michigan Tech,417,Purdue Northwest,30222,01/09/2021,68,59,Home,,-,0
 2021,Michigan Tech,417,Purdue Northwest,30222,01/10/2021,52,76,Home,,-,0
 2021,Michigan Tech,417,Northwood,510,01/15/2021,62,49,Away,,-,0
@@ -6924,7 +7246,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Michigan Tech,417,Purdue Northwest,30222,03/04/2021,74,63,Away,,-,0
 2021,Michigan Tech,417,Grand Valley St.,262,03/05/2021,65,59,Neutral,"Hammond, IN",-,0
 2021,Michigan Tech,417,Ashland,35,03/07/2021,77,85,Neutral,"Hammond, IN",-,0
-2021,Michigan Tech,417,Southern Ind.,661,03/14/2021,0,0,Neutral,"Evansville, IN",-,0
+2021,Michigan Tech,417,Southern Ind.,661,03/14/2021,81,69,Neutral,"Evansville, IN",-,785
+2021,Michigan Tech,417,Truman,499,03/16/2021,62,65,Neutral,"Evansville, IN",-,286
 2021,Middle Tenn.,419,Omaha,464,11/26/2020,59,60,Neutral,"Estero, FL",-,50
 2021,Middle Tenn.,419,ETSU,198,11/27/2020,43,57,Neutral,"Estero, FL",-,50
 2021,Middle Tenn.,419,Murray St.,454,12/02/2020,78,61,Home,,-,100
@@ -7141,6 +7464,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Mississippi St.,430,Auburn,37,03/06/2021,71,78,Away,,-,"1,824"
 2021,Mississippi St.,430,Kentucky,334,03/11/2021,74,73,Neutral,"Nashville, TN",-,"1,733"
 2021,Mississippi St.,430,Alabama,8,03/12/2021,48,85,Neutral,"Nashville, TN",-,"2,186"
+2021,Mississippi St.,430,Saint Louis,609,03/20/2021,74,68,Neutral,"Frisco, TX",-,751
+2021,Mississippi St.,430,Richmond,575,03/25/2021,68,67,Neutral,"Denton, TX",-,935
+2021,Mississippi St.,430,Louisiana Tech,366,03/27/2021,84,62,Neutral,"Frisco, TX",-,887
+2021,Mississippi St.,430,Memphis,404,03/28/2021,64,77,Neutral,"Frisco, TX",-,"1,027"
 2021,Mississippi Val.,432,Arkansas,31,11/25/2020,62,142,Away,,-,"4,400"
 2021,Mississippi Val.,432,North Texas,497,11/26/2020,62,116,Away,,-,"1,206"
 2021,Mississippi Val.,432,Wyoming,811,11/28/2020,61,97,Away,,-,"1,216"
@@ -7190,6 +7517,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Missouri,434,LSU,365,03/06/2021,80,86,Home,,-,"3,112"
 2021,Missouri,434,Georgia,257,03/11/2021,73,70,Neutral,"Nashville, TN",-,"1,809"
 2021,Missouri,434,Arkansas,31,03/12/2021,64,70,Neutral,"Nashville, TN",-,"2,155"
+2021,Missouri,434,Oklahoma,522,03/20/2021,68,72,Neutral,"Indianapolis, IN",-,"5,764"
 2021,Missouri S&T,435,Lindenwood (MO),30136,11/27/2020,70,89,Away,,-,0
 2021,Missouri S&T,435,Maryville (MO),395,11/29/2020,67,76,Away,,-,50
 2021,Missouri S&T,435,McKendree,30138,12/03/2020,86,89,Home,,1 OT,50
@@ -7454,6 +7782,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Morehead St.,444,Southeast Mo. St.,654,03/03/2021,61,54,Neutral,"Evansville, IN",-,266
 2021,Morehead St.,444,Eastern Ky.,202,03/05/2021,67,64,Neutral,"Evansville, IN",-,627
 2021,Morehead St.,444,Belmont,14927,03/06/2021,86,71,Neutral,"Evansville, IN",-,678
+2021,Morehead St.,444,West Virginia,768,03/19/2021,67,84,Neutral,"Indianapolis, IN",-,"6,390"
 2021,Morgan St.,446,Mt. St. Mary's,450,11/25/2020,55,62,Home,,-,50
 2021,Morgan St.,446,Lincoln (PA),357,12/01/2020,102,94,Home,,-,20
 2021,Morgan St.,446,Iona,310,12/08/2020,83,72,Away,,-,0
@@ -7551,7 +7880,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,MSU Moorhead,1240,Minnesota St.,383,02/26/2021,73,61,Neutral,"Sioux Falls, SD",2 OT,58
 2021,MSU Moorhead,1240,Northern St.,1266,02/28/2021,57,78,Neutral,"Sioux Falls, SD",-,88
 2021,MSU Moorhead,1240,Wayne St. (NE),1433,03/13/2021,84,72,Neutral,"Aberdeen, SD",-,0
-2021,MSU Moorhead,1240,Northern St.,1266,03/14/2021,0,0,Away,,-,0
+2021,MSU Moorhead,1240,Northern St.,1266,03/14/2021,65,77,Away,,-,"1,700"
 2021,MSU Texas,1222,Cameron,996,12/11/2020,98,75,Away,,-,50
 2021,MSU Texas,1222,Cameron,996,12/12/2020,75,70,Away,,-,50
 2021,MSU Texas,1222,Tex. A&M Int'l,30090,12/18/2020,79,53,Home,,-,50
@@ -7606,6 +7935,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Mt. St. Mary's,450,Saint Francis (PA),600,02/25/2021,72,65,Away,,1 OT,0
 2021,Mt. St. Mary's,450,Wagner,748,03/06/2021,66,60,Away,,-,0
 2021,Mt. St. Mary's,450,Bryant,81,03/09/2021,73,68,Away,,-,0
+2021,Mt. St. Mary's,450,Texas Southern,699,03/18/2021,52,60,Neutral,"Bloomington, IN",-,0
 2021,Murray St.,454,Greenville,1111,11/29/2020,173,95,Home,,-,"1,218"
 2021,Murray St.,454,Middle Tenn.,419,12/02/2020,61,78,Away,,-,100
 2021,Murray St.,454,Illinois St.,299,12/05/2020,76,65,Home,,-,"1,290"
@@ -7728,6 +8058,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Nazareth,461,Keuka,1159,03/06/2021,77,65,Home,,-,0
 2021,Nazareth,461,Houghton,30160,03/12/2021,88,67,Home,,-,0
 2021,Nazareth,461,Houghton,30160,03/13/2021,67,50,Away,,-,0
+2021,Nazareth,461,St. John Fisher,601,03/16/2021,62,83,Home,,-,0
+2021,Nazareth,461,Sage Colleges,11036,03/19/2021,87,84,Away,,2 OT,0
+2021,Nazareth,461,Utica,733,03/22/2021,72,63,Home,,-,0
+2021,Nazareth,461,St. John Fisher,601,04/01/2021,74,81,Away,,-,0
 2021,NC State,490,Charleston So.,48,11/25/2020,95,61,Home,,-,25
 2021,NC State,490,North Florida,2711,11/27/2020,86,51,Home,,-,25
 2021,NC State,490,UMass Lowell,368,12/03/2020,90,59,Neutral,"Montville, CT",-,0
@@ -7751,6 +8085,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,NC State,490,Pittsburgh,545,02/28/2021,65,62,Home,,-,500
 2021,NC State,490,Notre Dame,513,03/03/2021,80,69,Away,,-,497
 2021,NC State,490,Syracuse,688,03/10/2021,68,89,Neutral,"Greensboro, NC",-,0
+2021,NC State,490,Davidson,173,03/18/2021,75,61,Neutral,"Denton, TX",-,0
+2021,NC State,490,Colorado St.,156,03/25/2021,61,65,Neutral,"Frisco, TX",-,0
 2021,Neb. Wesleyan,462,Buena Vista,84,02/03/2021,64,76,Away,,-,65
 2021,Neb. Wesleyan,462,Loras,364,02/06/2021,97,105,Away,,1 OT,75
 2021,Neb. Wesleyan,462,Luther,372,02/20/2021,68,51,Away,,-,100
@@ -7841,6 +8177,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,New England Col.,467,NVU-Lyndon,30065,02/27/2021,121,93,Home,,-,0
 2021,New England Col.,467,U New England,1255,03/06/2021,81,76,Away,,-,0
 2021,New England Col.,467,U New England,1255,03/07/2021,92,79,Home,,-,0
+2021,New England Col.,467,Norwich,511,03/20/2021,75,71,Away,,-,0
+2021,New England Col.,467,Norwich,511,03/21/2021,94,89,Home,,-,0
+2021,New England Col.,467,Eastern Nazarene,1064,04/02/2021,82,73,Away,,-,1
+2021,New England Col.,467,Eastern Nazarene,1064,04/03/2021,66,68,Home,,-,0
 2021,New Hampshire,469,Keene St.,330,11/25/2020,93,54,Home,,-,0
 2021,New Hampshire,469,Bryant,81,12/01/2020,85,93,Home,,-,0
 2021,New Hampshire,469,Quinnipiac,562,12/06/2020,58,64,Away,,-,0
@@ -7867,6 +8207,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,New Jersey City,319,Montclair St.,442,02/26/2021,76,67,Home,,-,35
 2021,New Jersey City,319,Montclair St.,442,02/27/2021,87,69,Away,,-,21
 2021,New Jersey City,319,Rutgers-Camden,588,03/05/2021,85,48,Home,,-,60
+2021,New Jersey City,319,Stockton,681,03/19/2021,79,77,Home,,-,300
 2021,New Mexico,473,Rice,574,12/13/2020,72,61,Away,,-,0
 2021,New Mexico,473,Our Lady of the Lake,,12/15/2020,104,65,Neutral,"Houston, TX",-,0
 2021,New Mexico,473,LeTourneau,8490,12/17/2020,90,58,Neutral,"Houston, TX",-,0
@@ -7896,6 +8237,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,New Mexico St.,472,Grand Canyon,1104,01/29/2021,62,70,Away,,-,"1,000"
 2021,New Mexico St.,472,Grand Canyon,1104,01/30/2021,53,65,Away,,-,909
 2021,New Mexico St.,472,California Baptist,30135,02/05/2021,75,85,Neutral,"El Paso, TX",-,0
+2021,New Mexico St.,472,California Baptist,30135,02/05/2021,75,85,Neutral,"El Paso, TX",-,0
+2021,New Mexico St.,472,California Baptist,30135,02/06/2021,97,70,Neutral,"El Paso, TX",-,0
 2021,New Mexico St.,472,California Baptist,30135,02/06/2021,97,70,Neutral,"El Paso, TX",-,0
 2021,New Mexico St.,472,Seattle U,1356,02/12/2021,72,83,Away,,-,0
 2021,New Mexico St.,472,Seattle U,1356,02/13/2021,65,58,Away,,-,0
@@ -8005,6 +8348,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Nicholls St.,483,Northwestern St.,508,01/13/2021,76,66,Away,,-,"1,000"
 2021,Nicholls St.,483,Central Ark.,1004,01/16/2021,74,72,Away,,-,258
 2021,Nicholls St.,483,Houston Baptist,287,01/20/2021,92,83,Away,,-,140
+2021,Nicholls St.,483,Houston Baptist,287,01/20/2021,92,83,Away,,-,140
 2021,Nicholls St.,483,New Orleans,474,01/23/2021,86,62,Home,,-,230
 2021,Nicholls St.,483,Carver,,01/24/2021,105,60,Home,,-,97
 2021,Nicholls St.,483,McNeese,402,01/27/2021,76,69,Home,,-,230
@@ -8012,6 +8356,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Nicholls St.,483,Lamar University,346,02/10/2021,76,71,Away,,-,831
 2021,Nicholls St.,483,Southeastern La.,655,02/13/2021,86,84,Away,,1 OT,531
 2021,Nicholls St.,483,Central Ark.,1004,02/20/2021,79,68,Home,,-,132
+2021,Nicholls St.,483,Houston Baptist,287,02/24/2021,83,68,Home,,-,231
 2021,Nicholls St.,483,Houston Baptist,287,02/24/2021,83,68,Home,,-,231
 2021,Nicholls St.,483,New Orleans,474,02/27/2021,105,101,Away,,1 OT,726
 2021,Nicholls St.,483,Northwestern St.,508,03/01/2021,87,71,Home,,-,233
@@ -8024,6 +8369,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Nichols,484,Western New Eng.,775,03/06/2021,67,62,Home,,1 OT,0
 2021,Nichols,484,Endicott,8981,03/12/2021,87,91,Away,,-,0
 2021,Nichols,484,Endicott,8981,03/13/2021,65,78,Home,,-,0
+2021,Nichols,484,Gordon,1099,03/19/2021,100,99,Away,,2 OT,0
+2021,Nichols,484,Gordon,1099,03/20/2021,83,84,Home,,-,0
+2021,Nichols,484,Curry,170,03/26/2021,81,69,Home,,-,0
+2021,Nichols,484,Curry,170,03/27/2021,97,69,Away,,-,0
 2021,NJIT,471,Temple,690,12/19/2020,60,72,Away,,-,0
 2021,NJIT,471,Rider,576,12/23/2020,81,66,Away,,-,0
 2021,NJIT,471,Vermont,738,12/27/2020,78,92,Away,,-,0
@@ -8066,6 +8415,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Norfolk St.,485,St. Mary's (MD),611,02/28/2021,72,51,Home,,-,168
 2021,Norfolk St.,485,N.C. Central,489,03/11/2021,87,58,Neutral,"Norfolk, VA",-,0
 2021,Norfolk St.,485,Morgan St.,446,03/13/2021,71,63,Neutral,"Norfolk, VA",-,0
+2021,Norfolk St.,485,Appalachian St.,27,03/18/2021,54,53,Neutral,"Bloomington, IN",-,0
+2021,Norfolk St.,485,Gonzaga,260,03/20/2021,55,98,Neutral,"Indianapolis, IN",-,0
 2021,North Ala.,487,Oakwood,,11/25/2020,98,74,Home,,-,187
 2021,North Ala.,487,Carver,,12/06/2020,107,40,Home,,-,194
 2021,North Ala.,487,Troy,716,12/10/2020,57,62,Home,,-,312
@@ -8118,6 +8469,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,North Carolina,457,Notre Dame,513,03/10/2021,101,59,Neutral,"Greensboro, NC",-,"2,820"
 2021,North Carolina,457,Virginia Tech,742,03/11/2021,81,73,Neutral,"Greensboro, NC",-,"2,820"
 2021,North Carolina,457,Florida St.,234,03/12/2021,66,69,Neutral,"Greensboro, NC",-,"2,820"
+2021,North Carolina,457,Wisconsin,796,03/19/2021,62,85,Neutral,"West Lafayette, IN",-,0
 2021,North Central (IL),492,North Park,496,01/23/2021,69,49,Home,,-,0
 2021,North Central (IL),492,North Park,496,01/25/2021,83,60,Away,,-,1
 2021,North Central (IL),492,Augustana (IL),40,01/28/2021,71,62,Home,,-,0
@@ -8272,6 +8624,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,North Texas,497,West Virginia,768,12/11/2020,50,62,Away,,-,291
 2021,North Texas,497,Ark.-Pine Bluff,2678,12/15/2020,81,56,Home,,-,"1,211"
 2021,North Texas,497,Houston Baptist,287,12/17/2020,85,55,Home,,-,"1,251"
+2021,North Texas,497,Houston Baptist,287,12/17/2020,85,55,Home,,-,"1,251"
 2021,North Texas,497,LSU-Alexandria,,12/22/2020,110,78,Home,,-,"1,203"
 2021,North Texas,497,Loyola Chicago,371,01/02/2021,49,57,Away,,-,0
 2021,North Texas,497,UTSA,706,01/08/2021,77,70,Away,,-,388
@@ -8292,6 +8645,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,North Texas,497,Old Dominion,523,03/11/2021,61,55,Neutral,"Frisco, TX",-,"1,137"
 2021,North Texas,497,Louisiana Tech,366,03/12/2021,54,48,Neutral,"Frisco, TX",-,789
 2021,North Texas,497,Western Ky.,772,03/13/2021,61,57,Neutral,"Frisco, TX",1 OT,903
+2021,North Texas,497,Purdue,559,03/19/2021,78,69,Neutral,"Indianapolis, IN",1 OT,"6,596"
+2021,North Texas,497,Villanova,739,03/21/2021,61,84,Neutral,"Indianapolis, IN",-,0
 2021,Northeastern,500,Massachusetts,400,12/11/2020,79,94,Away,,-,0
 2021,Northeastern,500,Massachusetts,400,12/13/2020,78,75,Home,,-,0
 2021,Northeastern,500,Syracuse,688,12/16/2020,56,62,Away,,-,0
@@ -8457,7 +8812,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Northern St.,1266,Augustana (SD),41,02/25/2021,87,84,Neutral,"Sioux Falls, SD",1 OT,73
 2021,Northern St.,1266,Minot St.,30125,02/27/2021,72,63,Neutral,"Sioux Falls, SD",-,73
 2021,Northern St.,1266,MSU Moorhead,1240,02/28/2021,78,57,Neutral,"Sioux Falls, SD",-,88
-2021,Northern St.,1266,MSU Moorhead,1240,03/14/2021,0,0,Home,,-,0
+2021,Northern St.,1266,MSU Moorhead,1240,03/14/2021,77,65,Home,,-,"1,700"
+2021,Northern St.,1266,Northwest Mo. St.,507,03/16/2021,86,91,Home,,1 OT,"1,750"
 2021,Northland,1267,St. Scholastica,618,01/27/2021,51,84,Home,,-,0
 2021,Northland,1267,North Central (MN),30039,02/04/2021,72,100,Home,,-,0
 2021,Northland,1267,Crown (MN),30035,02/06/2021,62,68,Away,,-,0
@@ -8491,7 +8847,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Northwest Mo. St.,507,Emporia St.,1071,03/03/2021,100,61,Home,,-,350
 2021,Northwest Mo. St.,507,Central Okla.,1009,03/05/2021,104,72,Home,,-,385
 2021,Northwest Mo. St.,507,Washburn,2814,03/06/2021,68,69,Home,,-,395
-2021,Northwest Mo. St.,507,Washburn,2814,03/14/2021,0,0,Neutral,"Aberdeen, SD",-,0
+2021,Northwest Mo. St.,507,Washburn,2814,03/14/2021,85,44,Neutral,"Aberdeen, SD",-,854
+2021,Northwest Mo. St.,507,Northern St.,1266,03/16/2021,91,86,Away,,1 OT,"1,750"
+2021,Northwest Mo. St.,507,West Liberty,1438,03/24/2021,98,77,Neutral,"Evansville, IN",-,894
+2021,Northwest Mo. St.,507,Flagler,30092,03/25/2021,77,46,Neutral,"Evansville, IN",-,874
+2021,Northwest Mo. St.,507,West Tex. A&M,767,03/27/2021,80,54,Neutral,"Evansville, IN",-,"1,080"
 2021,Northwest Nazarene,1274,Portland St.,550,01/09/2021,75,72,Away,,-,12
 2021,Northwest Nazarene,1274,Concordia (CA),30199,01/14/2021,93,84,Away,,-,0
 2021,Northwest Nazarene,1274,Point Loma,30149,01/15/2021,57,87,Away,,-,25
@@ -8509,6 +8869,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Northwest Nazarene,1274,Central Wash.,1010,03/06/2021,90,75,Away,,-,0
 2021,Northwest Nazarene,1274,Point Loma,30149,03/12/2021,85,73,Neutral,"Golden, CO",-,0
 2021,Northwest Nazarene,1274,Colorado Mesa,11416,03/13/2021,74,54,Neutral,"Golden, CO",-,0
+2021,Northwest Nazarene,1274,Colo. Sch. of Mines,155,03/15/2021,52,84,Away,,-,0
 2021,Northwestern,509,Ark.-Pine Bluff,2678,12/02/2020,92,49,Home,,-,0
 2021,Northwestern,509,Chicago St.,136,12/05/2020,111,66,Home,,-,0
 2021,Northwestern,509,Pittsburgh,545,12/09/2020,70,71,Home,,-,0
@@ -8560,6 +8921,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Northwestern St.,508,Gonzaga,260,12/22/2020,78,95,Away,,-,0
 2021,Northwestern St.,508,Washington St.,754,12/23/2020,52,62,Away,,-,0
 2021,Northwestern St.,508,Houston Baptist,287,01/02/2021,93,99,Away,,1 OT,101
+2021,Northwestern St.,508,Houston Baptist,287,01/02/2021,93,99,Away,,1 OT,101
 2021,Northwestern St.,508,Incarnate Word,2743,01/06/2021,67,75,Home,,-,439
 2021,Northwestern St.,508,McNeese,402,01/09/2021,78,75,Away,,-,535
 2021,Northwestern St.,508,Nicholls St.,483,01/13/2021,66,76,Home,,-,"1,000"
@@ -8569,6 +8931,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Northwestern St.,508,Central Ark.,1004,01/30/2021,81,77,Away,,-,147
 2021,Northwestern St.,508,Incarnate Word,2743,02/10/2021,68,67,Away,,-,176
 2021,Northwestern St.,508,McNeese,402,02/13/2021,69,66,Home,,-,602
+2021,Northwestern St.,508,Houston Baptist,287,02/22/2021,86,80,Home,,-,725
 2021,Northwestern St.,508,Houston Baptist,287,02/22/2021,86,80,Home,,-,725
 2021,Northwestern St.,508,SFA,676,02/24/2021,57,83,Home,,-,"1,086"
 2021,Northwestern St.,508,Southeastern La.,655,02/27/2021,79,61,Home,,-,504
@@ -8594,6 +8957,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Northwestern-St.Paul,30031,North Central (MN),30039,03/06/2021,67,51,Home,,-,242
 2021,Northwestern-St.Paul,30031,St. Scholastica,618,03/08/2021,74,61,Away,,-,87
 2021,Northwestern-St.Paul,30031,Trinity Christian,,03/13/2021,69,68,Home,,-,100
+2021,Northwestern-St.Paul,30031,Lancaster Bible,30085,03/17/2021,67,65,Neutral,"Winona Lake, IN",-,0
+2021,Northwestern-St.Paul,30031,Grace (IN),,03/18/2021,79,76,Away,,-,0
+2021,Northwestern-St.Paul,30031,Ottawa (AZ),,03/20/2021,82,75,Neutral,"Winona Lake, IN",-,0
 2021,Northwood,510,Davenport,30221,01/08/2021,75,51,Away,,-,50
 2021,Northwood,510,Davenport,30221,01/09/2021,66,56,Away,,-,50
 2021,Northwood,510,Michigan Tech,417,01/15/2021,49,62,Home,,-,0
@@ -8618,6 +8984,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Norwich,511,NVU-Lyndon,30065,03/07/2021,82,87,Away,,-,0
 2021,Norwich,511,Clarkson,146,03/12/2021,81,107,Away,,-,0
 2021,Norwich,511,Clarkson,146,03/14/2021,60,70,Home,,-,0
+2021,Norwich,511,New England Col.,467,03/20/2021,71,75,Home,,-,0
+2021,Norwich,511,New England Col.,467,03/21/2021,89,94,Away,,-,0
 2021,Notre Dame,513,Michigan St.,416,11/28/2020,70,80,Away,,-,0
 2021,Notre Dame,513,Detroit Mercy,184,12/06/2020,78,70,Home,,-,84
 2021,Notre Dame,513,Ohio St.,518,12/08/2020,85,90,Home,,-,156
@@ -8753,10 +9121,14 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ohio,519,Kent St.,331,03/11/2021,85,63,Neutral,"Cleveland, OH",-,0
 2021,Ohio,519,Toledo,709,03/12/2021,87,80,Neutral,"Cleveland, OH",-,0
 2021,Ohio,519,Buffalo,86,03/13/2021,84,69,Neutral,"Cleveland, OH",-,0
+2021,Ohio,519,Virginia,746,03/20/2021,62,58,Neutral,"Bloomington, IN",-,0
+2021,Ohio,519,Creighton,169,03/22/2021,58,72,Neutral,"Indianapolis, IN",-,0
 2021,Ohio Dominican,30119,Salem (WV),19117,12/03/2020,58,59,Home,,-,0
 2021,Ohio Dominican,30119,Tiffin,1403,12/05/2020,62,83,Away,,-,60
 2021,Ohio Dominican,30119,Lake Erie,2746,01/02/2021,52,46,Away,,-,0
 2021,Ohio Dominican,30119,Cedarville,30124,01/05/2021,62,57,Home,,1 OT,0
+2021,Ohio Dominican,30119,Cedarville,30124,01/05/2021,62,57,Home,,1 OT,0
+2021,Ohio Dominican,30119,Cedarville,30124,01/21/2021,72,99,Away,,-,140
 2021,Ohio Dominican,30119,Cedarville,30124,01/21/2021,72,99,Away,,-,140
 2021,Ohio Dominican,30119,Tiffin,1403,01/23/2021,72,62,Home,,-,0
 2021,Ohio Dominican,30119,Findlay,1079,01/28/2021,60,96,Away,,-,0
@@ -8814,7 +9186,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ohio St.,518,Purdue,559,03/12/2021,87,78,Neutral,"Indianapolis, IN",1 OT,"7,634"
 2021,Ohio St.,518,Michigan,418,03/13/2021,68,67,Neutral,"Indianapolis, IN",-,"8,000"
 2021,Ohio St.,518,Illinois,301,03/14/2021,88,91,Neutral,"Indianapolis, IN",1 OT,"8,000"
+2021,Ohio St.,518,Oral Roberts,527,03/19/2021,72,75,Neutral,"West Lafayette, IN",1 OT,0
 2021,Ohio Valley,15207,Tiffin,1403,12/09/2020,107,123,Away,,-,60
+2021,Ohio Valley,15207,Cedarville,30124,12/11/2020,102,95,Away,,-,120
 2021,Ohio Valley,15207,Cedarville,30124,12/11/2020,102,95,Away,,-,120
 2021,Ohio Valley,15207,Findlay,1079,12/13/2020,65,97,Away,,-,0
 2021,Ohio Valley,15207,Hillsdale,280,12/17/2020,76,106,Home,,-,50
@@ -8822,6 +9196,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ohio Valley,15207,Ky. Wesleyan,333,01/16/2021,50,85,Home,,-,50
 2021,Ohio Valley,15207,Malone,30137,01/20/2021,67,100,Away,,-,93
 2021,Ohio Valley,15207,Walsh,30141,01/23/2021,61,73,Away,,-,189
+2021,Ohio Valley,15207,Cedarville,30124,01/28/2021,65,81,Home,,-,50
 2021,Ohio Valley,15207,Cedarville,30124,01/28/2021,65,81,Home,,-,50
 2021,Ohio Valley,15207,Tiffin,1403,01/30/2021,78,68,Home,,-,50
 2021,Ohio Valley,15207,Walsh,30141,02/02/2021,69,95,Home,,-,50
@@ -8866,7 +9241,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Okla. Baptist,30202,Ouachita Baptist,1289,03/03/2021,97,78,Home,,-,100
 2021,Okla. Baptist,30202,Southern Ark.,1376,03/05/2021,71,74,Home,,-,120
 2021,Okla. Baptist,30202,Ark.-Monticello,8411,03/13/2021,76,57,Neutral,"Lubbock, TX",-,197
-2021,Okla. Baptist,30202,Lubbock Christian,30177,03/14/2021,0,0,Away,,-,0
+2021,Okla. Baptist,30202,Lubbock Christian,30177,03/14/2021,55,79,Away,,-,305
 2021,Okla. Christian,30179,Lubbock Christian,30177,12/18/2020,70,82,Home,,-,100
 2021,Okla. Christian,30179,Lubbock Christian,30177,12/19/2020,67,80,Home,,-,100
 2021,Okla. Christian,30179,Angelo St.,25,01/03/2021,66,80,Away,,-,142
@@ -8891,6 +9266,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Oklahoma,522,Florida A&M,228,12/12/2020,85,54,Home,,-,"1,909"
 2021,Oklahoma,522,Oral Roberts,527,12/16/2020,79,65,Home,,-,"2,000"
 2021,Oklahoma,522,Houston Baptist,287,12/19/2020,84,65,Home,,-,611
+2021,Oklahoma,522,Houston Baptist,287,12/19/2020,84,65,Home,,-,611
 2021,Oklahoma,522,Texas Tech,700,12/22/2020,67,69,Home,,-,"1,328"
 2021,Oklahoma,522,West Virginia,768,01/02/2021,75,71,Home,,-,"2,431"
 2021,Oklahoma,522,Baylor,51,01/06/2021,61,76,Away,,-,"2,350"
@@ -8910,6 +9286,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Oklahoma,522,Texas,703,03/04/2021,65,69,Home,,-,"2,952"
 2021,Oklahoma,522,Iowa St.,311,03/10/2021,79,73,Neutral,"Kansas City, MO",-,"3,483"
 2021,Oklahoma,522,Kansas,328,03/11/2021,62,69,Neutral,"Kansas City, MO",-,0
+2021,Oklahoma,522,Missouri,434,03/20/2021,72,68,Neutral,"Indianapolis, IN",-,"5,764"
+2021,Oklahoma,522,Gonzaga,260,03/22/2021,71,87,Neutral,"Indianapolis, IN",-,0
 2021,Oklahoma St.,521,UT Arlington,702,11/25/2020,75,68,Away,,-,624
 2021,Oklahoma St.,521,Texas Southern,699,11/28/2020,85,65,Home,,-,"3,350"
 2021,Oklahoma St.,521,Marquette,387,12/01/2020,70,62,Away,,-,0
@@ -8938,6 +9316,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Oklahoma St.,521,West Virginia,768,03/11/2021,72,69,Neutral,"Kansas City, MO",-,0
 2021,Oklahoma St.,521,Baylor,51,03/12/2021,83,74,Neutral,"Kansas City, MO",-,"3,298"
 2021,Oklahoma St.,521,Texas,703,03/13/2021,86,91,Neutral,"Kansas City, MO",-,"3,525"
+2021,Oklahoma St.,521,Liberty,355,03/19/2021,69,60,Neutral,"Indianapolis, IN",-,972
+2021,Oklahoma St.,521,Oregon St.,528,03/21/2021,70,80,Neutral,"Indianapolis, IN",-,0
 2021,Old Dominion,523,Maryland,392,11/25/2020,67,85,Away,,-,0
 2021,Old Dominion,523,William & Mary,786,11/28/2020,86,78,Home,,-,250
 2021,Old Dominion,523,Norfolk St.,485,12/02/2020,80,66,Away,,-,250
@@ -8988,6 +9368,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ole Miss,433,Vanderbilt,736,03/06/2021,56,46,Home,,-,"2,017"
 2021,Ole Miss,433,South Carolina,648,03/11/2021,76,59,Neutral,"Nashville, TN",-,"1,809"
 2021,Ole Miss,433,LSU,365,03/12/2021,73,76,Neutral,"Nashville, TN",-,"2,155"
+2021,Ole Miss,433,Louisiana Tech,366,03/19/2021,61,70,Neutral,"Frisco, TX",-,543
 2021,Olivet,525,Central Mich.,129,12/20/2020,66,127,Away,,-,0
 2021,Olivet,525,Eastern Mich.,204,12/27/2020,65,94,Away,,-,0
 2021,Olivet,525,Ferris St.,224,12/30/2020,55,105,Away,,-,0
@@ -9057,6 +9438,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Oral Roberts,527,North Dakota,494,03/07/2021,76,65,Neutral,"Sioux Falls, SD",-,200
 2021,Oral Roberts,527,South Dakota St.,649,03/08/2021,90,88,Neutral,"Sioux Falls, SD",-,200
 2021,Oral Roberts,527,North Dakota St.,493,03/09/2021,75,72,Neutral,"Sioux Falls, SD",-,200
+2021,Oral Roberts,527,Ohio St.,518,03/19/2021,75,72,Neutral,"West Lafayette, IN",1 OT,0
+2021,Oral Roberts,527,Florida,235,03/21/2021,81,78,Neutral,"Indianapolis, IN",-,979
+2021,Oral Roberts,527,Arkansas,31,03/27/2021,70,72,Neutral,"Indianapolis, IN",-,0
 2021,Oregon,529,Missouri,434,12/02/2020,75,83,Neutral,"Omaha, NE",-,89
 2021,Oregon,529,Seton Hall,635,12/04/2020,83,70,Neutral,"Omaha, NE",-,81
 2021,Oregon,529,Eastern Wash.,207,12/07/2020,69,52,Home,,-,0
@@ -9083,6 +9467,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Oregon,529,Oregon St.,528,03/07/2021,80,67,Away,,-,0
 2021,Oregon,529,Arizona St.,28,03/11/2021,91,73,Neutral,"Las Vegas, NV",-,0
 2021,Oregon,529,Oregon St.,528,03/12/2021,64,75,Neutral,"Las Vegas, NV",-,0
+2021,Oregon,529,Iowa,312,03/22/2021,95,80,Neutral,"Indianapolis, IN",-,0
+2021,Oregon,529,Southern California,657,03/28/2021,68,82,Neutral,"Indianapolis, IN",-,0
 2021,Oregon St.,528,California,107,11/25/2020,71,63,Home,,-,0
 2021,Oregon St.,528,Northwest (WA),,11/27/2020,114,42,Home,,-,0
 2021,Oregon St.,528,Washington St.,754,12/02/2020,55,59,Away,,-,0
@@ -9112,6 +9498,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Oregon St.,528,UCLA,110,03/11/2021,83,79,Neutral,"Las Vegas, NV",1 OT,0
 2021,Oregon St.,528,Oregon,529,03/12/2021,75,64,Neutral,"Las Vegas, NV",-,0
 2021,Oregon St.,528,Colorado,157,03/13/2021,70,68,Neutral,"Las Vegas, NV",-,0
+2021,Oregon St.,528,Tennessee,694,03/19/2021,70,56,Neutral,"Indianapolis, IN",-,"2,157"
+2021,Oregon St.,528,Oklahoma St.,521,03/21/2021,80,70,Neutral,"Indianapolis, IN",-,0
+2021,Oregon St.,528,Loyola Chicago,371,03/27/2021,65,58,Neutral,"Indianapolis, IN",-,0
+2021,Oregon St.,528,Houston,288,03/29/2021,61,67,Neutral,"Indianapolis, IN",-,"6,550"
 2021,Otterbein,531,Mount Union,452,02/05/2021,72,89,Home,,-,12
 2021,Otterbein,531,Mount Union,452,02/06/2021,73,99,Away,,-,0
 2021,Otterbein,531,Muskingum,455,02/12/2021,94,84,Away,,-,50
@@ -9151,7 +9541,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Ozarks (AR),23008,Hardin-Simmons,271,03/04/2021,71,62,Away,,-,277
 2021,Ozarks (AR),23008,McMurry,8530,03/06/2021,75,58,Away,,-,168
 2021,Ozarks (AR),23008,LeTourneau,8490,03/10/2021,68,60,Home,,-,350
-2021,Ozarks (AR),23008,Hardin-Simmons,271,03/14/2021,0,0,Home,,-,0
+2021,Ozarks (AR),23008,Hardin-Simmons,271,03/14/2021,78,75,Home,,-,355
+2021,Ozarks (AR),23008,Louisiana Col.,1182,03/15/2021,74,72,Home,,-,435
 2021,Pacific,534,UC Riverside,111,11/25/2020,66,60,Home,,-,0
 2021,Pacific,534,Nevada,466,11/30/2020,58,70,Away,,-,0
 2021,Pacific,534,Montana St.,440,12/02/2020,74,70,Home,,1 OT,0
@@ -9170,6 +9561,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Pacific,534,Saint Mary's (CA),610,02/25/2021,46,58,Away,,-,0
 2021,Pacific,534,San Francisco,629,02/27/2021,76,69,Home,,-,0
 2021,Pacific,534,Santa Clara,631,03/05/2021,76,81,Neutral,"Las Vegas, NV",-,0
+2021,Pacific (OR),2751,George Fox,1094,03/25/2021,112,98,Home,,-,0
+2021,Pacific (OR),2751,George Fox,1094,03/27/2021,106,105,Away,,-,0
+2021,Pacific (OR),2751,Linfield,1179,04/02/2021,97,111,Away,,-,0
+2021,Pacific (OR),2751,Linfield,1179,04/03/2021,87,105,Home,,-,0
 2021,Pacific Lutheran,1297,Whitman,780,01/22/2021,76,68,Home,,-,0
 2021,Pacific Lutheran,1297,Whitman,780,01/23/2021,72,65,Home,,-,0
 2021,Pacific Lutheran,1297,Puget Sound,557,02/05/2021,79,65,Away,,-,0
@@ -9186,6 +9581,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Palm Beach Atl.,30045,Saint Leo,608,02/27/2021,75,99,Home,,-,0
 2021,Palm Beach Atl.,30045,Florida Tech,230,03/03/2021,60,73,Away,,-,0
 2021,Palm Beach Atl.,30045,Fla. Southern,233,03/12/2021,65,81,Away,,-,0
+2021,Palm Beach Atl.,30045,Fla. Southern,233,03/18/2021,86,104,Home,,-,0
 2021,Penn St.,539,VMI,741,11/28/2020,86,65,Home,,-,248
 2021,Penn St.,539,VCU,740,12/02/2020,72,69,Home,,-,283
 2021,Penn St.,539,Seton Hall,635,12/06/2020,92,98,Home,,1 OT,264
@@ -9235,6 +9631,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Pepperdine,541,San Diego,627,02/27/2021,90,84,Away,,-,0
 2021,Pepperdine,541,Santa Clara,631,03/06/2021,78,70,Neutral,"Las Vegas, NV",-,0
 2021,Pepperdine,541,BYU,77,03/08/2021,77,82,Neutral,"Las Vegas, NV",1 OT,0
+2021,Pepperdine,541,Longwood,363,03/22/2021,80,66,Neutral,"Daytona Beach, FL",-,102
+2021,Pepperdine,541,Bellarmine,52,03/23/2021,82,71,Neutral,"Daytona Beach, FL",-,286
+2021,Pepperdine,541,Coastal Caro.,149,03/24/2021,84,61,Neutral,"Daytona Beach, FL",-,193
 2021,Pfeiffer,542,Greensboro,263,02/05/2021,99,78,Home,,-,0
 2021,Pfeiffer,542,Greensboro,263,02/07/2021,93,83,Away,,-,0
 2021,Pfeiffer,542,N.C. Wesleyan,491,02/12/2021,94,71,Home,,-,0
@@ -9249,7 +9648,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Pfeiffer,542,Averett,44,03/07/2021,72,70,Home,,-,0
 2021,Piedmont,21830,$game.opponentName,30232,11/07/2020,88,64,Away,,-,127
 2021,Piedmont,21830,East Tex. Baptist,1062,11/14/2020,70,78,Home,,-,0
-2021,Piedmont,21830,$game.opponentName,30232,11/24/2020,93,76,Away,,-,0
+2021,Piedmont,21830,$game.opponentName,30232,11/24/2020,93,76,Home,,-,0
 2021,Piedmont,21830,The Citadel,141,11/25/2020,64,89,Away,,-,450
 2021,Piedmont,21830,Western Caro.,769,11/30/2020,58,96,Away,,-,0
 2021,Piedmont,21830,Greensboro,263,12/05/2020,84,72,Home,,-,0
@@ -9478,6 +9877,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Purdue,559,Wisconsin,796,03/02/2021,73,69,Home,,-,250
 2021,Purdue,559,Indiana,306,03/06/2021,67,58,Home,,-,250
 2021,Purdue,559,Ohio St.,518,03/12/2021,78,87,Neutral,"Indianapolis, IN",1 OT,"7,634"
+2021,Purdue,559,North Texas,497,03/19/2021,69,78,Neutral,"Indianapolis, IN",1 OT,"6,596"
 2021,Purdue Fort Wayne,308,Southeastern La.,655,11/25/2020,67,63,Home,,1 OT,0
 2021,Purdue Fort Wayne,308,Cleveland St.,148,12/19/2020,61,63,Home,,-,0
 2021,Purdue Fort Wayne,308,Cleveland St.,148,12/20/2020,80,89,Home,,-,0
@@ -9701,11 +10101,15 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Rhodes,573,Millsaps,426,03/02/2021,69,72,Away,,1 OT,0
 2021,Rhodes,573,Oglethorpe,2713,03/06/2021,69,78,Away,,-,0
 2021,Rhodes,573,Oglethorpe,2713,03/07/2021,72,78,Away,,-,0
+2021,Rhodes,573,Sewanee,652,03/20/2021,80,68,Away,,-,0
+2021,Rhodes,573,Sewanee,652,03/21/2021,63,66,Away,,-,0
 2021,Rice,574,Incarnate Word,2743,11/27/2020,68,53,Away,,-,176
 2021,Rice,574,Our Lady of the Lake,,11/28/2020,103,64,Neutral,"San Antonio, TX",-,0
 2021,Rice,574,LeTourneau,8490,12/03/2020,94,74,Home,,-,0
 2021,Rice,574,Houston Baptist,287,12/05/2020,86,64,Away,,-,150
+2021,Rice,574,Houston Baptist,287,12/05/2020,86,64,Away,,-,150
 2021,Rice,574,New Mexico,473,12/13/2020,61,72,Home,,-,0
+2021,Rice,574,Houston Baptist,287,12/15/2020,90,79,Home,,-,0
 2021,Rice,574,Houston Baptist,287,12/15/2020,90,79,Home,,-,0
 2021,Rice,574,Sam Houston St.,624,12/19/2020,69,82,Away,,-,504
 2021,Rice,574,New Orleans,474,12/21/2020,73,62,Home,,-,0
@@ -9750,6 +10154,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Richmond,575,Saint Louis,609,02/26/2021,67,72,Away,,-,0
 2021,Richmond,575,Saint Joseph's,606,03/01/2021,73,76,Home,,-,0
 2021,Richmond,575,Duquesne,194,03/04/2021,62,67,Neutral,"Richmond, VA",-,250
+2021,Richmond,575,Toledo,709,03/17/2021,76,66,Neutral,"Denton, TX",-,731
+2021,Richmond,575,Mississippi St.,430,03/25/2021,67,68,Neutral,"Denton, TX",-,935
 2021,Rider,576,Syracuse,688,12/05/2020,52,87,Away,,-,0
 2021,Rider,576,St. John's (NY),603,12/08/2020,79,82,Away,,-,0
 2021,Rider,576,Manhattan,381,12/11/2020,82,64,Away,,-,0
@@ -9887,6 +10293,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Rogers St.,30180,Central Okla.,1009,02/24/2021,87,80,Home,,-,435
 2021,Rogers St.,30180,Northeastern St.,12810,02/27/2021,76,78,Away,,-,603
 2021,Rogers St.,30180,Washburn,2814,03/03/2021,59,78,Away,,-,625
+2021,Rollins,584,Fla. Southern,233,03/16/2021,82,88,Away,,-,0
 2021,Rose-Hulman,585,Franklin,2694,01/14/2021,65,62,Home,,-,25
 2021,Rose-Hulman,585,Franklin,2694,01/16/2021,63,91,Away,,-,20
 2021,Rose-Hulman,585,Hanover,1115,01/21/2021,71,67,Away,,-,0
@@ -9925,6 +10332,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Rutgers,587,Minnesota,428,03/06/2021,77,70,Away,,1 OT,52
 2021,Rutgers,587,Indiana,306,03/11/2021,61,50,Neutral,"Indianapolis, IN",-,"6,769"
 2021,Rutgers,587,Illinois,301,03/12/2021,68,90,Neutral,"Indianapolis, IN",-,"7,735"
+2021,Rutgers,587,Clemson,147,03/19/2021,60,56,Neutral,"Indianapolis, IN",-,0
+2021,Rutgers,587,Houston,288,03/21/2021,60,63,Neutral,"Indianapolis, IN",-,"7,186"
 2021,Rutgers-Camden,588,Rutgers-Newark,589,02/05/2021,48,67,Away,,-,0
 2021,Rutgers-Camden,588,Rutgers-Newark,589,02/06/2021,42,73,Home,,-,0
 2021,Rutgers-Camden,588,TCNJ,712,02/12/2021,49,72,Home,,-,0
@@ -9968,6 +10377,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Sacramento St.,102,Eastern Wash.,207,01/31/2021,60,68,Away,,-,0
 2021,Sacramento St.,102,Eastern Wash.,207,02/01/2021,79,94,Away,,-,0
 2021,Sacramento St.,102,California Baptist,30135,02/13/2021,71,83,Away,,-,0
+2021,Sacramento St.,102,California Baptist,30135,02/13/2021,71,83,Away,,-,0
+2021,Sacramento St.,102,California Baptist,30135,02/14/2021,70,69,Away,,-,0
 2021,Sacramento St.,102,California Baptist,30135,02/14/2021,70,69,Away,,-,0
 2021,Sacramento St.,102,Southern Utah,667,02/18/2021,69,88,Away,,-,946
 2021,Sacramento St.,102,Southern Utah,667,02/20/2021,57,77,Away,,-,665
@@ -9996,6 +10407,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Sacred Heart,590,Bryant,81,03/06/2021,55,85,Away,,-,0
 2021,Sage Colleges,11036,Hartwick,273,03/01/2021,76,69,Home,,-,0
 2021,Sage Colleges,11036,St. John Fisher,601,03/14/2021,68,100,Away,,-,0
+2021,Sage Colleges,11036,Elmira,213,03/17/2021,58,54,Away,,-,0
+2021,Sage Colleges,11036,Nazareth,461,03/19/2021,84,87,Home,,2 OT,0
+2021,Sage Colleges,11036,Keuka,1159,03/21/2021,79,91,Away,,-,0
+2021,Sage Colleges,11036,Elmira,213,03/23/2021,59,43,Home,,-,0
+2021,Sage Colleges,11036,Utica,733,03/25/2021,44,59,Home,,-,0
+2021,Sage Colleges,11036,Utica,733,03/26/2021,65,78,Away,,-,0
 2021,Saginaw Valley,591,Grand Valley St.,262,01/09/2021,59,76,Away,,-,0
 2021,Saginaw Valley,591,Grand Valley St.,262,01/10/2021,67,72,Away,,-,0
 2021,Saginaw Valley,591,Northern Mich.,506,01/15/2021,83,73,Home,,-,0
@@ -10067,6 +10484,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Saint Leo,608,Fla. Southern,233,02/24/2021,79,71,Home,,-,0
 2021,Saint Leo,608,Palm Beach Atl.,30045,02/27/2021,99,75,Away,,-,0
 2021,Saint Leo,608,Barry,49,03/03/2021,93,73,Home,,-,5
+2021,Saint Leo,608,Barry,49,03/16/2021,67,58,Home,,-,5
+2021,Saint Leo,608,Florida Tech,230,03/18/2021,78,68,Home,,-,0
+2021,Saint Leo,608,Fla. Southern,233,03/21/2021,83,70,Home,,-,0
 2021,Saint Louis,609,SIUE,660,11/25/2020,89,52,Home,,-,0
 2021,Saint Louis,609,LSU,365,11/28/2020,85,81,Home,,-,0
 2021,Saint Louis,609,Ark.-Pine Bluff,2678,12/05/2020,107,54,Home,,-,0
@@ -10087,6 +10507,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Saint Louis,609,Massachusetts,400,03/01/2021,78,57,Home,,-,0
 2021,Saint Louis,609,Massachusetts,400,03/05/2021,86,72,Neutral,"Richmond, VA",-,0
 2021,Saint Louis,609,St. Bonaventure,596,03/06/2021,53,71,Neutral,"Richmond, VA",-,250
+2021,Saint Louis,609,Mississippi St.,430,03/20/2021,68,74,Neutral,"Frisco, TX",-,751
 2021,Saint Martin's,1343,Seattle U,1356,01/09/2021,63,98,Away,,-,0
 2021,Saint Martin's,1343,Seattle Pacific,634,01/20/2021,81,91,Home,,-,0
 2021,Saint Martin's,1343,Seattle Pacific,634,01/21/2021,62,70,Home,,-,0
@@ -10122,6 +10543,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Saint Mary's (CA),610,BYU,77,02/27/2021,51,65,Away,,-,0
 2021,Saint Mary's (CA),610,LMU (CA),370,03/06/2021,52,47,Neutral,"Las Vegas, NV",-,0
 2021,Saint Mary's (CA),610,Gonzaga,260,03/08/2021,55,78,Neutral,"Las Vegas, NV",-,0
+2021,Saint Mary's (CA),610,Western Ky.,772,03/17/2021,67,69,Neutral,"Frisco, TX",-,0
 2021,Saint Mary's (MN),612,Saint John's (MN),602,01/29/2021,64,87,Away,,-,0
 2021,Saint Mary's (MN),612,Hamline,268,02/01/2021,77,66,Away,,-,0
 2021,Saint Mary's (MN),612,Gust. Adolphus,266,02/03/2021,67,45,Home,,-,0
@@ -10172,6 +10594,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Saint Vincent,30064,Bethany (WV),59,02/27/2021,88,91,Home,,1 OT,5
 2021,Saint Vincent,30064,Westminster (PA),1451,03/06/2021,64,84,Away,,-,0
 2021,Saint Vincent,30064,Waynesburg,1434,03/13/2021,72,58,Away,,-,0
+2021,Saint Vincent,30064,Geneva,30084,03/16/2021,62,94,Away,,-,200
 2021,Salem (WV),19117,West Va. Tech,,11/08/2020,96,77,Away,,-,0
 2021,Salem (WV),19117,Lincoln (PA),357,11/17/2020,78,99,Away,,-,20
 2021,Salem (WV),19117,Ohio Dominican,30119,12/03/2020,59,58,Away,,-,0
@@ -10208,6 +10631,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Sam Houston St.,624,Central Ark.,1004,01/09/2021,91,80,Away,,-,485
 2021,Sam Houston St.,624,Lamar University,346,01/13/2021,96,71,Home,,-,612
 2021,Sam Houston St.,624,Houston Baptist,287,01/16/2021,87,80,Home,,-,695
+2021,Sam Houston St.,624,Houston Baptist,287,01/16/2021,87,80,Home,,-,695
 2021,Sam Houston St.,624,Abilene Christian,2,01/20/2021,64,57,Home,,-,707
 2021,Sam Houston St.,624,A&M-Corpus Christi,26172,01/27/2021,75,70,Away,,-,837
 2021,Sam Houston St.,624,SFA,676,01/31/2021,68,78,Away,,-,"1,989"
@@ -10216,6 +10640,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Sam Houston St.,624,Central Ark.,1004,02/13/2021,97,57,Home,,-,677
 2021,Sam Houston St.,624,Lamar University,346,02/22/2021,77,71,Away,,-,881
 2021,Sam Houston St.,624,Abilene Christian,2,02/24/2021,72,86,Away,,-,507
+2021,Sam Houston St.,624,Houston Baptist,287,03/01/2021,83,70,Away,,-,140
 2021,Sam Houston St.,624,Houston Baptist,287,03/01/2021,83,70,Away,,-,140
 2021,Sam Houston St.,624,A&M-Corpus Christi,26172,03/03/2021,84,61,Home,,-,684
 2021,Sam Houston St.,624,SFA,676,03/06/2021,59,64,Home,,-,"1,215"
@@ -10280,6 +10705,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,San Diego St.,626,Wyoming,811,03/11/2021,69,66,Neutral,"Las Vegas, NV",-,0
 2021,San Diego St.,626,Nevada,466,03/12/2021,77,70,Neutral,"Las Vegas, NV",-,0
 2021,San Diego St.,626,Utah St.,731,03/13/2021,68,57,Neutral,"Las Vegas, NV",-,0
+2021,San Diego St.,626,Syracuse,688,03/19/2021,62,78,Neutral,"Indianapolis, IN",-,0
 2021,San Francisco,629,UMass Lowell,368,11/25/2020,68,76,Neutral,"Montville, CT",-,0
 2021,San Francisco,629,Towson,711,11/26/2020,79,68,Neutral,"Montville, CT",-,0
 2021,San Francisco,629,Virginia,746,11/27/2020,61,60,Neutral,"Uncasville, CT",-,0
@@ -10403,7 +10829,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Seattle U,1356,Grand Canyon,1104,02/26/2021,63,57,Home,,-,0
 2021,Seattle U,1356,Grand Canyon,1104,02/27/2021,71,81,Home,,-,0
 2021,Seattle U,1356,California Baptist,30135,03/05/2021,80,79,Away,,-,0
+2021,Seattle U,1356,California Baptist,30135,03/05/2021,80,79,Away,,-,0
 2021,Seattle U,1356,California Baptist,30135,03/06/2021,76,79,Away,,-,0
+2021,Seattle U,1356,California Baptist,30135,03/06/2021,76,79,Away,,-,0
+2021,Seattle U,1356,California Baptist,30135,03/11/2021,83,66,Neutral,"Las Vegas, NV",-,0
 2021,Seattle U,1356,California Baptist,30135,03/11/2021,83,66,Neutral,"Las Vegas, NV",-,0
 2021,Seattle U,1356,Grand Canyon,1104,03/12/2021,47,81,Neutral,"Las Vegas, NV",-,210
 2021,Seton Hall,635,Louisville,367,11/27/2020,70,71,Away,,-,"2,988"
@@ -10436,6 +10865,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Sewanee,652,Birmingham-So.,28593,02/06/2021,65,82,Home,,-,0
 2021,Sewanee,652,Birmingham-So.,28593,02/07/2021,72,89,Home,,-,0
 2021,Sewanee,652,Oglethorpe,2713,02/21/2021,80,89,Home,,-,0
+2021,Sewanee,652,Rhodes,573,03/20/2021,68,80,Home,,-,0
+2021,Sewanee,652,Rhodes,573,03/21/2021,66,63,Home,,-,0
 2021,SFA,676,LeTourneau,8490,12/01/2020,102,57,Home,,-,"1,288"
 2021,SFA,676,McNeese,402,12/04/2020,86,76,Home,,-,0
 2021,SFA,676,LSU-Alexandria,,12/06/2020,97,79,Home,,-,250
@@ -10550,6 +10981,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,SMU,663,Sam Houston St.,624,11/25/2020,97,67,Home,,-,"1,530"
 2021,SMU,663,A&M-Corpus Christi,26172,11/30/2020,91,54,Home,,-,"1,501"
 2021,SMU,663,Houston Baptist,287,12/02/2020,102,75,Home,,-,"1,507"
+2021,SMU,663,Houston Baptist,287,12/02/2020,102,75,Home,,-,"1,507"
 2021,SMU,663,Dayton,175,12/05/2020,66,64,Away,,-,0
 2021,SMU,663,East Carolina,196,12/16/2020,70,55,Home,,-,"1,564"
 2021,SMU,663,Temple,690,12/30/2020,79,71,Away,,-,0
@@ -10563,6 +10995,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,SMU,663,Tulsa,719,02/03/2021,65,63,Away,,-,100
 2021,SMU,663,East Carolina,196,02/08/2021,71,56,Away,,-,51
 2021,SMU,663,Cincinnati,140,03/12/2021,71,74,Neutral,"Fort Worth, TX",-,776
+2021,SMU,663,Boise St.,66,03/18/2021,84,85,Neutral,"Frisco, TX",-,836
 2021,South Alabama,646,Fla. Atlantic,229,11/25/2020,68,66,Home,,-,945
 2021,South Alabama,646,Mobile,,11/27/2020,95,75,Home,,-,983
 2021,South Alabama,646,Jacksonville St.,315,11/29/2020,73,77,Home,,-,910
@@ -10749,6 +11182,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Southeastern La.,655,UAB,9,11/28/2020,59,84,Away,,-,709
 2021,Southeastern La.,655,LSU,365,11/30/2020,43,96,Away,,-,"2,008"
 2021,Southeastern La.,655,California Baptist,30135,12/02/2020,81,80,Away,,-,0
+2021,Southeastern La.,655,California Baptist,30135,12/02/2020,81,80,Away,,-,0
+2021,Southeastern La.,655,California Baptist,30135,12/04/2020,66,83,Away,,-,0
 2021,Southeastern La.,655,California Baptist,30135,12/04/2020,66,83,Away,,-,0
 2021,Southeastern La.,655,Louisiana Tech,366,12/09/2020,69,78,Away,,-,"1,200"
 2021,Southeastern La.,655,Texas A&M,697,12/15/2020,52,69,Away,,-,712
@@ -10812,6 +11247,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Southern Ark.,1376,Ark.-Monticello,8411,03/07/2021,74,75,Home,,-,120
 2021,Southern Ark.,1376,DBU,1045,03/13/2021,61,83,Neutral,"Lubbock, TX",-,154
 2021,Southern California,657,California Baptist,30135,11/25/2020,95,87,Home,,1 OT,0
+2021,Southern California,657,California Baptist,30135,11/25/2020,95,87,Home,,1 OT,0
 2021,Southern California,657,Montana,441,11/28/2020,76,62,Home,,-,0
 2021,Southern California,657,BYU,77,12/01/2020,79,53,Neutral,"Montville, CT",-,0
 2021,Southern California,657,UConn,164,12/03/2020,58,61,Neutral,"Montville, CT",-,0
@@ -10840,6 +11276,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Southern California,657,UCLA,110,03/06/2021,64,63,Away,,-,0
 2021,Southern California,657,Utah,732,03/11/2021,91,85,Neutral,"Las Vegas, NV",2 OT,0
 2021,Southern California,657,Colorado,157,03/12/2021,70,72,Neutral,"Las Vegas, NV",-,0
+2021,Southern California,657,Drake,189,03/20/2021,72,56,Neutral,"Indianapolis, IN",-,0
+2021,Southern California,657,Kansas,328,03/22/2021,85,51,Neutral,"Indianapolis, IN",-,0
+2021,Southern California,657,Oregon,529,03/28/2021,82,68,Neutral,"Indianapolis, IN",-,0
+2021,Southern California,657,Gonzaga,260,03/30/2021,66,85,Neutral,"Indianapolis, IN",-,"6,166"
 2021,Southern Ill.,659,Southeast Mo. St.,654,12/02/2020,87,79,Away,,1 OT,740
 2021,Southern Ill.,659,Quincy,561,12/06/2020,102,61,Home,,-,0
 2021,Southern Ill.,659,Murray St.,454,12/11/2020,70,66,Home,,-,0
@@ -10882,7 +11322,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Southern Ind.,661,Drury,1057,02/13/2021,91,90,Home,,-,0
 2021,Southern Ind.,661,Truman,499,02/15/2021,72,75,Home,,-,0
 2021,Southern Ind.,661,Lewis,354,03/13/2021,62,60,Neutral,"Evansville, IN",-,790
-2021,Southern Ind.,661,Michigan Tech,417,03/14/2021,0,0,Neutral,"Evansville, IN",-,0
+2021,Southern Ind.,661,Michigan Tech,417,03/14/2021,69,81,Neutral,"Evansville, IN",-,785
 2021,Southern Me.,662,U New England,1255,02/20/2021,85,83,Away,,-,0
 2021,Southern Me.,662,U New England,1255,02/21/2021,62,60,Home,,-,0
 2021,Southern Me.,662,Me.-Farmington,379,02/27/2021,64,90,Away,,-,0
@@ -11054,6 +11494,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Southwestern Okla.,8744,Okla. Baptist,30202,02/27/2021,98,101,Away,,1 OT,100
 2021,Southwestern Okla.,8744,Southeastern Okla.,1371,03/01/2021,56,82,Away,,-,102
 2021,Spalding,23260,Eureka,218,03/13/2021,69,84,Home,,-,10
+2021,Spalding,23260,Blackburn,64,03/18/2021,61,69,Away,,1 OT,50
+2021,Spalding,23260,Iowa Wesleyan,30173,03/20/2021,64,62,Home,,-,10
+2021,Spalding,23260,Webster,759,03/23/2021,62,66,Home,,-,15
+2021,Spalding,23260,Eureka,218,03/25/2021,63,79,Away,,-,0
+2021,Spalding,23260,Greenville,1111,03/27/2021,130,146,Away,,-,0
 2021,Spring Hill,30191,Troy,716,02/02/2021,73,90,Away,,-,979
 2021,Spring Hill,30191,Miles,422,02/06/2021,76,86,Home,,-,50
 2021,Spring Hill,30191,Miles,422,02/07/2021,49,64,Home,,-,52
@@ -11085,6 +11530,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,St. Bonaventure,596,Duquesne,194,03/05/2021,75,59,Neutral,"Richmond, VA",-,250
 2021,St. Bonaventure,596,Saint Louis,609,03/06/2021,71,53,Neutral,"Richmond, VA",-,250
 2021,St. Bonaventure,596,VCU,740,03/14/2021,74,65,Neutral,"Dayton, OH",-,"1,500"
+2021,St. Bonaventure,596,LSU,365,03/20/2021,61,76,Neutral,"Bloomington, IN",-,0
 2021,St. Cloud St.,598,Upper Iowa,728,01/02/2021,84,107,Away,,-,80
 2021,St. Cloud St.,598,Upper Iowa,728,01/03/2021,106,110,Away,,1 OT,50
 2021,St. Cloud St.,598,Mary,30075,01/08/2021,83,76,Away,,-,125
@@ -11145,6 +11591,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,St. John Fisher,601,Elmira,213,03/05/2021,73,62,Away,,-,0
 2021,St. John Fisher,601,Rochester (NY),581,03/10/2021,73,86,Away,,-,0
 2021,St. John Fisher,601,Sage Colleges,11036,03/14/2021,100,68,Home,,-,0
+2021,St. John Fisher,601,Nazareth,461,03/16/2021,83,62,Away,,-,0
+2021,St. John Fisher,601,Utica,733,03/18/2021,85,69,Away,,-,0
+2021,St. John Fisher,601,Alfred,18,03/20/2021,79,63,Home,,-,0
+2021,St. John Fisher,601,Houghton,30160,03/23/2021,85,64,Home,,-,0
+2021,St. John Fisher,601,Keuka,1159,03/25/2021,91,60,Away,,-,0
+2021,St. John Fisher,601,Keuka,1159,03/26/2021,79,48,Home,,-,0
+2021,St. John Fisher,601,Nazareth,461,04/01/2021,81,74,Home,,-,0
 2021,St. John's (NY),603,Saint Peter's,617,11/25/2020,76,75,Home,,-,0
 2021,St. John's (NY),603,La Salle,340,11/26/2020,82,65,Home,,-,0
 2021,St. John's (NY),603,Boston College,67,11/30/2020,97,93,Neutral,"Montville, CT",-,0
@@ -11180,7 +11633,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,St. Joseph's (ME),605,Me.-Augusta,,03/06/2021,72,56,Home,,-,0
 2021,St. Joseph's (ME),605,Me.-Augusta,,03/07/2021,87,74,Home,,-,0
 2021,St. Joseph's (ME),605,Colby,151,03/13/2021,61,77,Home,,-,0
-2021,St. Joseph's (ME),605,Colby,151,03/14/2021,80,96,Away,,-,0
+2021,St. Joseph's (ME),605,Colby,151,03/14/2021,80,96,Away,,-,50
+2021,St. Joseph's (ME),605,Husson,1133,03/26/2021,75,92,Away,,-,50
+2021,St. Joseph's (ME),605,Husson,1133,03/28/2021,78,81,Home,,-,20
 2021,St. Lawrence,607,Clarkson,146,03/09/2021,63,77,Home,,-,0
 2021,St. Mary's (MD),611,Morgan St.,446,01/21/2021,41,99,Away,,-,0
 2021,St. Mary's (MD),611,Salisbury,622,01/23/2021,66,69,Away,,-,0
@@ -11203,6 +11658,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,St. Mary's (TX),1346,St. Edward's,1334,02/24/2021,70,87,Away,,-,50
 2021,St. Mary's (TX),1346,Okla. Christian,30179,02/26/2021,68,79,Away,,-,200
 2021,St. Mary's (TX),1346,Okla. Christian,30179,02/27/2021,83,76,Away,,-,200
+2021,St. Olaf,615,Macalester,376,03/19/2021,70,67,Home,,-,0
+2021,St. Olaf,615,Macalester,376,03/21/2021,54,47,Away,,-,0
+2021,St. Olaf,615,Macalester,376,03/28/2021,59,72,Away,,-,0
+2021,St. Olaf,615,Macalester,376,03/30/2021,77,78,Home,,1 OT,1
 2021,St. Scholastica,618,Northland,1267,01/27/2021,84,51,Away,,-,0
 2021,St. Scholastica,618,Minn.-Morris,1226,01/30/2021,81,61,Home,,-,0
 2021,St. Scholastica,618,Northwestern-St.Paul,30031,02/06/2021,81,73,Away,,-,150
@@ -11235,7 +11694,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,St. Thomas Aquinas,1348,Daemen,30174,02/28/2021,71,68,Home,,-,0
 2021,St. Thomas Aquinas,1348,Molloy,437,03/05/2021,110,75,Home,,-,0
 2021,St. Thomas Aquinas,1348,Daemen,30174,03/07/2021,83,67,Home,,-,0
-2021,St. Thomas Aquinas,1348,Caldwell,995,03/14/2021,0,0,Neutral,"Albany, NY",-,0
+2021,St. Thomas Aquinas,1348,Caldwell,995,03/14/2021,95,72,Neutral,"Albany, NY",-,0
+2021,St. Thomas Aquinas,1348,Daemen,30174,03/16/2021,70,71,Neutral,"Albany, NY",-,0
 2021,Stanford,674,Alabama,8,11/30/2020,82,64,Neutral,"Asheville, NC",-,0
 2021,Stanford,674,North Carolina,457,12/01/2020,63,67,Neutral,"Asheville, NC",-,0
 2021,Stanford,674,Indiana,306,12/02/2020,63,79,Neutral,"Asheville, NC",-,0
@@ -11288,6 +11748,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Stetson,678,North Florida,2711,02/27/2021,85,68,Home,,-,50
 2021,Stetson,678,Bellarmine,52,03/04/2021,73,70,Neutral,"Jacksonville, FL",-,268
 2021,Stetson,678,Liberty,355,03/05/2021,64,77,Neutral,"Jacksonville, FL",-,256
+2021,Stetson,678,Bowling Green,71,03/22/2021,53,52,Neutral,"Daytona Beach, FL",-,101
+2021,Stetson,678,Coastal Caro.,149,03/23/2021,72,77,Neutral,"Daytona Beach, FL",1 OT,0
 2021,Stevens,679,Wilkes,784,02/26/2021,66,69,Away,,-,0
 2021,Stevens,679,Wilkes,784,02/27/2021,66,81,Home,,-,0
 2021,Stevens,679,Yeshiva,814,03/08/2021,70,88,Home,,-,0
@@ -11302,6 +11764,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Stevenson,21852,Albright,16,03/05/2021,71,79,Away,,-,0
 2021,Stevenson,21852,Lebanon Valley,351,03/11/2021,88,94,Home,,-,0
 2021,Stevenson,21852,Lebanon Valley,351,03/12/2021,78,69,Away,,-,0
+2021,Stevenson,21852,Eastern,8968,03/19/2021,65,61,Home,,-,0
 2021,Stockton,681,TCNJ,712,02/05/2021,81,89,Home,,-,0
 2021,Stockton,681,TCNJ,712,02/06/2021,75,84,Away,,-,0
 2021,Stockton,681,New Jersey City,319,02/12/2021,85,73,Home,,-,0
@@ -11310,6 +11773,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Stockton,681,Rutgers-Camden,588,02/20/2021,65,46,Home,,-,0
 2021,Stockton,681,Rutgers-Newark,589,03/05/2021,67,45,Away,,-,0
 2021,Stockton,681,TCNJ,712,03/12/2021,65,58,Away,,-,38
+2021,Stockton,681,New Jersey City,319,03/19/2021,77,79,Away,,-,300
 2021,Stony Brook,683,Saint Peter's,617,12/01/2020,68,82,Away,,-,0
 2021,Stony Brook,683,Fairfield,220,12/04/2020,72,69,Home,,1 OT,0
 2021,Stony Brook,683,St. John's (NY),603,12/06/2020,66,89,Away,,-,0
@@ -11339,6 +11803,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Suffolk,684,Endicott,8981,03/07/2021,91,95,Away,,-,40
 2021,Suffolk,684,Curry,170,03/12/2021,95,83,Away,,-,0
 2021,Suffolk,684,Curry,170,03/13/2021,105,53,Home,,-,0
+2021,Suffolk,684,Gordon,1099,03/24/2021,82,84,Home,,-,0
+2021,Suffolk,684,Gordon,1099,03/25/2021,82,67,Away,,-,0
 2021,Sul Ross St.,1390,East Tex. Baptist,1062,11/19/2020,64,80,Away,,-,221
 2021,Sul Ross St.,1390,McMurry,8530,11/27/2020,73,50,Away,,-,55
 2021,Sul Ross St.,1390,Hardin-Simmons,271,11/28/2020,73,74,Away,,-,211
@@ -11362,6 +11828,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Sul Ross St.,1390,Mary Hardin-Baylor,1203,03/04/2021,71,95,Away,,-,329
 2021,Sul Ross St.,1390,Concordia (TX),24400,03/06/2021,73,86,Away,,-,85
 2021,Sul Ross St.,1390,Hardin-Simmons,271,03/10/2021,71,94,Away,,-,333
+2021,SUNY Canton,30165,Clarkson,146,03/18/2021,65,78,Away,,-,0
 2021,Syracuse,688,Bryant,81,11/27/2020,85,84,Home,,-,0
 2021,Syracuse,688,Niagara,482,12/03/2020,75,45,Home,,-,0
 2021,Syracuse,688,Rider,576,12/05/2020,87,52,Home,,-,0
@@ -11387,12 +11854,16 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Syracuse,688,Clemson,147,03/03/2021,64,54,Home,,-,0
 2021,Syracuse,688,NC State,490,03/10/2021,89,68,Neutral,"Greensboro, NC",-,0
 2021,Syracuse,688,Virginia,746,03/11/2021,69,72,Neutral,"Greensboro, NC",-,0
+2021,Syracuse,688,San Diego St.,626,03/19/2021,78,62,Neutral,"Indianapolis, IN",-,0
+2021,Syracuse,688,West Virginia,768,03/21/2021,75,72,Neutral,"Indianapolis, IN",-,0
+2021,Syracuse,688,Houston,288,03/27/2021,46,62,Neutral,"Indianapolis, IN",-,0
 2021,Tampa,689,Saint Leo,608,02/17/2021,79,75,Away,,-,0
 2021,Tampa,689,Saint Leo,608,02/20/2021,54,67,Home,,-,0
 2021,Tampa,689,Palm Beach Atl.,30045,02/24/2021,79,87,Away,,-,0
 2021,Tampa,689,Florida Tech,230,02/27/2021,74,69,Home,,-,0
 2021,Tampa,689,Fla. Southern,233,03/03/2021,94,84,Away,,-,0
 2021,Tampa,689,Florida Tech,230,03/13/2021,77,86,Away,,-,0
+2021,Tampa,689,Florida Tech,230,03/16/2021,84,90,Away,,2 OT,0
 2021,Tarleton St.,1395,Dallas Christian,,11/25/2020,103,48,Home,,-,256
 2021,Tarleton St.,1395,Texas A&M,697,12/02/2020,66,73,Away,,-,"1,316"
 2021,Tarleton St.,1395,Abilene Christian,2,12/05/2020,48,69,Away,,-,296
@@ -11400,6 +11871,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Tarleton St.,1395,Grand Canyon,1104,01/08/2021,72,75,Home,,-,962
 2021,Tarleton St.,1395,Grand Canyon,1104,01/09/2021,48,59,Home,,-,833
 2021,Tarleton St.,1395,California Baptist,30135,01/15/2021,74,83,Away,,-,0
+2021,Tarleton St.,1395,California Baptist,30135,01/15/2021,74,83,Away,,-,0
+2021,Tarleton St.,1395,California Baptist,30135,01/16/2021,67,73,Away,,-,0
 2021,Tarleton St.,1395,California Baptist,30135,01/16/2021,67,73,Away,,-,0
 2021,Tarleton St.,1395,Weber St.,758,01/17/2021,79,94,Away,,-,0
 2021,Tarleton St.,1395,Howard Payne,2741,01/25/2021,113,53,Home,,-,"1,093"
@@ -11421,6 +11894,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,TCNJ,712,Kean,329,02/20/2021,99,77,Away,,-,0
 2021,TCNJ,712,Kean,329,03/07/2021,77,64,Home,,-,36
 2021,TCNJ,712,Stockton,681,03/12/2021,58,65,Home,,-,38
+2021,TCU,698,Houston Baptist,287,11/25/2020,69,45,Home,,-,"1,672"
 2021,TCU,698,Houston Baptist,287,11/25/2020,69,45,Home,,-,"1,672"
 2021,TCU,698,Tulsa,719,11/28/2020,70,65,Neutral,"Kansas City, MO",-,0
 2021,TCU,698,Liberty,355,11/29/2020,56,52,Neutral,"Kansas City, MO",-,0
@@ -11489,6 +11963,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Tennessee,694,Florida,235,03/07/2021,65,54,Home,,-,"4,191"
 2021,Tennessee,694,Florida,235,03/12/2021,78,66,Neutral,"Nashville, TN",-,"2,186"
 2021,Tennessee,694,Alabama,8,03/13/2021,68,73,Neutral,"Nashville, TN",-,"3,164"
+2021,Tennessee,694,Oregon St.,528,03/19/2021,56,70,Neutral,"Indianapolis, IN",-,"2,157"
 2021,Tennessee St.,691,Belmont,14927,12/08/2020,64,79,Away,,-,250
 2021,Tennessee St.,691,IUPUI,2699,12/12/2020,66,69,Away,,-,0
 2021,Tennessee St.,691,Belmont,14927,12/18/2020,63,88,Home,,-,224
@@ -11635,6 +12110,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Texas,703,TCU,698,03/07/2021,76,64,Away,,-,"2,229"
 2021,Texas,703,Texas Tech,700,03/11/2021,67,66,Neutral,"Kansas City, MO",-,"3,510"
 2021,Texas,703,Oklahoma St.,521,03/13/2021,91,86,Neutral,"Kansas City, MO",-,"3,525"
+2021,Texas,703,Abilene Christian,2,03/20/2021,52,53,Neutral,"Indianapolis, IN",-,"5,984"
 2021,Texas A&M,697,New Orleans,474,11/29/2020,82,53,Home,,-,"1,114"
 2021,Texas A&M,697,Tarleton St.,1395,12/02/2020,73,66,Home,,-,"1,316"
 2021,Texas A&M,697,UTRGV,536,12/06/2020,81,68,Home,,-,838
@@ -11688,6 +12164,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Texas Southern,699,Alcorn,17,03/11/2021,78,55,Neutral,"Birmingham, AL",-,222
 2021,Texas Southern,699,Jackson St.,314,03/12/2021,84,81,Neutral,"Birmingham, AL",1 OT,233
 2021,Texas Southern,699,Prairie View,553,03/13/2021,80,61,Neutral,"Birmingham, AL",-,722
+2021,Texas Southern,699,Mt. St. Mary's,450,03/18/2021,60,52,Neutral,"Bloomington, IN",-,0
+2021,Texas Southern,699,Michigan,418,03/20/2021,66,82,Neutral,"West Lafayette, IN",-,0
 2021,Texas St.,670,Mary Hardin-Baylor,1203,11/25/2020,98,59,Home,,-,653
 2021,Texas St.,670,A&M-Corpus Christi,26172,11/28/2020,75,63,Away,,-,445
 2021,Texas St.,670,Mississippi St.,430,11/30/2020,51,68,Away,,-,"1,664"
@@ -11735,11 +12213,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Texas Tech,700,West Virginia,768,02/09/2021,71,82,Home,,-,"4,250"
 2021,Texas Tech,700,Kansas,328,02/20/2021,61,67,Away,,-,0
 2021,Texas Tech,700,Oklahoma St.,521,02/22/2021,69,74,Away,,1 OT,"3,350"
-2021,Texas Tech,700,Texas,703,02/27/2021,68,59,Home,,-,"4,250"
-2021,Texas Tech,700,TCU,698,03/02/2021,69,49,Home,,-,"4,077"
+2021,Texas Tech,700,Texas,703,02/20/2021,68,59,Home,,-,"4,250"
+2021,Texas Tech,700,TCU,698,01/30/2021,69,49,Home,,-,"4,077"
 2021,Texas Tech,700,Iowa St.,311,03/04/2021,81,54,Home,,-,"4,010"
 2021,Texas Tech,700,Baylor,51,03/07/2021,73,88,Away,,-,"2,350"
 2021,Texas Tech,700,Texas,703,03/11/2021,66,67,Neutral,"Kansas City, MO",-,"3,510"
+2021,Texas Tech,700,Utah St.,731,03/19/2021,65,53,Neutral,"Bloomington, IN",-,0
+2021,Texas Tech,700,Arkansas,31,03/21/2021,66,68,Neutral,"Indianapolis, IN",-,0
 2021,Texas-Dallas,23121,Sul Ross St.,1390,12/09/2020,67,63,Home,,-,100
 2021,Texas-Dallas,23121,Howard Payne,2741,01/02/2021,82,72,Away,,-,200
 2021,Texas-Dallas,23121,Louisiana Col.,1182,01/21/2021,75,90,Away,,-,174
@@ -11754,7 +12234,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Texas-Dallas,23121,McMurry,8530,03/04/2021,100,59,Away,,-,184
 2021,Texas-Dallas,23121,Hardin-Simmons,271,03/06/2021,87,79,Away,,-,311
 2021,Texas-Dallas,23121,Louisiana Col.,1182,03/10/2021,72,79,Away,,-,274
-2021,Texas-Tyler,30028,Tex. Permian Basin,30088,12/11/2020,68,76,Home,,-,125
+2021,Texas-Tyler,30028,Tex. Permian Basin,30088,12/02/2020,68,76,Home,,-,125
 2021,Texas-Tyler,30028,Tex. Permian Basin,30088,12/12/2020,80,82,Home,,-,89
 2021,Texas-Tyler,30028,Dallas Christian,,12/18/2020,106,67,Home,,-,374
 2021,Texas-Tyler,30028,Lubbock Christian,30177,01/02/2021,64,80,Home,,-,242
@@ -11810,11 +12290,14 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Thiel,707,Waynesburg,1434,03/06/2021,73,62,Home,,-,10
 2021,Thiel,707,Chatham,10972,03/08/2021,63,97,Away,,-,0
 2021,Thiel,707,Wash. & Jeff.,751,03/10/2021,74,83,Away,,-,0
+2021,Thiel,707,Wash. & Jeff.,751,03/16/2021,69,64,Away,,-,0
+2021,Thiel,707,Westminster (PA),1451,03/18/2021,60,101,Away,,-,189
 2021,Thomas (ME),2758,Husson,1133,02/27/2021,60,96,Away,,-,50
 2021,Thomas (ME),2758,Maine Maritime,378,03/06/2021,64,76,Away,,-,0
 2021,Tiffin,1403,Ohio Dominican,30119,12/05/2020,83,62,Home,,-,60
 2021,Tiffin,1403,Ohio Valley,15207,12/09/2020,123,107,Home,,-,60
 2021,Tiffin,1403,Findlay,1079,12/11/2020,74,89,Away,,-,0
+2021,Tiffin,1403,Cedarville,30124,01/02/2021,77,101,Away,,-,100
 2021,Tiffin,1403,Cedarville,30124,01/02/2021,77,101,Away,,-,100
 2021,Tiffin,1403,Ky. Wesleyan,333,01/07/2021,67,91,Away,,-,331
 2021,Tiffin,1403,Findlay,1079,01/14/2021,57,85,Home,,-,40
@@ -11824,6 +12307,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Tiffin,1403,Walsh,30141,01/25/2021,58,84,Away,,-,146
 2021,Tiffin,1403,Ohio Valley,15207,01/30/2021,68,78,Away,,-,50
 2021,Tiffin,1403,Trevecca Nazarene,30002,02/01/2021,70,61,Home,,-,40
+2021,Tiffin,1403,Cedarville,30124,02/06/2021,77,62,Home,,-,40
 2021,Tiffin,1403,Cedarville,30124,02/06/2021,77,62,Home,,-,40
 2021,Tiffin,1403,Malone,30137,02/09/2021,91,101,Home,,-,40
 2021,Tiffin,1403,Trevecca Nazarene,30002,02/13/2021,69,70,Home,,-,40
@@ -11860,6 +12344,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Toledo,709,Ball St.,47,03/05/2021,89,70,Home,,-,0
 2021,Toledo,709,Ball St.,47,03/11/2021,91,89,Neutral,"Cleveland, OH",1 OT,0
 2021,Toledo,709,Ohio,519,03/12/2021,80,87,Neutral,"Cleveland, OH",-,0
+2021,Toledo,709,Richmond,575,03/17/2021,66,76,Neutral,"Denton, TX",-,731
 2021,Towson,711,Virginia,746,11/25/2020,54,89,Neutral,"Montville, CT",-,0
 2021,Towson,711,San Francisco,629,11/26/2020,68,79,Neutral,"Montville, CT",-,0
 2021,Towson,711,Buffalo,86,11/27/2020,65,74,Neutral,"Montville, CT",-,0
@@ -11905,6 +12390,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Trevecca Nazarene,30002,Malone,30137,01/02/2021,58,57,Home,,-,31
 2021,Trevecca Nazarene,30002,Walsh,30141,01/04/2021,46,67,Home,,-,30
 2021,Trevecca Nazarene,30002,Cedarville,30124,01/07/2021,56,69,Home,,-,38
+2021,Trevecca Nazarene,30002,Cedarville,30124,01/07/2021,56,69,Home,,-,38
 2021,Trevecca Nazarene,30002,Hillsdale,280,01/21/2021,53,56,Home,,-,58
 2021,Trevecca Nazarene,30002,Findlay,1079,01/23/2021,37,71,Home,,-,59
 2021,Trevecca Nazarene,30002,Walsh,30141,01/28/2021,59,67,Away,,-,185
@@ -11912,6 +12398,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Trevecca Nazarene,30002,Tiffin,1403,02/01/2021,61,70,Away,,-,40
 2021,Trevecca Nazarene,30002,Ohio Dominican,30119,02/04/2021,63,54,Home,,-,54
 2021,Trevecca Nazarene,30002,Lake Erie,2746,02/06/2021,54,69,Home,,-,52
+2021,Trevecca Nazarene,30002,Cedarville,30124,02/11/2021,59,73,Away,,-,220
 2021,Trevecca Nazarene,30002,Cedarville,30124,02/11/2021,59,73,Away,,-,220
 2021,Trevecca Nazarene,30002,Tiffin,1403,02/13/2021,70,69,Away,,-,40
 2021,Trevecca Nazarene,30002,Ohio Dominican,30119,02/15/2021,59,55,Away,,-,17
@@ -11947,6 +12434,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Trinity (TX),715,Schreiner,1355,02/27/2021,92,81,Home,,-,0
 2021,Trinity (TX),715,Schreiner,1355,03/07/2021,84,81,Home,,-,0
 2021,Trinity (TX),715,Austin,953,03/14/2021,80,68,Home,,-,0
+2021,Trinity (TX),715,$game.opponentName,2810,03/21/2021,66,80,Home,,-,0
 2021,Troy,716,Western Caro.,769,11/27/2020,66,64,Neutral,"Asheville, NC",-,0
 2021,Troy,716,UNCW,460,11/28/2020,50,73,Neutral,"Asheville, NC",-,0
 2021,Troy,716,Texas Tech,700,12/04/2020,46,80,Away,,-,"4,032"
@@ -11996,7 +12484,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Truman,499,Rockhurst,1328,02/25/2021,81,76,Home,,-,100
 2021,Truman,499,Southwest Baptist,2755,02/27/2021,79,66,Home,,-,100
 2021,Truman,499,UIndy,309,03/03/2021,73,75,Home,,-,100
-2021,Truman,499,Ashland,35,03/14/2021,0,0,Neutral,"Evansville, IN",-,0
+2021,Truman,499,Ashland,35,03/14/2021,82,63,Neutral,"Evansville, IN",-,785
+2021,Truman,499,Michigan Tech,417,03/16/2021,65,62,Neutral,"Evansville, IN",-,286
+2021,Truman,499,Flagler,30092,03/24/2021,69,70,Neutral,"Evansville, IN",-,894
 2021,Tulane,718,Lamar University,346,11/27/2020,66,57,Home,,-,100
 2021,Tulane,718,Lipscomb,28600,11/29/2020,68,66,Home,,-,100
 2021,Tulane,718,Southern Miss.,664,12/09/2020,58,38,Home,,-,100
@@ -12223,6 +12713,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,UC Santa Barbara,104,Long Beach St.,99,03/11/2021,95,87,Neutral,"Las Vegas, NV",-,3
 2021,UC Santa Barbara,104,UC Davis,108,03/12/2021,71,55,Neutral,"Las Vegas, NV",-,0
 2021,UC Santa Barbara,104,UC Irvine,109,03/13/2021,79,63,Neutral,"Las Vegas, NV",-,17
+2021,UC Santa Barbara,104,Creighton,169,03/20/2021,62,63,Neutral,"Indianapolis, IN",-,"6,512"
 2021,UC-Colo. Springs,9754,Adams St.,929,12/05/2020,78,85,Home,,-,0
 2021,UC-Colo. Springs,9754,Colorado St.-Pueblo,2720,12/10/2020,83,67,Home,,-,0
 2021,UC-Colo. Springs,9754,Colo. Sch. of Mines,155,12/12/2020,54,64,Away,,-,50
@@ -12288,6 +12779,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,UCLA,110,Oregon,529,03/03/2021,74,82,Away,,-,0
 2021,UCLA,110,Southern California,657,03/06/2021,63,64,Home,,-,0
 2021,UCLA,110,Oregon St.,528,03/11/2021,79,83,Neutral,"Las Vegas, NV",1 OT,0
+2021,UCLA,110,Michigan St.,416,03/18/2021,86,80,Neutral,"West Lafayette, IN",1 OT,0
+2021,UCLA,110,BYU,77,03/20/2021,73,62,Neutral,"Indianapolis, IN",-,0
+2021,UCLA,110,Abilene Christian,2,03/22/2021,67,47,Neutral,"Indianapolis, IN",-,0
+2021,UCLA,110,Alabama,8,03/28/2021,88,78,Neutral,"Indianapolis, IN",1 OT,0
+2021,UCLA,110,Michigan,418,03/30/2021,51,49,Neutral,"Indianapolis, IN",-,"7,515"
+2021,UCLA,110,Gonzaga,260,04/03/2021,90,93,Neutral,"Indianapolis, IN",1 OT,"8,131"
 2021,UConn,164,Central Conn. St.,127,11/25/2020,102,75,Home,,-,125
 2021,UConn,164,Hartford,272,11/27/2020,69,57,Home,,-,0
 2021,UConn,164,Southern California,657,12/03/2020,61,58,Neutral,"Montville, CT",-,0
@@ -12310,6 +12807,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,UConn,164,Georgetown,251,03/06/2021,98,82,Home,,-,0
 2021,UConn,164,DePaul,176,03/11/2021,94,60,Neutral,"New York, NY",-,824
 2021,UConn,164,Creighton,169,03/12/2021,56,59,Neutral,"New York, NY",-,824
+2021,UConn,164,Maryland,392,03/20/2021,54,63,Neutral,"West Lafayette, IN",-,0
 2021,UIC,302,Northern Ill.,503,11/25/2020,65,61,Away,,-,0
 2021,UIC,302,Central Mich.,129,11/28/2020,74,72,Home,,-,0
 2021,UIC,302,Valparaiso,735,12/01/2020,66,50,Home,,-,0
@@ -12481,6 +12979,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,UNC Greensboro,459,The Citadel,141,03/06/2021,80,72,Neutral,"Asheville, NC",-,0
 2021,UNC Greensboro,459,ETSU,198,03/07/2021,77,65,Neutral,"Asheville, NC",-,0
 2021,UNC Greensboro,459,Mercer,406,03/08/2021,69,61,Neutral,"Asheville, NC",-,544
+2021,UNC Greensboro,459,Florida St.,234,03/20/2021,54,64,Neutral,"Indianapolis, IN",-,0
 2021,UNC Pembroke,537,Belmont Abbey,2683,01/02/2021,67,68,Away,,-,46
 2021,UNC Pembroke,537,Clayton St.,20576,01/06/2021,93,72,Away,,-,54
 2021,UNC Pembroke,537,Columbus St.,159,01/09/2021,91,72,Home,,-,0
@@ -12718,6 +13217,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Utah St.,731,UNLV,465,03/11/2021,74,53,Away,,-,0
 2021,Utah St.,731,Colorado St.,156,03/12/2021,62,50,Neutral,"Las Vegas, NV",-,0
 2021,Utah St.,731,San Diego St.,626,03/13/2021,57,68,Neutral,"Las Vegas, NV",-,0
+2021,Utah St.,731,Texas Tech,700,03/19/2021,53,65,Neutral,"Bloomington, IN",-,0
 2021,Utah Valley,30024,Adams St.,929,11/26/2020,100,75,Home,,-,0
 2021,Utah Valley,30024,BYU,77,11/28/2020,60,82,Away,,-,0
 2021,Utah Valley,30024,Westminster (UT),30209,12/02/2020,79,71,Home,,-,0
@@ -12726,6 +13226,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Utah Valley,30024,Utah,732,12/15/2020,67,75,Away,,-,0
 2021,Utah Valley,30024,Weber St.,758,01/02/2021,62,70,Away,,-,0
 2021,Utah Valley,30024,California Baptist,30135,01/08/2021,77,50,Home,,-,0
+2021,Utah Valley,30024,California Baptist,30135,01/08/2021,77,50,Home,,-,0
+2021,Utah Valley,30024,California Baptist,30135,01/09/2021,81,77,Home,,-,0
 2021,Utah Valley,30024,California Baptist,30135,01/09/2021,81,77,Home,,-,0
 2021,Utah Valley,30024,Seattle U,1356,01/15/2021,93,92,Away,,1 OT,0
 2021,Utah Valley,30024,St. John's (NY),603,01/23/2021,78,96,Away,,-,0
@@ -12767,6 +13269,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Utica,733,Elmira,213,03/10/2021,82,44,Away,,-,0
 2021,Utica,733,Keuka,1159,03/12/2021,92,71,Away,,-,0
 2021,Utica,733,Alfred,18,03/14/2021,89,57,Home,,-,0
+2021,Utica,733,St. John Fisher,601,03/18/2021,69,85,Home,,-,0
+2021,Utica,733,Houghton,30160,03/20/2021,81,63,Home,,-,0
+2021,Utica,733,Nazareth,461,03/22/2021,63,72,Away,,-,0
+2021,Utica,733,Sage Colleges,11036,03/25/2021,59,44,Away,,-,0
+2021,Utica,733,Sage Colleges,11036,03/26/2021,78,65,Home,,-,0
+2021,Utica,733,Elmira,213,03/29/2021,70,58,Away,,-,0
+2021,Utica,733,Elmira,213,04/01/2021,84,53,Home,,-,0
 2021,UTRGV,536,Texas,703,11/25/2020,55,91,Away,,-,"2,451"
 2021,UTRGV,536,UTSA,706,11/28/2020,81,64,Home,,-,0
 2021,UTRGV,536,A&M-Corpus Christi,26172,12/02/2020,62,59,Home,,-,962
@@ -12978,6 +13487,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Villanova,739,Creighton,169,03/03/2021,72,60,Home,,-,0
 2021,Villanova,739,Providence,556,03/06/2021,52,54,Away,,-,0
 2021,Villanova,739,Georgetown,251,03/11/2021,71,72,Neutral,"New York, NY",-,0
+2021,Villanova,739,Winthrop,792,03/19/2021,73,63,Neutral,"Indianapolis, IN",-,873
+2021,Villanova,739,North Texas,497,03/21/2021,84,61,Neutral,"Indianapolis, IN",-,0
+2021,Villanova,739,Baylor,51,03/27/2021,51,62,Neutral,"Indianapolis, IN",-,0
 2021,Virginia,746,Towson,711,11/25/2020,89,54,Neutral,"Montville, CT",-,0
 2021,Virginia,746,San Francisco,629,11/27/2020,60,61,Neutral,"Uncasville, CT",-,0
 2021,Virginia,746,Saint Francis (PA),600,12/01/2020,76,51,Home,,-,250
@@ -13002,6 +13514,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Virginia,746,Miami (FL),415,03/01/2021,62,51,Home,,-,0
 2021,Virginia,746,Louisville,367,03/06/2021,68,58,Away,,-,"4,812"
 2021,Virginia,746,Syracuse,688,03/11/2021,72,69,Neutral,"Greensboro, NC",-,0
+2021,Virginia,746,Ohio,519,03/20/2021,58,62,Neutral,"Bloomington, IN",-,0
 2021,Virginia Tech,742,Radford,563,11/25/2020,77,62,Home,,-,250
 2021,Virginia Tech,742,Villanova,739,11/28/2020,81,73,Neutral,"Montville, CT",1 OT,0
 2021,Virginia Tech,742,South Fla.,651,11/29/2020,76,58,Neutral,"Montville, CT",-,0
@@ -13023,6 +13536,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Virginia Tech,742,Georgia Tech,255,02/23/2021,53,69,Home,,-,250
 2021,Virginia Tech,742,Wake Forest,749,02/27/2021,84,46,Home,,-,250
 2021,Virginia Tech,742,North Carolina,457,03/11/2021,73,81,Neutral,"Greensboro, NC",-,"2,820"
+2021,Virginia Tech,742,Florida,235,03/19/2021,70,75,Neutral,"Indianapolis, IN",1 OT,0
 2021,VMI,741,St. Andrews,,11/25/2020,90,63,Home,,-,227
 2021,VMI,741,Penn St.,539,11/28/2020,65,86,Away,,-,248
 2021,VMI,741,Longwood,363,12/01/2020,84,71,Home,,-,200
@@ -13115,6 +13629,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Walsh,30141,Findlay,1079,02/11/2021,63,93,Away,,-,42
 2021,Walsh,30141,Hillsdale,280,02/13/2021,68,89,Home,,-,195
 2021,Walsh,30141,Cedarville,30124,02/17/2021,70,74,Home,,-,78
+2021,Walsh,30141,Cedarville,30124,02/17/2021,70,74,Home,,-,78
+2021,Walsh,30141,Cedarville,30124,02/18/2021,54,74,Away,,-,205
 2021,Walsh,30141,Cedarville,30124,02/18/2021,54,74,Away,,-,205
 2021,Walsh,30141,Tiffin,1403,02/20/2021,66,62,Away,,-,40
 2021,Walsh,30141,Malone,30137,02/23/2021,69,71,Away,,-,150
@@ -13142,6 +13658,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Wash. & Jeff.,751,Waynesburg,1434,02/27/2021,55,61,Home,,-,0
 2021,Wash. & Jeff.,751,Grove City,265,03/03/2021,81,72,Away,,-,100
 2021,Wash. & Jeff.,751,Thiel,707,03/10/2021,83,74,Home,,-,0
+2021,Wash. & Jeff.,751,Thiel,707,03/16/2021,64,69,Home,,-,0
 2021,Wash. & Lee,752,Roanoke,578,02/11/2021,68,78,Away,,-,0
 2021,Wash. & Lee,752,Lynchburg,374,02/14/2021,69,47,Home,,-,0
 2021,Wash. & Lee,752,Emory & Henry,216,02/16/2021,98,85,Home,,-,0
@@ -13174,7 +13691,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Washburn,2814,Missouri Western,9013,03/05/2021,101,72,Neutral,"Maryville, MO",-,150
 2021,Washburn,2814,Northwest Mo. St.,507,03/06/2021,69,68,Away,,-,395
 2021,Washburn,2814,Missouri Western,9013,03/13/2021,72,46,Neutral,"Aberdeen, SD",-,"1,244"
-2021,Washburn,2814,Northwest Mo. St.,507,03/14/2021,0,0,Neutral,"Aberdeen, SD",-,0
+2021,Washburn,2814,Northwest Mo. St.,507,03/14/2021,44,85,Neutral,"Aberdeen, SD",-,854
 2021,Washington,756,Baylor,51,11/29/2020,52,86,Neutral,"Las Vegas, NV",-,0
 2021,Washington,756,UC Riverside,111,12/01/2020,42,57,Neutral,"Las Vegas, NV",-,0
 2021,Washington,756,Utah,732,12/03/2020,62,76,Away,,-,0
@@ -13303,6 +13820,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Webster,759,Westminster (MO),1450,03/06/2021,76,69,Away,,-,23
 2021,Webster,759,Iowa Wesleyan,30173,03/09/2021,72,61,Home,,-,0
 2021,Webster,759,Greenville,1111,03/12/2021,133,117,Home,,-,0
+2021,Webster,759,Blackburn,64,03/16/2021,86,90,Away,,2 OT,50
+2021,Webster,759,Spalding,23260,03/23/2021,66,62,Away,,-,15
+2021,Webster,759,Fontbonne,11538,03/29/2021,67,79,Home,,-,75
+2021,Webster,759,Westminster (MO),1450,04/03/2021,77,80,Home,,-,50
 2021,West Ala.,358,Mississippi Col.,429,01/12/2021,70,64,Home,,-,125
 2021,West Ala.,358,Mississippi Col.,429,01/13/2021,67,49,Home,,-,133
 2021,West Ala.,358,Union (TN),30153,01/15/2021,58,61,Away,,-,117
@@ -13357,7 +13878,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,West Ga.,766,Union (TN),30153,03/02/2021,77,61,Away,,-,0
 2021,West Ga.,766,Valdosta St.,734,03/05/2021,89,99,Away,,-,940
 2021,West Ga.,766,Valdosta St.,734,03/13/2021,79,75,Away,,-,930
-2021,West Ga.,766,Flagler,30092,03/14/2021,0,0,Neutral,"Valdosta, GA",-,0
+2021,West Ga.,766,Flagler,30092,03/14/2021,53,69,Neutral,"Valdosta, GA",-,419
 2021,West Liberty,1438,Notre Dame (OH),30126,01/07/2021,98,77,Home,,-,0
 2021,West Liberty,1438,Alderson Broaddus,934,01/10/2021,123,73,Away,,-,0
 2021,West Liberty,1438,Fairmont St.,1076,01/13/2021,96,84,Away,,-,0
@@ -13379,6 +13900,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,West Liberty,1438,Fairmont St.,1076,03/07/2021,99,102,Neutral,"Wheeling, WV",-,750
 2021,West Liberty,1438,Malone,30137,03/13/2021,94,89,Home,,-,215
 2021,West Liberty,1438,Charleston (WV),1013,03/14/2021,82,63,Home,,-,216
+2021,West Liberty,1438,Hillsdale,280,03/16/2021,78,61,Away,,-,210
+2021,West Liberty,1438,Northwest Mo. St.,507,03/24/2021,77,98,Neutral,"Evansville, IN",-,894
 2021,West Tex. A&M,767,Tex. A&M-Commerce,199,12/16/2020,100,70,Home,,-,500
 2021,West Tex. A&M,767,Okla. Baptist,30202,01/05/2021,94,79,Home,,-,500
 2021,West Tex. A&M,767,DBU,1045,01/08/2021,84,71,Home,,-,500
@@ -13396,7 +13919,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,West Tex. A&M,767,Tex. Permian Basin,30088,03/02/2021,72,58,Home,,-,"1,000"
 2021,West Tex. A&M,767,DBU,1045,03/05/2021,88,77,Home,,-,"1,000"
 2021,West Tex. A&M,767,St. Edward's,1334,03/06/2021,108,89,Home,,-,"1,000"
-2021,West Tex. A&M,767,DBU,1045,03/14/2021,0,0,Neutral,"Lubbock, TX",-,0
+2021,West Tex. A&M,767,DBU,1045,03/14/2021,82,65,Neutral,"Lubbock, TX",-,302
+2021,West Tex. A&M,767,Lubbock Christian,30177,03/16/2021,101,92,Away,,-,317
+2021,West Tex. A&M,767,Daemen,30174,03/24/2021,97,83,Neutral,"Evansville, IN",-,613
+2021,West Tex. A&M,767,Lincoln Memorial,1176,03/25/2021,87,86,Neutral,"Evansville, IN",-,874
+2021,West Tex. A&M,767,Northwest Mo. St.,507,03/27/2021,54,80,Neutral,"Evansville, IN",-,"1,080"
 2021,West Va. Wesleyan,9630,Fairmont St.,1076,01/07/2021,85,110,Home,,-,0
 2021,West Va. Wesleyan,9630,Frostburg St.,243,01/10/2021,77,81,Away,,-,25
 2021,West Va. Wesleyan,9630,Concord,1028,01/13/2021,69,73,Away,,-,31
@@ -13438,6 +13965,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,West Virginia,768,TCU,698,03/04/2021,76,67,Home,,-,"2,800"
 2021,West Virginia,768,Oklahoma St.,521,03/06/2021,80,85,Home,,-,"2,800"
 2021,West Virginia,768,Oklahoma St.,521,03/11/2021,69,72,Neutral,"Kansas City, MO",-,0
+2021,West Virginia,768,Morehead St.,444,03/19/2021,84,67,Neutral,"Indianapolis, IN",-,"6,390"
+2021,West Virginia,768,Syracuse,688,03/21/2021,72,75,Neutral,"Indianapolis, IN",-,0
 2021,West Virginia St.,1439,Glenville St.,1098,01/07/2021,114,117,Home,,-,0
 2021,West Virginia St.,1439,Concord,1028,01/10/2021,89,74,Away,,-,22
 2021,West Virginia St.,1439,Notre Dame (OH),30126,01/13/2021,93,85,Home,,-,25
@@ -13530,6 +14059,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Western Ky.,772,UTSA,706,03/11/2021,80,67,Neutral,"Frisco, TX",-,0
 2021,Western Ky.,772,UAB,9,03/12/2021,64,60,Neutral,"Frisco, TX",-,0
 2021,Western Ky.,772,North Texas,497,03/13/2021,57,61,Neutral,"Frisco, TX",1 OT,903
+2021,Western Ky.,772,Saint Mary's (CA),610,03/17/2021,69,67,Neutral,"Frisco, TX",-,0
+2021,Western Ky.,772,Louisiana Tech,366,03/25/2021,65,72,Neutral,"Frisco, TX",-,737
 2021,Western Mich.,774,Butler,87,11/25/2020,62,66,Away,,-,"1,500"
 2021,Western Mich.,774,Michigan St.,416,12/06/2020,61,79,Away,,-,0
 2021,Western Mich.,774,Adrian,4,12/07/2020,62,42,Home,,-,0
@@ -13590,6 +14121,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Westminster (MO),1450,Webster,759,03/06/2021,69,76,Home,,-,23
 2021,Westminster (MO),1450,Greenville,1111,03/09/2021,137,140,Away,,-,0
 2021,Westminster (MO),1450,Blackburn,64,03/12/2021,61,62,Home,,-,23
+2021,Westminster (MO),1450,Iowa Wesleyan,30173,03/23/2021,78,82,Home,,-,15
+2021,Westminster (MO),1450,Eureka,218,03/27/2021,77,84,Away,,-,0
+2021,Westminster (MO),1450,Webster,759,04/03/2021,80,77,Away,,-,50
 2021,Westminster (PA),1451,Franciscan,30069,01/27/2021,99,77,Home,,-,0
 2021,Westminster (PA),1451,Bethany (WV),59,01/30/2021,90,71,Away,,-,0
 2021,Westminster (PA),1451,Waynesburg,1434,02/06/2021,81,52,Away,,-,0
@@ -13599,6 +14133,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Westminster (PA),1451,Geneva,30084,02/24/2021,79,78,Away,,-,100
 2021,Westminster (PA),1451,Chatham,10972,02/27/2021,88,81,Home,,-,0
 2021,Westminster (PA),1451,Saint Vincent,30064,03/06/2021,84,64,Home,,-,0
+2021,Westminster (PA),1451,Franciscan,30069,03/16/2021,99,78,Home,,-,100
+2021,Westminster (PA),1451,Thiel,707,03/18/2021,101,60,Home,,-,189
+2021,Westminster (PA),1451,Grove City,265,03/20/2021,73,62,Home,,-,125
 2021,Westminster (UT),30209,BYU,77,11/25/2020,59,108,Away,,-,0
 2021,Westminster (UT),30209,Utah Valley,30024,12/02/2020,71,79,Away,,-,0
 2021,Westminster (UT),30209,MSU Denver,413,12/04/2020,56,55,Home,,-,12
@@ -13634,6 +14171,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Wheaton (IL),778,Millikin,424,03/06/2021,81,53,Home,,-,0
 2021,Wheaton (IL),778,Augustana (IL),40,03/09/2021,78,58,Home,,-,2
 2021,Wheaton (IL),778,Ill. Wesleyan,300,03/12/2021,58,71,Home,,-,0
+2021,Wheaton (MA),779,Eastern Nazarene,1064,03/31/2021,74,77,Home,,-,0
 2021,Wheeling Jesuit,12799,Alderson Broaddus,934,01/07/2021,79,85,Home,,-,12
 2021,Wheeling Jesuit,12799,Fairmont St.,1076,01/16/2021,60,95,Home,,-,18
 2021,Wheeling Jesuit,12799,Notre Dame (OH),30126,01/18/2021,69,75,Away,,-,0
@@ -13700,6 +14238,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Wichita St.,782,South Fla.,651,03/06/2021,80,63,Home,,-,"2,625"
 2021,Wichita St.,782,South Fla.,651,03/12/2021,68,67,Neutral,"Fort Worth, TX",-,0
 2021,Wichita St.,782,Cincinnati,140,03/13/2021,59,60,Neutral,"Fort Worth, TX",-,0
+2021,Wichita St.,782,Drake,189,03/18/2021,52,53,Neutral,"West Lafayette, IN",-,0
 2021,Widener,783,Stevenson,21852,02/11/2021,83,67,Away,,-,0
 2021,Widener,783,Stevenson,21852,02/12/2021,66,57,Home,,-,0
 2021,Widener,783,Albright,16,02/19/2021,81,79,Home,,1 OT,0
@@ -13710,6 +14249,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Widener,783,Messiah,411,03/05/2021,77,61,Away,,-,53
 2021,Widener,783,Arcadia,966,03/11/2021,67,70,Home,,-,0
 2021,Widener,783,Arcadia,966,03/12/2021,78,87,Away,,-,0
+2021,Widener,783,Delaware Valley,179,03/19/2021,71,75,Away,,-,11
 2021,Wilkes,784,DeSales,20,02/11/2021,55,99,Away,,-,0
 2021,Wilkes,784,DeSales,20,02/12/2021,43,77,Home,,-,0
 2021,Wilkes,784,Arcadia,966,02/19/2021,79,86,Away,,-,0
@@ -13719,6 +14259,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Wilkes,784,Delaware Valley,179,03/04/2021,63,77,Home,,-,0
 2021,Wilkes,784,Delaware Valley,179,03/05/2021,59,53,Away,,-,11
 2021,Wilkes,784,Alvernia,938,03/08/2021,81,95,Away,,-,3
+2021,Willamette,785,George Fox,1094,04/01/2021,58,78,Away,,-,0
 2021,William & Mary,786,Old Dominion,523,11/28/2020,78,86,Away,,-,250
 2021,William & Mary,786,George Washington,249,12/14/2020,85,84,Away,,1 OT,0
 2021,William & Mary,786,Hampton,270,12/16/2020,75,58,Away,,-,0
@@ -13842,6 +14383,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Winthrop,792,High Point,19651,03/01/2021,83,54,Home,,-,525
 2021,Winthrop,792,Longwood,363,03/04/2021,82,61,Home,,-,575
 2021,Winthrop,792,Campbell,115,03/07/2021,80,53,Home,,-,915
+2021,Winthrop,792,Villanova,739,03/19/2021,63,73,Neutral,"Indianapolis, IN",-,873
 2021,Wis. Lutheran,8911,Marian (WI),1196,02/05/2021,78,69,Home,,-,202
 2021,Wis. Lutheran,8911,Marian (WI),1196,02/06/2021,83,61,Home,,-,176
 2021,Wis. Lutheran,8911,MSOE,20220,02/08/2021,77,65,Away,,-,49
@@ -13979,6 +14521,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2021,Wisconsin,796,Iowa,312,03/07/2021,73,77,Away,,-,582
 2021,Wisconsin,796,Penn St.,539,03/11/2021,75,74,Neutral,"Indianapolis, IN",-,"6,769"
 2021,Wisconsin,796,Iowa,312,03/12/2021,57,62,Neutral,"Indianapolis, IN",-,"7,735"
+2021,Wisconsin,796,North Carolina,457,03/19/2021,85,62,Neutral,"West Lafayette, IN",-,0
+2021,Wisconsin,796,Baylor,51,03/21/2021,63,76,Neutral,"Indianapolis, IN",-,0
 2021,Wittenberg,806,Wabash,747,02/13/2021,65,94,Away,,-,23
 2021,Wittenberg,806,Wabash,747,02/14/2021,74,76,Home,,-,100
 2021,Wittenberg,806,Ohio Wesleyan,520,02/18/2021,53,66,Home,,-,160

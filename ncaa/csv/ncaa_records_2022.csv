@@ -1,0 +1,1076 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2022,26172,A&M-Corpus Christi,25,12,0,37
+2022,2,Abilene Christian,24,10,0,34
+2022,30123,Academy of Art,20,12,0,32
+2022,929,Adams St.,12,16,0,28
+2022,3,Adelphi,17,10,0,27
+2022,4,Adrian,5,21,0,26
+2022,721,Air Force,11,18,0,29
+2022,5,Akron,24,9,0,33
+2022,10,Alabama Huntsville,23,11,0,34
+2022,8,Alabama,19,13,0,32
+2022,6,Alabama A&M,12,18,0,30
+2022,7,Alabama St.,10,21,0,31
+2022,11,Alas. Anchorage,15,9,0,24
+2022,12,Alas. Fairbanks,14,14,0,28
+2022,14,UAlbany,13,18,0,31
+2022,13,Albany St. (GA),10,19,0,29
+2022,2798,Albertus Magnus,17,7,0,24
+2022,15,Albion,14,12,0,26
+2022,16,Albright,10,15,0,25
+2022,17,Alcorn,17,16,0,33
+2022,934,Alderson Broaddus,14,16,0,30
+2022,18,Alfred,17,10,0,27
+2022,30170,Alfred St.,8,17,0,25
+2022,19,Allegheny,8,14,0,22
+2022,21,Alma,5,19,0,24
+2022,938,Alvernia,18,8,0,26
+2022,23,American,10,22,0,32
+2022,22,American Int'l,6,23,0,29
+2022,24,Amherst,15,9,0,24
+2022,939,Anderson (IN),16,10,0,26
+2022,13028,Anderson (SC),11,17,0,28
+2022,25,Angelo St.,20,10,0,30
+2022,26,Anna Maria,15,11,0,26
+2022,27,App State,19,14,0,33
+2022,966,Arcadia,12,14,0,26
+2022,29,Arizona,32,3,0,35
+2022,28,Arizona St.,14,17,0,31
+2022,30105,Ark.-Fort Smith,14,13,0,27
+2022,8411,Ark.-Monticello,10,18,0,28
+2022,2678,Ark.-Pine Bluff,7,24,0,31
+2022,31,Arkansas,25,8,0,33
+2022,30,Arkansas St.,18,11,0,29
+2022,947,Arkansas Tech,10,18,0,28
+2022,725,Army West Point,15,16,0,31
+2022,35,Ashland,19,12,0,31
+2022,36,Assumption,12,13,0,25
+2022,37,Auburn,27,5,0,32
+2022,38,Augsburg,17,7,0,24
+2022,39,Augusta,30,3,0,33
+2022,40,Augustana (IL),11,15,0,26
+2022,41,Augustana (SD),26,3,0,29
+2022,30093,AUM,12,16,0,28
+2022,42,Aurora,5,18,0,23
+2022,953,Austin,5,20,0,25
+2022,43,Austin Peay,12,17,0,29
+2022,44,Averett,17,12,0,29
+2022,30146,Azusa Pacific,21,10,0,31
+2022,45,Babson,19,9,0,28
+2022,46,Baldwin Wallace,15,10,0,25
+2022,47,Ball St.,14,17,0,31
+2022,962,Bard,8,17,0,25
+2022,49,Barry,20,9,0,29
+2022,15646,Barton,16,14,0,30
+2022,58,Baruch,20,8,0,28
+2022,50,Bates,9,12,0,21
+2022,51,Baylor,26,6,0,32
+2022,30197,Belhaven,8,13,0,21
+2022,52,Bellarmine,20,13,0,33
+2022,14927,Belmont,25,7,0,32
+2022,2683,Belmont Abbey,22,10,0,32
+2022,53,Beloit,5,20,0,25
+2022,54,Bemidji St.,9,17,0,26
+2022,55,Benedict,22,7,0,29
+2022,296,Benedictine (IL),12,13,0,25
+2022,56,Bentley,24,4,0,28
+2022,30171,Berea,6,17,0,23
+2022,973,Berry,23,3,0,26
+2022,59,Bethany (WV),2,19,0,21
+2022,30038,Bethany Lutheran,14,13,0,27
+2022,60,Bethel (MN),12,13,0,25
+2022,61,Bethune-Cookman,9,21,0,30
+2022,62,Binghamton,12,17,0,29
+2022,30220,Biola,21,8,0,29
+2022,28593,Birmingham-So.,12,16,0,28
+2022,30134,Black Hills St.,24,7,0,31
+2022,64,Blackburn,11,18,0,29
+2022,984,Bloomfield,10,17,0,27
+2022,65,Bloomsburg,5,21,0,26
+2022,985,Bluefield St.,8,13,0,21
+2022,987,Bluffton,6,17,0,23
+2022,66,Boise St.,27,7,0,34
+2022,67,Boston College,13,20,0,33
+2022,68,Boston U.,21,12,0,33
+2022,69,Bowdoin,12,14,0,26
+2022,70,Bowie St.,8,21,0,29
+2022,71,Bowling Green,13,18,0,31
+2022,72,Bradley,17,14,0,31
+2022,73,Brandeis,15,9,0,24
+2022,30094,Brevard,8,17,0,25
+2022,74,Bridgeport,11,16,0,27
+2022,75,Bridgewater (VA),10,17,0,27
+2022,76,Bridgewater St.,4,19,0,23
+2022,78,SUNY Brockport,18,8,0,26
+2022,79,Brooklyn,3,22,0,25
+2022,80,Brown,13,16,0,29
+2022,81,Bryant,22,9,0,31
+2022,30188,Bryn Athyn,7,19,0,26
+2022,83,Bucknell,9,23,0,32
+2022,84,Buena Vista,15,12,0,27
+2022,86,Buffalo,19,11,0,30
+2022,85,Buffalo St.,5,20,0,25
+2022,87,Butler,14,19,0,33
+2022,77,BYU,22,10,0,32
+2022,88,Cabrini,9,16,0,25
+2022,1305,Cairn,15,11,0,26
+2022,105,Cal Lutheran,17,10,0,27
+2022,90,Cal Poly,7,22,0,29
+2022,91,Cal Poly Pomona,13,10,0,23
+2022,92,Cal St. Dom. Hills,14,11,0,25
+2022,98,Cal St. East Bay,9,15,0,24
+2022,97,Cal St. Fullerton,21,10,0,31
+2022,100,Cal State LA,7,14,0,21
+2022,30055,Cal St. Monterey Bay,13,9,0,22
+2022,93,Cal St. San B'dino,24,4,0,28
+2022,30198,Cal St. San Marcos,20,5,0,25
+2022,995,Caldwell,8,17,0,25
+2022,107,California,12,20,0,32
+2022,106,Cal U (PA),23,9,0,32
+2022,30135,California Baptist,18,15,0,33
+2022,30135,California Baptist,18,15,0,33
+2022,89,Caltech,12,15,0,27
+2022,114,Calvin,24,9,0,33
+2022,996,Cameron,5,18,0,23
+2022,115,Campbell,16,13,0,29
+2022,116,Canisius,11,21,0,32
+2022,117,Capital,14,11,0,25
+2022,118,Carleton,16,7,0,23
+2022,119,Carnegie Mellon,12,13,0,25
+2022,120,Carroll (WI),7,18,0,25
+2022,1000,Carson-Newman,20,11,0,31
+2022,121,Carthage,9,16,0,25
+2022,123,Castleton,5,21,0,26
+2022,1001,Catawba,11,16,0,27
+2022,124,Catholic,17,7,0,24
+2022,23624,Cazenovia,7,18,0,25
+2022,480,CCNY,7,17,0,24
+2022,30124,Cedarville,19,13,0,32
+2022,30124,Cedarville,19,13,0,32
+2022,125,Centenary (LA),13,15,0,28
+2022,12884,Centenary (NJ),11,13,0,24
+2022,126,Central (IA),7,17,0,24
+2022,1004,Central Ark.,11,20,0,31
+2022,127,Central Conn. St.,8,24,0,32
+2022,129,Central Mich.,7,23,0,30
+2022,130,Central Mo.,13,14,0,27
+2022,1009,Central Okla.,24,7,0,31
+2022,30049,Central St. (OH),6,20,0,26
+2022,1010,Central Wash.,17,9,0,26
+2022,132,Centre,11,13,0,24
+2022,1012,Chadron St.,10,17,0,27
+2022,133,Chaminade,9,18,0,27
+2022,134,Chapman,22,5,0,27
+2022,1013,Charleston (WV),24,7,0,31
+2022,48,Charleston So.,6,25,0,31
+2022,458,Charlotte,17,14,0,31
+2022,10972,Chatham,21,5,0,26
+2022,693,Chattanooga,27,7,0,34
+2022,21323,Chestnut Hill,14,13,0,27
+2022,137,UChicago,10,15,0,25
+2022,136,Chicago St.,8,26,0,34
+2022,95,Chico St.,21,4,0,25
+2022,8875,Chowan,8,19,0,27
+2022,139,Chris. Newport,27,3,0,30
+2022,1015,Christian Brothers,10,16,0,26
+2022,140,Cincinnati,18,15,0,33
+2022,30058,Claflin,7,20,0,27
+2022,142,Claremont-M-S,16,8,0,24
+2022,143,Clarion,9,18,0,27
+2022,145,Clark (MA),18,8,0,26
+2022,144,Clark Atlanta,12,16,0,28
+2022,958,Clarks Summit,8,19,0,27
+2022,146,Clarkson,6,19,0,25
+2022,20576,Clayton St.,8,20,0,28
+2022,147,Clemson,17,16,0,33
+2022,148,Cleveland St.,20,10,0,30
+2022,451,CMSV,10,17,0,27
+2022,722,Coast Guard,5,18,0,23
+2022,149,Coastal Carolina,16,13,0,29
+2022,30083,Cobleskill St.,3,20,0,23
+2022,150,Coe,20,8,0,28
+2022,1023,Coker,5,22,0,27
+2022,1014,Col. of Charleston,17,15,0,32
+2022,151,Colby,12,13,0,25
+2022,152,Colby-Sawyer,9,15,0,24
+2022,153,Colgate,23,11,0,34
+2022,11403,Colo. Christian,8,20,0,28
+2022,155,Colo. Sch. of Mines,16,11,0,27
+2022,157,Colorado,21,11,0,32
+2022,154,Colorado Col.,7,20,0,27
+2022,11416,Colorado Mesa,25,9,1,35
+2022,156,Colorado St.,25,5,0,30
+2022,2720,CSU Pueblo,12,16,0,28
+2022,158,Columbia,4,22,0,26
+2022,159,Columbus St.,20,11,0,31
+2022,1028,Concord,14,15,0,29
+2022,30199,CUI,13,13,0,26
+2022,24400,Concordia (TX),10,15,0,25
+2022,160,Concordia Chicago,15,10,0,25
+2022,1036,Concordia Wisconsin,14,12,0,26
+2022,161,Concordia-M'head,5,18,0,23
+2022,9081,Concordia-St. Paul,3,25,0,28
+2022,163,Connecticut Col.,10,11,0,21
+2022,8935,Converse,6,24,0,30
+2022,165,Coppin St.,9,23,0,32
+2022,167,Cornell,15,11,0,26
+2022,166,Cornell College,19,9,0,28
+2022,30111,Covenant,18,9,0,27
+2022,169,Creighton,22,11,0,33
+2022,30035,Crown (MN),15,15,0,30
+2022,94,CSU Bakersfield,8,19,0,27
+2022,101,CSUN,7,23,0,30
+2022,170,Curry,2,24,0,26
+2022,122,CWRU,20,7,0,27
+2022,1059,D'Youville,2,25,0,27
+2022,30174,Daemen,20,9,0,29
+2022,1044,Dallas,7,17,0,24
+2022,172,Dartmouth,9,16,0,25
+2022,30221,Davenport,17,14,0,31
+2022,173,Davidson,27,6,0,33
+2022,174,Davis & Elkins,8,21,0,29
+2022,175,Dayton,23,10,0,33
+2022,1045,DBU,17,12,0,29
+2022,30219,Dean,8,17,0,25
+2022,1050,Defiance,11,14,0,25
+2022,180,Delaware,22,12,0,34
+2022,178,Delaware St.,2,26,0,28
+2022,179,Delaware Valley,15,10,0,25
+2022,181,Delta St.,10,17,0,27
+2022,182,Denison,13,13,0,26
+2022,183,Denver,12,21,0,33
+2022,176,DePaul,15,16,0,31
+2022,177,DePauw,11,14,0,25
+2022,20,DeSales,22,6,0,28
+2022,184,Detroit Mercy,14,15,0,29
+2022,185,Dickinson,11,13,0,24
+2022,186,Dist. Columbia,9,21,0,30
+2022,30095,Dixie St.,14,19,0,33
+2022,30118,Dominican (CA),8,19,0,27
+2022,1332,Dominican (IL),2,22,0,24
+2022,8956,Dominican (NY),21,9,0,30
+2022,189,Drake,24,10,0,34
+2022,190,Drew,18,9,0,27
+2022,191,Drexel,15,14,0,29
+2022,1057,Drury,10,16,0,26
+2022,192,Dubuque,21,8,0,29
+2022,193,Duke,28,6,0,34
+2022,194,Duquesne,6,24,0,30
+2022,195,Earlham,10,14,0,24
+2022,196,East Carolina,15,15,0,30
+2022,8965,East Central,11,18,0,29
+2022,197,East Stroudsburg,19,8,0,27
+2022,1062,East Tex. Baptist,14,12,0,26
+2022,203,East. Mennonite,10,14,0,24
+2022,8968,Eastern,21,7,0,28
+2022,200,Eastern Conn. St.,18,8,0,26
+2022,201,Eastern Ill.,5,26,0,31
+2022,202,Eastern Ky.,13,18,0,31
+2022,204,Eastern Mich.,10,21,0,31
+2022,206,Eastern N.M.,7,17,0,24
+2022,1064,Eastern Nazarene,14,12,0,26
+2022,207,Eastern Wash.,18,15,0,33
+2022,208,Eckerd,5,19,0,24
+2022,1066,Edgewood,11,14,0,25
+2022,209,Edinboro,9,18,0,27
+2022,210,Elizabeth City St.,14,13,0,27
+2022,211,Elizabethtown,8,17,0,25
+2022,212,Elmhurst,26,6,0,32
+2022,213,Elmira,6,19,0,25
+2022,532,Elms,2,21,0,23
+2022,1068,Elon,10,22,0,32
+2022,9680,Embry-Riddle (FL),24,9,0,33
+2022,214,Emerson,18,9,0,27
+2022,30193,Emmanuel (GA),19,9,0,28
+2022,215,Emmanuel (MA),15,11,0,26
+2022,217,Emory,20,6,0,26
+2022,216,Emory & Henry,16,12,0,28
+2022,1071,Emporia St.,20,9,0,29
+2022,8981,Endicott,13,11,0,24
+2022,1072,Erskine,4,26,0,30
+2022,198,ETSU,15,17,0,32
+2022,218,Eureka,15,13,0,28
+2022,219,Evansville,6,24,0,30
+2022,220,Fairfield,15,18,0,33
+2022,222,Fairleigh Dickinson,4,22,0,26
+2022,1076,Fairmont St.,23,8,0,31
+2022,27892,Farmingdale St.,19,9,0,28
+2022,223,Fayetteville St.,21,9,0,30
+2022,221,FDU-Florham,4,22,0,26
+2022,23157,Felician,19,10,0,29
+2022,224,Ferris St.,22,9,0,31
+2022,225,Ferrum,6,20,0,26
+2022,28755,FGCU,21,11,0,32
+2022,1079,Findlay,19,13,0,32
+2022,30032,Finlandia,3,21,0,24
+2022,227,Fitchburg St.,7,18,0,25
+2022,231,FIU,15,17,0,32
+2022,229,Fla. Atlantic,19,14,0,33
+2022,233,Fla. Southern,16,15,0,31
+2022,30092,Flagler,23,8,0,31
+2022,235,Florida,19,13,0,32
+2022,228,Florida A&M,13,17,0,30
+2022,234,Florida St.,17,14,0,31
+2022,230,Florida Tech,13,14,0,27
+2022,11538,Fontbonne,17,7,0,24
+2022,236,Fordham,16,16,0,32
+2022,9011,Fort Hays St.,23,6,0,29
+2022,1083,Fort Lewis,19,9,0,28
+2022,237,Fort Valley St.,8,21,0,29
+2022,238,Framingham St.,3,22,0,25
+2022,1085,Francis Marion,13,15,0,28
+2022,30069,Franciscan,10,18,0,28
+2022,2694,Franklin,14,16,0,30
+2022,239,Franklin & Marshall,10,15,0,25
+2022,241,Franklin Pierce,18,11,0,29
+2022,242,Fredonia,3,22,0,25
+2022,30147,Fresno Pacific,17,11,0,28
+2022,96,Fresno St.,19,13,0,32
+2022,243,Frostburg St.,8,20,0,28
+2022,244,Furman,22,12,0,34
+2022,253,Ga. Southern,13,16,0,29
+2022,1097,Ga. Southwestern,10,17,0,27
+2022,245,Gallaudet,3,21,0,24
+2022,246,Gannon,14,13,0,27
+2022,1092,Gardner-Webb,18,13,0,31
+2022,30084,Geneva,14,11,0,25
+2022,1094,George Fox,11,16,0,27
+2022,248,George Mason,14,16,0,30
+2022,249,George Washington,12,18,0,30
+2022,251,Georgetown,6,25,0,31
+2022,257,Georgia,6,26,0,32
+2022,1096,Georgia College,21,8,0,29
+2022,254,Georgia St.,18,10,0,28
+2022,255,Georgia Tech,12,20,0,32
+2022,9004,Georgian Court,4,22,0,26
+2022,258,Gettysburg,15,10,0,25
+2022,1098,Glenville St.,12,16,0,28
+2022,8366,Goldey-Beacom,14,14,0,28
+2022,260,Gonzaga,26,3,0,29
+2022,1099,Gordon,12,14,0,26
+2022,1467,Goucher,3,22,0,25
+2022,261,Grambling,12,20,0,32
+2022,1104,Grand Canyon,25,8,0,33
+2022,262,Grand Valley St.,18,11,0,29
+2022,794,Green Bay,5,25,0,30
+2022,263,Greensboro,10,16,0,26
+2022,1111,Greenville,5,21,0,26
+2022,264,Grinnell,16,9,0,25
+2022,265,Grove City,10,16,0,26
+2022,1112,Guilford,18,9,0,27
+2022,266,Gust. Adolphus,14,9,0,23
+2022,12399,Gwynedd Mercy,15,12,0,27
+2022,267,Hamilton,12,13,0,25
+2022,268,Hamline,10,16,0,26
+2022,269,Hampden-Sydney,14,11,0,25
+2022,270,Hampton,9,19,0,28
+2022,1115,Hanover,22,6,0,28
+2022,271,Hardin-Simmons,17,9,0,26
+2022,1116,Harding,7,22,0,29
+2022,272,Hartford,12,20,0,32
+2022,273,Hartwick,2,22,0,24
+2022,275,Harvard,13,13,0,26
+2022,276,Haverford,13,12,0,25
+2022,277,Hawaii,17,11,0,28
+2022,2697,Hawaii Hilo,14,15,0,29
+2022,2696,Hawaii Pacific,5,23,0,28
+2022,278,Heidelberg,18,9,0,27
+2022,1123,Henderson St.,17,12,0,29
+2022,1124,Hendrix,17,12,0,29
+2022,19651,High Point,14,18,0,32
+2022,8398,Hilbert,11,15,0,26
+2022,280,Hillsdale,25,8,0,33
+2022,281,Hiram,9,17,0,26
+2022,282,Hobart,12,14,0,26
+2022,283,Hofstra,21,11,0,32
+2022,285,Holy Cross,9,22,0,31
+2022,1126,Holy Family,9,19,0,28
+2022,30175,Holy Names,7,20,0,27
+2022,8404,Hood,20,7,0,27
+2022,286,Hope,22,8,0,30
+2022,30160,Houghton,4,21,0,25
+2022,288,Houston,29,5,0,34
+2022,287,Houston Baptist,11,18,0,29
+2022,287,Houston Baptist,11,18,0,29
+2022,290,Howard,16,13,0,29
+2022,2741,Howard Payne,7,20,0,27
+2022,291,Cal Poly Humboldt,11,15,0,26
+2022,292,Hunter,13,13,0,26
+2022,1130,Huntingdon,8,15,0,23
+2022,1133,Husson,15,10,0,25
+2022,295,Idaho,9,22,0,31
+2022,294,Idaho St.,7,23,0,30
+2022,30172,IIT,12,12,0,24
+2022,300,Ill. Wesleyan,24,6,0,30
+2022,30050,Ill. Springfield,12,18,0,30
+2022,301,Illinois,22,9,0,31
+2022,297,Illinois Col.,14,11,0,25
+2022,299,Illinois St.,13,20,0,33
+2022,303,Immaculata,8,20,0,28
+2022,2743,UIW,8,28,0,36
+2022,306,Indiana,20,13,0,33
+2022,307,Indiana (PA),31,2,0,33
+2022,305,Indiana St.,11,20,0,31
+2022,310,Iona,25,7,0,32
+2022,312,Iowa,26,9,0,35
+2022,311,Iowa St.,20,12,0,32
+2022,313,Ithaca,17,9,0,26
+2022,2699,IUPUI,3,26,0,29
+2022,314,Jackson St.,11,20,0,31
+2022,316,Jacksonville,21,10,0,31
+2022,315,Jacksonville St.,21,10,0,31
+2022,317,James Madison,15,14,0,29
+2022,543,Jefferson,21,6,0,27
+2022,320,John Carroll,8,16,0,24
+2022,321,John Jay,11,15,0,26
+2022,322,Johns Hopkins,23,4,0,27
+2022,22626,JWU (Providence),10,16,0,26
+2022,323,Johnson C. Smith,5,19,0,24
+2022,325,Juniata,16,12,0,28
+2022,326,Kalamazoo,5,21,0,26
+2022,328,Kansas,28,6,0,34
+2022,327,Kansas St.,14,17,0,31
+2022,329,Kean,14,11,0,25
+2022,330,Keene St.,21,8,0,29
+2022,1157,Kennesaw St.,13,18,0,31
+2022,331,Kent St.,23,10,0,33
+2022,334,Kentucky,26,7,0,33
+2022,332,Kentucky St.,9,15,0,24
+2022,335,Kenyon,3,22,0,25
+2022,1159,Keuka,4,19,0,23
+2022,30047,Keystone,9,17,0,26
+2022,30051,King (TN),14,15,0,29
+2022,336,King's (PA),8,16,0,24
+2022,337,Knox,8,17,0,25
+2022,339,Kutztown,9,19,0,28
+2022,333,Ky. Wesleyan,14,16,0,30
+2022,1163,La Roche,16,12,0,28
+2022,340,La Salle,11,19,0,30
+2022,341,La Verne,6,21,0,27
+2022,498,ULM,13,18,0,31
+2022,342,Lafayette,10,20,0,30
+2022,1162,LaGrange,16,12,0,28
+2022,2746,Lake Erie,15,14,0,29
+2022,344,Lake Forest,10,15,0,25
+2022,345,Lake Superior St.,16,11,0,27
+2022,1164,Lakeland,10,14,0,24
+2022,346,Lamar University,2,29,0,31
+2022,30085,Lancaster Bible,21,9,0,30
+2022,1167,Lander,14,15,0,29
+2022,347,Lane,10,18,0,28
+2022,8486,Lasell,15,11,0,26
+2022,348,Lawrence,12,13,0,25
+2022,349,Le Moyne,12,15,0,27
+2022,351,Lebanon Valley,7,18,0,25
+2022,30013,Lee,19,9,0,28
+2022,13302,Lees-McRae,15,15,0,30
+2022,352,Lehigh,13,19,0,32
+2022,279,Lehman,21,4,0,25
+2022,350,LeMoyne-Owen,16,11,0,27
+2022,1170,Lenoir-Rhyne,10,19,0,29
+2022,24317,Lesley,2,20,0,22
+2022,8490,LeTourneau,22,7,0,29
+2022,354,Lewis,16,11,0,27
+2022,22235,Lewis & Clark,10,14,0,24
+2022,355,Liberty,22,11,0,33
+2022,1174,Limestone,10,17,0,27
+2022,356,Lincoln (MO),4,23,0,27
+2022,357,Lincoln (PA),18,10,0,28
+2022,1176,Lincoln Memorial,26,5,0,31
+2022,30136,Lindenwood,12,17,0,29
+2022,1179,Linfield,18,7,0,25
+2022,28600,Lipscomb,14,19,0,33
+2022,32,Little Rock,9,19,0,28
+2022,361,LIU,16,14,0,30
+2022,359,Livingstone,14,10,0,24
+2022,370,LMU (CA),11,18,0,29
+2022,360,Lock Haven,11,16,0,27
+2022,99,Long Beach St.,20,12,0,32
+2022,363,Longwood,26,6,0,32
+2022,364,Loras,18,10,0,28
+2022,671,Louisiana,16,15,0,31
+2022,366,Louisiana Tech,24,10,0,34
+2022,367,Louisville,13,19,0,32
+2022,371,Loyola Chicago,25,7,0,32
+2022,369,Loyola Maryland,14,16,0,30
+2022,365,LSU,22,11,0,33
+2022,30177,Lubbock Christian,27,3,1,31
+2022,372,Luther,8,17,0,25
+2022,373,Lycoming,17,11,0,28
+2022,374,Lynchburg,14,12,0,26
+2022,20794,Lynn,11,13,0,24
+2022,376,Macalester,15,13,0,28
+2022,380,Maine,6,23,0,29
+2022,378,Maine Maritime,4,16,0,20
+2022,30137,Malone,19,11,0,30
+2022,1192,Manchester,8,16,0,24
+2022,381,Manhattan,15,15,0,30
+2022,382,Manhattanville,17,11,0,28
+2022,384,Mansfield,5,23,0,28
+2022,1194,Maranatha Baptist,6,19,0,25
+2022,1196,Marian (WI),19,9,0,28
+2022,385,Marietta,29,2,0,31
+2022,386,Marist,14,16,0,30
+2022,387,Marquette,19,12,0,31
+2022,1199,Mars Hill,6,21,0,27
+2022,388,Marshall,12,21,0,33
+2022,8597,Martin Luther,5,22,0,27
+2022,30075,Mary,11,17,0,28
+2022,389,Mary Baldwin,8,15,0,23
+2022,1203,Mary Hardin-Baylor,28,5,0,33
+2022,390,Mary Washington,16,9,0,25
+2022,392,Maryland,15,17,0,32
+2022,394,Marymount (VA),17,9,0,26
+2022,395,Maryville (MO),12,18,0,30
+2022,396,Maryville (TN),20,5,0,25
+2022,397,Marywood,7,18,0,25
+2022,400,Massachusetts,15,17,0,32
+2022,773,McDaniel,11,14,0,25
+2022,30138,McKendree,14,12,0,26
+2022,486,MCLA,10,13,0,23
+2022,8530,McMurry,9,16,0,25
+2022,402,McNeese,12,23,0,35
+2022,379,Me.-Farmington,14,7,0,21
+2022,30040,Me.-Presque Isle,15,10,0,25
+2022,23725,Medaille,15,13,0,28
+2022,403,Medgar Evers,6,19,0,25
+2022,404,Memphis,21,10,0,31
+2022,406,Mercer,16,17,0,33
+2022,724,Merchant Marine,15,11,0,26
+2022,407,Mercy,6,19,0,25
+2022,408,Mercyhurst,25,7,0,32
+2022,410,Merrimack,14,16,0,30
+2022,411,Messiah,11,13,0,24
+2022,412,Methodist,4,21,0,25
+2022,415,Miami (FL),23,10,0,33
+2022,414,Miami (OH),14,18,0,32
+2022,418,Michigan,17,14,0,31
+2022,416,Michigan St.,22,12,0,34
+2022,417,Michigan Tech,21,7,0,28
+2022,419,Middle Tenn.,23,10,0,33
+2022,420,Middlebury,18,6,0,24
+2022,422,Miles,24,5,0,29
+2022,423,Millersville,25,8,0,33
+2022,424,Millikin,14,12,0,26
+2022,426,Millsaps,4,21,0,25
+2022,797,Milwaukee,10,22,0,32
+2022,427,Minn. Duluth,25,7,0,32
+2022,27854,Minn.-Crookston,8,19,0,27
+2022,1226,Minn.-Morris,8,18,0,26
+2022,428,Minnesota,13,17,0,30
+2022,383,Minnesota St.,16,10,0,26
+2022,30125,Minot St.,15,10,0,25
+2022,16142,Misericordia,10,17,0,27
+2022,429,Mississippi Col.,7,20,0,27
+2022,430,Mississippi St.,18,15,0,33
+2022,432,Mississippi Val.,2,27,0,29
+2022,434,Missouri,12,21,0,33
+2022,435,Missouri S&T,11,18,0,29
+2022,669,Missouri St.,23,10,0,33
+2022,9013,Missouri Western,14,17,0,31
+2022,398,MIT,13,13,0,26
+2022,30042,Mitchell,17,11,0,28
+2022,9012,Mo. Southern St.,14,15,0,29
+2022,436,Mo.-St. Louis,26,6,0,32
+2022,437,Molloy,12,17,0,29
+2022,439,Monmouth,21,13,0,34
+2022,438,Monmouth (IL),3,21,0,24
+2022,205,Mont. St. Billings,13,15,0,28
+2022,441,Montana,18,14,0,32
+2022,440,Montana St.,27,7,0,34
+2022,442,Montclair St.,14,10,0,24
+2022,1238,Montevallo,13,16,0,29
+2022,443,Moravian,9,17,0,26
+2022,444,Morehead St.,23,11,0,34
+2022,445,Morehouse,21,8,0,29
+2022,446,Morgan St.,13,14,0,27
+2022,30067,SUNY Morrisville,9,16,0,25
+2022,30036,Mount Aloysius,5,20,0,25
+2022,1245,Mount Olive,16,14,0,30
+2022,452,Mount Union,23,5,0,28
+2022,20220,MSOE,9,15,0,24
+2022,413,MSU Denver,17,12,0,29
+2022,1240,MSU Moorhead,19,12,0,31
+2022,1222,Midwestern St.,16,15,0,31
+2022,8567,Mt. St. Joseph,10,15,0,25
+2022,1468,Mt. St. Mary (NY),7,17,0,24
+2022,450,Mount St. Mary's,14,16,0,30
+2022,453,Muhlenberg,9,16,0,25
+2022,454,Murray St.,30,2,0,32
+2022,455,Muskingum,6,20,0,26
+2022,431,MUW,3,15,0,18
+2022,488,N.C. A&T,12,20,0,32
+2022,489,N.C. Central,16,15,0,31
+2022,491,N.C. Wesleyan,19,9,0,28
+2022,8577,N.M. Highlands,15,15,0,30
+2022,726,Navy,21,11,0,32
+2022,461,Nazareth,24,5,0,29
+2022,490,NC State,11,21,0,32
+2022,462,Neb. Wesleyan,14,12,0,26
+2022,1156,Neb.-Kearney,11,17,0,28
+2022,463,Nebraska,10,22,0,32
+2022,1254,Neumann,21,9,0,30
+2022,466,Nevada,13,18,0,31
+2022,467,New England Col.,11,13,0,24
+2022,469,New Hampshire,15,13,0,28
+2022,470,New Haven,18,9,0,27
+2022,319,New Jersey City,12,15,0,27
+2022,473,New Mexico,13,19,0,32
+2022,472,New Mexico St.,27,6,0,33
+2022,474,New Orleans,21,13,0,34
+2022,1257,Newberry,15,13,0,28
+2022,30054,Newman,6,21,0,27
+2022,482,Niagara,14,16,0,30
+2022,483,Nicholls,23,11,0,34
+2022,484,Nichols,25,4,0,29
+2022,471,NJIT,11,18,0,29
+2022,485,Norfolk St.,24,6,0,30
+2022,487,North Ala.,9,21,0,30
+2022,457,North Carolina,24,9,0,33
+2022,492,North Central (IL),17,10,0,27
+2022,30039,North Central (MN),16,13,0,29
+2022,494,North Dakota,6,26,0,32
+2022,493,North Dakota St.,23,10,0,33
+2022,2711,North Florida,11,20,0,31
+2022,30052,North Georgia,14,14,0,28
+2022,9223,North Greenville,6,22,0,28
+2022,496,North Park,10,15,0,25
+2022,497,North Texas,24,6,0,30
+2022,500,Northeastern,9,22,0,31
+2022,12810,Northeastern St.,16,14,0,30
+2022,501,Northern Ariz.,9,23,0,32
+2022,502,Northern Colo.,20,16,0,36
+2022,503,NIU,9,21,0,30
+2022,505,Northern Ky.,20,12,0,32
+2022,506,Northern Mich.,18,12,0,30
+2022,1266,Northern St.,20,12,0,32
+2022,1267,Northland,6,22,0,28
+2022,507,Northwest Mo. St.,30,5,0,35
+2022,1274,Northwest Nazarene,12,9,0,21
+2022,509,Northwestern,15,16,0,31
+2022,30178,Northwestern Okla.,20,9,0,29
+2022,508,Northwestern St.,10,24,0,34
+2022,30031,Northwestern-St. Paul,22,7,0,29
+2022,510,Northwood,5,22,0,27
+2022,511,Norwich,15,12,0,27
+2022,513,Notre Dame,22,10,0,32
+2022,30126,Notre Dame (OH),15,14,0,29
+2022,24639,Nova Southeastern,30,0,0,30
+2022,324,NVU-Johnson,10,15,0,25
+2022,30065,NVU-Lyndon,7,19,0,26
+2022,1277,Nyack,11,16,0,27
+2022,479,NYU,14,11,0,25
+2022,514,Oakland,20,12,0,32
+2022,515,Oberlin,6,19,0,25
+2022,516,Occidental,7,16,0,23
+2022,2713,Oglethorpe,19,8,0,27
+2022,519,Ohio,24,9,0,33
+2022,30119,Ohio Dominican,7,23,0,30
+2022,517,Ohio Northern,10,15,0,25
+2022,518,Ohio St.,19,11,0,30
+2022,520,Ohio Wesleyan,15,12,0,27
+2022,30202,Okla. Baptist,20,9,0,29
+2022,30179,Okla. Christian,8,19,0,27
+2022,522,Oklahoma,19,15,0,34
+2022,521,Oklahoma St.,15,15,0,30
+2022,523,Old Dominion,13,19,0,32
+2022,524,Old Westbury,10,13,0,23
+2022,433,Ole Miss,13,19,0,32
+2022,525,Olivet,7,20,0,27
+2022,464,Omaha,5,25,0,30
+2022,527,Oral Roberts,20,12,0,32
+2022,529,Oregon,19,14,0,33
+2022,528,Oregon St.,3,28,0,31
+2022,530,Oswego St.,27,3,0,30
+2022,531,Otterbein,17,8,0,25
+2022,1289,Ouachita Baptist,8,21,0,29
+2022,23008,Ozarks (AR),6,20,0,26
+2022,2682,P.R.-Bayamon,1,3,0,4
+2022,24361,P.R.-Mayaguez,0,0,1,1
+2022,2716,P.R.-Rio Piedras,0,2,0,2
+2022,533,Pace,21,10,0,31
+2022,534,Pacific,8,22,0,30
+2022,2751,Pacific (OR),11,14,0,25
+2022,1297,Pacific Lutheran,18,10,0,28
+2022,30045,Palm Beach Atl.,7,21,0,28
+2022,540,Penn,12,16,0,28
+2022,30190,Penn College,5,18,0,23
+2022,539,Penn St.,14,17,0,31
+2022,30081,Penn St. Harrisburg,24,4,0,28
+2022,30114,Penn St.-Abington,12,13,0,25
+2022,25719,Penn St.-Altoona,19,8,0,27
+2022,538,Penn St.-Behrend,19,8,0,27
+2022,30044,Penn St.-Berks,0,22,0,22
+2022,541,Pepperdine,7,25,0,32
+2022,542,Pfeiffer,12,12,0,24
+2022,21830,Piedmont,9,18,0,27
+2022,1315,Pitt.-Bradford,9,16,0,25
+2022,11839,Pitt.-Greensburg,10,16,0,26
+2022,546,Pitt.-Johnstown,21,9,0,30
+2022,1314,Pittsburg St.,8,20,0,28
+2022,545,Pittsburgh,11,21,0,32
+2022,547,Plattsburgh St.,2,23,0,25
+2022,548,Plymouth St.,15,12,0,27
+2022,30149,Point Loma,21,10,0,31
+2022,549,Pomona-Pitzer,22,5,0,27
+2022,551,Portland,18,14,0,32
+2022,550,Portland St.,14,17,0,31
+2022,1318,Post,20,9,0,29
+2022,553,Prairie View,8,19,0,27
+2022,1320,Presbyterian,12,20,0,32
+2022,554,Princeton,23,6,0,29
+2022,555,Principia,8,17,0,25
+2022,556,Providence,25,5,0,30
+2022,557,Puget Sound,9,18,0,27
+2022,30029,Purchase,6,19,0,25
+2022,559,Purdue,27,7,0,34
+2022,308,Purdue Fort Wayne,21,11,0,32
+2022,30222,Purdue Northwest,7,22,0,29
+2022,11504,Queens (NC),30,3,0,33
+2022,560,Queens (NY),11,12,0,23
+2022,561,Quincy,16,17,0,33
+2022,562,Quinnipiac,14,17,0,31
+2022,563,Radford,11,18,0,29
+2022,564,Ramapo,6,17,0,23
+2022,566,Randolph,6,19,0,25
+2022,565,Randolph-Macon,31,1,0,32
+2022,567,Redlands,12,13,0,25
+2022,568,Regis (CO),20,11,0,31
+2022,569,Regis (MA),13,13,0,26
+2022,570,Rensselaer,23,6,0,29
+2022,572,Rhode Island,15,16,0,31
+2022,571,Rhode Island Col.,14,12,0,26
+2022,573,Rhodes,10,17,0,27
+2022,574,Rice,17,16,0,33
+2022,575,Richmond,23,12,0,35
+2022,576,Rider,14,19,0,33
+2022,577,Ripon,18,9,0,27
+2022,580,RIT,8,14,0,22
+2022,18422,Rivier,10,16,0,26
+2022,578,Roanoke,18,9,0,27
+2022,579,Robert Morris,8,24,0,32
+2022,30150,Roberts Wesleyan,12,13,0,25
+2022,581,Rochester (NY),18,9,0,27
+2022,582,Rockford,15,10,0,25
+2022,1328,Rockhurst,11,20,0,31
+2022,583,Roger Williams,14,10,0,24
+2022,30180,Rogers St.,16,15,0,31
+2022,584,Rollins,14,15,0,29
+2022,585,Rose-Hulman,15,10,0,25
+2022,15882,Rosemont,11,12,0,23
+2022,259,Rowan,23,6,0,29
+2022,587,Rutgers,18,13,0,31
+2022,588,Rutgers-Camden,1,22,0,23
+2022,589,Rutgers-Newark,20,9,0,29
+2022,11276,USC Aiken,17,12,0,29
+2022,102,Sacramento St.,11,18,0,29
+2022,590,Sacred Heart,10,20,0,30
+2022,11036,Russell Sage,13,13,0,26
+2022,591,Saginaw Valley,19,12,0,31
+2022,594,Saint Augustine's,7,21,0,28
+2022,600,Saint Francis (PA),9,21,0,30
+2022,602,Saint John's (MN),23,5,0,28
+2022,606,Saint Joseph's,11,19,0,30
+2022,608,Saint Leo,12,16,0,28
+2022,609,Saint Louis,23,11,0,34
+2022,1343,Saint Martin's,18,9,0,27
+2022,610,Saint Mary's (CA),25,7,0,32
+2022,612,Saint Mary's (MN),8,16,0,24
+2022,613,Saint Michael's,8,16,0,24
+2022,617,Saint Peter's,19,11,0,30
+2022,1347,Saint Rose,14,12,0,26
+2022,30064,Saint Vincent,3,22,0,25
+2022,19117,Salem (WV),20,7,0,27
+2022,621,Salem St.,15,10,0,25
+2022,622,Salisbury,11,12,0,23
+2022,623,Salve Regina,21,7,0,28
+2022,624,Sam Houston,21,14,0,35
+2022,625,Samford,21,11,0,32
+2022,627,San Diego,15,16,0,31
+2022,626,San Diego St.,23,8,0,31
+2022,628,San Fran. St.,11,19,0,30
+2022,629,San Francisco,24,9,0,33
+2022,630,San Jose St.,8,24,0,32
+2022,631,Santa Clara,21,11,0,32
+2022,30163,Sarah Lawrence,8,16,0,24
+2022,632,Savannah St.,15,14,0,29
+2022,1355,Schreiner,15,14,0,29
+2022,633,Scranton,13,11,0,24
+2022,634,Seattle Pacific,14,13,0,27
+2022,1356,Seattle U,25,9,0,34
+2022,635,Seton Hall,21,10,0,31
+2022,30063,Seton Hill,3,24,0,27
+2022,652,Sewanee,6,16,0,22
+2022,676,SFA,23,9,0,32
+2022,636,Shaw,9,11,0,20
+2022,637,Shenandoah,4,23,0,27
+2022,10870,Shepherd,12,17,0,29
+2022,638,Shippensburg,21,9,0,30
+2022,30151,Shorter,5,20,0,25
+2022,639,Siena,15,14,0,29
+2022,30127,Simon Fraser,12,13,0,25
+2022,641,Simpson,5,21,0,26
+2022,30128,Sioux Falls,11,14,0,25
+2022,660,SIUE,11,21,0,32
+2022,642,Skidmore,15,11,0,26
+2022,643,Slippery Rock,17,12,0,29
+2022,663,SMU,23,8,0,31
+2022,645,Sonoma St.,3,25,0,28
+2022,646,South Alabama,19,11,0,30
+2022,648,South Carolina,18,13,0,31
+2022,647,South Carolina St.,15,16,0,31
+2022,650,South Dakota,19,12,0,31
+2022,30139,South Dakota Mines,10,18,0,28
+2022,649,South Dakota St.,30,4,0,34
+2022,651,South Fla.,8,23,0,31
+2022,654,Southeast Mo. St.,14,19,0,33
+2022,655,Southeastern La.,21,15,0,36
+2022,1371,Southeastern Okla.,24,6,0,30
+2022,1376,Southern Ark.,18,12,0,30
+2022,657,Southern California,26,7,0,33
+2022,658,Southern Conn. St.,7,18,0,25
+2022,659,Southern Ill.,16,15,0,31
+2022,661,Southern Ind.,18,9,0,27
+2022,662,Southern Me.,10,17,0,27
+2022,664,Southern Miss.,7,26,0,33
+2022,468,Southern N.H.,13,11,0,24
+2022,30152,Southern Nazarene,21,10,0,31
+2022,665,Southern U.,17,14,0,31
+2022,667,Southern Utah,20,11,0,31
+2022,30164,Southern Va.,14,12,0,26
+2022,30192,Southern Wesleyan,19,10,0,29
+2022,2755,Southwest Baptist,21,6,0,27
+2022,8736,Southwest Minn. St.,15,12,0,27
+2022,8746,Southwestern (TX),9,19,0,28
+2022,8744,Southwestern Okla.,14,17,0,31
+2022,23260,Spalding,8,19,0,27
+2022,30191,Spring Hill,9,22,0,31
+2022,673,Springfield,6,17,0,23
+2022,593,St. Anselm,17,11,0,28
+2022,596,St. Bonaventure,20,9,0,29
+2022,598,St. Cloud St.,11,18,0,29
+2022,1334,St. Edward's,17,12,0,29
+2022,9684,Saint Elizabeth,7,17,0,24
+2022,599,St. Francis Brooklyn,10,20,0,30
+2022,601,St. John Fisher,19,8,0,27
+2022,603,St. John's (NY),17,15,0,32
+2022,8687,Saint Joseph (CT),26,2,0,28
+2022,30072,St. Joseph's (Brkln),3,22,0,25
+2022,1340,St. Joseph's (L.I.),15,9,0,24
+2022,605,St. Joseph's (ME),9,19,0,28
+2022,607,St. Lawrence,16,10,0,26
+2022,611,St. Mary's (MD),13,12,0,25
+2022,1346,St. Mary's (TX),12,14,0,26
+2022,614,St. Norbert,16,10,0,26
+2022,615,St. Olaf,16,11,0,27
+2022,618,St. Scholastica,5,21,0,26
+2022,620,St. Thomas (MN),10,20,0,30
+2022,1348,St. Thomas Aquinas,28,4,0,32
+2022,674,Stanford,16,16,0,32
+2022,103,Stanislaus St.,10,15,0,25
+2022,675,Staten Island,7,19,0,26
+2022,678,Stetson,11,19,0,30
+2022,679,Stevens,17,9,0,26
+2022,21852,Stevenson,11,12,0,23
+2022,681,Stockton,26,5,0,31
+2022,682,Stonehill,15,12,0,27
+2022,683,Stony Brook,18,13,0,31
+2022,684,Suffolk,16,10,0,26
+2022,1390,Sul Ross St.,10,18,0,28
+2022,30165,SUNY Canton,13,12,0,25
+2022,168,SUNY Cortland,14,12,0,26
+2022,30225,SUNY Delhi,20,7,0,27
+2022,247,SUNY Geneseo,11,13,0,24
+2022,478,SUNY Maritime,4,19,0,23
+2022,475,SUNY New Paltz,15,12,0,27
+2022,526,SUNY Oneonta,18,10,0,28
+2022,9500,SUNY Poly,18,11,0,29
+2022,552,SUNY Potsdam,12,12,0,24
+2022,685,Susquehanna,24,5,0,29
+2022,686,Swarthmore,22,6,0,28
+2022,688,Syracuse,16,17,0,33
+2022,689,Tampa,16,10,0,26
+2022,1395,Tarleton St.,14,18,0,32
+2022,712,TCNJ,10,14,0,24
+2022,698,TCU,20,12,0,32
+2022,690,Temple,17,12,0,29
+2022,694,Tennessee,26,7,0,33
+2022,691,Tennessee St.,14,18,0,32
+2022,692,Tennessee Tech,11,21,0,32
+2022,30090,Tex. A&M Int'l,13,15,0,28
+2022,199,Tex. A&M-Commerce,18,10,0,28
+2022,696,Tex. A&M-Kingsville,18,11,0,29
+2022,30088,Tex. Permian Basin,16,14,0,30
+2022,703,Texas,23,11,0,34
+2022,697,Texas A&M,24,12,0,36
+2022,1400,Texas Lutheran,10,16,0,26
+2022,699,Texas Southern,18,12,0,30
+2022,670,Texas St.,21,7,0,28
+2022,700,Texas Tech,25,9,0,34
+2022,23121,Texas-Dallas,16,9,0,25
+2022,30028,UT Tyler,16,10,0,26
+2022,141,The Citadel,13,18,0,31
+2022,707,Thiel,8,16,0,24
+2022,2758,Thomas (ME),4,14,0,18
+2022,1403,Tiffin,10,20,0,30
+2022,709,Toledo,26,7,0,33
+2022,711,Towson,25,8,0,33
+2022,28749,Transylvania,16,10,0,26
+2022,30002,Trevecca Nazarene,6,23,0,29
+2022,30037,Trine,18,9,0,27
+2022,713,Trinity (CT),16,9,0,25
+2022,715,Trinity (TX),23,7,0,30
+2022,716,Troy,20,11,0,31
+2022,499,Truman St.,21,10,0,31
+2022,717,Tufts,13,10,0,23
+2022,718,Tulane,14,15,0,29
+2022,719,Tulsa,11,20,0,31
+2022,12830,Tusculum,19,8,0,27
+2022,720,Tuskegee,15,14,0,29
+2022,1255,U New England,7,20,0,27
+2022,9,UAB,27,7,0,34
+2022,108,UC Davis,13,11,0,24
+2022,109,UC Irvine,15,10,0,25
+2022,111,UC Riverside,17,12,0,29
+2022,112,UC San Diego,13,16,0,29
+2022,104,UC Santa Barbara,17,11,0,28
+2022,113,UC Santa Cruz,6,18,0,24
+2022,9754,UC-Colo. Springs,21,9,0,30
+2022,128,UCF,18,12,0,30
+2022,110,UCLA,25,7,0,32
+2022,164,UConn,23,9,0,32
+2022,302,UIC,14,16,0,30
+2022,309,UIndy,19,12,0,31
+2022,401,UMass Boston,11,14,0,25
+2022,656,UMass Dartmouth,26,5,0,31
+2022,368,UMass Lowell,15,16,0,31
+2022,391,UMBC,18,14,0,32
+2022,393,UMES,11,15,0,26
+2022,2707,Kansas City,19,12,0,31
+2022,456,UNC Asheville,16,14,0,30
+2022,459,UNC Greensboro,17,14,0,31
+2022,537,UNC Pembroke,27,4,0,31
+2022,460,UNCW,23,9,0,32
+2022,504,UNI,19,11,0,30
+2022,727,Union (NY),11,13,0,24
+2022,30153,Union (TN),24,9,0,33
+2022,465,UNLV,18,14,0,32
+2022,728,Upper Iowa,26,6,0,32
+2022,730,Ursinus,13,13,0,26
+2022,10411,USC Upstate,14,16,0,30
+2022,28594,USciences,4,20,0,24
+2022,702,UT Arlington,11,18,0,29
+2022,695,UT Martin,8,22,0,30
+2022,732,Utah,11,20,0,31
+2022,731,Utah St.,18,15,0,33
+2022,30024,Utah Valley,21,13,0,34
+2022,704,UTEP,19,13,0,32
+2022,733,Utica,23,4,0,27
+2022,536,UTRGV,8,25,0,33
+2022,706,UTSA,10,22,0,32
+2022,30181,UVA Wise,4,24,0,28
+2022,745,Va. Wesleyan,18,10,0,28
+2022,734,Valdosta St.,11,16,0,27
+2022,30166,Valley Forge,5,16,0,21
+2022,735,Valparaiso,14,18,0,32
+2022,736,Vanderbilt,17,16,0,33
+2022,737,Vassar,18,10,0,28
+2022,740,VCU,21,9,0,30
+2022,738,Vermont,28,5,0,33
+2022,739,Villanova,26,7,0,33
+2022,746,Virginia,19,13,0,32
+2022,743,Virginia St.,10,16,0,26
+2022,742,Virginia Tech,23,12,0,35
+2022,744,Virginia Union,23,7,0,30
+2022,741,VMI,16,15,0,31
+2022,747,Wabash,28,3,0,31
+2022,748,Wagner,21,6,0,27
+2022,749,Wake Forest,23,9,0,32
+2022,30141,Walsh,26,8,0,34
+2022,750,Wartburg,16,10,0,26
+2022,751,Wash. & Jeff.,24,5,0,29
+2022,752,Wash. & Lee,12,11,0,23
+2022,2814,Washburn,22,11,0,33
+2022,756,Washington,17,15,0,32
+2022,753,Washington Col.,5,22,0,27
+2022,754,Washington St.,19,14,0,33
+2022,755,WashU,19,8,0,27
+2022,757,Wayne St. (MI),5,18,0,23
+2022,1433,Wayne St. (NE),14,12,0,26
+2022,1434,Waynesburg,14,15,0,29
+2022,758,Weber St.,21,12,0,33
+2022,759,Webster,10,19,0,29
+2022,761,Wells,17,10,0,27
+2022,762,Wentworth,10,16,0,26
+2022,764,Wesleyan (CT),25,4,0,29
+2022,358,West Ala.,24,7,0,31
+2022,765,West Chester,17,12,0,29
+2022,11740,West Florida,18,12,0,30
+2022,766,West Ga.,15,13,0,28
+2022,1438,West Liberty,29,3,0,32
+2022,767,West Tex. A&M,28,7,0,35
+2022,9630,West Va. Wesleyan,2,26,0,28
+2022,768,West Virginia,16,17,0,33
+2022,1439,West Virginia St.,24,8,0,32
+2022,769,Western Caro.,11,21,0,32
+2022,770,Western Conn. St.,13,12,0,25
+2022,771,Western Ill.,16,15,0,31
+2022,772,Western Ky.,19,13,0,32
+2022,774,Western Mich.,8,23,0,31
+2022,1445,Western N.M.,11,16,0,27
+2022,775,Western New Eng.,13,15,0,28
+2022,1446,Western Ore.,9,18,0,27
+2022,2759,Western Colo.,5,24,0,29
+2022,1448,Western Wash.,14,14,0,28
+2022,777,Westfield St.,22,5,0,27
+2022,1450,Westminster (MO),10,17,0,27
+2022,1451,Westminster (PA),17,9,0,26
+2022,30209,Westminster (UT),12,17,0,29
+2022,778,Wheaton (IL),22,7,0,29
+2022,779,Wheaton (MA),8,17,0,25
+2022,12799,Wheeling,10,21,0,31
+2022,780,Whitman,12,14,0,26
+2022,781,Whittier,9,15,0,24
+2022,1454,Whitworth,22,5,0,27
+2022,782,Wichita St.,15,13,0,28
+2022,783,Widener,13,14,0,27
+2022,784,Wilkes,8,17,0,25
+2022,785,Willamette,6,19,0,25
+2022,786,William & Mary,5,27,0,32
+2022,30120,William Jewell,15,15,0,30
+2022,17094,William Peace,5,20,0,25
+2022,789,Williams,19,5,0,24
+2022,1460,Wilmington (DE),11,18,0,29
+2022,1461,Wilmington (OH),6,19,0,25
+2022,12973,Wilson,18,8,0,26
+2022,1462,Wingate,21,8,0,29
+2022,790,Winona St.,15,11,0,26
+2022,791,Winston-Salem,18,7,0,25
+2022,792,Winthrop,23,9,0,32
+2022,8911,Wis. Lutheran,16,9,0,25
+2022,793,Wis.-Eau Claire,11,15,0,26
+2022,795,Wis.-La Crosse,21,7,0,28
+2022,798,Wis.-Oshkosh,23,4,0,27
+2022,799,Wis.-Parkside,14,14,0,28
+2022,800,Wis.-Platteville,22,6,0,28
+2022,801,UW-River Falls,14,10,0,24
+2022,802,Wis.-Stevens Point,4,17,0,21
+2022,803,Wis.-Stout,16,9,0,25
+2022,804,Wis.-Superior,10,17,0,27
+2022,805,Wis.-Whitewater,15,11,0,26
+2022,796,Wisconsin,24,7,0,31
+2022,806,Wittenberg,13,12,0,25
+2022,787,Wm. Paterson,15,13,0,28
+2022,2915,Wofford,19,13,0,32
+2022,807,Wooster,19,9,0,28
+2022,809,Worcester St.,16,12,0,28
+2022,808,WPI,27,4,0,31
+2022,810,Wright St.,21,13,0,34
+2022,811,Wyoming,25,8,0,33
+2022,812,Xavier,18,13,0,31
+2022,813,Yale,19,11,0,30
+2022,814,Yeshiva,25,4,0,29
+2022,2730,York (NY),13,11,0,24
+2022,815,York (PA),7,15,0,22
+2022,30154,Young Harris,6,21,0,27
+2022,817,Youngstown St.,18,14,0,32

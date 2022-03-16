@@ -16,15 +16,15 @@ create table ncaa.schools_divisions (
 
 copy ncaa.schools_divisions from '/tmp/ncaa_divisions.csv' with delimiter as ',' csv quote as '"';
 
--- Temporary fix for 2021
+-- Temporary fix for 2022
 
 insert into ncaa.schools_divisions
 (sport_code,school_name,school_id,pulled_name,javascript,year,div_id,school_year,sport,division)
 (
-select sport_code,school_name,school_id,pulled_name,javascript,2021,div_id,school_year,sport,division
+select sport_code,school_name,school_id,pulled_name,javascript,2022,div_id,school_year,sport,division
 from ncaa.schools_divisions
-where year=2020
-and (school_id,2021) not in
+where year=2021
+and (school_id,2022) not in
 (select school_id,year from ncaa.schools_divisions)
 );
 
