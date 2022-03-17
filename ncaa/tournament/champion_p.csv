@@ -1,13 +1,69 @@
 school_name,p
-Houston,0.2825
-Gonzaga,0.2417
-Baylor,0.2006
-Michigan,0.0959
-Alabama,0.0639
-Arkansas,0.0423
-Southern California,0.0345
-Florida St.,0.0146
-Creighton,0.0122
-Oregon,0.0066
-UCLA,0.0036
-Oregon St.,0.0017
+1 Gonzaga,0.1988
+5 Houston,0.0936
+1 Baylor,0.0864
+1 Kansas,0.0783
+1 Arizona,0.0747
+3 Tennessee,0.0632
+2 Kentucky,0.0562
+3 Texas Tech,0.0529
+2 Auburn,0.0513
+2 Villanova,0.0385
+4 UCLA,0.0321
+2 Duke,0.0283
+5 Iowa,0.0238
+6 LSU,0.0204
+6 Texas,0.0202
+3 Purdue,0.0197
+5 UConn,0.0096
+4 Illinois,0.0077
+4 Arkansas,0.0059
+10 Loyola Chicago,0.0042
+5 Saint Mary's,0.0037
+8 San Diego St.,0.0032
+3 Wisconsin,0.0030
+6 Alabama,0.0029
+11 Virginia Tech,0.0023
+10 San Francisco,0.0020
+7 Michigan St.,0.0014
+9 Memphis,0.0014
+7 Ohio St.,0.0013
+11 Michigan,0.0012
+7 USC,0.0012
+8 North Carolina,0.0012
+8 Seton Hall,0.0011
+4 Providence,0.0009
+8 Boise St.,0.0009
+7 Murray St.,0.0009
+12 Indiana,0.0009
+9 TCU,0.0008
+11 Iowa St.,0.0007
+6 Colorado St.,0.0006
+10 Davidson,0.0005
+9 Marquette,0.0004
+10 Miami (FL),0.0003
+9 Creighton,0.0003
+13 Vermont,0.0003
+12 UAB,0.0003
+11 Notre Dame,0.0002
+13 Chattanooga,0.0001
+12 New Mexico St.,0.0001
+13 South Dakota St.,0.0001
+12 Wyoming,0.0001
+12 Richmond,0.0001
+14 Montana St.,0.0000
+11 Rutgers,0.0000
+14 Colgate,0.0000
+15 Cal St. Fullerton,0.0000
+14 Yale,0.0000
+16 Bryant,0.0000
+14 Longwood,0.0000
+16 Texas A&M-CC,0.0000
+16 Wright St.,0.0000
+16 Norfolk St.,0.0000
+16 Texas Southern,0.0000
+16 Georgia St.,0.0000
+15 Saint Peter's,0.0000
+15 Delaware,0.0000
+13 Akron,0.0000
+15 Jacksonville St.,0.0000

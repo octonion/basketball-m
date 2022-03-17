@@ -1,0 +1,107 @@
+West
+
+1 Gonzaga
+16 Georgia St.
+
+8 Boise St.
+9 Memphis
+
+5 UConn
+12 New Mexico St.
+
+4 Arkansas
+13 Vermont
+
+6 Alabama
+11 Rutgers
+11 Notre Dame
+
+3 Texas Tech
+14 Montana St.
+
+7 Michigan St.
+10 Davidson
+
+2 Duke
+15 Cal St. Fullerton
+
+East
+
+1 Baylor
+16 Norfolk St.
+
+8 North Carolina
+9 Marquette
+
+5 Saint Mary's
+12 Wyoming
+12 Indiana
+
+4 UCLA
+13 Akron
+
+6 Texas
+11 Virginia Tech
+
+3 Purdue
+14 Yale
+
+7 Murray St.
+10 San Francisco
+
+2 Kentucky
+15 Saint Peter's
+
+South
+
+1 Arizona
+16 Wright St.
+16 Bryant
+
+8 Seton Hall
+9 TCU
+
+5 Houston
+12 UAB
+
+4 Illinois
+13 Chattanooga
+
+6 Colorado St.
+11 Michigan
+
+3 Tennessee
+14 Longwood
+
+7 Ohio St.
+10 Loyola Chicago
+
+2 Villanova
+15 Delaware
+
+Midwest
+
+1 Kansas
+16 Texas Southern
+16 Texas A&M-CC
+
+8 San Diego St.
+9 Creighton
+
+5 Iowa
+12 Richmond
+
+4 Providence
+13 South Dakota St.
+
+6 LSU
+11 Iowa St.
+
+3 Wisconsin
+14 Colgate
+
+7 USC
+10 Miami (FL)
+
+2 Auburn
+15 Jacksonville St.

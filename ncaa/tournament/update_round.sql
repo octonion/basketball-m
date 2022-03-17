@@ -27,7 +27,7 @@ join ncaa._schedule_factors sf1
 left join ncaa._schedule_factors sf2
   on (sf2.year,sf2.school_id)=(r2.year,r2.school_id)
 where
-    r1.year=2021
+    r1.year=2022
 and r1.round_id=1
 group by r1.year,round,r1.school_id,r1.school_name,r1.bracket
 );
