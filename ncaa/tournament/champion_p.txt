@@ -1,75 +1,71 @@
 BEGIN
      school_name      |   p    
 ----------------------+--------
- 1 Gonzaga            | 0.1988
- 5 Houston            | 0.0936
- 1 Baylor             | 0.0864
- 1 Kansas             | 0.0783
- 1 Arizona            | 0.0747
- 3 Tennessee          | 0.0632
- 2 Kentucky           | 0.0562
- 3 Texas Tech         | 0.0529
- 2 Auburn             | 0.0513
+ 1 Gonzaga            | 0.1990
+ 5 Houston            | 0.0937
+ 1 Baylor             | 0.0863
+ 1 Kansas             | 0.0778
+ 1 Arizona            | 0.0746
+ 3 Tennessee          | 0.0633
+ 2 Kentucky           | 0.0563
+ 3 Texas Tech         | 0.0528
+ 2 Auburn             | 0.0514
  2 Villanova          | 0.0385
- 4 UCLA               | 0.0321
+ 4 UCLA               | 0.0316
  2 Duke               | 0.0283
- 5 Iowa               | 0.0238
+ 5 Iowa               | 0.0239
  6 LSU                | 0.0204
- 6 Texas              | 0.0202
+ 6 Texas              | 0.0203
  3 Purdue             | 0.0197
  5 UConn              | 0.0096
  4 Illinois           | 0.0077
  4 Arkansas           | 0.0059
  10 Loyola Chicago    | 0.0042
- 5 Saint Mary's       | 0.0037
- 8 San Diego St.      | 0.0032
+ 5 Saint Mary's       | 0.0035
+ 8 San Diego St.      | 0.0033
  3 Wisconsin          | 0.0030
- 6 Alabama            | 0.0029
+ 6 Alabama            | 0.0028
  11 Virginia Tech     | 0.0023
  10 San Francisco     | 0.0020
- 7 Michigan St.       | 0.0014
  9 Memphis            | 0.0014
+ 12 Indiana           | 0.0014
+ 7 Michigan St.       | 0.0014
+ 7 USC                | 0.0013
  7 Ohio St.           | 0.0013
  11 Michigan          | 0.0012
- 7 USC                | 0.0012
  8 North Carolina     | 0.0012
  8 Seton Hall         | 0.0011
- 4 Providence         | 0.0009
  8 Boise St.          | 0.0009
  7 Murray St.         | 0.0009
- 12 Indiana           | 0.0009
+ 4 Providence         | 0.0009
  9 TCU                | 0.0008
  11 Iowa St.          | 0.0007
  6 Colorado St.       | 0.0006
  10 Davidson          | 0.0005
  9 Marquette          | 0.0004
- 10 Miami (FL)        | 0.0003
- 9 Creighton          | 0.0003
+ 11 Notre Dame        | 0.0003
  13 Vermont           | 0.0003
+ 9 Creighton          | 0.0003
  12 UAB               | 0.0003
- 11 Notre Dame        | 0.0002
- 13 Chattanooga       | 0.0001
- 12 New Mexico St.    | 0.0001
+ 10 Miami (FL)        | 0.0003
  13 South Dakota St.  | 0.0001
- 12 Wyoming           | 0.0001
  12 Richmond          | 0.0001
- 14 Montana St.       | 0.0000
- 11 Rutgers           | 0.0000
- 14 Colgate           | 0.0000
- 15 Cal St. Fullerton | 0.0000
+ 12 New Mexico St.    | 0.0001
+ 13 Chattanooga       | 0.0001
  14 Yale              | 0.0000
- 16 Bryant            | 0.0000
- 14 Longwood          | 0.0000
- 16 Texas A&M-CC      | 0.0000
- 16 Wright St.        | 0.0000
- 16 Norfolk St.       | 0.0000
- 16 Texas Southern    | 0.0000
- 16 Georgia St.       | 0.0000
- 15 Saint Peter's     | 0.0000
+ 15 Cal St. Fullerton | 0.0000
+ 14 Colgate           | 0.0000
  15 Delaware          | 0.0000
- 13 Akron             | 0.0000
+ 16 Georgia St.       | 0.0000
  15 Jacksonville St.  | 0.0000
-(68 rows)
+ 14 Longwood          | 0.0000
+ 14 Montana St.       | 0.0000
+ 16 Norfolk St.       | 0.0000
+ 15 Saint Peter's     | 0.0000
+ 16 Texas Southern    | 0.0000
+ 16 Wright St.        | 0.0000
+ 13 Akron             | 0.0000
+(64 rows)
 
-COPY 68
+COPY 64
 COMMIT

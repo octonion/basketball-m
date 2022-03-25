@@ -128,7 +128,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2022,107,California,12,20,0,32
 2022,106,Cal U (PA),23,9,0,32
 2022,30135,California Baptist,18,15,0,33
-2022,30135,California Baptist,18,15,0,33
 2022,89,Caltech,12,15,0,27
 2022,114,Calvin,24,9,0,33
 2022,996,Cameron,5,18,0,23
@@ -145,7 +144,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2022,124,Catholic,17,7,0,24
 2022,23624,Cazenovia,7,18,0,25
 2022,480,CCNY,7,17,0,24
-2022,30124,Cedarville,19,13,0,32
 2022,30124,Cedarville,19,13,0,32
 2022,125,Centenary (LA),13,15,0,28
 2022,12884,Centenary (NJ),11,13,0,24
@@ -390,7 +388,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2022,286,Hope,22,8,0,30
 2022,30160,Houghton,4,21,0,25
 2022,288,Houston,29,5,0,34
-2022,287,Houston Baptist,11,18,0,29
 2022,287,Houston Baptist,11,18,0,29
 2022,290,Howard,16,13,0,29
 2022,2741,Howard Payne,7,20,0,27

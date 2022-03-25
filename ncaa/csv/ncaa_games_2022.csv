@@ -3620,39 +3620,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2022,California Baptist,30135,Lamar University,346,03/05/2022,78,66,Away,,-,"2,345"
 2022,California Baptist,30135,UTRGV,536,03/08/2022,81,80,Neutral,"Las Vegas, NV",-,307
 2022,California Baptist,30135,Sam Houston St.,624,03/09/2022,35,65,Neutral,"Las Vegas, NV",-,0
-2022,California Baptist,30135,San Fran. St.,628,11/09/2021,87,65,Home,,-,"4,308"
-2022,California Baptist,30135,Mississippi Val.,432,11/13/2021,95,66,Home,,-,"4,957"
-2022,California Baptist,30135,Jackson St.,314,11/16/2021,77,64,Home,,-,"2,631"
-2022,California Baptist,30135,San Jose St.,630,11/18/2021,67,66,Home,,-,"3,004"
-2022,California Baptist,30135,Northern Colo.,502,11/21/2021,74,70,Home,,-,"2,229"
-2022,California Baptist,30135,Texas,703,11/24/2021,44,68,Away,,-,"10,878"
-2022,California Baptist,30135,San Diego Christian,,11/27/2021,85,38,Home,,-,"2,248"
-2022,California Baptist,30135,Cal Poly,90,12/02/2021,64,55,Home,,-,"3,401"
-2022,California Baptist,30135,North Dakota,494,12/07/2021,89,71,Home,,-,"2,606"
-2022,California Baptist,30135,UC Riverside,111,12/12/2021,54,70,Away,,-,884
-2022,California Baptist,30135,Arizona,29,12/18/2021,60,84,Away,,-,"14,263"
-2022,California Baptist,30135,Southeast Mo. St.,654,12/21/2021,84,68,Home,,-,"2,220"
-2022,California Baptist,30135,La Verne,341,12/28/2021,96,41,Home,,-,"1,892"
-2022,California Baptist,30135,Chicago St.,136,01/08/2022,56,58,Away,,-,102
-2022,California Baptist,30135,Dixie St.,30095,01/12/2022,76,79,Home,,-,"2,014"
-2022,California Baptist,30135,Utah Valley,30024,01/15/2022,75,73,Home,,-,"2,305"
-2022,California Baptist,30135,Seattle U,1356,01/17/2022,85,92,Home,,1 OT,"2,531"
-2022,California Baptist,30135,Tarleton St.,1395,01/20/2022,88,84,Away,,-,"1,899"
-2022,California Baptist,30135,Abilene Christian,2,01/22/2022,68,77,Away,,-,726
-2022,California Baptist,30135,Sam Houston St.,624,01/26/2022,68,73,Home,,-,"3,005"
-2022,California Baptist,30135,SFA,676,01/29/2022,77,81,Home,,-,"4,311"
-2022,California Baptist,30135,New Mexico St.,472,02/03/2022,57,68,Away,,-,"4,431"
-2022,California Baptist,30135,Grand Canyon,1104,02/05/2022,50,56,Away,,-,"7,107"
-2022,California Baptist,30135,Lamar University,346,02/10/2022,83,61,Home,,-,"2,436"
-2022,California Baptist,30135,UTRGV,536,02/12/2022,80,72,Home,,-,"4,651"
-2022,California Baptist,30135,Grand Canyon,1104,02/16/2022,60,65,Home,,-,"5,050"
-2022,California Baptist,30135,Seattle U,1356,02/19/2022,64,67,Away,,-,"1,670"
-2022,California Baptist,30135,Dixie St.,30095,02/24/2022,71,61,Away,,-,"1,269"
-2022,California Baptist,30135,Utah Valley,30024,02/26/2022,54,63,Away,,-,"2,187"
-2022,California Baptist,30135,Chicago St.,136,03/02/2022,62,53,Home,,-,"3,565"
-2022,California Baptist,30135,Lamar University,346,03/05/2022,78,66,Away,,-,"2,345"
-2022,California Baptist,30135,UTRGV,536,03/08/2022,81,80,Neutral,"Las Vegas, NV",-,307
-2022,California Baptist,30135,Sam Houston St.,624,03/09/2022,35,65,Neutral,"Las Vegas, NV",-,0
 2022,Caltech,89,Occidental,516,11/09/2021,63,61,Home,,-,0
 2022,Caltech,89,Oglethorpe,2713,11/11/2021,65,81,Home,,-,50
 2022,Caltech,89,Cal Lutheran,105,11/18/2021,64,92,Home,,-,79
@@ -4077,38 +4044,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2022,CCNY,480,Brooklyn,79,02/11/2022,62,51,Home,,-,70
 2022,CCNY,480,Hunter,292,02/15/2022,96,98,Home,,-,75
 2022,CCNY,480,York (NY),2730,02/20/2022,68,76,Away,,-,78
-2022,Cedarville,30124,Truman,499,11/12/2021,80,87,Neutral,"Quincy, IL",-,55
-2022,Cedarville,30124,Quincy,561,11/13/2021,77,88,Away,,-,338
-2022,Cedarville,30124,UIndy,309,11/18/2021,73,64,Away,,-,285
-2022,Cedarville,30124,Grand Valley St.,262,11/20/2021,71,80,Away,,-,"1,012"
-2022,Cedarville,30124,Southern Ind.,661,11/22/2021,101,88,Home,,-,812
-2022,Cedarville,30124,Tiffin,1403,12/02/2021,87,76,Away,,-,345
-2022,Cedarville,30124,Ashland,35,12/04/2021,74,71,Home,,-,810
-2022,Cedarville,30124,Findlay,1079,12/09/2021,68,66,Away,,-,713
-2022,Cedarville,30124,Hillsdale,280,12/11/2021,57,58,Home,,-,405
-2022,Cedarville,30124,Saint Leo,608,12/18/2021,96,93,Neutral,"Lakeland, FL",1 OT,123
-2022,Cedarville,30124,Fla. Southern,233,12/19/2021,82,73,Away,,-,185
-2022,Cedarville,30124,Trevecca Nazarene,30002,01/01/2022,54,60,Away,,-,398
-2022,Cedarville,30124,Ky. Wesleyan,333,01/03/2022,72,65,Away,,-,606
-2022,Cedarville,30124,Walsh,30141,01/13/2022,76,73,Home,,-,"1,220"
-2022,Cedarville,30124,Malone,30137,01/15/2022,70,74,Home,,-,795
-2022,Cedarville,30124,Tiffin,1403,01/20/2022,81,77,Home,,-,835
-2022,Cedarville,30124,Ashland,35,01/22/2022,60,77,Away,,-,574
-2022,Cedarville,30124,Hillsdale,280,01/29/2022,71,85,Away,,-,837
-2022,Cedarville,30124,Findlay,1079,01/31/2022,89,57,Home,,-,560
-2022,Cedarville,30124,Ky. Wesleyan,333,02/03/2022,83,51,Home,,-,911
-2022,Cedarville,30124,Trevecca Nazarene,30002,02/05/2022,91,68,Home,,-,875
-2022,Cedarville,30124,Lake Erie,2746,02/07/2022,83,86,Home,,-,540
-2022,Cedarville,30124,Lake Erie,2746,02/09/2022,81,84,Away,,-,74
-2022,Cedarville,30124,Wilberforce,,02/12/2022,83,62,Home,,-,754
-2022,Cedarville,30124,Ohio Dominican,30119,02/16/2022,80,64,Away,,-,241
-2022,Cedarville,30124,Ohio Dominican,30119,02/19/2022,70,64,Home,,-,"1,505"
-2022,Cedarville,30124,Malone,30137,02/24/2022,74,66,Away,,-,267
-2022,Cedarville,30124,Walsh,30141,02/26/2022,60,72,Away,,-,643
-2022,Cedarville,30124,Ashland,35,03/01/2022,70,55,Away,,-,422
-2022,Cedarville,30124,Hillsdale,280,03/04/2022,68,66,Neutral,"North Canton, OH",-,295
-2022,Cedarville,30124,Walsh,30141,03/05/2022,62,76,Away,,-,513
-2022,Cedarville,30124,Hillsdale,280,03/11/2022,61,68,Neutral,"North Canton, OH",-,172
 2022,Cedarville,30124,Truman,499,11/12/2021,80,87,Neutral,"Quincy, IL",-,55
 2022,Cedarville,30124,Quincy,561,11/13/2021,77,88,Away,,-,338
 2022,Cedarville,30124,UIndy,309,11/18/2021,73,64,Away,,-,285
@@ -11016,35 +10951,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2022,Houston Baptist,287,McNeese,402,03/05/2022,149,144,Home,,4 OT,792
 2022,Houston Baptist,287,Incarnate Word,2743,03/09/2022,74,64,Neutral,"Katy, TX",-,0
 2022,Houston Baptist,287,A&M-Corpus Christi,26172,03/10/2022,60,75,Neutral,"Katy, TX",-,0
-2022,Houston Baptist,287,Texas,703,11/09/2021,48,92,Away,,-,"14,683"
-2022,Houston Baptist,287,Barclay,,11/13/2021,122,44,Home,,-,490
-2022,Houston Baptist,287,Texas A&M,697,11/17/2021,39,73,Away,,-,"4,409"
-2022,Houston Baptist,287,Denver,183,11/21/2021,61,74,Away,,-,550
-2022,Houston Baptist,287,Oklahoma,522,11/24/2021,40,57,Away,,-,"5,828"
-2022,Houston Baptist,287,S'western Adventist,,11/29/2021,100,62,Home,,-,523
-2022,Houston Baptist,287,Oral Roberts,527,12/04/2021,67,85,Home,,-,"1,000"
-2022,Houston Baptist,287,Champion Chris.,,12/07/2021,84,67,Home,,-,376
-2022,Houston Baptist,287,Rice,574,12/11/2021,73,88,Home,,-,703
-2022,Houston Baptist,287,Ecclesia,,01/03/2022,94,63,Home,,-,201
-2022,Houston Baptist,287,Southeastern La.,655,01/06/2022,81,90,Neutral,"Katy, TX",-,0
-2022,Houston Baptist,287,New Orleans,474,01/07/2022,65,81,Neutral,"Katy, TX",-,0
-2022,Houston Baptist,287,Incarnate Word,2743,01/08/2022,50,60,Neutral,"Katy, TX",-,101
-2022,Houston Baptist,287,McNeese,402,01/15/2022,75,78,Away,,-,"2,405"
-2022,Houston Baptist,287,Incarnate Word,2743,01/20/2022,68,65,Away,,-,181
-2022,Houston Baptist,287,A&M-Corpus Christi,26172,01/22/2022,77,71,Away,,-,"1,343"
-2022,Houston Baptist,287,New Orleans,474,01/27/2022,66,77,Home,,-,742
-2022,Houston Baptist,287,Nicholls St.,483,01/29/2022,61,73,Home,,-,901
-2022,Houston Baptist,287,Northwestern St.,508,02/03/2022,87,97,Home,,-,462
-2022,Houston Baptist,287,Southeastern La.,655,02/05/2022,93,80,Home,,-,721
-2022,Houston Baptist,287,Northwestern St.,508,02/10/2022,76,69,Away,,-,"1,202"
-2022,Houston Baptist,287,Southeastern La.,655,02/12/2022,84,89,Away,,-,558
-2022,Houston Baptist,287,Nicholls St.,483,02/19/2022,70,84,Away,,-,487
-2022,Houston Baptist,287,Incarnate Word,2743,02/24/2022,82,68,Home,,-,594
-2022,Houston Baptist,287,A&M-Corpus Christi,26172,02/26/2022,70,75,Home,,-,694
-2022,Houston Baptist,287,New Orleans,474,03/02/2022,74,75,Away,,-,"1,002"
-2022,Houston Baptist,287,McNeese,402,03/05/2022,149,144,Home,,4 OT,792
-2022,Houston Baptist,287,Incarnate Word,2743,03/09/2022,74,64,Neutral,"Katy, TX",-,0
-2022,Houston Baptist,287,A&M-Corpus Christi,26172,03/10/2022,60,75,Neutral,"Katy, TX",-,0
 2022,Howard,290,Dist. Columbia,186,11/09/2021,87,59,Home,,-,"1,514"
 2022,Howard,290,Regent,,11/10/2021,118,54,Home,,-,"1,511"
 2022,Howard,290,Bradley,72,11/13/2021,76,64,Away,,-,"3,814"
@@ -11626,7 +11532,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2022,Iona,310,Canisius,116,02/25/2022,72,65,Home,,-,"2,207"
 2022,Iona,310,Rider,576,02/27/2022,67,61,Away,,-,"1,650"
 2022,Iona,310,Manhattan,381,03/03/2022,72,74,Away,,-,"1,910"
-2022,Iona,310,Quinnipiac,562,03/01/2021,79,61,Home,,-,"2,594"
+2022,Iona,310,Quinnipiac,562,03/05/2022,79,61,Home,,-,"2,594"
 2022,Iona,310,Rider,576,03/09/2022,70,71,Neutral,"Atlantic City, NJ",-,622
 2022,Iowa,312,Longwood,363,11/09/2021,106,73,Home,,-,"9,259"
 2022,Iowa,312,UMKC,2707,11/12/2021,89,57,Home,,-,"11,133"
@@ -20138,7 +20044,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2022,Pomona-Pitzer,549,Chapman,134,02/27/2022,76,71,Home,,-,267
 2022,Pomona-Pitzer,549,Northwestern-St.Paul,30031,03/04/2022,67,66,Neutral,"Elmhurst, IL",-,225
 2022,Pomona-Pitzer,549,Elmhurst,212,03/05/2022,70,76,Away,,-,"1,068"
-2022,Portland,551,Arizona St.,28,11/10/2021,60,76,Away,,-,"7,343"
+2022,Portland,551,Arizona St.,28,11/09/2021,60,76,Away,,-,"7,343"
 2022,Portland,551,Willamette,785,11/11/2021,122,78,Home,,-,"1,056"
 2022,Portland,551,Alcorn,17,11/13/2021,62,58,Home,,-,"1,092"
 2022,Portland,551,Ark.-Pine Bluff,2678,11/18/2021,86,74,Home,,-,"1,018"
@@ -20163,13 +20069,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2022,Portland,551,San Francisco,629,02/05/2022,71,74,Home,,-,"1,206"
 2022,Portland,551,San Francisco,629,02/08/2022,69,68,Away,,-,"1,827"
 2022,Portland,551,LMU (CA),370,02/12/2022,86,76,Home,,-,"1,568"
-2022,Portland,551,Northwest Chrst.,,02/19/2022,84,39,Home,,-,668
+2022,Portland,551,Northwest Chrst.,,02/15/2022,84,39,Home,,-,668
 2022,Portland,551,San Diego,627,02/17/2022,92,60,Home,,-,"1,188"
 2022,Portland,551,Pepperdine,541,02/19/2022,77,74,Home,,-,"2,409"
 2022,Portland,551,Pacific,534,02/24/2022,75,69,Away,,-,"1,093"
 2022,Portland,551,Santa Clara,631,02/26/2022,89,102,Away,,-,"2,113"
 2022,Portland,551,San Diego,627,03/04/2022,73,55,Neutral,"Las Vegas, NV",-,0
-2022,Portland,551,Santa Clara,631,03/24/2022,67,91,Neutral,"Las Vegas, NV",-,"4,561"
+2022,Portland,551,Santa Clara,631,03/05/2022,67,91,Neutral,"Las Vegas, NV",-,"4,561"
 2022,Portland St.,550,Oregon St.,528,11/09/2021,64,73,Away,,-,"4,448"
 2022,Portland St.,550,Evergreen St.,,11/12/2021,100,44,Home,,-,663
 2022,Portland St.,550,George Fox,1094,11/17/2021,104,58,Home,,-,774
