@@ -7,7 +7,7 @@ psql basketball-m -c "drop table ncaa._basic_factors;"
 
 psql basketball-m -c "vacuum analyze ncaa.results;"
 
-R --vanilla < sos/lmer.R
+Rscript sos/lmer.R
 
 psql basketball-m -c "vacuum analyze ncaa._parameter_levels;"
 psql basketball-m -c "vacuum analyze ncaa._basic_factors;"

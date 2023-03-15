@@ -66,7 +66,7 @@ r.game_date,
 r.year,
 r.field
 from ncaa.results r
-where r.year between 2002 and 2022
+where r.year between 2002 and 2023
 );
 
 update r

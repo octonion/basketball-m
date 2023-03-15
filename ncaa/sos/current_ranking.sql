@@ -38,7 +38,7 @@ join ncaa._factors o
   on (o.parameter,o.level::integer)=('o_div',sd.div_id)
 join ncaa._factors d
   on (d.parameter,d.level::integer)=('d_div',sd.div_id)
-where sf.year in (2022)
+where sf.year in (2023)
 order by (sf.strength*o.exp_factor/d.exp_factor) desc);
 
 select
